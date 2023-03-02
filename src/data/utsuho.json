@@ -1,0 +1,1160 @@
+[
+  {
+    "char": "Utsuho",
+    "name": "4A",
+    "type": "normal",
+    "img": "./images/Utsuho/175px-Utsuho4A.png",
+    "data": [
+      {
+        "Damage": "750",
+        "Limit": "0%",
+        "Rate": "90%",
+        "Modifier": "None",
+        "Cancel": "Cn B C Sk Sp",
+        "Guard": "HA",
+        "Startup": "7F",
+        "Active": "6F",
+        "Total": "32F",
+        "Frame Adv.": "-4/+2"
+      }
+    ]
+  },
+  {
+    "char": "Utsuho",
+    "name": "5A",
+    "type": "normal",
+    "img": "./images/Utsuho/175px-Utsuho4A.png",
+    "data": [
+      {
+        "Damage": "750",
+        "Limit": "0%",
+        "Rate": "90%",
+        "Modifier": "None",
+        "Cancel": "D Cn B C Sk Sp",
+        "Guard": "HA",
+        "Startup": "7F",
+        "Active": "6F",
+        "Total": "32F",
+        "Frame Adv.": "-4/+2"
+      }
+    ]
+  },
+  {
+    "char": "Utsuho",
+    "name": "5AA",
+    "type": "normal",
+    "img": "./images/Utsuho/175px-Utsuho5AA.png",
+    "data": [
+      {
+        "Damage": "650",
+        "Limit": "0%",
+        "Rate": "92%",
+        "Modifier": "None",
+        "Cancel": "D Cn B C Sk Sp",
+        "Guard": "H",
+        "Startup": "18F",
+        "Active": "4F",
+        "Total": "43F",
+        "Frame Adv.": "-4/+2"
+      }
+    ]
+  },
+  {
+    "char": "Utsuho",
+    "name": "5AAA",
+    "type": "normal",
+    "img": "./images/Utsuho/175px-Utsuho5AAA.png",
+    "data": [
+      {
+        "Damage": "800",
+        "Limit": "40%",
+        "Rate": "85%",
+        "Modifier": "Rift",
+        "Cancel": "D Sk Sp",
+        "Guard": "L",
+        "Startup": "13F",
+        "Active": "3F",
+        "Total": "39F",
+        "Frame Adv.": "-5/+1"
+      }
+    ]
+  },
+  {
+    "char": "Utsuho",
+    "name": "5AAAA",
+    "type": "normal",
+    "img": "./images/Utsuho/175px-Utsuho5AAAA.png",
+    "data": [
+      {
+        "Damage": "1100",
+        "Limit": "40%",
+        "Rate": "80%",
+        "Modifier": "Rift",
+        "Cancel": "Sp",
+        "Guard": "H",
+        "Startup": "17F",
+        "Active": "3F",
+        "Total": "55F",
+        "Frame Adv.": "-17/+11"
+      }
+    ]
+  },
+  {
+    "char": "Utsuho",
+    "name": "f5A",
+    "type": "normal",
+    "img": "./images/Utsuho/175px-Utsuhof5A.png",
+    "data": [
+      {
+        "Damage": "1000",
+        "Limit": "0%",
+        "Rate": "80%",
+        "Modifier": "Smash",
+        "Cancel": "Cn B C Sk Sp",
+        "Guard": "H",
+        "Startup": "18F",
+        "Active": "3F",
+        "Total": "42F",
+        "Frame Adv.": "-3/+3"
+      }
+    ]
+  },
+  {
+    "char": "Utsuho",
+    "name": "f5[A]",
+    "type": "normal",
+    "img": "./images/Utsuho/175px-Utsuhof5A.png",
+    "data": [
+      {
+        "Damage": "1250",
+        "Limit": "40%",
+        "Rate": "75%",
+        "Modifier": "Smash",
+        "Cancel": "Sp",
+        "Guard": "H",
+        "Startup": "33F",
+        "Active": "3F",
+        "Total": "57F",
+        "Frame Adv.": "+3/+25"
+      }
+    ]
+  },
+  {
+    "char": "Utsuho",
+    "name": "2A",
+    "type": "normal",
+    "img": "./images/Utsuho/175px-Utsuho2A.png",
+    "data": [
+      {
+        "Damage": "550",
+        "Limit": "0%",
+        "Rate": "94%",
+        "Modifier": "None",
+        "Cancel": "Cn B C Sk Sp",
+        "Guard": "L",
+        "Startup": "10F",
+        "Active": "3F",
+        "Total": "31F",
+        "Frame Adv.": "-6/-2"
+      }
+    ]
+  },
+  {
+    "char": "Utsuho",
+    "name": "6A",
+    "type": "normal",
+    "img": "./images/Utsuho/175px-Utsuho6A.png",
+    "data": [
+      {
+        "Damage": "1000",
+        "Limit": "40%",
+        "Rate": "85%",
+        "Modifier": "Rift",
+        "Cancel": "B C Sk Sp",
+        "Guard": "L",
+        "Startup": "13F",
+        "Active": "3F",
+        "Total": "39F",
+        "Frame Adv.": "-5/+1"
+      }
+    ]
+  },
+  {
+    "char": "Utsuho",
+    "name": "6[A]",
+    "type": "normal",
+    "img": "./images/Utsuho/175px-Utsuho6A.png",
+    "data": [
+      {
+        "Damage": "1250",
+        "Limit": "40%",
+        "Rate": "80%",
+        "Modifier": "None",
+        "Cancel": "Sp",
+        "Guard": "L",
+        "Startup": "28F",
+        "Active": "3F",
+        "Total": "54F",
+        "Frame Adv.": "+1/+23"
+      }
+    ]
+  },
+  {
+    "char": "Utsuho",
+    "name": "3A",
+    "type": "normal",
+    "img": "./images/Utsuho/175px-Utsuho3A.png",
+    "data": [
+      {
+        "Damage": "1100",
+        "Limit": "40%",
+        "Rate": "80%",
+        "Modifier": "Rift",
+        "Cancel": "B C Sk Sp",
+        "Guard": "H",
+        "Startup": "12F",
+        "Active": "6F",
+        "Total": "50F",
+        "Frame Adv.": "-17/-11"
+      }
+    ]
+  },
+  {
+    "char": "Utsuho",
+    "name": "3[A]",
+    "type": "normal",
+    "img": "./images/Utsuho/175px-Utsuho3A.png",
+    "data": [
+      {
+        "Damage": "1250",
+        "Limit": "40%",
+        "Rate": "75%",
+        "Modifier": "Rift",
+        "Cancel": "Sp",
+        "Guard": "H",
+        "Startup": "27F",
+        "Active": "6F",
+        "Total": "70F",
+        "Frame Adv.": "-16/+6"
+      }
+    ]
+  },
+  {
+    "char": "Utsuho",
+    "name": "j5A",
+    "type": "normal",
+    "img": "./images/Utsuho/175px-Utsuhoj5A.png",
+    "data": [
+      {
+        "Damage": "650",
+        "Limit": "0%",
+        "Rate": "92%",
+        "Modifier": "None",
+        "Cancel": "Cn B C Sk Sp",
+        "Guard": "HA",
+        "Startup": "11F",
+        "Active": "3F",
+        "Total": "55F",
+        "Frame Adv.": "(-25)"
+      }
+    ]
+  },
+  {
+    "char": "Utsuho",
+    "name": "j2A",
+    "type": "normal",
+    "img": "./images/Utsuho/175px-Utsuhoj2A.png",
+    "data": [
+      {
+        "Damage": "1200",
+        "Limit": "40%",
+        "Rate": "85%",
+        "Modifier": "Smash",
+        "Cancel": "B C Sk Sp",
+        "Guard": "HA",
+        "Startup": "20F",
+        "Active": "6F",
+        "Total": "62F",
+        "Frame Adv.": "(-23)"
+      }
+    ]
+  },
+  {
+    "char": "Utsuho",
+    "name": "j2[A]",
+    "type": "normal",
+    "img": "./images/Utsuho/175px-Utsuhoj2A.png",
+    "data": [
+      {
+        "Version": "Smash",
+        "Damage": "1000",
+        "Limit": "40%",
+        "Rate": "90%",
+        "Modifier": "Smash",
+        "Cancel": "Sp",
+        "Guard": "HA",
+        "Startup": "35F",
+        "Active": "6F",
+        "Total": "92F",
+        "Frame Adv.": "(-30)"
+      },
+      {
+        "Version": "Version",
+        "Damage": "Damage",
+        "Limit": "Limit",
+        "Rate": "Rate",
+        "Modifier": "Modifier",
+        "Cancel": "Cancel",
+        "Guard": "Density",
+        "Startup": "Graze",
+        "Active": "Startup",
+        "Total": "Motion",
+        "Frame Adv.": "Total",
+        "undefined": "Damage"
+      },
+      {
+        "Version": "Blast",
+        "Damage": "1200",
+        "Limit": "40%",
+        "Rate": "80%",
+        "Modifier": "Smash",
+        "Cancel": "Sp",
+        "Guard": "-",
+        "Startup": "∞",
+        "Active": "43F",
+        "Total": "None",
+        "Frame Adv.": "92F",
+        "undefined": "0.5/1"
+      }
+    ]
+  },
+  {
+    "char": "Utsuho",
+    "name": "j6A",
+    "type": "normal",
+    "img": "./images/Utsuho/175px-Utsuhoj6A.png",
+    "data": [
+      {
+        "Damage": "1100",
+        "Limit": "40%",
+        "Rate": "85%",
+        "Modifier": "Smash",
+        "Cancel": "B C Sk Sp",
+        "Guard": "HA",
+        "Startup": "17F",
+        "Active": "23F",
+        "Total": "63F",
+        "Frame Adv.": "(-27)"
+      }
+    ]
+  },
+  {
+    "char": "Utsuho",
+    "name": "j8A",
+    "type": "normal",
+    "img": "./images/Utsuho/175px-Utsuhoj8A.png",
+    "data": [
+      {
+        "Damage": "1150",
+        "Limit": "40%",
+        "Rate": "85%",
+        "Modifier": "Rift",
+        "Cancel": "B C Sk Sp",
+        "Guard": "HA",
+        "Startup": "13F",
+        "Active": "6F",
+        "Total": "46F",
+        "Frame Adv.": "(-14)"
+      }
+    ]
+  },
+  {
+    "char": "Utsuho",
+    "name": "66A",
+    "type": "normal",
+    "img": "./images/Utsuho/175px-Utsuho66A.png",
+    "data": [
+      {
+        "Damage": "850",
+        "Limit": "0%",
+        "Rate": "90%",
+        "Modifier": "None",
+        "Cancel": "Sk Sp",
+        "Guard": "H",
+        "Startup": "18F",
+        "Active": "4F",
+        "Total": "43F",
+        "Frame Adv.": "-4/+2"
+      }
+    ]
+  },
+  {
+    "char": "Utsuho",
+    "name": "66B",
+    "type": "normal",
+    "img": "./images/Utsuho/175px-Utsuho66B.png",
+    "data": [
+      {
+        "Damage": "1100",
+        "Limit": "40%",
+        "Rate": "90%",
+        "Modifier": "Smash",
+        "Cancel": "Sk Sp",
+        "Guard": "HA",
+        "Startup": "23F",
+        "Active": "3F",
+        "Total": "77F",
+        "Frame Adv.": "-33/-27"
+      }
+    ]
+  },
+  {
+    "char": "Utsuho",
+    "name": "66C",
+    "type": "normal",
+    "img": "./images/Utsuho/175px-Utsuho66C.png",
+    "data": [
+      {
+        "Version": "First hit",
+        "Damage": "700",
+        "Limit": "90%",
+        "Rate": "20%",
+        "Modifier": "Rift",
+        "Cancel": "Sp",
+        "Guard": "H",
+        "Startup": "13F",
+        "Active": "6F",
+        "Total": "85F",
+        "Frame Adv.": "-50/-44"
+      },
+      {
+        "Version": "Second hit",
+        "Damage": "1150",
+        "Limit": "20%",
+        "Rate": "85%",
+        "Modifier": "Rift",
+        "Cancel": "Sp",
+        "Guard": "HA",
+        "Startup": "32F",
+        "Active": "9F",
+        "Total": "85F",
+        "Frame Adv.": "-50/-44"
+      }
+    ]
+  },
+  {
+    "char": "Utsuho",
+    "name": "5B",
+    "type": "bullet",
+    "img": "./images/Utsuho/175px-Uts5b.png",
+    "data": [
+      {
+        "Version": "Uncharged",
+        "Damage": "0.2*5",
+        "Limit": "5%",
+        "Rate": "93%",
+        "Modifier": "None",
+        "Cancel": "C Sk Sp M",
+        "Density": "C1x5",
+        "Graze": "1Fx5",
+        "Startup": "18F",
+        "Motion": "29F",
+        "Total": "54F",
+        "Frame Adv.": "-13[+12]"
+      },
+      {
+        "Version": "Charged",
+        "Damage": "0.2*9",
+        "Limit": "5%",
+        "Rate": "93%",
+        "Modifier": "None",
+        "Cancel": "C Sk Sp M",
+        "Density": "C1x9",
+        "Graze": "1Fx9",
+        "Startup": "38F~82F",
+        "Motion": "49F~93F",
+        "Total": "74F~118F",
+        "Frame Adv.": "-5[+14]"
+      }
+    ]
+  },
+  {
+    "char": "Utsuho",
+    "name": "2B",
+    "type": "bullet",
+    "img": "./images/Utsuho/175px-Uts2b.png",
+    "data": [
+      {
+        "Version": "Uncharged",
+        "Damage": "0.2*5",
+        "Limit": "5%",
+        "Rate": "93%",
+        "Modifier": "None",
+        "Cancel": "C Sk Sp M",
+        "Density": "C1x5",
+        "Graze": "1Fx5",
+        "Startup": "17F",
+        "Motion": "27F",
+        "Total": "58F",
+        "Frame Adv.": "Height Specific"
+      },
+      {
+        "Version": "Charged",
+        "Damage": "0.2*9",
+        "Limit": "5%",
+        "Rate": "93%",
+        "Modifier": "None",
+        "Cancel": "C Sk Sp M",
+        "Density": "C1x9",
+        "Graze": "1Fx9",
+        "Startup": "31F~75F",
+        "Motion": "41F~85F",
+        "Total": "72F~116F",
+        "Frame Adv.": "Height Specific"
+      }
+    ]
+  },
+  {
+    "char": "Utsuho",
+    "name": "6B",
+    "type": "bullet",
+    "img": "./images/Utsuho/175px-Uts6b.png",
+    "data": [
+      {
+        "Damage": "0.25*n",
+        "Limit": "5%*n",
+        "Rate": "93%*n",
+        "Modifier": "None",
+        "Cancel": "C Sk Sp M",
+        "Density": "C5x1, C3x2",
+        "Graze": "15F, 1F",
+        "Startup": "25F",
+        "Motion": "34F",
+        "Total": "63F",
+        "Frame Adv.": "-22[+7]"
+      }
+    ]
+  },
+  {
+    "char": "Utsuho",
+    "name": "j5B",
+    "type": "bullet",
+    "img": "./images/Utsuho/175px-Utsj5b.png",
+    "data": [
+      {
+        "Version": "Uncharged",
+        "Damage": "0.2*5",
+        "Limit": "5%",
+        "Rate": "93%",
+        "Modifier": "None",
+        "Cancel": "C Sk Sp M",
+        "Density": "C1x5",
+        "Graze": "1Fx5",
+        "Startup": "18F",
+        "Motion": "29F",
+        "Total": "54F",
+        "Frame Adv.": "-13[+12]"
+      },
+      {
+        "Version": "Charged",
+        "Damage": "0.2*9",
+        "Limit": "5%",
+        "Rate": "93%",
+        "Modifier": "None",
+        "Cancel": "C Sk Sp M",
+        "Density": "C1x9",
+        "Graze": "1Fx9",
+        "Startup": "38F~82F",
+        "Motion": "49F~93F",
+        "Total": "74F~117F",
+        "Frame Adv.": "-5[+14]"
+      }
+    ]
+  },
+  {
+    "char": "Utsuho",
+    "name": "j2B",
+    "type": "bullet",
+    "img": "./images/Utsuho/175px-Utsj2b.png",
+    "data": [
+      {
+        "Version": "Uncharged",
+        "Damage": "0.2*9",
+        "Limit": "5%",
+        "Rate": "93%",
+        "Modifier": "None",
+        "Cancel": "C Sk Sp M",
+        "Density": "C1x5",
+        "Graze": "1Fx5",
+        "Startup": "18F",
+        "Motion": "29F",
+        "Total": "54F",
+        "Frame Adv.": "-13[+12F]"
+      },
+      {
+        "Version": "Charged",
+        "Damage": "0.2*9",
+        "Limit": "5%",
+        "Rate": "93%",
+        "Modifier": "None",
+        "Cancel": "C Sk Sp M",
+        "Density": "C1x9",
+        "Graze": "1Fx9",
+        "Startup": "38F",
+        "Motion": "49F",
+        "Total": "74F",
+        "Frame Adv.": "-5[+14F]"
+      }
+    ]
+  },
+  {
+    "char": "Utsuho",
+    "name": "j6B",
+    "type": "bullet",
+    "img": "./images/Utsuho/175px-Utsj6b.png",
+    "data": [
+      {
+        "Damage": "0.25*n",
+        "Limit": "5%*n",
+        "Rate": "93%*n",
+        "Modifier": "None",
+        "Cancel": "C Sk Sp M",
+        "Density": "C5x1, C3x2",
+        "Graze": "15F, 1F",
+        "Startup": "25F",
+        "Motion": "33F",
+        "Total": "62F",
+        "Frame Adv.": "-18[+11F]"
+      }
+    ]
+  },
+  {
+    "char": "Utsuho",
+    "name": "5C",
+    "type": "bullet",
+    "img": "./images/Utsuho/175px-Uts5c.png",
+    "data": [
+      {
+        "Version": "Uncharged",
+        "Damage": "0.25*n",
+        "Limit": "10%*n",
+        "Rate": "93%*n",
+        "Modifier": "Lift Attack",
+        "Cancel": "Sk Sp M",
+        "Density": "B6x1",
+        "Graze": "∞",
+        "Startup": "25F",
+        "Motion": "32F",
+        "Total": "70F",
+        "Frame Adv.": "-14[+24]"
+      },
+      {
+        "Version": "Charged",
+        "Damage": "0.25*n",
+        "Limit": "10%*n",
+        "Rate": "93%*n",
+        "Modifier": "Lift Attack",
+        "Cancel": "Sk Sp M",
+        "Density": "B6x1",
+        "Graze": "∞",
+        "Startup": "37F",
+        "Motion": "49F",
+        "Total": "86F",
+        "Frame Adv.": "-18[+20]"
+      }
+    ]
+  },
+  {
+    "char": "Utsuho",
+    "name": "2C",
+    "type": "bullet",
+    "img": "./images/Utsuho/175px-Uts2c.png",
+    "data": [
+      {
+        "Damage": "0.125*10",
+        "Limit": "4%*10 (40%)",
+        "Rate": "98%*10 (81.7%)",
+        "Modifier": "None",
+        "Cancel": "Sk Sp M",
+        "Density": "B10x1",
+        "Graze": "∞",
+        "Startup": "20F",
+        "Motion": "39F",
+        "Total": "83F",
+        "Frame Adv.": "-6[+29 ~ +31]"
+      }
+    ]
+  },
+  {
+    "char": "Utsuho",
+    "name": "6C",
+    "type": "bullet",
+    "img": "./images/Utsuho/175px-Uts6c.png",
+    "data": [
+      {
+        "Damage": "0.125*10",
+        "Limit": "4%*10 (40%)",
+        "Rate": "98%*10 (81.7%)",
+        "Modifier": "None",
+        "Cancel": "Sk Sp M",
+        "Density": "B10x1",
+        "Graze": "∞",
+        "Startup": "24F",
+        "Motion": "43F",
+        "Total": "93F",
+        "Frame Adv.": "-12[+29 ~ +31]"
+      }
+    ]
+  },
+  {
+    "char": "Utsuho",
+    "name": "j5C",
+    "type": "bullet",
+    "img": "./images/Utsuho/175px-Utsj5c.png",
+    "data": [
+      {
+        "Version": "Uncharged",
+        "Damage": "0.25*n",
+        "Limit": "10%*n",
+        "Rate": "93%*n",
+        "Modifier": "Lift Attack",
+        "Cancel": "Sk Sp M",
+        "Density": "B6x1",
+        "Graze": "∞",
+        "Startup": "25F",
+        "Motion": "32F",
+        "Total": "74F",
+        "Frame Adv.": "-17[+25F]"
+      },
+      {
+        "Version": "Charged",
+        "Damage": "0.25*n",
+        "Limit": "10%*n",
+        "Rate": "93%*n",
+        "Modifier": "Lift Attack",
+        "Cancel": "Sk Sp M",
+        "Density": "B6x1",
+        "Graze": "∞",
+        "Startup": "37",
+        "Motion": "48F",
+        "Total": "90F",
+        "Frame Adv.": "-21F[+21F]"
+      }
+    ]
+  },
+  {
+    "char": "Utsuho",
+    "name": "j6C",
+    "type": "bullet",
+    "img": "./images/Utsuho/175px-Utsj6c.png",
+    "data": [
+      {
+        "Damage": "0.125*10",
+        "Limit": "4%*10 (40%)",
+        "Rate": "98%*10 (81.7%)",
+        "Modifier": "None",
+        "Cancel": "Sk Sp M",
+        "Density": "B10x1",
+        "Graze": "∞",
+        "Startup": "24F",
+        "Motion": "43F",
+        "Total": "93F",
+        "Frame Adv.": "-12[+29 ~ +31]"
+      }
+    ]
+  },
+  {
+    "char": "Utsuho",
+    "name": "j2C",
+    "type": "bullet",
+    "img": "./images/Utsuho/175px-Utsj2c.png",
+    "data": [
+      {
+        "Damage": "0.125*10",
+        "Limit": "4%*10 (40%)",
+        "Rate": "98%*10 (81.7%)",
+        "Modifier": "None",
+        "Cancel": "Sk Sp M",
+        "Density": "B10x1",
+        "Graze": "∞",
+        "Startup": "24F",
+        "Motion": "43F",
+        "Total": "93F",
+        "Frame Adv.": "-12[+29 ~ +31]"
+      }
+    ]
+  },
+  {
+    "char": "Utsuho",
+    "name": "Ground Melt",
+    "type": "skill",
+    "img": "./images/Utsuho/Ut236bc1.png",
+    "data": [
+      {
+        "Version": "B",
+        "Damage": "0.375 x n",
+        "Limit": "10%",
+        "Rate": "95%",
+        "Modifier": "Smash",
+        "Cancel": "Sp M",
+        "Density": "B1xn",
+        "Graze": "∞",
+        "Startup": "36F",
+        "Motion": "53F",
+        "Total": "97F",
+        "Frame Adv.": "-20 ~ -7 [+30 ~ +38]"
+      }
+    ]
+  },
+  {
+    "char": "Utsuho",
+    "name": "Flare Up",
+    "type": "skill",
+    "img": "./images/Utsuho/Ut623bc1.png",
+    "data": [
+      {
+        "Version": "B",
+        "Damage": "0.5 x n",
+        "Limit": "10%",
+        "Rate": "95.0%",
+        "Modifier": "Rift",
+        "Cancel": "Sp M",
+        "Density": "B∞",
+        "Graze": "∞",
+        "Startup": "20F",
+        "Motion": "49F",
+        "Total": "64F",
+        "Frame Adv.": "-19 ~ -6[-4 ~ +10]"
+      },
+      {
+        "Version": "C",
+        "Damage": "0.5 x n",
+        "Limit": "10%",
+        "Rate": "95.0%",
+        "Modifier": "Rift",
+        "Cancel": "Sp M",
+        "Density": "B∞",
+        "Graze": "∞",
+        "Startup": "24F",
+        "Motion": "54F",
+        "Total": "69F",
+        "Frame Adv.": "-19 ~ -6[-4 ~ +10]"
+      }
+    ]
+  },
+  {
+    "char": "Utsuho",
+    "name": "Shooting Star",
+    "type": "skill",
+    "img": "./images/Utsuho/Ut214bc1.png",
+    "data": [
+      {
+        "Version": "B / C",
+        "Damage": "0.5 x n",
+        "Limit": "x%",
+        "Rate": "x.x%",
+        "Modifier": "x",
+        "Cancel": "Sp M",
+        "Density": "x",
+        "Graze": "∞",
+        "Startup": "x",
+        "Motion": "x",
+        "Total": "68F ~ 198F",
+        "Frame Adv.": "-"
+      }
+    ]
+  },
+  {
+    "char": "Utsuho",
+    "name": "Break Sun",
+    "type": "skill",
+    "img": "./images/Utsuho/Ut22bc1.png",
+    "data": [
+      {
+        "Version": "Sun",
+        "Damage": "0.125 x n",
+        "Limit": "5%",
+        "Rate": "98.0%",
+        "Modifier": "Rift",
+        "Cancel": "None",
+        "Density": "B20x1",
+        "Graze": "∞",
+        "Startup": "8F",
+        "Motion": "-",
+        "Total": "-",
+        "Frame Adv.": "-"
+      },
+      {
+        "Version": "Bullets released",
+        "Damage": "0.125 x n",
+        "Limit": "5%",
+        "Rate": "93.0%",
+        "Modifier": "None",
+        "Cancel": "Sp M",
+        "Density": "C1xn",
+        "Graze": "1F",
+        "Startup": "28F",
+        "Motion": "40F",
+        "Total": "68F ~ 198F",
+        "Frame Adv.": "-6 ~ +0 [Varies]"
+      }
+    ]
+  },
+  {
+    "char": "Utsuho",
+    "name": "Hell Geyser",
+    "type": "skill",
+    "img": "./images/Utsuho/Ut236bc2.png",
+    "data": [
+      {
+        "Damage": "1",
+        "Limit": "40%",
+        "Rate": "80.0%",
+        "Modifier": "Rift",
+        "Cancel": "Sp M",
+        "Density": "B1x1",
+        "Graze": "∞",
+        "Startup": "23F",
+        "Motion": "37F",
+        "Total": "55F",
+        "Frame Adv.": "-11 [+7]"
+      }
+    ]
+  },
+  {
+    "char": "Utsuho",
+    "name": "Radiant Blade",
+    "type": "skill",
+    "img": "./images/Utsuho/Ut236bc3.png",
+    "data": [
+      {
+        "Version": "B",
+        "Damage": "0.25 x 3",
+        "Limit": "8%",
+        "Rate": "94.0%",
+        "Modifier": "None",
+        "Cancel": "Sp M",
+        "Density": "B1x3",
+        "Graze": "∞",
+        "Startup": "20F ~ 28F",
+        "Motion": "40F ~ 48F",
+        "Total": "58F ~ 66F",
+        "Frame Adv.": "-7 [+11]"
+      },
+      {
+        "Version": "C",
+        "Damage": "0.25 x 3",
+        "Limit": "8%",
+        "Rate": "94.0%",
+        "Modifier": "None",
+        "Cancel": "Sp M",
+        "Density": "B1x3",
+        "Graze": "∞",
+        "Startup": "20F ~ 36F",
+        "Motion": "40F ~ 56F",
+        "Total": "58F ~ 74F",
+        "Frame Adv.": "-7 [+11]"
+      }
+    ]
+  },
+  {
+    "char": "Utsuho",
+    "name": "Rocket Dive",
+    "type": "skill",
+    "img": "./images/Utsuho/Ut623bc2.png",
+    "data": [
+      {
+        "Version": "x",
+        "Damage": "x",
+        "Limit": "x%",
+        "Rate": "x.x%",
+        "Modifier": "x",
+        "Cancel": "Sp M",
+        "Density": "x",
+        "Graze": "∞",
+        "Startup": "x",
+        "Motion": "x",
+        "Total": "x",
+        "Frame Adv.": "x [x]"
+      },
+      {
+        "Version": "x",
+        "Damage": "x",
+        "Limit": "x%",
+        "Rate": "x.x%",
+        "Modifier": "x",
+        "Cancel": "Sp M",
+        "Density": "x",
+        "Graze": "∞",
+        "Startup": "x",
+        "Motion": "x",
+        "Total": "x",
+        "Frame Adv.": "x[x]"
+      }
+    ]
+  },
+  {
+    "char": "Utsuho",
+    "name": "Melting Pummel Kick",
+    "type": "skill",
+    "img": "./images/Utsuho/Ut623bc3.png",
+    "data": [
+      {
+        "Damage": "x",
+        "Limit": "x",
+        "Rate": "x",
+        "Modifier": "x",
+        "Cancel": "x",
+        "Guard": "x",
+        "Startup": "x",
+        "Active": "x",
+        "Total": "x",
+        "Frame Adv.": "-"
+      }
+    ]
+  },
+  {
+    "char": "Utsuho",
+    "name": "Retro Atomic Model",
+    "type": "skill",
+    "img": "./images/Utsuho/Ut214bc2.png",
+    "data": [
+      {
+        "Version": "x",
+        "Damage": "x",
+        "Limit": "x%",
+        "Rate": "x.x%",
+        "Modifier": "x",
+        "Cancel": "Sp M",
+        "Density": "x",
+        "Graze": "∞",
+        "Startup": "x",
+        "Motion": "x",
+        "Total": "x",
+        "Frame Adv.": "x [x]"
+      },
+      {
+        "Version": "x",
+        "Damage": "x",
+        "Limit": "x%",
+        "Rate": "x.x%",
+        "Modifier": "x",
+        "Cancel": "Sp M",
+        "Density": "x",
+        "Graze": "∞",
+        "Startup": "x",
+        "Motion": "x",
+        "Total": "x",
+        "Frame Adv.": "x[x]"
+      }
+    ]
+  },
+  {
+    "char": "Utsuho",
+    "name": "Vengeful Nuclear Spirits",
+    "type": "skill",
+    "img": "./images/Utsuho/Ut214bc3.png",
+    "data": [
+      {
+        "Version": "x",
+        "Damage": "x",
+        "Limit": "x%",
+        "Rate": "x.x%",
+        "Modifier": "x",
+        "Cancel": "Sp M",
+        "Density": "x",
+        "Graze": "∞",
+        "Startup": "x",
+        "Motion": "x",
+        "Total": "x",
+        "Frame Adv.": "x [x]"
+      },
+      {
+        "Version": "x",
+        "Damage": "x",
+        "Limit": "x%",
+        "Rate": "x.x%",
+        "Modifier": "x",
+        "Cancel": "Sp M",
+        "Density": "x",
+        "Graze": "∞",
+        "Startup": "x",
+        "Motion": "x",
+        "Total": "x",
+        "Frame Adv.": "x[x]"
+      }
+    ]
+  },
+  {
+    "char": "Utsuho",
+    "name": "Shooting Sun",
+    "type": "skill",
+    "img": "./images/Utsuho/Ut22bc2.png",
+    "data": [
+      {
+        "Version": "x",
+        "Damage": "x",
+        "Limit": "x%",
+        "Rate": "x.x%",
+        "Modifier": "x",
+        "Cancel": "Sp M",
+        "Density": "x",
+        "Graze": "∞",
+        "Startup": "x",
+        "Motion": "x",
+        "Total": "x",
+        "Frame Adv.": "x [x]"
+      },
+      {
+        "Version": "x",
+        "Damage": "x",
+        "Limit": "x%",
+        "Rate": "x.x%",
+        "Modifier": "x",
+        "Cancel": "Sp M",
+        "Density": "x",
+        "Graze": "∞",
+        "Startup": "x",
+        "Motion": "x",
+        "Total": "x",
+        "Frame Adv.": "x[x]"
+      }
+    ]
+  },
+  {
+    "char": "Utsuho",
+    "name": "Hell Wave Canon",
+    "type": "skill",
+    "img": "./images/Utsuho/Ut22bc3.png",
+    "data": [
+      {
+        "Version": "x",
+        "Damage": "x",
+        "Limit": "x%",
+        "Rate": "x.x%",
+        "Modifier": "x",
+        "Cancel": "Sp M",
+        "Density": "x",
+        "Graze": "∞",
+        "Startup": "x",
+        "Motion": "x",
+        "Total": "x",
+        "Frame Adv.": "x [x]"
+      },
+      {
+        "Version": "x",
+        "Damage": "x",
+        "Limit": "x%",
+        "Rate": "x.x%",
+        "Modifier": "x",
+        "Cancel": "Sp M",
+        "Density": "x",
+        "Graze": "∞",
+        "Startup": "x",
+        "Motion": "x",
+        "Total": "x",
+        "Frame Adv.": "x[x]"
+      }
+    ]
+  }
+]

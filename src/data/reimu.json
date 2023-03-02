@@ -1,0 +1,1509 @@
+[
+  {
+    "char": "Reimu",
+    "name": "4A",
+    "type": "normal",
+    "img": "./images/Reimu/175px-Reimu_5a.png",
+    "data": [
+      {
+        "Damage": "200",
+        "Limit": "0%",
+        "Rate": "98%",
+        "Modifier": "None",
+        "Cancel": "R Cn B C Sk Sp",
+        "Guard": "HL",
+        "Startup": "8F",
+        "Active": "2F",
+        "Total": "18F",
+        "Frame Adv.": "-1"
+      }
+    ]
+  },
+  {
+    "char": "Reimu",
+    "name": "5A",
+    "type": "normal",
+    "img": "./images/Reimu/175px-Reimu_5a.png",
+    "data": [
+      {
+        "Damage": "200",
+        "Limit": "0%",
+        "Rate": "98%",
+        "Modifier": "None",
+        "Cancel": "D Cn B C Sk Sp",
+        "Guard": "HL",
+        "Startup": "8F",
+        "Active": "2F",
+        "Total": "18F",
+        "Frame Adv.": "-1"
+      }
+    ]
+  },
+  {
+    "char": "Reimu",
+    "name": "5AA",
+    "type": "normal",
+    "img": "./images/Reimu/175px-Reimu_5a.png",
+    "data": [
+      {
+        "Damage": "200",
+        "Limit": "0%",
+        "Rate": "98%",
+        "Modifier": "None",
+        "Cancel": "D Cn B C Sk Sp",
+        "Guard": "HL",
+        "Startup": "7F",
+        "Active": "2F",
+        "Total": "17F",
+        "Frame Adv.": "-1"
+      }
+    ]
+  },
+  {
+    "char": "Reimu",
+    "name": "5AAA",
+    "type": "normal",
+    "img": "./images/Reimu/175px-Reimu_5aaa.png",
+    "data": [
+      {
+        "Damage": "450",
+        "Limit": "0%",
+        "Rate": "92%",
+        "Modifier": "None",
+        "Cancel": "D B C Sk Sp",
+        "Guard": "H",
+        "Startup": "9F",
+        "Active": "5F",
+        "Total": "25F",
+        "Frame Adv.": "-1/+3"
+      }
+    ]
+  },
+  {
+    "char": "Reimu",
+    "name": "5AAAA",
+    "type": "normal",
+    "img": "./images/Reimu/175px-Reimu_5aaaa_1.png",
+    "data": [
+      {
+        "Damage": "800",
+        "Limit": "40%",
+        "Rate": "80%",
+        "Modifier": "Smash",
+        "Cancel": "Sp",
+        "Guard": "H",
+        "Startup": "16F",
+        "Active": "13F",
+        "Total": "45F",
+        "Frame Adv.": "-8/-2"
+      }
+    ]
+  },
+  {
+    "char": "Reimu",
+    "name": "fA",
+    "type": "normal",
+    "img": "./images/Reimu/175px-Reimu_far_5a.png",
+    "data": [
+      {
+        "Damage": "500",
+        "Limit": "0%",
+        "Rate": "92%",
+        "Modifier": "None",
+        "Cancel": "Cn B C Sk Sp",
+        "Guard": "H",
+        "Startup": "13F",
+        "Active": "2F",
+        "Total": "33F",
+        "Frame Adv.": "-5/-1"
+      }
+    ]
+  },
+  {
+    "char": "Reimu",
+    "name": "2A",
+    "type": "normal",
+    "img": "./images/Reimu/175px-Reimu_2a.png",
+    "data": [
+      {
+        "Damage": "100",
+        "Limit": "0%",
+        "Rate": "97%",
+        "Modifier": "None",
+        "Cancel": "Cn B C Sk Sp",
+        "Guard": "L",
+        "Startup": "9F",
+        "Active": "18F",
+        "Total": "41F",
+        "Frame Adv.": "-7/-3"
+      }
+    ]
+  },
+  {
+    "char": "Reimu",
+    "name": "6A",
+    "type": "normal",
+    "img": "./images/Reimu/175px-Reimu_6a_1.png",
+    "data": [
+      {
+        "Version": "Uncharged",
+        "Damage": "750",
+        "Limit": "40%",
+        "Rate": "85%",
+        "Modifier": "Smash",
+        "Cancel": "B C Sk Sp",
+        "Guard": "H",
+        "Startup": "16F",
+        "Active": "13F",
+        "Total": "43F",
+        "Frame Adv.": "-6/+0"
+      },
+      {
+        "Version": "Charged",
+        "Damage": "1000",
+        "Limit": "40%",
+        "Rate": "80%",
+        "Modifier": "Smash",
+        "Cancel": "Sp",
+        "Guard": "H*",
+        "Startup": "31F",
+        "Active": "13F",
+        "Total": "63F",
+        "Frame Adv.": "-5/+17"
+      }
+    ]
+  },
+  {
+    "char": "Reimu",
+    "name": "3A",
+    "type": "normal",
+    "img": "./images/Reimu/175px-Reimu_3a_1.png",
+    "data": [
+      {
+        "Version": "Uncharged",
+        "Damage": "900[750]",
+        "Limit": "40%",
+        "Rate": "85%[90%]",
+        "Modifier": "Rift",
+        "Cancel": "Sk Sp",
+        "Guard": "HA",
+        "Startup": "12F[15F]",
+        "Active": "3F[11F]",
+        "Total": "55F",
+        "Frame Adv.": "-21/-15"
+      },
+      {
+        "Version": "Charged",
+        "Damage": "1000",
+        "Limit": "40%",
+        "Rate": "80%",
+        "Modifier": "Smash",
+        "Cancel": "Spell",
+        "Guard": "L*",
+        "Startup": "38F",
+        "Active": "8F",
+        "Total": "70F",
+        "Frame Adv.": "-5/+17"
+      }
+    ]
+  },
+  {
+    "char": "Reimu",
+    "name": "66A or 6DA",
+    "type": "normal",
+    "img": "./images/Reimu/175px-Reimu_66a.png",
+    "data": [
+      {
+        "Damage": "600",
+        "Limit": "0%",
+        "Rate": "90%",
+        "Modifier": "None",
+        "Cancel": "Sk Sp",
+        "Guard": "H",
+        "Startup": "10F",
+        "Active": "3F",
+        "Total": "36F",
+        "Frame Adv.": "-5/+1"
+      }
+    ]
+  },
+  {
+    "char": "Reimu",
+    "name": "66B or 6DB",
+    "type": "normal",
+    "img": "./images/Reimu/175px-Reimu_66b.png",
+    "data": [
+      {
+        "Damage": "800",
+        "Limit": "40%",
+        "Rate": "80%",
+        "Modifier": "Rift",
+        "Cancel": "Sp",
+        "Guard": "L",
+        "Startup": "18F",
+        "Active": "11F",
+        "Total": "48F",
+        "Frame Adv.": "-9/-3"
+      }
+    ]
+  },
+  {
+    "char": "Reimu",
+    "name": "66C or 6DC",
+    "type": "normal",
+    "img": "./images/Reimu/175px-Reimu_66c_1.png",
+    "data": [
+      {
+        "Damage": "900",
+        "Limit": "60%",
+        "Rate": "80%",
+        "Modifier": "Rift",
+        "Cancel": "Sp",
+        "Guard": "HA",
+        "Startup": "12F",
+        "Active": "11F",
+        "Total": "47F",
+        "Frame Adv.": "-13/-7"
+      }
+    ]
+  },
+  {
+    "char": "Reimu",
+    "name": "j5A",
+    "type": "normal",
+    "img": "./images/Reimu/175px-Reimu_j5a.png",
+    "data": [
+      {
+        "Damage": "450",
+        "Limit": "0%",
+        "Rate": "92%",
+        "Modifier": "None",
+        "Cancel": "Cn B C Sk Sp",
+        "Guard": "HA",
+        "Startup": "10F",
+        "Active": "16F",
+        "Total": "53F",
+        "Frame Adv.": "(-24)"
+      }
+    ]
+  },
+  {
+    "char": "Reimu",
+    "name": "j6A",
+    "type": "normal",
+    "img": "./images/Reimu/175px-Reimu_j6a.png",
+    "data": [
+      {
+        "Damage": "800",
+        "Limit": "40%",
+        "Rate": "85%",
+        "Modifier": "Smash",
+        "Cancel": "B C Sk Sp",
+        "Guard": "HA",
+        "Startup": "14F",
+        "Active": "10F",
+        "Total": "49F",
+        "Frame Adv.": "(-16)"
+      }
+    ]
+  },
+  {
+    "char": "Reimu",
+    "name": "j8A",
+    "type": "normal",
+    "img": "./images/Reimu/175px-Reimu_j8a_1.png",
+    "data": [
+      {
+        "Damage": "800",
+        "Limit": "40%",
+        "Rate": "85%",
+        "Modifier": "Rift",
+        "Cancel": "B C Sk Sp",
+        "Guard": "HA",
+        "Startup": "9F",
+        "Active": "7F",
+        "Total": "45F",
+        "Frame Adv.": "(-17F)"
+      }
+    ]
+  },
+  {
+    "char": "Reimu",
+    "name": "j2A",
+    "type": "normal",
+    "img": "./images/Reimu/175px-Reimu_j2a.png",
+    "data": [
+      {
+        "Damage": "900",
+        "Limit": "40%",
+        "Rate": "80%",
+        "Modifier": "Smash",
+        "Cancel": "B C Sk Sp",
+        "Guard": "HA",
+        "Startup": "17F",
+        "Active": "8F",
+        "Total": "51F",
+        "Frame Adv.": "(-15F)"
+      }
+    ]
+  },
+  {
+    "char": "Reimu",
+    "name": "5B",
+    "type": "bullet",
+    "img": "./images/Reimu/175px-Rei5b.jpg",
+    "data": [
+      {
+        "Version": "Uncharged",
+        "Damage": "0.2",
+        "Limit": "5%",
+        "Rate": "97%",
+        "Modifier": "None",
+        "Cancel": "C Sk Sp M",
+        "Density": "C1x5",
+        "Graze": "1F",
+        "Startup": "15F",
+        "Motion": "29F",
+        "Total": "49F",
+        "Frame Adv.": "-6F [+14F]"
+      },
+      {
+        "Version": "Charged",
+        "Damage": "0.2",
+        "Limit": "5%",
+        "Rate": "97%",
+        "Modifier": "None",
+        "Cancel": "C Sk Sp M",
+        "Density": "C1x10",
+        "Graze": "1F",
+        "Startup": "31F",
+        "Motion": "39F",
+        "Total": "65F",
+        "Frame Adv.": "-6F [+17F]"
+      }
+    ]
+  },
+  {
+    "char": "Reimu",
+    "name": "2B",
+    "type": "bullet",
+    "img": "./images/Reimu/175px-Rei2b.jpg",
+    "data": [
+      {
+        "Damage": "1",
+        "Limit": "40%",
+        "Rate": "90%",
+        "Modifier": "Rift",
+        "Cancel": "C Sk Sp M",
+        "Density": "-",
+        "Graze": "-",
+        "Startup": "14F",
+        "Motion": "25F",
+        "Total": "37F",
+        "Frame Adv.": "-2F [+10F]"
+      }
+    ]
+  },
+  {
+    "char": "Reimu",
+    "name": "6B",
+    "type": "bullet",
+    "img": "./images/Reimu/175px-Rei6b.jpg",
+    "data": [
+      {
+        "Version": "Uncharged",
+        "Damage": "0.2",
+        "Limit": "5%",
+        "Rate": "97%",
+        "Modifier": "None",
+        "Cancel": "C Sk Sp M",
+        "Density": "C1x5",
+        "Graze": "1F",
+        "Startup": "14F",
+        "Motion": "28F",
+        "Total": "48F",
+        "Frame Adv.": "-6F [+14F]"
+      },
+      {
+        "Version": "Charged",
+        "Damage": "0.2",
+        "Limit": "5%",
+        "Rate": "97%",
+        "Modifier": "None",
+        "Cancel": "C Sk Sp M",
+        "Density": "C1x10",
+        "Graze": "1F",
+        "Startup": "30F",
+        "Motion": "38F",
+        "Total": "64F",
+        "Frame Adv.": "-6F [+17F]"
+      }
+    ]
+  },
+  {
+    "char": "Reimu",
+    "name": "j5B",
+    "type": "bullet",
+    "img": "./images/Reimu/175px-Reij5b.jpg",
+    "data": [
+      {
+        "Version": "Uncharged",
+        "Damage": "0.2",
+        "Limit": "5%",
+        "Rate": "97%",
+        "Modifier": "None",
+        "Cancel": "C Sk Sp M",
+        "Density": "C1x5",
+        "Graze": "1F",
+        "Startup": "15F",
+        "Motion": "22F",
+        "Total": "53F",
+        "Frame Adv.": "[+15F]"
+      },
+      {
+        "Version": "Charged",
+        "Damage": "0.2",
+        "Limit": "5%",
+        "Rate": "97%",
+        "Modifier": "None",
+        "Cancel": "C Sk Sp M",
+        "Density": "C1x10",
+        "Graze": "1F",
+        "Startup": "31F",
+        "Motion": "38F",
+        "Total": "69F",
+        "Frame Adv.": "[+15F]"
+      }
+    ]
+  },
+  {
+    "char": "Reimu",
+    "name": "j2B",
+    "type": "bullet",
+    "img": "./images/Reimu/175px-Reij2b.jpg",
+    "data": [
+      {
+        "Version": "Uncharged",
+        "Damage": "0.2",
+        "Limit": "5%",
+        "Rate": "97%",
+        "Modifier": "None",
+        "Cancel": "C Sk Sp M",
+        "Density": "C1x5",
+        "Graze": "1F",
+        "Startup": "14F",
+        "Motion": "21F",
+        "Total": "52F",
+        "Frame Adv.": "-10F [+15F]"
+      },
+      {
+        "Version": "Charged",
+        "Damage": "0.2",
+        "Limit": "5%",
+        "Rate": "97%",
+        "Modifier": "None",
+        "Cancel": "C Sk Sp M",
+        "Density": "C1x10",
+        "Graze": "1F",
+        "Startup": "30F",
+        "Motion": "37F",
+        "Total": "68F",
+        "Frame Adv.": "-10F [+15F]"
+      }
+    ]
+  },
+  {
+    "char": "Reimu",
+    "name": "5C",
+    "type": "bullet",
+    "img": "./images/Reimu/175px-Rei5c.jpg",
+    "data": [
+      {
+        "Version": "Uncharged",
+        "Damage": "0.25",
+        "Limit": "10%",
+        "Rate": "95%",
+        "Modifier": "None",
+        "Cancel": "Sk Sp M",
+        "Density": "B3",
+        "Graze": "10F",
+        "Startup": "25F",
+        "Motion": "35F",
+        "Total": "53F",
+        "Frame Adv.": "+9F [+27F]"
+      },
+      {
+        "Version": "Charged",
+        "Damage": "0.25",
+        "Limit": "10%",
+        "Rate": "95%",
+        "Modifier": "None",
+        "Cancel": "Sk Sp M",
+        "Density": "B3",
+        "Graze": "10F",
+        "Startup": "50F",
+        "Motion": "62F",
+        "Total": "84F",
+        "Frame Adv.": "+21F [+43F]"
+      }
+    ]
+  },
+  {
+    "char": "Reimu",
+    "name": "2C",
+    "type": "bullet",
+    "img": "./images/Reimu/175px-Rei2c.jpg",
+    "data": [
+      {
+        "Damage": "0.5",
+        "Limit": "2%",
+        "Rate": "95%",
+        "Modifier": "Rift",
+        "Cancel": "Sk Sp M",
+        "Density": "C1",
+        "Graze": "-",
+        "Startup": "15F",
+        "Motion": "37F",
+        "Total": "57F",
+        "Frame Adv.": "-16F [+4F]"
+      }
+    ]
+  },
+  {
+    "char": "Reimu",
+    "name": "j5C",
+    "type": "bullet",
+    "img": "./images/Reimu/175px-Reij5c.jpg",
+    "data": [
+      {
+        "Version": "Uncharged",
+        "Damage": "0.25",
+        "Limit": "10%",
+        "Rate": "95%",
+        "Modifier": "None",
+        "Cancel": "Sk Sp M",
+        "Density": "B3",
+        "Graze": "10F",
+        "Startup": "18F",
+        "Motion": "27F",
+        "Total": "52F",
+        "Frame Adv.": "+3F [+28F]"
+      },
+      {
+        "Version": "Charged",
+        "Damage": "0.25",
+        "Limit": "10%",
+        "Rate": "95%",
+        "Modifier": "None",
+        "Cancel": "Sk Sp M",
+        "Density": "B3",
+        "Graze": "10F",
+        "Startup": "43F",
+        "Motion": "52F",
+        "Total": "77F",
+        "Frame Adv.": "[+46F]"
+      }
+    ]
+  },
+  {
+    "char": "Reimu",
+    "name": "j2C",
+    "type": "bullet",
+    "img": "./images/Reimu/175px-Reij2c.jpg",
+    "data": [
+      {
+        "Version": "Uncharged",
+        "Damage": "0.25",
+        "Limit": "10%",
+        "Rate": "95%",
+        "Modifier": "None",
+        "Cancel": "Sk Sp M",
+        "Density": "B3",
+        "Graze": "10F",
+        "Startup": "21F",
+        "Motion": "40F",
+        "Total": "62F",
+        "Frame Adv.": "[+18F]"
+      },
+      {
+        "Version": "Charged",
+        "Damage": "0.25",
+        "Limit": "10%",
+        "Rate": "95%",
+        "Modifier": "None",
+        "Cancel": "Sk Sp M",
+        "Density": "B3",
+        "Graze": "10F",
+        "Startup": "46F",
+        "Motion": "65F",
+        "Total": "89F",
+        "Frame Adv.": "[+36F]"
+      }
+    ]
+  },
+  {
+    "char": "Reimu",
+    "name": "Hakurei Amulet",
+    "type": "skill",
+    "img": "./images/Reimu/Ha236bc1.png",
+    "data": [
+      {
+        "Version": "Ground B uncharged",
+        "Damage": "0.25",
+        "Limit": "2%",
+        "Rate": "95%",
+        "Modifier": "None",
+        "Cancel": "Sp M",
+        "Density": "B1x2",
+        "Graze": "4F",
+        "Startup": "30F",
+        "Motion": "30F",
+        "Total": "58F",
+        "Frame Adv.": "+3[+32]"
+      },
+      {
+        "Version": "Ground C uncharged",
+        "Damage": "0.25",
+        "Limit": "2%",
+        "Rate": "95%",
+        "Modifier": "None",
+        "Cancel": "Sp M",
+        "Density": "B1x2",
+        "Graze": "4F",
+        "Startup": "38F",
+        "Motion": "38F",
+        "Total": "66F",
+        "Frame Adv.": "+3[+32]"
+      },
+      {
+        "Version": "Air B uncharged",
+        "Damage": "0.25",
+        "Limit": "2%",
+        "Rate": "95%",
+        "Modifier": "None",
+        "Cancel": "Sp M",
+        "Density": "B1x2",
+        "Graze": "4F",
+        "Startup": "27F",
+        "Motion": "29F",
+        "Total": "43F",
+        "Frame Adv.": "+15[+30]"
+      },
+      {
+        "Version": "Air C uncharged",
+        "Damage": "0.25",
+        "Limit": "2%",
+        "Rate": "95%",
+        "Modifier": "None",
+        "Cancel": "Sp M",
+        "Density": "B1x2",
+        "Graze": "4F",
+        "Startup": "35F",
+        "Motion": "37F",
+        "Total": "51F",
+        "Frame Adv.": "+15[+30]"
+      }
+    ]
+  },
+  {
+    "char": "Reimu",
+    "name": "Youkai Buster",
+    "type": "skill",
+    "img": "./images/Reimu/Ha236bc2.png",
+    "data": [
+      {
+        "Version": "Ground B uncharged",
+        "Damage": "0.05",
+        "Limit": "2%",
+        "Rate": "98%",
+        "Modifier": "Smash",
+        "Cancel": "Sp M",
+        "Density": "B1x3",
+        "Graze": "-",
+        "Startup": "17F",
+        "Motion": "37F",
+        "Total": "65F",
+        "Frame Adv.": "-12[+17]"
+      },
+      {
+        "Version": "Ground C uncharged",
+        "Damage": "0.05",
+        "Limit": "2%",
+        "Rate": "98%",
+        "Modifier": "Smash",
+        "Cancel": "Sp M",
+        "Density": "B1x3",
+        "Graze": "-",
+        "Startup": "29F",
+        "Motion": "46F",
+        "Total": "74F",
+        "Frame Adv.": "-9[+20]"
+      },
+      {
+        "Version": "Air B uncharged",
+        "Damage": "0.05",
+        "Limit": "2%",
+        "Rate": "98%",
+        "Modifier": "Smash",
+        "Cancel": "Sp M",
+        "Density": "B1x3",
+        "Graze": "-",
+        "Startup": "14F",
+        "Motion": "36F",
+        "Total": "50F",
+        "Frame Adv.": "±0[+15]"
+      },
+      {
+        "Version": "Air C uncharged",
+        "Damage": "0.05",
+        "Limit": "2%",
+        "Rate": "98%",
+        "Modifier": "Smash",
+        "Cancel": "Sp M",
+        "Density": "B1x3",
+        "Graze": "-",
+        "Startup": "26F",
+        "Motion": "48F",
+        "Total": "62F",
+        "Frame Adv.": "±0[+15]"
+      }
+    ]
+  },
+  {
+    "char": "Reimu",
+    "name": "Spread Amulet",
+    "type": "skill",
+    "img": "./images/Reimu/Ha236bc3.png",
+    "data": [
+      {
+        "Version": "Ground B uncharged",
+        "Damage": "0.25(large) 0.1(small)",
+        "Limit": "10%(large) 3%(small)",
+        "Rate": "95%(large) 97%(small)",
+        "Modifier": "None",
+        "Cancel": "Sp M",
+        "Density": "B1x2(large) C1x12(small)",
+        "Graze": "1F",
+        "Startup": "30F",
+        "Motion": "30F",
+        "Total": "58F",
+        "Frame Adv.": "-3[+26]"
+      },
+      {
+        "Version": "Ground C uncharged",
+        "Damage": "0.25(large) 0.1(small)",
+        "Limit": "10%(large) 3%(small)",
+        "Rate": "95%(large) 97%(small)",
+        "Modifier": "None",
+        "Cancel": "Sp M",
+        "Density": "B1x3(large) C1x18(small)",
+        "Graze": "1F",
+        "Startup": "38F",
+        "Motion": "38F",
+        "Total": "66F",
+        "Frame Adv.": "-13[+26]"
+      },
+      {
+        "Version": "Air B uncharged",
+        "Damage": "0.25(large) 0.1(small)",
+        "Limit": "10%(large) 3%(small)",
+        "Rate": "95%(large) 97%(small)",
+        "Modifier": "None",
+        "Cancel": "Sp M",
+        "Density": "B1x2(large) C1x12(small)",
+        "Graze": "1F",
+        "Startup": "27F",
+        "Motion": "29F",
+        "Total": "43F",
+        "Frame Adv.": "+9[+24]"
+      },
+      {
+        "Version": "Air C uncharged",
+        "Damage": "0.25(large) 0.1(small)",
+        "Limit": "10%(large) 3%(small)",
+        "Rate": "95%(large) 97%(small)",
+        "Modifier": "None",
+        "Cancel": "Sp M",
+        "Density": "B1x3(large) C1x18(small)",
+        "Graze": "1F",
+        "Startup": "35F",
+        "Motion": "37F",
+        "Total": "51F",
+        "Frame Adv.": "-1[+14]"
+      }
+    ]
+  },
+  {
+    "char": "Reimu",
+    "name": "Ascension Kick",
+    "type": "skill",
+    "img": "./images/Reimu/Ha623bc1.png",
+    "data": [
+      {
+        "Version": "B",
+        "Damage": "1200",
+        "Limit": "40%",
+        "Rate": "85%",
+        "Modifier": "Smash",
+        "Cancel": "-",
+        "Guard": "HA",
+        "Startup": "13F",
+        "Active": "9F",
+        "Total": "68F",
+        "Frame Adv.": "-33/-27"
+      },
+      {
+        "Version": "C",
+        "Damage": "1300",
+        "Limit": "40%",
+        "Rate": "85%",
+        "Modifier": "Smash",
+        "Cancel": "Sp",
+        "Guard": "HA",
+        "Startup": "13F",
+        "Active": "19F",
+        "Total": "90F",
+        "Frame Adv.": "-55/-49"
+      }
+    ]
+  },
+  {
+    "char": "Reimu",
+    "name": "Sliding Ascension Kick",
+    "type": "skill",
+    "img": "./images/Reimu/Ha623bc2.png",
+    "data": [
+      {
+        "Version": "B",
+        "Damage": "450",
+        "Limit": "0%",
+        "Rate": "92%",
+        "Modifier": "Rift",
+        "Cancel": "Sp",
+        "Guard": "L",
+        "Startup": "12F",
+        "Active": "18F",
+        "Total": "52F",
+        "Frame Adv.": "-19/-13"
+      },
+      {
+        "Version": "C",
+        "Damage": "600",
+        "Limit": "0%",
+        "Rate": "92%",
+        "Modifier": "Rift",
+        "Cancel": "Sp",
+        "Guard": "L",
+        "Startup": "17F",
+        "Active": "26F",
+        "Total": "67F",
+        "Frame Adv.": "-29/-23"
+      }
+    ]
+  },
+  {
+    "char": "Reimu",
+    "name": "Sliding Ascension Kick 2",
+    "type": "skill",
+    "img": "",
+    "data": [
+      {
+        "Damage": "900",
+        "Limit": "40%",
+        "Rate": "90%",
+        "Modifier": "Rift",
+        "Cancel": "Sp",
+        "Guard": "HA",
+        "Startup": "11F",
+        "Active": "3F",
+        "Total": "66F",
+        "Frame Adv.": "-33/-27"
+      }
+    ]
+  },
+  {
+    "char": "Reimu",
+    "name": "Sliding Ascension Kick Finish",
+    "type": "skill",
+    "img": "",
+    "data": [
+      {
+        "Damage": "700",
+        "Limit": "85%",
+        "Rate": "40%",
+        "Modifier": "Rift",
+        "Cancel": "Sp",
+        "Guard": "HA",
+        "Startup": "5F",
+        "Active": "5F",
+        "Total": "64F",
+        "Frame Adv.": "-36/-30"
+      }
+    ]
+  },
+  {
+    "char": "Reimu",
+    "name": "Rain Dance",
+    "type": "skill",
+    "img": "./images/Reimu/Ha623bc3.png",
+    "data": [
+      {
+        "Version": "Ground B",
+        "Damage": "300",
+        "Limit": "10%",
+        "Rate": "95%",
+        "Modifier": "Rift",
+        "Cancel": "Sp",
+        "Guard": "HA",
+        "Startup": "25F",
+        "Active": "31F",
+        "Total": "86F",
+        "Frame Adv.": "-18/-12"
+      },
+      {
+        "Version": "Ground C",
+        "Damage": "300",
+        "Limit": "10%",
+        "Rate": "95%",
+        "Modifier": "Rift",
+        "Cancel": "Sp",
+        "Guard": "HA",
+        "Startup": "25F",
+        "Active": "31F",
+        "Total": "94F",
+        "Frame Adv.": "-26/-20"
+      },
+      {
+        "Version": "Air",
+        "Damage": "300",
+        "Limit": "10%",
+        "Rate": "95%",
+        "Modifier": "Rift",
+        "Cancel": "Sp",
+        "Guard": "HA",
+        "Startup": "29F",
+        "Active": "31F",
+        "Total": "89F",
+        "Frame Adv.": "-"
+      }
+    ]
+  },
+  {
+    "char": "Reimu",
+    "name": "Cautionary Border",
+    "type": "skill",
+    "img": "./images/Reimu/Ha214bc1.png",
+    "data": [
+      {
+        "Version": "Ground",
+        "Damage": "0.25",
+        "Limit": "10%",
+        "Rate": "93%",
+        "Modifier": "Smash",
+        "Cancel": "Sp M",
+        "Density": "B4x1",
+        "Graze": "10F",
+        "Startup": "45F",
+        "Motion": "30F",
+        "Total": "47F",
+        "Frame Adv.": "+32[+50]"
+      },
+      {
+        "Version": "Air",
+        "Damage": "0.25",
+        "Limit": "10%",
+        "Rate": "93%",
+        "Modifier": "Smash",
+        "Cancel": "Sp M",
+        "Density": "B4x1",
+        "Graze": "10F",
+        "Startup": "44F",
+        "Motion": "29F",
+        "Total": "43F",
+        "Frame Adv.": "+35[+50]"
+      }
+    ]
+  },
+  {
+    "char": "Reimu",
+    "name": "Binding Border",
+    "type": "skill",
+    "img": "./images/Reimu/Ha214bc2.png",
+    "data": [
+      {
+        "Version": "Ground",
+        "Damage": "2",
+        "Limit": "50%",
+        "Rate": "75%",
+        "Modifier": "None",
+        "Cancel": "Sp M",
+        "Density": "B∞",
+        "Graze": "-",
+        "Startup": "35F",
+        "Motion": "40F",
+        "Total": "101F",
+        "Frame Adv.": "+9(C version)"
+      },
+      {
+        "Version": "Air",
+        "Damage": "2",
+        "Limit": "50%",
+        "Rate": "75%",
+        "Modifier": "None",
+        "Cancel": "Sp M",
+        "Density": "B∞",
+        "Graze": "-",
+        "Startup": "35F",
+        "Motion": "40F",
+        "Total": "109F",
+        "Frame Adv.": "-"
+      }
+    ]
+  },
+  {
+    "char": "Reimu",
+    "name": "Permanent Border",
+    "type": "skill",
+    "img": "./images/Reimu/Ha214bc3.png",
+    "data": [
+      {
+        "Version": "B",
+        "Damage": "0.2",
+        "Limit": "10%",
+        "Rate": "92%",
+        "Modifier": "Rift",
+        "Cancel": "Sp M",
+        "Density": "-",
+        "Graze": "-",
+        "Startup": "49+F",
+        "Motion": "44F",
+        "Total": "61F",
+        "Frame Adv.": "+42[+60]"
+      },
+      {
+        "Version": "C",
+        "Damage": "0.2",
+        "Limit": "10%",
+        "Rate": "92%",
+        "Modifier": "Rift",
+        "Cancel": "Sp M",
+        "Density": "-",
+        "Graze": "-",
+        "Startup": "57+F",
+        "Motion": "36F",
+        "Total": "47F",
+        "Frame Adv.": "-"
+      }
+    ]
+  },
+  {
+    "char": "Reimu",
+    "name": "Dimensional Rift",
+    "type": "skill",
+    "img": "./images/Reimu/Ha421bc1.png",
+    "data": [
+      {
+        "Version": "B",
+        "Damage": "1100",
+        "Limit": "40%",
+        "Rate": "80%",
+        "Modifier": "Smash",
+        "Cancel": "Sp",
+        "Guard": "H (crush) A",
+        "Startup": "46F",
+        "Active": "8F",
+        "Total": "76F",
+        "Frame Adv.": "-5/+17"
+      },
+      {
+        "Version": "C",
+        "Damage": "400,400,500",
+        "Limit": "0%,0%,40%",
+        "Rate": "92%",
+        "Modifier": "None",
+        "Cancel": "Sp",
+        "Guard": "L",
+        "Startup": "49F",
+        "Active": "15F",
+        "Total": "87F",
+        "Frame Adv.": "-6/+0"
+      }
+    ]
+  },
+  {
+    "char": "Reimu",
+    "name": "Demon Sealing Dimensional Rift",
+    "type": "skill",
+    "img": "./images/Reimu/Ha421bc2.png",
+    "data": [
+      {
+        "Version": "B",
+        "Damage": "0.125",
+        "Limit": "5%",
+        "Rate": "94%",
+        "Modifier": "None",
+        "Cancel": "Sp M",
+        "Density": "C1x6",
+        "Graze": "1F",
+        "Startup": "40F",
+        "Motion": "67F",
+        "Total": "69F",
+        "Frame Adv.": "-4"
+      },
+      {
+        "Version": "C",
+        "Damage": "0.125",
+        "Limit": "5%",
+        "Rate": "94%",
+        "Modifier": "None",
+        "Cancel": "Sp M",
+        "Density": "C1x6",
+        "Graze": "1F",
+        "Startup": "40F",
+        "Motion": "66F",
+        "Total": "68F",
+        "Frame Adv.": "-"
+      }
+    ]
+  },
+  {
+    "char": "Reimu",
+    "name": "Instant Dimensional Rift",
+    "type": "skill",
+    "img": "./images/Reimu/Ha421bc3.png",
+    "data": [
+      {
+        "Version": "B",
+        "Damage": "0.05",
+        "Limit": "2%",
+        "Rate": "98%",
+        "Modifier": "Rift",
+        "Cancel": "-",
+        "Density": "C1x25",
+        "Graze": "1F",
+        "Startup": "6F",
+        "Motion": "-",
+        "Total": "61F",
+        "Frame Adv.": "+45"
+      },
+      {
+        "Version": "C",
+        "Damage": "0.05",
+        "Limit": "2%",
+        "Rate": "98%",
+        "Modifier": "Rift",
+        "Cancel": "-",
+        "Density": "C1x25",
+        "Graze": "1F",
+        "Startup": "6F",
+        "Motion": "-",
+        "Total": "60F",
+        "Frame Adv.": "+45"
+      }
+    ]
+  },
+  {
+    "char": "Reimu",
+    "name": "Jewel Sign \"Concealed Orbs of Light\" ",
+    "type": "spell",
+    "img": "./images/Reimu/25px-Hasc01.png",
+    "data": [
+      {
+        "Version": "Ground",
+        "Damage": "0.125",
+        "Limit": "5%",
+        "Rate": "95%",
+        "Modifier": "Rift",
+        "Cancel": "-",
+        "Density": "A?x3",
+        "Graze": "-",
+        "Startup": "13+14",
+        "Motion": "-",
+        "Total": "79F",
+        "Frame Adv.": "-"
+      },
+      {
+        "Version": "Air",
+        "Damage": "0.125",
+        "Limit": "5%",
+        "Rate": "95%",
+        "Modifier": "Rift",
+        "Cancel": "-",
+        "Density": "A?x3",
+        "Graze": "-",
+        "Startup": "13+14",
+        "Motion": "-",
+        "Total": "59F",
+        "Frame Adv.": "-"
+      }
+    ]
+  },
+  {
+    "char": "Reimu",
+    "name": "Spirit Sign \"Fantasy Orb\" ",
+    "type": "spell",
+    "img": "./images/Reimu/25px-Hasc02.png",
+    "data": [
+      {
+        "Version": "Ground",
+        "Damage": "0.125",
+        "Limit": "5%",
+        "Rate": "95%",
+        "Modifier": "Rift",
+        "Cancel": "-",
+        "Density": "B1x10",
+        "Graze": "-",
+        "Startup": "5+9",
+        "Motion": "-",
+        "Total": "74F",
+        "Frame Adv.": "-"
+      },
+      {
+        "Version": "Air",
+        "Damage": "0.125",
+        "Limit": "5%",
+        "Rate": "95%",
+        "Modifier": "Rift",
+        "Cancel": "-",
+        "Density": "B1x10",
+        "Graze": "-",
+        "Startup": "5+9",
+        "Motion": "-",
+        "Total": "93F",
+        "Frame Adv.": "-"
+      }
+    ]
+  },
+  {
+    "char": "Reimu",
+    "name": "Dream Sign \"Demon Binding Array\" ",
+    "type": "spell",
+    "img": "./images/Reimu/25px-Hasc03.png",
+    "data": [
+      {
+        "Damage": "0.25",
+        "Limit": "20%",
+        "Rate": "93%",
+        "Modifier": "Rift",
+        "Cancel": "-",
+        "Density": "B6x1",
+        "Graze": "-",
+        "Startup": "9+8",
+        "Motion": "-",
+        "Total": "120F",
+        "Frame Adv.": "-35F"
+      }
+    ]
+  },
+  {
+    "char": "Reimu",
+    "name": "Treasure Sign \"Yin-Yang Orb\" ",
+    "type": "spell",
+    "img": "./images/Reimu/25px-Hasc04.png",
+    "data": [
+      {
+        "Damage": "0.25",
+        "Limit": "5%",
+        "Rate": "95%",
+        "Modifier": "Smash",
+        "Cancel": "-",
+        "Density": "A?x1",
+        "Graze": "-",
+        "Startup": "1+15",
+        "Motion": "-",
+        "Total": "88F",
+        "Frame Adv.": "-7F"
+      }
+    ]
+  },
+  {
+    "char": "Reimu",
+    "name": "Boundary \"Expanding Boundary\" ",
+    "type": "spell",
+    "img": "./images/Reimu/25px-Hasc05.png",
+    "data": [
+      {
+        "Version": "Ground",
+        "Damage": "0.15",
+        "Limit": "5%",
+        "Rate": "95%",
+        "Modifier": "Smash",
+        "Cancel": "-",
+        "Density": "A?x10",
+        "Graze": "-",
+        "Startup": "16+26",
+        "Motion": "-",
+        "Total": "152F",
+        "Frame Adv.": "-80F"
+      },
+      {
+        "Version": "Air",
+        "Damage": "0.15",
+        "Limit": "5%",
+        "Rate": "95%",
+        "Modifier": "Smash",
+        "Cancel": "-",
+        "Density": "A?x10",
+        "Graze": "-",
+        "Startup": "16+26",
+        "Motion": "-",
+        "Total": "Until Landing",
+        "Frame Adv.": "-"
+      }
+    ]
+  },
+  {
+    "char": "Reimu",
+    "name": "Divine Arts \"Wind God Kick\" ",
+    "type": "spell",
+    "img": "./images/Reimu/25px-Hasc06.png",
+    "data": [
+      {
+        "Damage": "600,600,600,750,1200",
+        "Limit": "0x4%,40%",
+        "Rate": "95%x4,85%",
+        "Modifier": "Rift",
+        "Cancel": "-",
+        "Guard": "HA",
+        "Startup": "4+5",
+        "Active": "-",
+        "Total": "168F",
+        "Frame Adv.": "-56F"
+      }
+    ]
+  },
+  {
+    "char": "Reimu",
+    "name": "Divine Arts \"Demon Binding Circle\" ",
+    "type": "spell",
+    "img": "./images/Reimu/25px-Hasc07.png",
+    "data": [
+      {
+        "Damage": "0.05",
+        "Limit": "0%x41,100%",
+        "Rate": "99%",
+        "Modifier": "Rift",
+        "Cancel": "-",
+        "Density": "A?x1",
+        "Graze": "-",
+        "Startup": "14+6",
+        "Motion": "-",
+        "Total": "204F",
+        "Frame Adv.": "-33F"
+      }
+    ]
+  },
+  {
+    "char": "Reimu",
+    "name": "Holy Relic \"Yin-Yang Sanctifier Orb\" ",
+    "type": "spell",
+    "img": "./images/Reimu/25px-Hasc08.png",
+    "data": [
+      {
+        "Damage": "0.05",
+        "Limit": "1%",
+        "Rate": "98%",
+        "Modifier": "-",
+        "Cancel": "-",
+        "Density": "A?x1",
+        "Graze": "-",
+        "Startup": "1+20",
+        "Motion": "-",
+        "Total": "82F",
+        "Frame Adv.": "+20F~+110F"
+      }
+    ]
+  },
+  {
+    "char": "Reimu",
+    "name": "Divine Spirit \"Fantasy Seal\" ",
+    "type": "spell",
+    "img": "./images/Reimu/25px-Hasc09.png",
+    "data": [
+      {
+        "Version": "Ground",
+        "Damage": "0.25[0.5]",
+        "Limit": "0%[10%]",
+        "Rate": "97%[92%]",
+        "Modifier": "Smash",
+        "Cancel": "-",
+        "Density": "B1x10",
+        "Graze": "-",
+        "Startup": "9+11",
+        "Motion": "-",
+        "Total": "105F",
+        "Frame Adv.": "-10F"
+      },
+      {
+        "Version": "Air",
+        "Damage": "0.25[0.5]",
+        "Limit": "0%[10%]",
+        "Rate": "97%[92%]",
+        "Modifier": "Smash",
+        "Cancel": "-",
+        "Density": "B1x10",
+        "Graze": "-",
+        "Startup": "9+11",
+        "Motion": "-",
+        "Total": "Until landing",
+        "Frame Adv.": "-"
+      }
+    ]
+  },
+  {
+    "char": "Reimu",
+    "name": "\"Fantasy Heaven\" ",
+    "type": "spell",
+    "img": "./images/Reimu/25px-Hasc10.png",
+    "data": [
+      {
+        "Damage": "-",
+        "Limit": "-",
+        "Rate": "-",
+        "Modifier": "-",
+        "Cancel": "-",
+        "Guard": "-",
+        "Startup": "10+0",
+        "Active": "-",
+        "Total": "42F",
+        "Frame Adv.": "-"
+      }
+    ]
+  },
+  {
+    "char": "Reimu",
+    "name": "Fantasy Heaven Activation",
+    "type": "spell",
+    "img": "",
+    "data": [
+      {
+        "Version": "Ground",
+        "Damage": "0.5",
+        "Limit": "0%",
+        "Rate": "98%",
+        "Modifier": "Smash",
+        "Cancel": "-",
+        "Density": "A?x??",
+        "Graze": "-",
+        "Startup": "9+11",
+        "Motion": "-",
+        "Total": "275F",
+        "Frame Adv.": "-"
+      },
+      {
+        "Version": "Air",
+        "Damage": "0.5",
+        "Limit": "0%",
+        "Rate": "98%",
+        "Modifier": "Smash",
+        "Cancel": "-",
+        "Density": "A?x??",
+        "Graze": "-",
+        "Startup": "9+11",
+        "Motion": "-",
+        "Total": "Until Landing",
+        "Frame Adv.": "-"
+      }
+    ]
+  }
+]

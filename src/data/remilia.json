@@ -1,0 +1,330 @@
+[
+  {
+    "char": "Remilia",
+    "name": "4A",
+    "type": "normal",
+    "img": "./images/Remilia/175px-Remi_5a.png",
+    "data": [
+      {
+        "Damage": "200",
+        "Limit": "0%",
+        "Rate": "98%",
+        "Modifier": "None",
+        "Cancel": "R Cn B C Sk Sp",
+        "Guard": "HL",
+        "Startup": "7F",
+        "Active": "3F",
+        "Total": "15F",
+        "Frame Adv.": "+1F"
+      }
+    ]
+  },
+  {
+    "char": "Remilia",
+    "name": "5A",
+    "type": "normal",
+    "img": "./images/Remilia/175px-Remi_5a.png",
+    "data": [
+      {
+        "Damage": "200",
+        "Limit": "0%",
+        "Rate": "98%",
+        "Modifier": "None",
+        "Cancel": "D Cn B C Sk Sp",
+        "Guard": "HL",
+        "Startup": "7F",
+        "Active": "3F",
+        "Total": "15F",
+        "Frame Adv.": "+1F"
+      }
+    ]
+  },
+  {
+    "char": "Remilia",
+    "name": "5AA",
+    "type": "normal",
+    "img": "./images/Remilia/175px-Remi_5a.png",
+    "data": [
+      {
+        "Damage": "200",
+        "Limit": "0%",
+        "Rate": "98%",
+        "Modifier": "None",
+        "Cancel": "D Cn B C Sk Sp",
+        "Guard": "HL",
+        "Startup": "7F",
+        "Active": "3F",
+        "Total": "15F",
+        "Frame Adv.": "+1F"
+      }
+    ]
+  },
+  {
+    "char": "Remilia",
+    "name": "5AAA",
+    "type": "normal",
+    "img": "./images/Remilia/175px-Remi_5aaa_%28first_hit%29.png",
+    "data": [
+      {
+        "Damage": "400, 500",
+        "Limit": "0%",
+        "Rate": "92%",
+        "Modifier": "None",
+        "Cancel": "D B C Sk Sp",
+        "Guard": "H, H",
+        "Startup": "9F, 19F",
+        "Active": "2F, 2F",
+        "Total": "38F",
+        "Frame Adv.": "-4F/0F"
+      }
+    ]
+  },
+  {
+    "char": "Remilia",
+    "name": "5AAAA",
+    "type": "normal",
+    "img": "./images/Remilia/175px-Remi_5aaaa.png",
+    "data": [
+      {
+        "Damage": "850",
+        "Limit": "40%",
+        "Rate": "80%",
+        "Modifier": "Smash",
+        "Cancel": "Sp",
+        "Guard": "H",
+        "Startup": "16F",
+        "Active": "2F",
+        "Total": "45F",
+        "Frame Adv.": "-8F/-2F"
+      }
+    ]
+  },
+  {
+    "char": "Remilia",
+    "name": "f5A",
+    "type": "normal",
+    "img": "./images/Remilia/175px-Remi_f5a.png",
+    "data": [
+      {
+        "Damage": "450",
+        "Limit": "0%",
+        "Rate": "90%",
+        "Modifier": "None",
+        "Cancel": "Cn B C Sk Sp",
+        "Guard": "L",
+        "Startup": "11F",
+        "Active": "2F",
+        "Total": "30F",
+        "Frame Adv.": "-4F/0F"
+      }
+    ]
+  },
+  {
+    "char": "Remilia",
+    "name": "2A",
+    "type": "normal",
+    "img": "./images/Remilia/175px-Remi_2a.png",
+    "data": [
+      {
+        "Damage": "700",
+        "Limit": "40%",
+        "Rate": "85%",
+        "Modifier": "Rift",
+        "Cancel": "Cn B C Sk Sp",
+        "Guard": "HL",
+        "Startup": "10F",
+        "Active": "3F",
+        "Total": "40F",
+        "Frame Adv.": "-9F"
+      }
+    ]
+  },
+  {
+    "char": "Remilia",
+    "name": "3A",
+    "type": "normal",
+    "img": "./images/Remilia/175px-Remi_3a.png",
+    "data": [
+      {
+        "Damage": "900",
+        "Limit": "40%",
+        "Rate": "85%",
+        "Modifier": "Rift",
+        "Cancel": "Sp",
+        "Guard": "L",
+        "Startup": "16F",
+        "Active": "16F",
+        "Total": "43F",
+        "Frame Adv.": "-6F/0F"
+      }
+    ]
+  },
+  {
+    "char": "Remilia",
+    "name": "6A",
+    "type": "normal",
+    "img": "./images/Remilia/175px-Remi_6a.png",
+    "data": [
+      {
+        "Version": "Uncharged",
+        "Damage": "850",
+        "Limit": "40%",
+        "Rate": "80%",
+        "Modifier": "Smash",
+        "Cancel": "B C Sk Sp",
+        "Guard": "H",
+        "Startup": "16F",
+        "Active": "2F",
+        "Total": "45F",
+        "Frame Adv.": "-8F/-2F"
+      },
+      {
+        "Version": "Charged",
+        "Damage": "950",
+        "Limit": "40%",
+        "Rate": "80%",
+        "Modifier": "Smash",
+        "Cancel": "Sp",
+        "Guard": "H*",
+        "Startup": "31F",
+        "Active": "2F",
+        "Total": "60F",
+        "Frame Adv.": "-2F/+20F"
+      }
+    ]
+  },
+  {
+    "char": "Remilia",
+    "name": "j5A",
+    "type": "normal",
+    "img": "./images/Remilia/175px-Remi_j5a.png",
+    "data": [
+      {
+        "Damage": "450",
+        "Limit": "0%",
+        "Rate": "92%",
+        "Modifier": "None",
+        "Cancel": "j.5AA Cn B C Sk Sp",
+        "Guard": "HA",
+        "Startup": "9F",
+        "Active": "2F",
+        "Total": "39F",
+        "Frame Adv.": "(-11F)"
+      }
+    ]
+  },
+  {
+    "char": "Remilia",
+    "name": "j5AA",
+    "type": "normal",
+    "img": "./images/Remilia/175px-Remi_j5aa.png",
+    "data": [
+      {
+        "Damage": "450",
+        "Limit": "40%",
+        "Rate": "80%",
+        "Modifier": "-",
+        "Cancel": "Cn B C Sk Sp",
+        "Guard": "HA",
+        "Startup": "5F",
+        "Active": "2F",
+        "Total": "20F",
+        "Frame Adv.": "(+4F)"
+      }
+    ]
+  },
+  {
+    "char": "Remilia",
+    "name": "j6A",
+    "type": "normal",
+    "img": "./images/Remilia/175px-Remi_j6a.png",
+    "data": [
+      {
+        "Damage": "750",
+        "Limit": "40%",
+        "Rate": "85%",
+        "Modifier": "Smash",
+        "Cancel": "B C Sk Sp",
+        "Guard": "HA",
+        "Startup": "15F",
+        "Active": "10F",
+        "Total": "60F",
+        "Frame Adv.": "-19F(-21F)/-13F"
+      }
+    ]
+  },
+  {
+    "char": "Remilia",
+    "name": "j2A",
+    "type": "normal",
+    "img": "./images/Remilia/175px-Remi_j2a.png",
+    "data": [
+      {
+        "Damage": "800",
+        "Limit": "40%",
+        "Rate": "85%",
+        "Modifier": "-",
+        "Cancel": "B C Sk Sp",
+        "Guard": "HA",
+        "Startup": "11F",
+        "Active": "2F",
+        "Total": "51F",
+        "Frame Adv.": "(-21F)"
+      }
+    ]
+  },
+  {
+    "char": "Remilia",
+    "name": "j8A",
+    "type": "normal",
+    "img": "./images/Remilia/175px-Remi_j8a.png",
+    "data": [
+      {
+        "Damage": "850",
+        "Limit": "40%",
+        "Rate": "85%",
+        "Modifier": "Rift",
+        "Cancel": "B C Sk Sp",
+        "Guard": "HA",
+        "Startup": "11F",
+        "Active": "3F",
+        "Total": "39F",
+        "Frame Adv.": "(-9F)"
+      }
+    ]
+  },
+  {
+    "char": "Remilia",
+    "name": "Demon Lord Walk",
+    "type": "skill",
+    "img": "./images/Remilia/Re236bc1.png",
+    "data": [
+      {
+        "Version": "B",
+        "Damage": "1100",
+        "Limit": "40%",
+        "Rate": "75%",
+        "Modifier": "Smash",
+        "Cancel": "Sp",
+        "Guard": "LA",
+        "Startup": "18F",
+        "Active": "13F",
+        "Total": "63F",
+        "Frame Adv.": "-13/-7"
+      },
+      {
+        "Version": "C",
+        "Damage": "800, 800 (1299)",
+        "Limit": "40%, 40% (80%)",
+        "Rate": "80%, 80% (64%)",
+        "Modifier": "Rift, Smash",
+        "Cancel": "None",
+        "Guard": "LA",
+        "Startup": "17F, 41F",
+        "Active": "13F, 16F",
+        "Total": "89F",
+        "Frame Adv.": "-13/-7"
+      }
+    ]
+  }
+]

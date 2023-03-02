@@ -1,0 +1,364 @@
+[
+  {
+    "char": "Suwako",
+    "name": "4A",
+    "type": "normal",
+    "img": "./images/Suwako/175px-Suwako5A.png",
+    "data": [
+      {
+        "Damage": "200",
+        "Limit": "0%",
+        "Rate": "98%",
+        "Modifier": "None",
+        "Cancel": "R Cn B C Sk Sp",
+        "Guard": "L",
+        "Startup": "7F",
+        "Active": "2F",
+        "Total": "18F",
+        "Frame Adv.": "-2/0"
+      }
+    ]
+  },
+  {
+    "char": "Suwako",
+    "name": "5A",
+    "type": "normal",
+    "img": "./images/Suwako/175px-Suwako5A.png",
+    "data": [
+      {
+        "Damage": "200",
+        "Limit": "0%",
+        "Rate": "98%",
+        "Modifier": "None",
+        "Cancel": "D Cn B C Sk Sp",
+        "Guard": "L",
+        "Startup": "7F",
+        "Active": "2F",
+        "Total": "18F",
+        "Frame Adv.": "-2/0"
+      }
+    ]
+  },
+  {
+    "char": "Suwako",
+    "name": "5AA",
+    "type": "normal",
+    "img": "./images/Suwako/175px-Suwako5A.png",
+    "data": [
+      {
+        "Damage": "300",
+        "Limit": "0%",
+        "Rate": "98%",
+        "Modifier": "None",
+        "Cancel": "D Cn B C Sk Sp",
+        "Guard": "L",
+        "Startup": "8F",
+        "Active": "2F",
+        "Total": "25F",
+        "Frame Adv.": "-2/+2"
+      }
+    ]
+  },
+  {
+    "char": "Suwako",
+    "name": "5AAA",
+    "type": "normal",
+    "img": "./images/Suwako/175px-Suwako5AAA.png",
+    "data": [
+      {
+        "Damage": "200x4",
+        "Limit": "0%",
+        "Rate": "96%x4",
+        "Modifier": "None",
+        "Cancel": "D B C Sk Sp",
+        "Guard": "H",
+        "Startup": "15F",
+        "Active": "21F",
+        "Total": "50F",
+        "Frame Adv.": "-2/+2"
+      }
+    ]
+  },
+  {
+    "char": "Suwako",
+    "name": "5AAAA",
+    "type": "normal",
+    "img": "./images/Suwako/175px-Suwako5aaaa3.png",
+    "data": [
+      {
+        "Damage": "1000x2",
+        "Limit": "25%x2",
+        "Rate": "80%x2",
+        "Modifier": "Rift",
+        "Cancel": "Sp (U after landing)",
+        "Guard": "H* A",
+        "Startup": "13F, 19F",
+        "Active": "Until Landing",
+        "Total": "Varies",
+        "Frame Adv.": "-39F"
+      }
+    ]
+  },
+  {
+    "char": "Suwako",
+    "name": "f5A",
+    "type": "normal",
+    "img": "./images/Suwako/175px-Suwakof5a1.png",
+    "data": [
+      {
+        "Version": "Uncharged",
+        "Damage": "750",
+        "Limit": "40%",
+        "Rate": "85%",
+        "Modifier": "Rift",
+        "Cancel": "Cn B C Sk Sp",
+        "Guard": "L",
+        "Startup": "15F",
+        "Active": "3F",
+        "Total": "43F",
+        "Frame Adv.": "-7/-1"
+      },
+      {
+        "Version": "Charged",
+        "Damage": "900",
+        "Limit": "40%",
+        "Rate": "80%",
+        "Modifier": "Rift",
+        "Cancel": "Sp",
+        "Guard": "L*",
+        "Startup": "30F",
+        "Active": "3F",
+        "Total": "69F",
+        "Frame Adv.": "-12/+10"
+      }
+    ]
+  },
+  {
+    "char": "Suwako",
+    "name": "6A",
+    "type": "normal",
+    "img": "./images/Suwako/175px-Suwako6a.jpg",
+    "data": [
+      {
+        "Version": "Uncharged",
+        "Damage": "800",
+        "Limit": "40%",
+        "Rate": "85%",
+        "Modifier": "Rift",
+        "Cancel": "B C Sk Sp",
+        "Guard": "HA",
+        "Startup": "17F(18F tree)",
+        "Active": "10F(6F tree)",
+        "Total": "53F",
+        "Frame Adv.": "-14/-8"
+      },
+      {
+        "Version": "Charged",
+        "Damage": "950",
+        "Limit": "40%",
+        "Rate": "80%",
+        "Modifier": "Rift",
+        "Cancel": "Sp",
+        "Guard": "H*",
+        "Startup": "32F(33F tree)",
+        "Active": "10F(6F tree)",
+        "Total": "73F",
+        "Frame Adv.": "-13/+9"
+      }
+    ]
+  },
+  {
+    "char": "Suwako",
+    "name": "3A",
+    "type": "normal",
+    "img": "./images/Suwako/175px-Suwako3a2.png",
+    "data": [
+      {
+        "Damage": "800",
+        "Limit": "40%",
+        "Rate": "80%",
+        "Modifier": "Smash",
+        "Cancel": "B C Sk Sp",
+        "Guard": "HL",
+        "Startup": "25F",
+        "Active": "11F",
+        "Total": "57F",
+        "Frame Adv.": "-11F"
+      }
+    ]
+  },
+  {
+    "char": "Suwako",
+    "name": "L.A",
+    "type": "normal",
+    "img": "./images/Suwako/175px-Suwakol2awako.jpg",
+    "data": [
+      {
+        "Damage": "1000",
+        "Limit": "40%",
+        "Rate": "85%",
+        "Modifier": "Rift",
+        "Cancel": "Cn B C Sk Sp",
+        "Guard": "HA",
+        "Startup": "13F",
+        "Active": "4F",
+        "Total": "67F",
+        "Frame Adv.": "-33F/-27F"
+      }
+    ]
+  },
+  {
+    "char": "Suwako",
+    "name": "L.6A",
+    "type": "normal",
+    "img": "./images/Suwako/175px-SuwakoL6a3.png",
+    "data": [
+      {
+        "Damage": "1100",
+        "Limit": "40%",
+        "Rate": "80%",
+        "Modifier": "Rift",
+        "Cancel": "Sp (U after landing)",
+        "Guard": "HA",
+        "Startup": "19F",
+        "Active": "11F",
+        "Total": "87F",
+        "Frame Adv.": "-41F/-36F"
+      }
+    ]
+  },
+  {
+    "char": "Suwako",
+    "name": "L.3A",
+    "type": "normal",
+    "img": "./images/Suwako/175px-Suwakol3awako.jpg",
+    "data": [
+      {
+        "Damage": "1100",
+        "Limit": "40%",
+        "Rate": "80%",
+        "Modifier": "Rift",
+        "Cancel": "B C Sk Sp",
+        "Guard": "HLA",
+        "Startup": "17F",
+        "Active": "8F",
+        "Total": "48F",
+        "Frame Adv.": "-1"
+      }
+    ]
+  },
+  {
+    "char": "Suwako",
+    "name": "66A",
+    "type": "normal",
+    "img": "./images/Suwako/175px-Suwakoj5a.png",
+    "data": [
+      {
+        "Damage": "200x4",
+        "Limit": "0%x4",
+        "Rate": "96%x4",
+        "Modifier": "None",
+        "Cancel": "Cn B C Sk Sp",
+        "Guard": "HA",
+        "Startup": "24F",
+        "Active": "21F",
+        "Total": "54F",
+        "Frame Adv.": "+3/+7"
+      }
+    ]
+  },
+  {
+    "char": "Suwako",
+    "name": "j5A",
+    "type": "normal",
+    "img": "./images/Suwako/175px-Suwakoj5a.png",
+    "data": [
+      {
+        "Damage": "200x4",
+        "Limit": "0%x4",
+        "Rate": "96%x4",
+        "Modifier": "None",
+        "Cancel": "Cn B C Sk Sp",
+        "Guard": "HA",
+        "Startup": "12F",
+        "Active": "21F",
+        "Total": "56F",
+        "Frame Adv.": "(-7)"
+      }
+    ]
+  },
+  {
+    "char": "Suwako",
+    "name": "j6A",
+    "type": "normal",
+    "img": "./images/Suwako/175px-Suwakoj6a5.png",
+    "data": [
+      {
+        "Damage": "100x4, 1000",
+        "Limit": "0%x4, 40%",
+        "Rate": "98%x4, 85%",
+        "Modifier": "Lift, Smash",
+        "Cancel": "B C Sk Sp",
+        "Guard": "HA",
+        "Startup": "15F",
+        "Active": "15F",
+        "Total": "53F",
+        "Frame Adv.": "(-1)"
+      }
+    ]
+  },
+  {
+    "char": "Suwako",
+    "name": "j8A",
+    "type": "normal",
+    "img": "./images/Suwako/175px-Suwakoj8a.png",
+    "data": [
+      {
+        "Version": "Body",
+        "Damage": "850",
+        "Limit": "40%",
+        "Rate": "85%",
+        "Modifier": "Rift",
+        "Cancel": "B C Sk Sp",
+        "Guard": "HA",
+        "Startup": "16F",
+        "Active": "5F",
+        "Total": "65F",
+        "Frame Adv.": "(-8)"
+      },
+      {
+        "Version": "Tree",
+        "Damage": "1100",
+        "Limit": "40%",
+        "Rate": "80%",
+        "Modifier": "Rift",
+        "Cancel": "B C Sk Sp",
+        "Guard": "LA",
+        "Startup": "18F",
+        "Active": "10F",
+        "Total": "-",
+        "Frame Adv.": "+1/+7"
+      }
+    ]
+  },
+  {
+    "char": "Suwako",
+    "name": "j2A",
+    "type": "normal",
+    "img": "./images/Suwako/175px-Suwakoj2a1.png",
+    "data": [
+      {
+        "Damage": "1000",
+        "Limit": "40%",
+        "Rate": "85%",
+        "Modifier": "Smash",
+        "Cancel": "B C Sk Sp",
+        "Guard": "HA",
+        "Startup": "40F",
+        "Active": "18F",
+        "Total": "79F",
+        "Frame Adv.": "-17/-11"
+      }
+    ]
+  }
+]

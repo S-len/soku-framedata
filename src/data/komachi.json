@@ -1,0 +1,707 @@
+[
+  {
+    "char": "Komachi",
+    "name": "4A",
+    "type": "normal",
+    "img": "./images/Komachi/175px-Komachi_4a.png",
+    "data": [
+      {
+        "Damage": "350",
+        "Limit": "0%",
+        "Rate": "94%",
+        "Modifier": "None",
+        "Cancel": "Cn B C Sk Sp",
+        "Guard": "HL",
+        "Startup": "9F",
+        "Active": "3F",
+        "Total": "26F",
+        "Frame Adv.": "-2"
+      }
+    ]
+  },
+  {
+    "char": "Komachi",
+    "name": "5A",
+    "type": "normal",
+    "img": "./images/Komachi/175px-Komachi_5a.png",
+    "data": [
+      {
+        "Damage": "350",
+        "Limit": "0%",
+        "Rate": "94%",
+        "Modifier": "None",
+        "Cancel": "D Cn B C Sk Sp",
+        "Guard": "HL",
+        "Startup": "9F",
+        "Active": "3F",
+        "Total": "26F",
+        "Frame Adv.": "-2"
+      }
+    ]
+  },
+  {
+    "char": "Komachi",
+    "name": "5AA",
+    "type": "normal",
+    "img": "./images/Komachi/175px-Komachi_5aa.png",
+    "data": [
+      {
+        "Damage": "600",
+        "Limit": "0%",
+        "Rate": "90%",
+        "Modifier": "None",
+        "Cancel": "D B C Sk Sp",
+        "Guard": "H",
+        "Startup": "15F",
+        "Active": "6F",
+        "Total": "47F",
+        "Frame Adv.": "-11F/-5F"
+      }
+    ]
+  },
+  {
+    "char": "Komachi",
+    "name": "5AAA",
+    "type": "normal",
+    "img": "./images/Komachi/175px-Komachi_5aaa.png",
+    "data": [
+      {
+        "Damage": "800",
+        "Limit": "40%",
+        "Rate": "85%",
+        "Modifier": "Rift",
+        "Cancel": "D Sk Sp",
+        "Guard": "H",
+        "Startup": "19F",
+        "Active": "3F",
+        "Total": "64F",
+        "Frame Adv.": "-24F/-18F"
+      }
+    ]
+  },
+  {
+    "char": "Komachi",
+    "name": "5AAAA",
+    "type": "normal",
+    "img": "./images/Komachi/175px-Komachi_5aaaa.png",
+    "data": [
+      {
+        "Damage": "900",
+        "Limit": "40%",
+        "Rate": "85%",
+        "Modifier": "Smash",
+        "Cancel": "Sp",
+        "Guard": "H*",
+        "Startup": "27F",
+        "Active": "2F",
+        "Total": "51F",
+        "Frame Adv.": "-3F/+25F"
+      }
+    ]
+  },
+  {
+    "char": "Komachi",
+    "name": "f5A",
+    "type": "normal",
+    "img": "./images/Komachi/175px-Komachi_f5a_1.png",
+    "data": [
+      {
+        "Damage": "850",
+        "Limit": "40%",
+        "Rate": "85%",
+        "Modifier": "Smash",
+        "Cancel": "Cn B C Sk Sp",
+        "Guard": "H",
+        "Startup": "15F",
+        "Active": "6F",
+        "Total": "57F",
+        "Frame Adv.": "-21F/-15F"
+      }
+    ]
+  },
+  {
+    "char": "Komachi",
+    "name": "2A",
+    "type": "normal",
+    "img": "./images/Komachi/175px-Komachi_2a.png",
+    "data": [
+      {
+        "Damage": "250",
+        "Limit": "0%",
+        "Rate": "97%",
+        "Modifier": "None",
+        "Cancel": "R Cn B C Sk Sp",
+        "Guard": "L",
+        "Startup": "8F",
+        "Active": "3F",
+        "Total": "21F",
+        "Frame Adv.": "-4F/+2F"
+      }
+    ]
+  },
+  {
+    "char": "Komachi",
+    "name": "6A",
+    "type": "normal",
+    "img": "./images/Komachi/175px-Komachi_6a.png",
+    "data": [
+      {
+        "Version": "Uncharged",
+        "Damage": "900",
+        "Limit": "40%",
+        "Rate": "80%",
+        "Modifier": "Rift",
+        "Cancel": "B C Sk Sp",
+        "Guard": "L",
+        "Startup": "16F",
+        "Active": "3F",
+        "Total": "47F",
+        "Frame Adv.": "-10F/-4F"
+      },
+      {
+        "Version": "Charged",
+        "Damage": "1100",
+        "Limit": "40%",
+        "Rate": "80%",
+        "Modifier": "Rift",
+        "Cancel": "Sp",
+        "Guard": "L*",
+        "Startup": "32F",
+        "Active": "3F",
+        "Total": "64F",
+        "Frame Adv.": "-5F/+17F"
+      }
+    ]
+  },
+  {
+    "char": "Komachi",
+    "name": "3A",
+    "type": "normal",
+    "img": "./images/Komachi/175px-Komachi_3a.png",
+    "data": [
+      {
+        "Version": "Uncharged",
+        "Damage": "900",
+        "Limit": "40%",
+        "Rate": "80%",
+        "Modifier": "Rift",
+        "Cancel": "B C Sk Sp",
+        "Guard": "H",
+        "Startup": "16F",
+        "Active": "3F",
+        "Total": "57F",
+        "Frame Adv.": "-20F/-14F"
+      },
+      {
+        "Version": "Charged",
+        "Damage": "1100",
+        "Limit": "40%",
+        "Rate": "80%",
+        "Modifier": "Rift",
+        "Cancel": "Sp",
+        "Guard": "H*",
+        "Startup": "32F",
+        "Active": "3F",
+        "Total": "76F",
+        "Frame Adv.": "-17F/+5F"
+      }
+    ]
+  },
+  {
+    "char": "Komachi",
+    "name": "66A or 6DA",
+    "type": "normal",
+    "img": "./images/Komachi/175px-Komachi_66a.png",
+    "data": [
+      {
+        "Damage": "600",
+        "Limit": "0%",
+        "Rate": "88%",
+        "Modifier": "Rift",
+        "Cancel": "Sk Sp",
+        "Guard": "H",
+        "Startup": "13F",
+        "Active": "4F",
+        "Total": "42F",
+        "Frame Adv.": "-8F/-2F"
+      }
+    ]
+  },
+  {
+    "char": "Komachi",
+    "name": "66B or 6DB",
+    "type": "normal",
+    "img": "./images/Komachi/175px-Komachi_66b_3.png",
+    "data": [
+      {
+        "Damage": "800",
+        "Limit": "40%",
+        "Rate": "75%",
+        "Modifier": "Rift",
+        "Cancel": "Sp",
+        "Guard": "L",
+        "Startup": "13F",
+        "Active": "22F",
+        "Total": "54F",
+        "Frame Adv.": "-20F/-14F"
+      }
+    ]
+  },
+  {
+    "char": "Komachi",
+    "name": "66C or 6DC",
+    "type": "normal",
+    "img": "./images/Komachi/175px-Komachi_66c.png",
+    "data": [
+      {
+        "Damage": "1200",
+        "Limit": "40%",
+        "Rate": "80%",
+        "Modifier": "Smash",
+        "Cancel": "Sp",
+        "Guard": "H",
+        "Startup": "24F",
+        "Active": "2F",
+        "Total": "62F",
+        "Frame Adv.": "-16F/-10F"
+      }
+    ]
+  },
+  {
+    "char": "Komachi",
+    "name": "j5A",
+    "type": "normal",
+    "img": "./images/Komachi/175px-Komachi_j5a.png",
+    "data": [
+      {
+        "Damage": "450",
+        "Limit": "0%",
+        "Rate": "92%",
+        "Modifier": "None",
+        "Cancel": "Cn B C Sk Sp",
+        "Guard": "HA",
+        "Startup": "10F",
+        "Active": "5F",
+        "Total": "46F",
+        "Frame Adv.": "(-17)"
+      }
+    ]
+  },
+  {
+    "char": "Komachi",
+    "name": "j6A",
+    "type": "normal",
+    "img": "./images/Komachi/175px-Komachi_j6a.png",
+    "data": [
+      {
+        "Damage": "850",
+        "Limit": "40%",
+        "Rate": "85%",
+        "Modifier": "Smash",
+        "Cancel": "B C Sk Sp",
+        "Guard": "HA",
+        "Startup": "15F",
+        "Active": "2F",
+        "Total": "57F",
+        "Frame Adv.": "(-35F)"
+      }
+    ]
+  },
+  {
+    "char": "Komachi",
+    "name": "j8A",
+    "type": "normal",
+    "img": "./images/Komachi/175px-Komachi_j8a.png",
+    "data": [
+      {
+        "Damage": "900",
+        "Limit": "40%",
+        "Rate": "80%",
+        "Modifier": "Rift",
+        "Cancel": "B C Sk Sp",
+        "Guard": "HA",
+        "Startup": "19F",
+        "Active": "2F",
+        "Total": "54F",
+        "Frame Adv.": "(-19F)"
+      }
+    ]
+  },
+  {
+    "char": "Komachi",
+    "name": "j2A",
+    "type": "normal",
+    "img": "./images/Komachi/175px-Komachi_j2a.png",
+    "data": [
+      {
+        "Damage": "900",
+        "Limit": "40%",
+        "Rate": "80%",
+        "Modifier": "Smash",
+        "Cancel": "B C Sk Sp",
+        "Guard": "HA",
+        "Startup": "21F",
+        "Active": "2F",
+        "Total": "59F",
+        "Frame Adv.": "(-16F)"
+      }
+    ]
+  },
+  {
+    "char": "Komachi",
+    "name": "5B",
+    "type": "bullet",
+    "img": "./images/Komachi/175px-Kom5b.jpg",
+    "data": [
+      {
+        "Version": "Uncharged",
+        "Damage": "0.125*6",
+        "Limit": "5%*6",
+        "Rate": "97%",
+        "Modifier": "None",
+        "Cancel": "C Sk Sp M",
+        "Density": "C1x6",
+        "Graze": "1F",
+        "Startup": "16, 18, ...26F",
+        "Motion": "23F",
+        "Total": "50F",
+        "Frame Adv.": "-9F [+15F]"
+      },
+      {
+        "Version": "Charged",
+        "Damage": "0.125*6",
+        "Limit": "5%*10",
+        "Rate": "97%",
+        "Modifier": "None",
+        "Cancel": "C Sk Sp M",
+        "Density": "C1x10",
+        "Graze": "1F",
+        "Startup": "31, 33, ...49F",
+        "Motion": "42F",
+        "Total": "73F",
+        "Frame Adv.": "-9F [+15F]"
+      }
+    ]
+  },
+  {
+    "char": "Komachi",
+    "name": "2B",
+    "type": "bullet",
+    "img": "./images/Komachi/175px-Kom2b.jpg",
+    "data": [
+      {
+        "Damage": "0.125*8",
+        "Limit": "5%*8",
+        "Rate": "97%",
+        "Modifier": "None",
+        "Cancel": "C Sk Sp M",
+        "Density": "C1x8",
+        "Graze": "1F",
+        "Startup": "20, 22, ...34F",
+        "Motion": "29F",
+        "Total": "57F",
+        "Frame Adv.": "-19F [+15F]"
+      }
+    ]
+  },
+  {
+    "char": "Komachi",
+    "name": "6B",
+    "type": "bullet",
+    "img": "./images/Komachi/175px-Kom6b.jpg",
+    "data": [
+      {
+        "Version": "Uncharged",
+        "Damage": "0.125*6",
+        "Limit": "5%*6",
+        "Rate": "97%",
+        "Modifier": "None",
+        "Cancel": "C Sk Sp M",
+        "Density": "C1x6",
+        "Graze": "1F",
+        "Startup": "16, 18, ...26F",
+        "Motion": "27F",
+        "Total": "50F",
+        "Frame Adv.": "-9F [+15F]"
+      },
+      {
+        "Version": "Charged",
+        "Damage": "0.125*6",
+        "Limit": "5%*10",
+        "Rate": "97%",
+        "Modifier": "None",
+        "Cancel": "C Sk Sp M",
+        "Density": "C1x10",
+        "Graze": "1F",
+        "Startup": "31, 33, ...49F",
+        "Motion": "42F",
+        "Total": "73F",
+        "Frame Adv.": "-9F [+15F]"
+      }
+    ]
+  },
+  {
+    "char": "Komachi",
+    "name": "j5B",
+    "type": "bullet",
+    "img": "./images/Komachi/175px-Komj5b.jpg",
+    "data": [
+      {
+        "Version": "Uncharged",
+        "Damage": "0.125*6",
+        "Limit": "5%*6",
+        "Rate": "97%",
+        "Modifier": "None",
+        "Cancel": "C Sk Sp M",
+        "Density": "C1x6",
+        "Graze": "1F",
+        "Startup": "22, 24, ...32F",
+        "Motion": "27F",
+        "Total": "57F",
+        "Frame Adv.": "[+15F]"
+      },
+      {
+        "Version": "Charged",
+        "Damage": "0.125*6",
+        "Limit": "5%*10",
+        "Rate": "97%",
+        "Modifier": "None",
+        "Cancel": "C Sk Sp M",
+        "Density": "C1x10",
+        "Graze": "1F",
+        "Startup": "37, 39, ...55F",
+        "Motion": "42F",
+        "Total": "72F",
+        "Frame Adv.": "[+15F]"
+      }
+    ]
+  },
+  {
+    "char": "Komachi",
+    "name": "j2B",
+    "type": "bullet",
+    "img": "./images/Komachi/175px-Komj2b.jpg",
+    "data": [
+      {
+        "Version": "Uncharged",
+        "Damage": "0.125*6",
+        "Limit": "5%*6",
+        "Rate": "97%",
+        "Modifier": "None",
+        "Cancel": "C Sk Sp M",
+        "Density": "C1x6",
+        "Graze": "1F",
+        "Startup": "21, 23, ...31F",
+        "Motion": "26F",
+        "Total": "59F",
+        "Frame Adv.": "[+15F]"
+      },
+      {
+        "Version": "Charged",
+        "Damage": "0.125*6",
+        "Limit": "5%*10",
+        "Rate": "97%",
+        "Modifier": "None",
+        "Cancel": "C Sk Sp M",
+        "Density": "C1x10",
+        "Graze": "1F",
+        "Startup": "33, 35, ...51F",
+        "Motion": "41F",
+        "Total": "74F",
+        "Frame Adv.": "[+16F]"
+      }
+    ]
+  },
+  {
+    "char": "Komachi",
+    "name": "j6B",
+    "type": "bullet",
+    "img": "./images/Komachi/175px-Komj6b.jpg",
+    "data": [
+      {
+        "Damage": "0.125*10",
+        "Limit": "5%*10",
+        "Rate": "97%",
+        "Modifier": "None",
+        "Cancel": "C Sk Sp M",
+        "Density": "C1x8",
+        "Graze": "1F",
+        "Startup": "17, 19, ...35F",
+        "Motion": "27F",
+        "Total": "57F",
+        "Frame Adv.": "[+16F]"
+      }
+    ]
+  },
+  {
+    "char": "Komachi",
+    "name": "5C",
+    "type": "bullet",
+    "img": "./images/Komachi/175px-Kom5c.jpg",
+    "data": [
+      {
+        "Damage": "0.5",
+        "Limit": "10%",
+        "Rate": "80%",
+        "Modifier": "Rift",
+        "Cancel": "Sk Sp M",
+        "Density": "B1x1",
+        "Graze": "10F",
+        "Startup": "25F",
+        "Motion": "33F",
+        "Total": "65F",
+        "Frame Adv.": "-19F [+14F]"
+      }
+    ]
+  },
+  {
+    "char": "Komachi",
+    "name": "2C",
+    "type": "bullet",
+    "img": "./images/Komachi/175px-Kom2c1.png",
+    "data": [
+      {
+        "Damage": "1*n",
+        "Limit": "15%*n",
+        "Rate": "90%",
+        "Modifier": "Smash",
+        "Cancel": "Sk Sp M",
+        "Density": "B1xn",
+        "Graze": "-",
+        "Startup": "21+F",
+        "Motion": "42+F",
+        "Total": "63+F",
+        "Frame Adv.": "-12F [+10F]"
+      }
+    ]
+  },
+  {
+    "char": "Komachi",
+    "name": "6C",
+    "type": "bullet",
+    "img": "./images/Komachi/175px-Kom6c.jpg",
+    "data": [
+      {
+        "Version": "Uncharged",
+        "Damage": "0.5*2",
+        "Limit": "25%*2",
+        "Rate": "92%",
+        "Modifier": "Smash",
+        "Cancel": "Sk Sp M",
+        "Density": "C3x2",
+        "Graze": "1F",
+        "Startup": "25F",
+        "Motion": "37F",
+        "Total": "61F",
+        "Frame Adv.": "-6F [+19F]"
+      },
+      {
+        "Version": "Charged",
+        "Damage": "0.5*4",
+        "Limit": "25%*4",
+        "Rate": "93%",
+        "Modifier": "Smash",
+        "Cancel": "Sk Sp M",
+        "Density": "C3x4",
+        "Graze": "1F",
+        "Startup": "40F",
+        "Motion": "52F",
+        "Total": "81F",
+        "Frame Adv.": "-6F [+19F]"
+      }
+    ]
+  },
+  {
+    "char": "Komachi",
+    "name": "j5C",
+    "type": "bullet",
+    "img": "./images/Komachi/175px-Komj5c.jpg",
+    "data": [
+      {
+        "Damage": "0.5",
+        "Limit": "10%",
+        "Rate": "80%",
+        "Modifier": "Rift",
+        "Cancel": "Sk Sp M",
+        "Density": "B1x1",
+        "Graze": "10F",
+        "Startup": "26F",
+        "Motion": "34F",
+        "Total": "84F",
+        "Frame Adv.": "[+14F]"
+      }
+    ]
+  },
+  {
+    "char": "Komachi",
+    "name": "j6C",
+    "type": "bullet",
+    "img": "./images/Komachi/175px-Komj6c.jpg",
+    "data": [
+      {
+        "Version": "Uncharged",
+        "Damage": "0.5*2",
+        "Limit": "25%*2",
+        "Rate": "92%",
+        "Modifier": "Smash",
+        "Cancel": "Sk Sp M",
+        "Density": "C3x2",
+        "Graze": "1F",
+        "Startup": "21F",
+        "Motion": "33F",
+        "Total": "67F",
+        "Frame Adv.": "-16F [+19F]"
+      },
+      {
+        "Version": "Charged",
+        "Damage": "0.5*4",
+        "Limit": "25%*4",
+        "Rate": "93%",
+        "Modifier": "Smash",
+        "Cancel": "Sk Sp M",
+        "Density": "C3x4",
+        "Graze": "1F",
+        "Startup": "34F",
+        "Motion": "46F",
+        "Total": "80F",
+        "Frame Adv.": "-16F [+19F]"
+      }
+    ]
+  },
+  {
+    "char": "Komachi",
+    "name": "j2C",
+    "type": "bullet",
+    "img": "./images/Komachi/175px-Komj2c.jpg",
+    "data": [
+      {
+        "Version": "Uncharged",
+        "Damage": "0.5*2",
+        "Limit": "25%*2",
+        "Rate": "92%",
+        "Modifier": "Smash",
+        "Cancel": "Sk Sp M",
+        "Density": "C3x2",
+        "Graze": "1F",
+        "Startup": "23F",
+        "Motion": "35F",
+        "Total": "74F",
+        "Frame Adv.": "[+19F]"
+      },
+      {
+        "Version": "Charged",
+        "Damage": "0.5*4",
+        "Limit": "25%*4",
+        "Rate": "93%",
+        "Modifier": "Smash",
+        "Cancel": "Sk Sp M",
+        "Density": "C3x4",
+        "Graze": "1F",
+        "Startup": "36F",
+        "Motion": "48F",
+        "Total": "82F",
+        "Frame Adv.": "[+19F]"
+      }
+    ]
+  }
+]

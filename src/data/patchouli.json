@@ -1,0 +1,1603 @@
+[
+  {
+    "char": "Patchouli",
+    "name": "4A",
+    "type": "normal",
+    "img": "./images/Patchouli/175px-Patchouli_4a.png",
+    "data": [
+      {
+        "Damage": "350",
+        "Limit": "0%",
+        "Rate": "92%",
+        "Modifier": "None",
+        "Cancel": "Cn B C Sk Sp",
+        "Guard": "H",
+        "Startup": "9F",
+        "Active": "4F",
+        "Total": "25F",
+        "Frame Adv.": "-1F/+3F"
+      }
+    ]
+  },
+  {
+    "char": "Patchouli",
+    "name": "5A",
+    "type": "normal",
+    "img": "./images/Patchouli/175px-Patchouli_5a.png",
+    "data": [
+      {
+        "Damage": "350",
+        "Limit": "0%",
+        "Rate": "92%",
+        "Modifier": "None",
+        "Cancel": "D Cn B C Sk Sp",
+        "Guard": "H",
+        "Startup": "9F",
+        "Active": "4F",
+        "Total": "25F",
+        "Frame Adv.": "-1F/+3F"
+      }
+    ]
+  },
+  {
+    "char": "Patchouli",
+    "name": "5AA",
+    "type": "normal",
+    "img": "./images/Patchouli/175px-Patchouli_5aa.png",
+    "data": [
+      {
+        "Damage": "250*3",
+        "Limit": "0%",
+        "Rate": "94%",
+        "Modifier": "None",
+        "Cancel": "B C Sk Sp",
+        "Guard": "H",
+        "Startup": "16F",
+        "Active": "18F",
+        "Total": "55F",
+        "Frame Adv.": "-14F/-10F"
+      }
+    ]
+  },
+  {
+    "char": "Patchouli",
+    "name": "5AAA",
+    "type": "normal",
+    "img": "./images/Patchouli/175px-Patchouli_5aaa.png",
+    "data": [
+      {
+        "Damage": "900",
+        "Limit": "40%",
+        "Rate": "80%",
+        "Modifier": "Smash",
+        "Cancel": "Sp",
+        "Guard": "HA",
+        "Startup": "16F",
+        "Active": "2F",
+        "Total": "54F",
+        "Frame Adv.": "-17F/-11F"
+      }
+    ]
+  },
+  {
+    "char": "Patchouli",
+    "name": "f5A",
+    "type": "normal",
+    "img": "./images/Patchouli/175px-Patchouli_far_5a.png",
+    "data": [
+      {
+        "Version": "Uncharged",
+        "Damage": "650",
+        "Limit": "10%",
+        "Rate": "85%",
+        "Modifier": "None",
+        "Cancel": "B C Sk Sp",
+        "Guard": "HA",
+        "Startup": "17F",
+        "Active": "3F",
+        "Total": "46F",
+        "Frame Adv.": "-8F/-2F"
+      },
+      {
+        "Version": "Charged",
+        "Damage": "900",
+        "Limit": "40%",
+        "Rate": "80%",
+        "Modifier": "Smash",
+        "Cancel": "Sp",
+        "Guard": "H* A (2.5 orbs)",
+        "Startup": "32F",
+        "Active": "3F",
+        "Total": "64F",
+        "Frame Adv.": "-5F/+17F"
+      }
+    ]
+  },
+  {
+    "char": "Patchouli",
+    "name": "2A",
+    "type": "normal",
+    "img": "./images/Patchouli/175px-Patchouli_2a.png",
+    "data": [
+      {
+        "Damage": "300",
+        "Limit": "0%",
+        "Rate": "92%",
+        "Modifier": "None",
+        "Cancel": "Cn B C Sk Sp",
+        "Guard": "L",
+        "Startup": "10F",
+        "Active": "2F",
+        "Total": "27F",
+        "Frame Adv.": "-2F/+2F"
+      }
+    ]
+  },
+  {
+    "char": "Patchouli",
+    "name": "6A",
+    "type": "normal",
+    "img": "./images/Patchouli/175px-Patchouli_6a_2.png",
+    "data": [
+      {
+        "Version": "Uncharged",
+        "Damage": "600",
+        "Limit": "40%",
+        "Rate": "85%",
+        "Modifier": "Smash",
+        "Cancel": "B C Sk Sp",
+        "Guard": "H",
+        "Startup": "18F",
+        "Active": "8F",
+        "Total": "51F",
+        "Frame Adv.": "-12F/-6F"
+      },
+      {
+        "Version": "Charged",
+        "Damage": "900",
+        "Limit": "40%",
+        "Rate": "80%",
+        "Modifier": "Smash",
+        "Cancel": "Sp",
+        "Guard": "H*",
+        "Startup": "33F",
+        "Active": "8F",
+        "Total": "66F",
+        "Frame Adv.": "-6F/+16F"
+      }
+    ]
+  },
+  {
+    "char": "Patchouli",
+    "name": "3A",
+    "type": "normal",
+    "img": "./images/Patchouli/175px-Patchouli_3a_1.png",
+    "data": [
+      {
+        "Version": "Uncharged",
+        "Damage": "600",
+        "Limit": "40%",
+        "Rate": "85%",
+        "Modifier": "Rift",
+        "Cancel": "B C Sk Sp",
+        "Guard": "L",
+        "Startup": "16F",
+        "Active": "16F",
+        "Total": "48F",
+        "Frame Adv.": "-11F/-5F"
+      },
+      {
+        "Version": "Charged",
+        "Damage": "700",
+        "Limit": "40%",
+        "Rate": "85%",
+        "Modifier": "Rift",
+        "Cancel": "Sp",
+        "Guard": "L*",
+        "Startup": "31F",
+        "Active": "25F",
+        "Total": "70F",
+        "Frame Adv.": "-12F/+10F"
+      }
+    ]
+  },
+  {
+    "char": "Patchouli",
+    "name": "66A or 6DA",
+    "type": "normal",
+    "img": "./images/Patchouli/175px-Patchouli_66a.png",
+    "data": [
+      {
+        "Damage": "500",
+        "Limit": "0%",
+        "Rate": "90%",
+        "Modifier": "None",
+        "Cancel": "Sk Sp",
+        "Guard": "L",
+        "Startup": "19F",
+        "Active": "4F",
+        "Total": "48F",
+        "Frame Adv.": "-8F/-2F"
+      }
+    ]
+  },
+  {
+    "char": "Patchouli",
+    "name": "66B or 6DB",
+    "type": "normal",
+    "img": "./images/Patchouli/175px-Patchouli_66b.png",
+    "data": [
+      {
+        "Damage": "400*3",
+        "Limit": "15%*3",
+        "Rate": "94%",
+        "Modifier": "Rift",
+        "Cancel": "Sk Sp",
+        "Guard": "HLA",
+        "Startup": "12F",
+        "Active": "18F",
+        "Total": "51F",
+        "Frame Adv.": "-8F"
+      }
+    ]
+  },
+  {
+    "char": "Patchouli",
+    "name": "66C or 6DC",
+    "type": "normal",
+    "img": "./images/Patchouli/175px-Patchouli_66c.png",
+    "data": [
+      {
+        "Damage": "850",
+        "Limit": "40%",
+        "Rate": "80%",
+        "Modifier": "Smash",
+        "Cancel": "Sp",
+        "Guard": "HA",
+        "Startup": "13F",
+        "Active": "3F",
+        "Total": "40F",
+        "Frame Adv.": "-6F/+0F"
+      }
+    ]
+  },
+  {
+    "char": "Patchouli",
+    "name": "j5A",
+    "type": "normal",
+    "img": "./images/Patchouli/175px-Patchouli_j5a.png",
+    "data": [
+      {
+        "Damage": "200*3",
+        "Limit": "0%",
+        "Rate": "94%",
+        "Modifier": "None",
+        "Cancel": "Cn B C Sk Sp",
+        "Guard": "HA",
+        "Startup": "12F",
+        "Active": "24F",
+        "Total": "63F",
+        "Frame Adv.": "(-28)"
+      }
+    ]
+  },
+  {
+    "char": "Patchouli",
+    "name": "j6A",
+    "type": "normal",
+    "img": "./images/Patchouli/175px-Patchoulij6a0.jpg",
+    "data": [
+      {
+        "Damage": "400*3",
+        "Limit": "20%*3",
+        "Rate": "87%",
+        "Modifier": "Rift",
+        "Cancel": "B C Sk Sp",
+        "Guard": "HA",
+        "Startup": "18F",
+        "Active": "20F",
+        "Total": "70F",
+        "Frame Adv.": "(-17F)"
+      }
+    ]
+  },
+  {
+    "char": "Patchouli",
+    "name": "j8A",
+    "type": "normal",
+    "img": "./images/Patchouli/175px-Patchouli_j8a.png",
+    "data": [
+      {
+        "Damage": "300*3",
+        "Limit": "10%*3",
+        "Rate": "95%",
+        "Modifier": "Rift",
+        "Cancel": "B C Sk Sp",
+        "Guard": "MA",
+        "Startup": "12F",
+        "Active": "31F",
+        "Total": "67F",
+        "Frame Adv.": "(-19F)"
+      }
+    ]
+  },
+  {
+    "char": "Patchouli",
+    "name": "j2A",
+    "type": "normal",
+    "img": "./images/Patchouli/175px-Patchouli_j2a_2.png",
+    "data": [
+      {
+        "Version": "Uncharged",
+        "Damage": "750",
+        "Limit": "40%",
+        "Rate": "80%",
+        "Modifier": "Smash",
+        "Cancel": "B C Sk Sp",
+        "Guard": "HA",
+        "Startup": "20F",
+        "Active": "6F",
+        "Total": "55F",
+        "Frame Adv.": "(-16F)"
+      },
+      {
+        "Version": "Charged",
+        "Damage": "900",
+        "Limit": "40%",
+        "Rate": "80%",
+        "Modifier": "Smash",
+        "Cancel": "B C Sk Sp",
+        "Guard": "HA",
+        "Startup": "35F",
+        "Active": "6F",
+        "Total": "70F",
+        "Frame Adv.": "(-16F)"
+      }
+    ]
+  },
+  {
+    "char": "Patchouli",
+    "name": "4B",
+    "type": "bullet",
+    "img": "./images/Patchouli/175px-Patch4b.jpg",
+    "data": [
+      {
+        "Version": "Uncharged",
+        "Damage": "0.125*3",
+        "Limit": "5%*3",
+        "Rate": "97%",
+        "Modifier": "None",
+        "Cancel": "C Sk Sp M",
+        "Density": "C3x4",
+        "Graze": "5F",
+        "Startup": "14F",
+        "Motion": "28F",
+        "Total": "50F",
+        "Frame Adv.": "-11F [+12F]"
+      },
+      {
+        "Version": "Charged",
+        "Damage": "0.125*3",
+        "Limit": "5%*3",
+        "Rate": "97%",
+        "Modifier": "None",
+        "Cancel": "C Sk Sp M",
+        "Density": "C3x7",
+        "Graze": "5F",
+        "Startup": "29F",
+        "Motion": "43F",
+        "Total": "65F",
+        "Frame Adv.": "-11F [+12F]"
+      }
+    ]
+  },
+  {
+    "char": "Patchouli",
+    "name": "5B",
+    "type": "bullet",
+    "img": "./images/Patchouli/175px-Patch5b.jpg",
+    "data": [
+      {
+        "Version": "Uncharged",
+        "Damage": "0.25",
+        "Limit": "5%",
+        "Rate": "92%",
+        "Modifier": "None",
+        "Cancel": "C Sk Sp M",
+        "Density": "C3x3",
+        "Graze": "3F",
+        "Startup": "14, 17, 20F",
+        "Motion": "23F",
+        "Total": "48F",
+        "Frame Adv.": "-12F [+14F]"
+      },
+      {
+        "Version": "Charged",
+        "Damage": "0.25",
+        "Limit": "5%",
+        "Rate": "92%",
+        "Modifier": "None",
+        "Cancel": "C Sk Sp M",
+        "Density": "C3x5",
+        "Graze": "3F",
+        "Startup": "29, 32... 41F",
+        "Motion": "41F",
+        "Total": "63F",
+        "Frame Adv.": "-6F [+17F]"
+      }
+    ]
+  },
+  {
+    "char": "Patchouli",
+    "name": "2B",
+    "type": "bullet",
+    "img": "./images/Patchouli/175px-Patch2b.jpg",
+    "data": [
+      {
+        "Version": "Charged",
+        "Damage": "0.25",
+        "Limit": "5%",
+        "Rate": "92%",
+        "Modifier": "None",
+        "Cancel": "C Sk Sp M",
+        "Density": "C3x3",
+        "Graze": "3F",
+        "Startup": "13, 16, 19F",
+        "Motion": "22F",
+        "Total": "54F",
+        "Frame Adv.": "-19F [+14F]"
+      },
+      {
+        "Version": "Charged",
+        "Damage": "0.25",
+        "Limit": "5%",
+        "Rate": "92%",
+        "Modifier": "None",
+        "Cancel": "C Sk Sp M",
+        "Density": "C3x5",
+        "Graze": "3F",
+        "Startup": "28, 31... 40F",
+        "Motion": "40F",
+        "Total": "69F",
+        "Frame Adv.": "-13F [+17F]"
+      }
+    ]
+  },
+  {
+    "char": "Patchouli",
+    "name": "6B",
+    "type": "bullet",
+    "img": "./images/Patchouli/175px-Patch6b.jpg",
+    "data": [
+      {
+        "Version": "Uncharged",
+        "Damage": "0.25",
+        "Limit": "5%",
+        "Rate": "92%",
+        "Modifier": "None",
+        "Cancel": "C Sk Sp M",
+        "Density": "C3x3",
+        "Graze": "3F",
+        "Startup": "16, 19, 22F",
+        "Motion": "25F",
+        "Total": "52F",
+        "Frame Adv.": "-14F [+14F]"
+      },
+      {
+        "Version": "Charged",
+        "Damage": "0.25",
+        "Limit": "5%",
+        "Rate": "92%",
+        "Modifier": "None",
+        "Cancel": "C Sk Sp M",
+        "Density": "C3x5",
+        "Graze": "3F",
+        "Startup": "31, 34... 43F",
+        "Motion": "40F",
+        "Total": "67F",
+        "Frame Adv.": "-8F [+17F]"
+      }
+    ]
+  },
+  {
+    "char": "Patchouli",
+    "name": "j4B",
+    "type": "bullet",
+    "img": "./images/Patchouli/175px-Patchj4b.jpg",
+    "data": [
+      {
+        "Version": "Uncharged",
+        "Damage": "0.125*3",
+        "Limit": "5%*3",
+        "Rate": "97%",
+        "Modifier": "None",
+        "Cancel": "C Sk Sp M",
+        "Density": "C3x4",
+        "Graze": "5F",
+        "Startup": "14F",
+        "Motion": "26F",
+        "Total": "53F",
+        "Frame Adv.": "[+14F]"
+      },
+      {
+        "Version": "Charged",
+        "Damage": "0.125*3",
+        "Limit": "5%*3",
+        "Rate": "97%",
+        "Modifier": "None",
+        "Cancel": "C Sk Sp M",
+        "Density": "C3x7",
+        "Graze": "5F",
+        "Startup": "29F",
+        "Motion": "41F",
+        "Total": "68F",
+        "Frame Adv.": "[+14F]"
+      }
+    ]
+  },
+  {
+    "char": "Patchouli",
+    "name": "j5B",
+    "type": "bullet",
+    "img": "./images/Patchouli/175px-Patchj5b.jpg",
+    "data": [
+      {
+        "Version": "Uncharged",
+        "Damage": "0.25",
+        "Limit": "5%",
+        "Rate": "92%",
+        "Modifier": "None",
+        "Cancel": "C Sk Sp M",
+        "Density": "C3x3",
+        "Graze": "3F",
+        "Startup": "14, 17, 20F",
+        "Motion": "23F",
+        "Total": "53F",
+        "Frame Adv.": "[+14F]"
+      },
+      {
+        "Version": "Charged",
+        "Damage": "0.25",
+        "Limit": "5%",
+        "Rate": "92%",
+        "Modifier": "None",
+        "Cancel": "C Sk Sp M",
+        "Density": "C3x5",
+        "Graze": "3F",
+        "Startup": "29, 32... 41F",
+        "Motion": "41F",
+        "Total": "68F",
+        "Frame Adv.": "[+17F]"
+      }
+    ]
+  },
+  {
+    "char": "Patchouli",
+    "name": "j2B",
+    "type": "bullet",
+    "img": "./images/Patchouli/175px-Patchj2b.jpg",
+    "data": [
+      {
+        "Version": "Uncharged",
+        "Damage": "0.25",
+        "Limit": "5%",
+        "Rate": "92%",
+        "Modifier": "None",
+        "Cancel": "C Sk Sp M",
+        "Density": "C3x3",
+        "Graze": "3F",
+        "Startup": "16, 19, 22F",
+        "Motion": "24F",
+        "Total": "47F",
+        "Frame Adv.": "-9F [+15F]"
+      },
+      {
+        "Version": "Charged",
+        "Damage": "0.25",
+        "Limit": "5%",
+        "Rate": "92%",
+        "Modifier": "None",
+        "Cancel": "C Sk Sp M",
+        "Density": "C3x5",
+        "Graze": "3F",
+        "Startup": "31, 34... 43F",
+        "Motion": "39F",
+        "Total": "62F",
+        "Frame Adv.": "[+17F]"
+      }
+    ]
+  },
+  {
+    "char": "Patchouli",
+    "name": "5C",
+    "type": "bullet",
+    "img": "./images/Patchouli/175px-Patch5c.jpg",
+    "data": [
+      {
+        "Damage": "0.25",
+        "Limit": "10%",
+        "Rate": "92%",
+        "Modifier": "Rift",
+        "Cancel": "Sk Sp M",
+        "Density": "C2x7",
+        "Graze": "6F",
+        "Startup": "12F",
+        "Motion": "36F",
+        "Total": "63F",
+        "Frame Adv.": "-36F [-8F]"
+      }
+    ]
+  },
+  {
+    "char": "Patchouli",
+    "name": "2C",
+    "type": "bullet",
+    "img": "./images/Patchouli/175px-Patch2c.jpg",
+    "data": [
+      {
+        "Damage": "0.35",
+        "Limit": "10%*3",
+        "Rate": "95%",
+        "Modifier": "Rift",
+        "Cancel": "Sk Sp M",
+        "Density": "C3",
+        "Graze": "6F",
+        "Startup": "14F",
+        "Motion": "34F",
+        "Total": "49F",
+        "Frame Adv.": "+10F [+26F]"
+      }
+    ]
+  },
+  {
+    "char": "Patchouli",
+    "name": "6C",
+    "type": "bullet",
+    "img": "./images/Patchouli/175px-Patch6c.jpg",
+    "data": [
+      {
+        "Version": "Uncharged",
+        "Damage": "0.25",
+        "Limit": "5%",
+        "Rate": "95%",
+        "Modifier": "None",
+        "Cancel": "Sk Sp M",
+        "Density": "B1x5",
+        "Graze": "3F",
+        "Startup": "15, 17, ...23F",
+        "Motion": "28F",
+        "Total": "50F",
+        "Frame Adv.": "-12F [+11F]"
+      },
+      {
+        "Version": "Charged",
+        "Damage": "0.25",
+        "Limit": "5%",
+        "Rate": "95%",
+        "Modifier": "None",
+        "Cancel": "Sk Sp M",
+        "Density": "B1x10",
+        "Graze": "3F",
+        "Startup": "30, 32... 48F",
+        "Motion": "43F",
+        "Total": "65F",
+        "Frame Adv.": "-2F [+15F]"
+      }
+    ]
+  },
+  {
+    "char": "Patchouli",
+    "name": "j5C",
+    "type": "bullet",
+    "img": "./images/Patchouli/175px-Patchj5c.jpg",
+    "data": [
+      {
+        "Damage": "0.25",
+        "Limit": "10%",
+        "Rate": "92%",
+        "Modifier": "Rift",
+        "Cancel": "Sk Sp M",
+        "Density": "C2x7",
+        "Graze": "6F",
+        "Startup": "11F",
+        "Motion": "37F",
+        "Total": "69F",
+        "Frame Adv.": "[-10F]"
+      }
+    ]
+  },
+  {
+    "char": "Patchouli",
+    "name": "j6C",
+    "type": "bullet",
+    "img": "./images/Patchouli/175px-Patchj6c.jpg",
+    "data": [
+      {
+        "Version": "Uncharged",
+        "Damage": "0.25",
+        "Limit": "5%",
+        "Rate": "95%",
+        "Modifier": "None",
+        "Cancel": "Sk Sp M",
+        "Density": "B1x5",
+        "Graze": "3F",
+        "Startup": "15, 17, ...23F",
+        "Motion": "26F",
+        "Total": "53F",
+        "Frame Adv.": "[+13F]"
+      },
+      {
+        "Version": "Charged",
+        "Damage": "0.25",
+        "Limit": "5%",
+        "Rate": "95%",
+        "Modifier": "None",
+        "Cancel": "Sk Sp M",
+        "Density": "B1x10",
+        "Graze": "3F",
+        "Startup": "30, 32... 48F",
+        "Motion": "41F",
+        "Total": "68F",
+        "Frame Adv.": "[+15F]"
+      }
+    ]
+  },
+  {
+    "char": "Patchouli",
+    "name": "j2C",
+    "type": "bullet",
+    "img": "./images/Patchouli/175px-Patchj2c.jpg",
+    "data": [
+      {
+        "Damage": "0.25",
+        "Limit": "10%",
+        "Rate": "92%",
+        "Modifier": "Rift",
+        "Cancel": "Sk Sp M",
+        "Density": "C1x5",
+        "Graze": "1F",
+        "Startup": "17F",
+        "Motion": "35F",
+        "Total": "59F",
+        "Frame Adv.": "[-2F]"
+      }
+    ]
+  },
+  {
+    "char": "Patchouli",
+    "name": "Summer Red",
+    "type": "skill",
+    "img": "./images/Patchouli/Pa236bc1.png",
+    "data": [
+      {
+        "Version": "Ground",
+        "Damage": "1",
+        "Limit": "40%",
+        "Rate": "80%",
+        "Modifier": "Smash",
+        "Cancel": "Sp M",
+        "Density": "B10",
+        "Graze": "∞",
+        "Startup": "20F",
+        "Motion": "34F",
+        "Total": "51F",
+        "Frame Adv.": "-10F[+8F]"
+      },
+      {
+        "Version": "Air",
+        "Damage": "1",
+        "Limit": "40%",
+        "Rate": "80%",
+        "Modifier": "Smash",
+        "Cancel": "Sp M",
+        "Density": "B10",
+        "Graze": "∞",
+        "Startup": "17F",
+        "Motion": "25F",
+        "Total": "64F",
+        "Frame Adv.": "[+22F]"
+      },
+      {
+        "Version": "Tail",
+        "Damage": "0.1",
+        "Limit": "0%*n",
+        "Rate": "98%*n",
+        "Modifier": "None",
+        "Cancel": "-",
+        "Density": "C1xn",
+        "Graze": "1F",
+        "Startup": "20, 25, 30, ...",
+        "Motion": "-",
+        "Total": "15F",
+        "Frame Adv.": "-"
+      }
+    ]
+  },
+  {
+    "char": "Patchouli",
+    "name": "Summer Flame",
+    "type": "skill",
+    "img": "./images/Patchouli/Pa236bc2.png",
+    "data": [
+      {
+        "Damage": "0.075*n",
+        "Limit": "5%*n",
+        "Rate": "96%*n",
+        "Modifier": "Lift",
+        "Cancel": "Sp M",
+        "Density": "B1xn",
+        "Graze": "1F",
+        "Startup": "20, 23, 26, ...",
+        "Motion": "40F",
+        "Total": "79-139F",
+        "Frame Adv.": "-10F[+8F]"
+      }
+    ]
+  },
+  {
+    "char": "Patchouli",
+    "name": "Wipe Moisture",
+    "type": "skill",
+    "img": "./images/Patchouli/Pa236bc3.png",
+    "data": [
+      {
+        "Version": "B",
+        "Damage": "0",
+        "Limit": "20%*2",
+        "Rate": "92%*2",
+        "Modifier": "Lift",
+        "Cancel": "Sp",
+        "Density": "B1x2",
+        "Graze": "Melee∞",
+        "Startup": "15, 35",
+        "Motion": "-",
+        "Total": "77F",
+        "Frame Adv.": "-17"
+      },
+      {
+        "Version": "C",
+        "Damage": "0",
+        "Limit": "20%*3",
+        "Rate": "92%*3",
+        "Modifier": "Lift",
+        "Cancel": "Sp",
+        "Density": "B1x3",
+        "Graze": "Melee∞",
+        "Startup": "15, 35, 68",
+        "Motion": "-",
+        "Total": "113F",
+        "Frame Adv.": "-20"
+      }
+    ]
+  },
+  {
+    "char": "Patchouli",
+    "name": "Spring Wind",
+    "type": "skill",
+    "img": "./images/Patchouli/Pa623bc1.png",
+    "data": [
+      {
+        "Version": "B",
+        "Damage": "-",
+        "Limit": "-",
+        "Rate": "-",
+        "Modifier": "-",
+        "Cancel": "-",
+        "Guard": "-",
+        "Startup": "14F",
+        "Active": "-",
+        "Total": "55F",
+        "Frame Adv.": "-"
+      },
+      {
+        "Version": "C",
+        "Damage": "-",
+        "Limit": "-",
+        "Rate": "-",
+        "Modifier": "-",
+        "Cancel": "-",
+        "Guard": "-",
+        "Startup": "14F",
+        "Active": "-",
+        "Total": "82F",
+        "Frame Adv.": "-"
+      }
+    ]
+  },
+  {
+    "char": "Patchouli",
+    "name": "Flash of Spring",
+    "type": "skill",
+    "img": "./images/Patchouli/Pa623bc2.png",
+    "data": [
+      {
+        "Version": "Shot",
+        "Damage": "1",
+        "Limit": "40%",
+        "Rate": "80%",
+        "Modifier": "Smash",
+        "Cancel": "Sp M",
+        "Density": "C1",
+        "Graze": "1F",
+        "Startup": "27F",
+        "Motion": "40F",
+        "Total": "72F(73 for air C version)",
+        "Frame Adv.": "-24F[+9F]"
+      },
+      {
+        "Version": "No Shot",
+        "Damage": "-",
+        "Limit": "-",
+        "Rate": "-",
+        "Modifier": "-",
+        "Cancel": "Sp M",
+        "Density": "-",
+        "Graze": "-",
+        "Startup": "27F",
+        "Motion": "27F",
+        "Total": "46/41/36F",
+        "Frame Adv.": "-"
+      },
+      {
+        "Version": "Wind Blast",
+        "Damage": "1",
+        "Limit": "40%",
+        "Rate": "80%",
+        "Modifier": "Smash",
+        "Cancel": "-",
+        "Density": "B∞",
+        "Graze": "∞",
+        "Startup": "-",
+        "Motion": "-",
+        "Total": "40F",
+        "Frame Adv.": "-"
+      }
+    ]
+  },
+  {
+    "char": "Patchouli",
+    "name": "Static Green",
+    "type": "skill",
+    "img": "./images/Patchouli/Pa623bc3.png",
+    "data": [
+      {
+        "Version": "Spark",
+        "Damage": "0.25*3",
+        "Limit": "5*3%",
+        "Rate": "93%*3",
+        "Modifier": "Lift",
+        "Cancel": "-",
+        "Density": "-",
+        "Graze": "∞",
+        "Startup": "15F",
+        "Motion": "-",
+        "Total": "84F",
+        "Frame Adv.": "-44F"
+      },
+      {
+        "Version": "Main Lightning Bolt",
+        "Damage": "0.5(crush on low block)",
+        "Limit": "20%",
+        "Rate": "90%",
+        "Modifier": "Smash",
+        "Cancel": "-",
+        "Density": "B1",
+        "Graze": "∞",
+        "Startup": "41F",
+        "Motion": "-",
+        "Total": "3f",
+        "Frame Adv.": "-15F, +7F(crush)"
+      },
+      {
+        "Version": "Additional Lightning Bolts",
+        "Damage": "0.1*n(crush on low block)",
+        "Limit": "5%",
+        "Rate": "97%",
+        "Modifier": "Smash",
+        "Cancel": "-",
+        "Density": "B1*n",
+        "Graze": "∞",
+        "Startup": "44F, 47F",
+        "Motion": "-",
+        "Total": "3f",
+        "Frame Adv.": "-12/-9, +10/+13(crush)"
+      }
+    ]
+  },
+  {
+    "char": "Patchouli",
+    "name": "Autumn Edge",
+    "type": "skill",
+    "img": "./images/Patchouli/Pa214bc1.png",
+    "data": [
+      {
+        "Version": "Blade",
+        "Damage": "0.2*n",
+        "Limit": "10%*n",
+        "Rate": "93%*n",
+        "Modifier": "Smash",
+        "Cancel": "Sp M",
+        "Density": "B1xn",
+        "Graze": "∞",
+        "Startup": "26F",
+        "Motion": "36F",
+        "Total": "77F",
+        "Frame Adv.": "-4F[+12F]"
+      },
+      {
+        "Version": "Homing Blade",
+        "Damage": "0.25*n",
+        "Limit": "10%*n",
+        "Rate": "94%*n",
+        "Modifier": "Smash",
+        "Cancel": "-",
+        "Density": "B1xn",
+        "Graze": "1F",
+        "Startup": "11F",
+        "Motion": "-",
+        "Total": "-",
+        "Frame Adv.": "+7F[+23F]"
+      }
+    ]
+  },
+  {
+    "char": "Patchouli",
+    "name": "Autumn Blade",
+    "type": "skill",
+    "img": "./images/Patchouli/Pa214bc2.png",
+    "data": [
+      {
+        "Version": "Ground B",
+        "Damage": "0.2*n",
+        "Limit": "10%*n",
+        "Rate": "93%*n",
+        "Modifier": "-",
+        "Cancel": "Sp M",
+        "Density": "Bn",
+        "Graze": "∞",
+        "Startup": "19F",
+        "Motion": "27F",
+        "Total": "50F",
+        "Frame Adv.": "-3F[+21F], 0F[+24F], +3F[+27F]"
+      },
+      {
+        "Version": "Ground C",
+        "Damage": "0.2*n",
+        "Limit": "10%*n",
+        "Rate": "94%*n",
+        "Modifier": "-",
+        "Cancel": "-",
+        "Density": "Bnx2",
+        "Graze": "∞",
+        "Startup": "27F",
+        "Motion": "35F",
+        "Total": "58F",
+        "Frame Adv.": "-3F[+21F], 0F[+24F], +3F[+27F]"
+      },
+      {
+        "Version": "Air B",
+        "Damage": "0.2*n",
+        "Limit": "10%*n",
+        "Rate": "93%*n",
+        "Modifier": "-",
+        "Cancel": "Sp M",
+        "Density": "Bn",
+        "Graze": "∞",
+        "Startup": "20F",
+        "Motion": "28F",
+        "Total": "56F",
+        "Frame Adv.": "-8F[+21F], -5F[+24F], -2F[+27F]"
+      },
+      {
+        "Version": "Air C",
+        "Damage": "0.2*n",
+        "Limit": "10%*n",
+        "Rate": "94%*n",
+        "Modifier": "-",
+        "Cancel": "-",
+        "Density": "Bnx2",
+        "Graze": "∞",
+        "Startup": "28F",
+        "Motion": "36F",
+        "Total": "64F",
+        "Frame Adv.": "-8F[+21F], -5F[+24F], -2F[+27F]"
+      }
+    ]
+  },
+  {
+    "char": "Patchouli",
+    "name": "Force Lasher",
+    "type": "skill",
+    "img": "./images/Patchouli/Pa214bc3.png",
+    "data": [
+      {
+        "Damage": "0.25*n",
+        "Limit": "0%*n",
+        "Rate": "92%*n",
+        "Modifier": "-",
+        "Cancel": "Sp M",
+        "Density": "B1xn",
+        "Graze": "∞",
+        "Startup": "40, 42, 45, 48, 51 ...",
+        "Motion": "48F",
+        "Total": "83F",
+        "Frame Adv.": "varies"
+      }
+    ]
+  },
+  {
+    "char": "Patchouli",
+    "name": "Dew Spears",
+    "type": "skill",
+    "img": "./images/Patchouli/Pa421bc1.png",
+    "data": [
+      {
+        "Damage": "0.375*n",
+        "Limit": "10%*n",
+        "Rate": "92%*n",
+        "Modifier": "Smash",
+        "Cancel": "Sp M",
+        "Density": "B1xn",
+        "Graze": "∞",
+        "Startup": "Crystals:12,13,14F... Hitbox:49,54,59F...",
+        "Motion": "23F",
+        "Total": "58F",
+        "Frame Adv.": "varies"
+      }
+    ]
+  },
+  {
+    "char": "Patchouli",
+    "name": "Emerald City",
+    "type": "skill",
+    "img": "./images/Patchouli/Pa421bc2.png",
+    "data": [
+      {
+        "Damage": "1",
+        "Limit": "40%",
+        "Rate": "80%",
+        "Modifier": "Lift",
+        "Cancel": "-",
+        "Density": "-",
+        "Graze": "1F",
+        "Startup": "13F/11F",
+        "Motion": "-",
+        "Total": "77F/75F",
+        "Frame Adv.": "-34F/-6F(crush)"
+      }
+    ]
+  },
+  {
+    "char": "Patchouli",
+    "name": "Diamond Hardness",
+    "type": "skill",
+    "img": "./images/Patchouli/Pa421bc3.png",
+    "data": [
+      {
+        "Version": "B",
+        "Damage": "-",
+        "Limit": "-",
+        "Rate": "-",
+        "Modifier": "-",
+        "Cancel": "Sp",
+        "Guard": "-",
+        "Startup": "31/30/29/28F",
+        "Active": "180/440/500/560F",
+        "Total": "80/76/72/68F",
+        "Frame Adv.": "-"
+      },
+      {
+        "Version": "C",
+        "Damage": "-",
+        "Limit": "-",
+        "Rate": "-",
+        "Modifier": "-",
+        "Cancel": "Sp",
+        "Guard": "-",
+        "Startup": "46/43/40/37F",
+        "Active": "270/600/660/720F",
+        "Total": "105/98/91/84F",
+        "Frame Adv.": "-"
+      }
+    ]
+  },
+  {
+    "char": "Patchouli",
+    "name": "Winter Element",
+    "type": "skill",
+    "img": "./images/Patchouli/Pa22bc1.png",
+    "data": [
+      {
+        "Damage": "0.5*3",
+        "Limit": "15%*3",
+        "Rate": "92%*3",
+        "Modifier": "Lift",
+        "Cancel": "Sp M",
+        "Density": "B1x3",
+        "Graze": "∞",
+        "Startup": "47F",
+        "Motion": "28F",
+        "Total": "52F",
+        "Frame Adv.": "-"
+      }
+    ]
+  },
+  {
+    "char": "Patchouli",
+    "name": "Condensed Bubble",
+    "type": "skill",
+    "img": "./images/Patchouli/Pa22bc2.png",
+    "data": [
+      {
+        "Version": "Big Bubble",
+        "Damage": "1",
+        "Limit": "40%",
+        "Rate": "80%",
+        "Modifier": "Smash",
+        "Cancel": "Sp M",
+        "Density": "1HP",
+        "Graze": "-",
+        "Startup": "29F",
+        "Motion": "36F",
+        "Total": "72F",
+        "Frame Adv.": "-"
+      },
+      {
+        "Version": "Little Bubble",
+        "Damage": "0.5*n",
+        "Limit": "10%*n",
+        "Rate": "97%*n",
+        "Modifier": "Lift",
+        "Cancel": "-",
+        "Density": "C1xn",
+        "Graze": "1F",
+        "Startup": "-",
+        "Motion": "-",
+        "Total": "60f/120f",
+        "Frame Adv.": "-"
+      }
+    ]
+  },
+  {
+    "char": "Patchouli",
+    "name": "Sticky Bubbles",
+    "type": "skill",
+    "img": "./images/Patchouli/Pa22bc3.png",
+    "data": [
+      {
+        "Version": "Ground",
+        "Damage": "-",
+        "Limit": "0%",
+        "Rate": "0%",
+        "Modifier": "-",
+        "Cancel": "Sp M",
+        "Density": "-",
+        "Graze": "1F",
+        "Startup": "20,25,30F.../ 20,24,28F.../20,23,26F...",
+        "Motion": "35F",
+        "Total": "77F",
+        "Frame Adv.": "-"
+      },
+      {
+        "Version": "Air",
+        "Damage": "-",
+        "Limit": "0%",
+        "Rate": "0%",
+        "Modifier": "-",
+        "Cancel": "Sp M",
+        "Density": "-",
+        "Graze": "1F",
+        "Startup": "21,26,31F.../ 21,25,29F.../21,24,27F...",
+        "Motion": "36F",
+        "Total": "78F",
+        "Frame Adv.": "-"
+      },
+      {
+        "Version": "Bubble Trap",
+        "Damage": "-",
+        "Limit": "100%",
+        "Rate": "0%",
+        "Modifier": "-",
+        "Cancel": "-",
+        "Density": "-",
+        "Graze": "-",
+        "Startup": "-",
+        "Motion": "-",
+        "Total": "150F",
+        "Frame Adv.": "-"
+      }
+    ]
+  },
+  {
+    "char": "Patchouli",
+    "name": "Earth Water Sign \"Noachian Deluge\"",
+    "type": "spell",
+    "img": "./images/Patchouli/Pasc01.png",
+    "data": [
+      {
+        "Damage": "0.05*40",
+        "Limit": "1%*40",
+        "Rate": "94%*40",
+        "Modifier": "Lift",
+        "Cancel": "-",
+        "Density": "B1x40",
+        "Graze": "∞",
+        "Startup": "(10+2)12F,14F,16F...",
+        "Motion": "-",
+        "Total": "93F",
+        "Frame Adv.": "-22F"
+      }
+    ]
+  },
+  {
+    "char": "Patchouli",
+    "name": "Metal Wood Sign \"Elemental Harvester\"",
+    "type": "spell",
+    "img": "./images/Patchouli/Pasc02.png",
+    "data": [
+      {
+        "Damage": "115*n",
+        "Limit": "2%*n",
+        "Rate": "98.5%*n",
+        "Modifier": "Lift",
+        "Cancel": "-",
+        "Guard": "-",
+        "Startup": "(2+6)8F",
+        "Active": "142F",
+        "Total": "162F",
+        "Frame Adv.": "-24~+8"
+      }
+    ]
+  },
+  {
+    "char": "Patchouli",
+    "name": "Fire Metal Sign \"Saint Elmo's Pillar\"",
+    "type": "spell",
+    "img": "./images/Patchouli/Pasc03.png",
+    "data": [
+      {
+        "Damage": "1.5",
+        "Limit": "40%",
+        "Rate": "70%",
+        "Modifier": "Lift",
+        "Cancel": "-",
+        "Density": "S1",
+        "Graze": "∞",
+        "Startup": "(10+2)12F, 20~45F",
+        "Motion": "-",
+        "Total": "56F",
+        "Frame Adv.": "-15~+10F"
+      }
+    ]
+  },
+  {
+    "char": "Patchouli",
+    "name": "Water Sign \"Jellyfish Princess\"",
+    "type": "spell",
+    "img": "./images/Patchouli/Pasc04.png",
+    "data": [
+      {
+        "Damage": "-",
+        "Limit": "-",
+        "Rate": "-",
+        "Modifier": "-",
+        "Cancel": "-",
+        "Guard": "-",
+        "Startup": "(17+17)34F",
+        "Active": "350F",
+        "Total": "69F",
+        "Frame Adv.": "-"
+      }
+    ]
+  },
+  {
+    "char": "Patchouli",
+    "name": "Moon Wood Sign \"Satellite Sunflower\"",
+    "type": "spell",
+    "img": "./images/Patchouli/Pasc05.png",
+    "data": [
+      {
+        "Damage": "-",
+        "Limit": "5%*n",
+        "Rate": "92%*n",
+        "Modifier": "-",
+        "Cancel": "-",
+        "Density": "B1xn",
+        "Graze": "3F",
+        "Startup": "(17+14)31F",
+        "Motion": "-",
+        "Total": "78F",
+        "Frame Adv.": "-"
+      }
+    ]
+  },
+  {
+    "char": "Patchouli",
+    "name": "Sun Wood Sign \"Photosynthesis\"",
+    "type": "spell",
+    "img": "./images/Patchouli/Pasc06.png",
+    "data": [
+      {
+        "Damage": "-",
+        "Limit": "-",
+        "Rate": "-",
+        "Modifier": "-",
+        "Cancel": "-",
+        "Guard": "-",
+        "Startup": "(9+0)9F, 57F",
+        "Active": "500F",
+        "Total": "112F",
+        "Frame Adv.": "-"
+      }
+    ]
+  },
+  {
+    "char": "Patchouli",
+    "name": "Fire Water Sign \"Phlogistic Pillar\"",
+    "type": "spell",
+    "img": "./images/Patchouli/Pasc07.png",
+    "data": [
+      {
+        "Damage": "0.075*n",
+        "Limit": "2%",
+        "Rate": "96%",
+        "Modifier": "Lift",
+        "Cancel": "-",
+        "Density": "A1xn",
+        "Graze": "∞",
+        "Startup": "(10+14)24F",
+        "Motion": "-",
+        "Total": "93F",
+        "Frame Adv.": "-7~+58F"
+      }
+    ]
+  },
+  {
+    "char": "Patchouli",
+    "name": "Moon Sign \"Silent Selene\"",
+    "type": "spell",
+    "img": "./images/Patchouli/Pasc08.png",
+    "data": [
+      {
+        "Version": "Beams",
+        "Damage": "0.025*n",
+        "Limit": "1%*n",
+        "Rate": "96.5%*n",
+        "Modifier": "Lift",
+        "Cancel": "-",
+        "Density": "-",
+        "Graze": "∞",
+        "Startup": "(13+2)15F, 25F... 195F",
+        "Motion": "-",
+        "Total": "266F",
+        "Frame Adv.": "-17~-38F"
+      },
+      {
+        "Version": "Initial Hit",
+        "Damage": "0.25",
+        "Limit": "1%",
+        "Rate": "95.5%",
+        "Modifier": "Lift",
+        "Cancel": "-",
+        "Density": "-",
+        "Graze": "1F",
+        "Startup": "(13+2)15F",
+        "Motion": "-",
+        "Total": "-",
+        "Frame Adv.": "-"
+      }
+    ]
+  },
+  {
+    "char": "Patchouli",
+    "name": "Earth Metal Sign \"Emerald Megalopolis\"",
+    "type": "spell",
+    "img": "./images/Patchouli/Pasc09.png",
+    "data": [
+      {
+        "Damage": "0.5*n",
+        "Limit": "25%*n",
+        "Rate": "85%*n",
+        "Modifier": "Lift",
+        "Cancel": "-",
+        "Density": "∞HP",
+        "Graze": "∞",
+        "Startup": "(17+4)21,46,71,96F",
+        "Motion": "-",
+        "Total": "59F",
+        "Frame Adv.": "-2/+23/+48/+73"
+      }
+    ]
+  },
+  {
+    "char": "Patchouli",
+    "name": "Sun Sign \"Royal Flare\"",
+    "type": "spell",
+    "img": "./images/Patchouli/Pasc10.png",
+    "data": [
+      {
+        "Damage": "0.075*n",
+        "Limit": "1%*n",
+        "Rate": "93%*n",
+        "Modifier": "-",
+        "Cancel": "-",
+        "Density": "S∞",
+        "Graze": "∞",
+        "Startup": "(34+9)43F",
+        "Motion": "-",
+        "Total": "260F",
+        "Frame Adv.": "-35~-72F"
+      }
+    ]
+  },
+  {
+    "char": "Patchouli",
+    "name": "Five Elements \"Philosopher's Stone\"",
+    "type": "spell",
+    "img": "./images/Patchouli/Pasc11.png",
+    "data": [
+      {
+        "Version": "Casting",
+        "Damage": "-",
+        "Limit": "-",
+        "Rate": "-",
+        "Modifier": "-",
+        "Cancel": "-",
+        "Guard": "-",
+        "Startup": "(13+53)66F",
+        "Active": "1200F",
+        "Total": "85F",
+        "Frame Adv.": "-"
+      },
+      {
+        "Version": "Version",
+        "Damage": "Damage",
+        "Limit": "Limit",
+        "Rate": "Rate",
+        "Modifier": "Modifier",
+        "Cancel": "Cancel",
+        "Guard": "Density",
+        "Startup": "Graze",
+        "Active": "Startup",
+        "Total": "Motion",
+        "Frame Adv.": "Total",
+        "undefined": "Damage"
+      },
+      {
+        "Version": "Stone Explosion",
+        "Damage": "200*n",
+        "Limit": "1%*n",
+        "Rate": "97%*n",
+        "Modifier": "-",
+        "Cancel": "-",
+        "Guard": "C1x9",
+        "Startup": "1F",
+        "Active": "27F",
+        "Total": "-",
+        "Frame Adv.": "-",
+        "undefined": "0.1*n"
+      }
+    ]
+  },
+  {
+    "char": "Patchouli",
+    "name": "Sun Moon Sign \"Royal Diamond Ring\"",
+    "type": "spell",
+    "img": "./images/Patchouli/Pasc12.png",
+    "data": [
+      {
+        "Damage": "0.05*n",
+        "Limit": "1%*n",
+        "Rate": "98%*n",
+        "Modifier": "Lift",
+        "Cancel": "-",
+        "Density": "B1x375",
+        "Graze": "1F",
+        "Startup": "(42+1)43F",
+        "Motion": "-",
+        "Total": "118F",
+        "Frame Adv.": "-"
+      }
+    ]
+  }
+]

@@ -1,0 +1,1506 @@
+[
+  {
+    "char": "Cirno",
+    "name": "4A",
+    "type": "normal",
+    "img": "./images/Cirno/175px-Cirno5a.png",
+    "data": [
+      {
+        "Damage": "200",
+        "Limit": "0%",
+        "Rate": "98%",
+        "Modifier": "None",
+        "Cancel": "R Cn B C Sk Sp",
+        "Guard": "HL",
+        "Startup": "6F",
+        "Active": "2F",
+        "Total": "19F",
+        "Frame Adv.": "-4"
+      }
+    ]
+  },
+  {
+    "char": "Cirno",
+    "name": "5A",
+    "type": "normal",
+    "img": "./images/Cirno/175px-Cirno5a.png",
+    "data": [
+      {
+        "Damage": "200",
+        "Limit": "0%",
+        "Rate": "98%",
+        "Modifier": "None",
+        "Cancel": "Cn B C Sk Sp",
+        "Guard": "HL",
+        "Startup": "6F",
+        "Active": "2F",
+        "Total": "19F",
+        "Frame Adv.": "-4"
+      }
+    ]
+  },
+  {
+    "char": "Cirno",
+    "name": "5AA",
+    "type": "normal",
+    "img": "./images/Cirno/175px-Cirno5aa.png",
+    "data": [
+      {
+        "Damage": "200",
+        "Limit": "0%",
+        "Rate": "98%",
+        "Modifier": "None",
+        "Cancel": "Cn B C Sk Sp",
+        "Guard": "HL",
+        "Startup": "6F",
+        "Active": "2F",
+        "Total": "19F",
+        "Frame Adv.": "-4"
+      }
+    ]
+  },
+  {
+    "char": "Cirno",
+    "name": "5AAA",
+    "type": "normal",
+    "img": "./images/Cirno/175px-Cirnof5a3.png",
+    "data": [
+      {
+        "Damage": "250x3",
+        "Limit": "0%",
+        "Rate": "96%",
+        "Modifier": "None",
+        "Cancel": "D B C Sk Sp",
+        "Guard": "H",
+        "Startup": "10F",
+        "Active": "12F",
+        "Total": "36F",
+        "Frame Adv.": "-5/-1"
+      }
+    ]
+  },
+  {
+    "char": "Cirno",
+    "name": "5AAAA",
+    "type": "normal",
+    "img": "./images/Cirno/175px-Cirno5aaaa2.png",
+    "data": [
+      {
+        "Damage": "750",
+        "Limit": "40%",
+        "Rate": "90%",
+        "Modifier": "Smash",
+        "Cancel": "Sp",
+        "Guard": "H",
+        "Startup": "15F",
+        "Active": "6F",
+        "Total": "45F",
+        "Frame Adv.": "-9/-3"
+      }
+    ]
+  },
+  {
+    "char": "Cirno",
+    "name": "f5A",
+    "type": "normal",
+    "img": "./images/Cirno/175px-Cirnof5a3.png",
+    "data": [
+      {
+        "Damage": "250x3",
+        "Limit": "0%",
+        "Rate": "96%",
+        "Modifier": "None",
+        "Cancel": "Cn B C Sk Sp",
+        "Guard": "H",
+        "Startup": "12F",
+        "Active": "12F",
+        "Total": "38F",
+        "Frame Adv.": "-5/-1"
+      }
+    ]
+  },
+  {
+    "char": "Cirno",
+    "name": "2A",
+    "type": "normal",
+    "img": "./images/Cirno/175px-Cirno2a.png",
+    "data": [
+      {
+        "Damage": "200",
+        "Limit": "0%",
+        "Rate": "98%",
+        "Modifier": "None",
+        "Cancel": "R Cn B C Sk Sp",
+        "Guard": "L",
+        "Startup": "5F",
+        "Active": "2F",
+        "Total": "14F",
+        "Frame Adv.": "+0/+2"
+      }
+    ]
+  },
+  {
+    "char": "Cirno",
+    "name": "6A",
+    "type": "normal",
+    "img": "./images/Cirno/175px-Cirno6a2.png",
+    "data": [
+      {
+        "Version": "Uncharged",
+        "Damage": "600",
+        "Limit": "40%",
+        "Rate": "90%",
+        "Modifier": "Smash",
+        "Cancel": "B C Sk Sp",
+        "Guard": "H",
+        "Startup": "21F",
+        "Active": "6F",
+        "Total": "50F",
+        "Frame Adv.": "-8/-2"
+      },
+      {
+        "Version": "Charged",
+        "Damage": "750",
+        "Limit": "40%",
+        "Rate": "85%",
+        "Modifier": "Smash",
+        "Cancel": "Sp",
+        "Guard": "H*",
+        "Startup": "35F",
+        "Active": "6F",
+        "Total": "62F",
+        "Frame Adv.": "+0/+22"
+      }
+    ]
+  },
+  {
+    "char": "Cirno",
+    "name": "3A",
+    "type": "normal",
+    "img": "./images/Cirno/175px-Cirno3a.png",
+    "data": [
+      {
+        "Damage": "600",
+        "Limit": "40%",
+        "Rate": "90%",
+        "Modifier": "Rift",
+        "Cancel": "B C Sk Sp",
+        "Guard": "L",
+        "Startup": "17F",
+        "Active": "15F",
+        "Total": "62F",
+        "Frame Adv.": "-23/-17"
+      }
+    ]
+  },
+  {
+    "char": "Cirno",
+    "name": "66A or 6DA",
+    "type": "normal",
+    "img": "./images/Cirno/175px-Cirno66a.png",
+    "data": [
+      {
+        "Damage": "350",
+        "Limit": "0%",
+        "Rate": "94%",
+        "Modifier": "None",
+        "Cancel": "Sk Sp",
+        "Guard": "H",
+        "Startup": "12F",
+        "Active": "3F",
+        "Total": "32F",
+        "Frame Adv.": "-4/+0"
+      }
+    ]
+  },
+  {
+    "char": "Cirno",
+    "name": "66B or 6DB",
+    "type": "normal",
+    "img": "./images/Cirno/175px-Cirno66b.png",
+    "data": [
+      {
+        "Damage": "180x6",
+        "Limit": "0%",
+        "Rate": "97%",
+        "Modifier": "-",
+        "Cancel": "Sp",
+        "Guard": "H",
+        "Startup": "15F",
+        "Active": "32F",
+        "Total": "64F",
+        "Frame Adv.": "-9/-5"
+      }
+    ]
+  },
+  {
+    "char": "Cirno",
+    "name": "66C or 6DC",
+    "type": "normal",
+    "img": "./images/Cirno/175px-Cirno66c.png",
+    "data": [
+      {
+        "Damage": "750",
+        "Limit": "40%",
+        "Rate": "88%",
+        "Modifier": "Rift",
+        "Cancel": "Sp",
+        "Guard": "L",
+        "Startup": "13F",
+        "Active": "15F",
+        "Total": "52F",
+        "Frame Adv.": "-18F/-12F"
+      }
+    ]
+  },
+  {
+    "char": "Cirno",
+    "name": "j5A",
+    "type": "normal",
+    "img": "./images/Cirno/175px-Cirnoj5a.png",
+    "data": [
+      {
+        "Damage": "450",
+        "Limit": "0%",
+        "Rate": "92%",
+        "Modifier": "None",
+        "Cancel": "Cn B C Sk Sp",
+        "Guard": "HA",
+        "Startup": "10F",
+        "Active": "4F",
+        "Total": "30F",
+        "Frame Adv.": "(-1)"
+      }
+    ]
+  },
+  {
+    "char": "Cirno",
+    "name": "j6A",
+    "type": "normal",
+    "img": "./images/Cirno/175px-Cirnoj6a2.png",
+    "data": [
+      {
+        "Damage": "600",
+        "Limit": "40%",
+        "Rate": "90%",
+        "Modifier": "Smash",
+        "Cancel": "B C Sk Sp",
+        "Guard": "HA",
+        "Startup": "15F",
+        "Active": "6F",
+        "Total": "61F",
+        "Frame Adv.": "(-27F)"
+      }
+    ]
+  },
+  {
+    "char": "Cirno",
+    "name": "j8A",
+    "type": "normal",
+    "img": "./images/Cirno/175px-Cirnoj8a.png",
+    "data": [
+      {
+        "Damage": "850",
+        "Limit": "40%",
+        "Rate": "85%",
+        "Modifier": "Smash",
+        "Cancel": "B C Sk Sp",
+        "Guard": "HA",
+        "Startup": "15F",
+        "Active": "8F",
+        "Total": "58F",
+        "Frame Adv.": "(-24F)"
+      }
+    ]
+  },
+  {
+    "char": "Cirno",
+    "name": "j2A",
+    "type": "normal",
+    "img": "./images/Cirno/175px-Cirnoj2a.png",
+    "data": [
+      {
+        "Damage": "250x4",
+        "Limit": "10%x4",
+        "Rate": "94%",
+        "Modifier": "Rift",
+        "Cancel": "B C Sk Sp",
+        "Guard": "HA",
+        "Startup": "17F",
+        "Active": "24F",
+        "Total": "71F",
+        "Frame Adv.": "(-26F)"
+      }
+    ]
+  },
+  {
+    "char": "Cirno",
+    "name": "5B",
+    "type": "bullet",
+    "img": "./images/Cirno/175px-Cirno5b.jpg",
+    "data": [
+      {
+        "Version": "Uncharged",
+        "Damage": "0.2",
+        "Limit": "4%",
+        "Rate": "96%",
+        "Modifier": "None",
+        "Cancel": "C Sk Sp M",
+        "Density": "C1x4",
+        "Graze": "1F",
+        "Startup": "15F",
+        "Motion": "23F",
+        "Total": "57F",
+        "Frame Adv.": "-27F [+8F]"
+      },
+      {
+        "Version": "charged",
+        "Damage": "0.2",
+        "Limit": "4%",
+        "Rate": "96%",
+        "Modifier": "None",
+        "Cancel": "C Sk Sp M",
+        "Density": "C1x6",
+        "Graze": "1F",
+        "Startup": "30+F",
+        "Motion": "38+F",
+        "Total": "72+F",
+        "Frame Adv.": "-27F [+8F]"
+      }
+    ]
+  },
+  {
+    "char": "Cirno",
+    "name": "2B",
+    "type": "bullet",
+    "img": "./images/Cirno/175px-Cirno2b.jpg",
+    "data": [
+      {
+        "Damage": "0.2",
+        "Limit": "5%",
+        "Rate": "96%",
+        "Modifier": "None",
+        "Cancel": "C Sk Sp M",
+        "Density": "C1x5",
+        "Graze": "1F",
+        "Startup": "20F",
+        "Motion": "31F",
+        "Total": "50F",
+        "Frame Adv.": "-15F [+5F]"
+      }
+    ]
+  },
+  {
+    "char": "Cirno",
+    "name": "6B",
+    "type": "bullet",
+    "img": "./images/Cirno/175px-Cirno6b.jpg",
+    "data": [
+      {
+        "Damage": "0.125",
+        "Limit": "4%",
+        "Rate": "96%",
+        "Modifier": "None",
+        "Cancel": "C Sk Sp M",
+        "Density": "C6x1",
+        "Graze": "∞",
+        "Startup": "19+F",
+        "Motion": "35+F",
+        "Total": "61+F",
+        "Frame Adv.": "-17F [+10F]"
+      }
+    ]
+  },
+  {
+    "char": "Cirno",
+    "name": "j5B",
+    "type": "bullet",
+    "img": "./images/Cirno/175px-Cirnoj5b.jpg",
+    "data": [
+      {
+        "Version": "Uncharged",
+        "Damage": "0.2",
+        "Limit": "4%",
+        "Rate": "96%",
+        "Modifier": "None",
+        "Cancel": "C Sk Sp M",
+        "Density": "C1x4",
+        "Graze": "1F",
+        "Startup": "15F",
+        "Motion": "23F",
+        "Total": "57F",
+        "Frame Adv.": "-27F [+8F]"
+      },
+      {
+        "Version": "Charged",
+        "Damage": "0.2",
+        "Limit": "4%",
+        "Rate": "96%",
+        "Modifier": "None",
+        "Cancel": "C Sk Sp M",
+        "Density": "C1x6",
+        "Graze": "1F",
+        "Startup": "30 +F",
+        "Motion": "38F",
+        "Total": "72F",
+        "Frame Adv.": "-27F [+8F]"
+      }
+    ]
+  },
+  {
+    "char": "Cirno",
+    "name": "j2B",
+    "type": "bullet",
+    "img": "./images/Cirno/175px-Cirnoj2b.jpg",
+    "data": [
+      {
+        "Damage": "0.2",
+        "Limit": "5%",
+        "Rate": "96%",
+        "Modifier": "None",
+        "Cancel": "C Sk Sp M",
+        "Density": "C1x5",
+        "Graze": "1F",
+        "Startup": "Varies",
+        "Motion": "34F",
+        "Total": "63F",
+        "Frame Adv.": "Varies"
+      }
+    ]
+  },
+  {
+    "char": "Cirno",
+    "name": "j6B",
+    "type": "bullet",
+    "img": "./images/Cirno/175px-Cirnoj6b.jpg",
+    "data": [
+      {
+        "Damage": "0.125",
+        "Limit": "4%",
+        "Rate": "96%",
+        "Modifier": "None",
+        "Cancel": "C Sk Sp M",
+        "Density": "C6x1",
+        "Graze": "-",
+        "Startup": "19+F",
+        "Motion": "35+F",
+        "Total": "61+F",
+        "Frame Adv.": "-17F [+10F]"
+      }
+    ]
+  },
+  {
+    "char": "Cirno",
+    "name": "5C",
+    "type": "bullet",
+    "img": "./images/Cirno/175px-Cirno5c.jpg",
+    "data": [
+      {
+        "Damage": "0.25",
+        "Limit": "10%",
+        "Rate": "94%",
+        "Modifier": "-",
+        "Cancel": "Sk Sp M",
+        "Density": "C3x3",
+        "Graze": "10F",
+        "Startup": "15F",
+        "Motion": "30F",
+        "Total": "62F",
+        "Frame Adv.": "-6F [+27F]"
+      }
+    ]
+  },
+  {
+    "char": "Cirno",
+    "name": "2C",
+    "type": "bullet",
+    "img": "./images/Cirno/175px-Cirno2c.jpg",
+    "data": [
+      {
+        "Damage": "1",
+        "Limit": "40%",
+        "Rate": "88%",
+        "Modifier": "Lift",
+        "Cancel": "Sk Sp M",
+        "Density": "960-1000HP",
+        "Graze": "∞",
+        "Startup": "24+F",
+        "Motion": "34+F",
+        "Total": "62+F",
+        "Frame Adv.": "-7F [+12F]"
+      }
+    ]
+  },
+  {
+    "char": "Cirno",
+    "name": "6C",
+    "type": "bullet",
+    "img": "./images/Cirno/175px-Cirno6c.jpg",
+    "data": [
+      {
+        "Damage": "0.125",
+        "Limit": "10%",
+        "Rate": "96%",
+        "Modifier": "Smash",
+        "Cancel": "Sk Sp M",
+        "Density": "C1xn",
+        "Graze": "1F",
+        "Startup": "61,63,65...F",
+        "Motion": "21F",
+        "Total": "49F",
+        "Frame Adv.": "+15F [+47F]"
+      }
+    ]
+  },
+  {
+    "char": "Cirno",
+    "name": "j5C",
+    "type": "bullet",
+    "img": "./images/Cirno/175px-Cirnoj5c.jpg",
+    "data": [
+      {
+        "Damage": "0.25",
+        "Limit": "10%",
+        "Rate": "94%",
+        "Modifier": "-",
+        "Cancel": "Sk Sp M",
+        "Density": "C3x3",
+        "Graze": "10F",
+        "Startup": "15F",
+        "Motion": "30F",
+        "Total": "62F",
+        "Frame Adv.": "-6F [+27F]"
+      }
+    ]
+  },
+  {
+    "char": "Cirno",
+    "name": "j2C",
+    "type": "bullet",
+    "img": "./images/Cirno/175px-Cirnoj2c.jpg",
+    "data": [
+      {
+        "Damage": "1",
+        "Limit": "40%",
+        "Rate": "88%",
+        "Modifier": "Lift",
+        "Cancel": "Sk Sp M",
+        "Density": "960-1000HP",
+        "Graze": "∞",
+        "Startup": "24+F",
+        "Motion": "34+F",
+        "Total": "62+F",
+        "Frame Adv.": "-7F [+12F]"
+      }
+    ]
+  },
+  {
+    "char": "Cirno",
+    "name": "j6C",
+    "type": "bullet",
+    "img": "./images/Cirno/175px-Cirnoj6c.jpg",
+    "data": [
+      {
+        "Damage": "0.125",
+        "Limit": "10%",
+        "Rate": "96%",
+        "Modifier": "Smash",
+        "Cancel": "Sk Sp M",
+        "Density": "C1xn",
+        "Graze": "1F",
+        "Startup": "61,63,65...F",
+        "Motion": "21F",
+        "Total": "49F",
+        "Frame Adv.": "+15F [+47F]"
+      }
+    ]
+  },
+  {
+    "char": "Cirno",
+    "name": "Icicle Shot",
+    "type": "skill",
+    "img": "./images/Cirno/Ci236bc1.png",
+    "data": [
+      {
+        "Version": "B",
+        "Damage": "0.125",
+        "Limit": "4%",
+        "Rate": "96%",
+        "Modifier": "Smash",
+        "Cancel": "Sp M",
+        "Density": "C1x3",
+        "Graze": "1F",
+        "Startup": "24F",
+        "Motion": "34F",
+        "Total": "56F",
+        "Frame Adv.": "-1 [+22]"
+      },
+      {
+        "Version": "Air B",
+        "Damage": "0.125",
+        "Limit": "4%",
+        "Rate": "96%",
+        "Modifier": "Smash",
+        "Cancel": "Sp M",
+        "Density": "C1x3",
+        "Graze": "1F",
+        "Startup": "20F",
+        "Motion": "30F",
+        "Total": "62F",
+        "Frame Adv.": "(-13 [+20])"
+      },
+      {
+        "Version": "C",
+        "Damage": "0.125",
+        "Limit": "4%",
+        "Rate": "94%",
+        "Modifier": "Smash",
+        "Cancel": "Sp M",
+        "Density": "C1x3",
+        "Graze": "1F",
+        "Startup": "35F",
+        "Motion": "45F",
+        "Total": "67F",
+        "Frame Adv.": "-1 [+22]"
+      },
+      {
+        "Version": "Air C",
+        "Damage": "0.125",
+        "Limit": "4%",
+        "Rate": "96%",
+        "Modifier": "Smash",
+        "Cancel": "Sp M",
+        "Density": "C1x3",
+        "Graze": "1F",
+        "Startup": "31F",
+        "Motion": "41F",
+        "Total": "73F",
+        "Frame Adv.": "(-13 [+20])"
+      }
+    ]
+  },
+  {
+    "char": "Cirno",
+    "name": "Freeze Touch Me",
+    "type": "skill",
+    "img": "./images/Cirno/Ci623bc1.png",
+    "data": [
+      {
+        "Version": "B",
+        "Damage": "0.125",
+        "Limit": "10%",
+        "Rate": "94%",
+        "Modifier": "None",
+        "Cancel": "Sp M",
+        "Density": "B1x8",
+        "Graze": "∞",
+        "Startup": "14F",
+        "Motion": "63F",
+        "Total": "70F",
+        "Frame Adv.": "-35 [-28]"
+      },
+      {
+        "Version": "Air B",
+        "Damage": "0.125",
+        "Limit": "10%",
+        "Rate": "94%",
+        "Modifier": "None",
+        "Cancel": "Sp M",
+        "Density": "B1x8",
+        "Graze": "∞",
+        "Startup": "14F",
+        "Motion": "67F",
+        "Total": "70F",
+        "Frame Adv.": "(-37 [-34])"
+      },
+      {
+        "Version": "C",
+        "Damage": "0.125",
+        "Limit": "10%",
+        "Rate": "94%",
+        "Modifier": "None",
+        "Cancel": "Sp M",
+        "Density": "B1x8",
+        "Graze": "∞",
+        "Startup": "22F",
+        "Motion": "79F",
+        "Total": "86F",
+        "Frame Adv.": "-43 [-36]"
+      },
+      {
+        "Version": "Air C",
+        "Damage": "0.125",
+        "Limit": "10%",
+        "Rate": "94%",
+        "Modifier": "None",
+        "Cancel": "Sp M",
+        "Density": "B1x8",
+        "Graze": "∞",
+        "Startup": "14F",
+        "Motion": "75F",
+        "Total": "78F",
+        "Frame Adv.": "(-45 [-42])"
+      }
+    ]
+  },
+  {
+    "char": "Cirno",
+    "name": "Midsummer Snowman",
+    "type": "skill",
+    "img": "./images/Cirno/Ci214bc1.png",
+    "data": [
+      {
+        "Version": "B (held)",
+        "Damage": "300",
+        "Limit": "15%",
+        "Rate": "92%",
+        "Modifier": "None",
+        "Cancel": "Sp",
+        "Guard": "HA",
+        "Startup": "28F",
+        "Active": "31+F",
+        "Total": "-",
+        "Frame Adv.": "-"
+      },
+      {
+        "Version": "C (held)",
+        "Damage": "300",
+        "Limit": "15%",
+        "Rate": "92%",
+        "Modifier": "None",
+        "Cancel": "Sp",
+        "Guard": "HA",
+        "Startup": "42F",
+        "Active": "31+F",
+        "Total": "-",
+        "Frame Adv.": "-"
+      },
+      {
+        "Version": "Version",
+        "Damage": "Damage",
+        "Limit": "Limit",
+        "Rate": "Rate",
+        "Modifier": "Modifier",
+        "Cancel": "Cancel",
+        "Guard": "Density",
+        "Startup": "Graze",
+        "Active": "Startup",
+        "Total": "Motion",
+        "Frame Adv.": "Total",
+        "undefined": "Damage"
+      },
+      {
+        "Version": "B (release)",
+        "Damage": "800",
+        "Limit": "40%",
+        "Rate": "85%",
+        "Modifier": "None",
+        "Cancel": "Sp M",
+        "Guard": "-",
+        "Startup": "∞",
+        "Active": "59+F",
+        "Total": "89+F",
+        "Frame Adv.": "106+F",
+        "undefined": "1"
+      },
+      {
+        "Version": "C (release)",
+        "Damage": "800",
+        "Limit": "40%",
+        "Rate": "85%",
+        "Modifier": "None",
+        "Cancel": "Sp M",
+        "Guard": "-",
+        "Startup": "∞",
+        "Active": "73+F",
+        "Total": "103+F",
+        "Frame Adv.": "120+F",
+        "undefined": "1"
+      }
+    ]
+  },
+  {
+    "char": "Cirno",
+    "name": "Little Iceberg",
+    "type": "skill",
+    "img": "./images/Cirno/Ci22bc1.png",
+    "data": [
+      {
+        "Version": "B/C (Glacier)",
+        "Damage": "1",
+        "Limit": "30%",
+        "Rate": "90%",
+        "Modifier": "None",
+        "Cancel": "Sp M",
+        "Density": "-",
+        "Graze": "∞",
+        "Startup": "21+F",
+        "Motion": "36+F",
+        "Total": "47+F",
+        "Frame Adv.": "-5/+1 [-7/+13]"
+      },
+      {
+        "Version": "B/C (Icicle)",
+        "Damage": "0.25",
+        "Limit": "10%",
+        "Rate": "94%",
+        "Modifier": "None",
+        "Cancel": "-",
+        "Density": "-",
+        "Graze": "1F",
+        "Startup": "79+F",
+        "Motion": "-",
+        "Total": "-",
+        "Frame Adv.": "-"
+      }
+    ]
+  },
+  {
+    "char": "Cirno",
+    "name": "Frost Pillars",
+    "type": "skill",
+    "img": "./images/Cirno/Ci236bc2.png",
+    "data": [
+      {
+        "Version": "B",
+        "Damage": "0.5",
+        "Limit": "40%",
+        "Rate": "80%",
+        "Modifier": "Rift",
+        "Cancel": "Sp M",
+        "Density": "-",
+        "Graze": "1F",
+        "Startup": "29F",
+        "Motion": "40F",
+        "Total": "56F",
+        "Frame Adv.": "-6 [+11]"
+      },
+      {
+        "Version": "C",
+        "Damage": "0.5",
+        "Limit": "40%",
+        "Rate": "80%",
+        "Modifier": "Rift",
+        "Cancel": "Sp M",
+        "Density": "-",
+        "Graze": "1F",
+        "Startup": "29F",
+        "Motion": "48F",
+        "Total": "78F",
+        "Frame Adv.": "-28 [+3]"
+      }
+    ]
+  },
+  {
+    "char": "Cirno",
+    "name": "Freezing Light",
+    "type": "skill",
+    "img": "./images/Cirno/Ci236bc3.png",
+    "data": [
+      {
+        "Version": "Ground B/C",
+        "Damage": "0.4",
+        "Limit": "15%",
+        "Rate": "90%",
+        "Modifier": "Rift",
+        "Cancel": "Sp M",
+        "Density": "B1x3",
+        "Graze": "∞",
+        "Startup": "23F",
+        "Motion": "41F",
+        "Total": "69F",
+        "Frame Adv.": "-25 [+4]"
+      },
+      {
+        "Version": "Air B/C",
+        "Damage": "0.4",
+        "Limit": "15%",
+        "Rate": "90%",
+        "Modifier": "Rift",
+        "Cancel": "Sp M",
+        "Density": "B1x3",
+        "Graze": "∞",
+        "Startup": "23F",
+        "Motion": "41F",
+        "Total": "75F",
+        "Frame Adv.": "(-33 [+2])"
+      }
+    ]
+  },
+  {
+    "char": "Cirno",
+    "name": "Ice Charge",
+    "type": "skill",
+    "img": "./images/Cirno/Ci214bc2.png",
+    "data": [
+      {
+        "Version": "B",
+        "Damage": "800",
+        "Limit": "40%",
+        "Rate": "85%",
+        "Modifier": "Smash",
+        "Cancel": "Sp",
+        "Guard": "HA",
+        "Startup": "16F",
+        "Active": "21F",
+        "Total": "52F on whiff",
+        "Frame Adv.": "-10/-4 (-12)"
+      },
+      {
+        "Version": "C",
+        "Damage": "800",
+        "Limit": "40%",
+        "Rate": "85%",
+        "Modifier": "Smash",
+        "Cancel": "Sp",
+        "Guard": "HA",
+        "Startup": "16F",
+        "Active": "31F",
+        "Total": "62F on whiff",
+        "Frame Adv.": "-20/-14 (-22)"
+      },
+      {
+        "Version": "Air B",
+        "Damage": "800",
+        "Limit": "40%",
+        "Rate": "85%",
+        "Modifier": "Smash",
+        "Cancel": "Sp",
+        "Guard": "HA",
+        "Startup": "21F",
+        "Active": "21F",
+        "Total": "73F on whiff",
+        "Frame Adv.": "-15/-9 (-17)"
+      },
+      {
+        "Version": "Air C",
+        "Damage": "800",
+        "Limit": "40%",
+        "Rate": "85%",
+        "Modifier": "Smash",
+        "Cancel": "Sp",
+        "Guard": "HA",
+        "Startup": "21F",
+        "Active": "31F",
+        "Total": "83F on whiff",
+        "Frame Adv.": "(-27)"
+      }
+    ]
+  },
+  {
+    "char": "Cirno",
+    "name": "Ice Kick",
+    "type": "skill",
+    "img": "./images/Cirno/Ci214bc3.png",
+    "data": [
+      {
+        "Version": "B",
+        "Damage": "300*4",
+        "Limit": "10%",
+        "Rate": "93%",
+        "Modifier": "Rift",
+        "Cancel": "Sp",
+        "Guard": "HA",
+        "Startup": "32F",
+        "Active": "9F",
+        "Total": "63F",
+        "Frame Adv.": "varies"
+      },
+      {
+        "Version": "C",
+        "Damage": "300*4",
+        "Limit": "10%",
+        "Rate": "93%",
+        "Modifier": "Rift",
+        "Cancel": "Sp",
+        "Guard": "HA",
+        "Startup": "38F",
+        "Active": "16F",
+        "Total": "76F",
+        "Frame Adv.": "varies"
+      },
+      {
+        "Version": "Air B",
+        "Damage": "300*3",
+        "Limit": "10%",
+        "Rate": "93%",
+        "Modifier": "Rift",
+        "Cancel": "Sp",
+        "Guard": "HA",
+        "Startup": "19F",
+        "Active": "until landing",
+        "Total": "+28F upon landing",
+        "Frame Adv.": "varies"
+      },
+      {
+        "Version": "Air C",
+        "Damage": "300*4",
+        "Limit": "10%",
+        "Rate": "93%",
+        "Modifier": "Rift",
+        "Cancel": "Sp",
+        "Guard": "HA",
+        "Startup": "26F",
+        "Active": "until landing",
+        "Total": "+31F upon landing",
+        "Frame Adv.": "varies"
+      }
+    ]
+  },
+  {
+    "char": "Cirno",
+    "name": "Icicle Sword",
+    "type": "skill",
+    "img": "./images/Cirno/Ci623bc3.png",
+    "data": [
+      {
+        "Version": "B spinning",
+        "Damage": "300*n",
+        "Limit": "10%",
+        "Rate": "93%",
+        "Modifier": "none",
+        "Cancel": "Sp",
+        "Guard": "HA",
+        "Startup": "15F",
+        "Active": "until landing",
+        "Total": "-",
+        "Frame Adv.": "-"
+      },
+      {
+        "Version": "B Slash",
+        "Damage": "500",
+        "Limit": "20%",
+        "Rate": "88%",
+        "Modifier": "Smash",
+        "Cancel": "Sp",
+        "Guard": "HA",
+        "Startup": "+3F upon landing",
+        "Active": "2F",
+        "Total": "+46F upon landing",
+        "Frame Adv.": "-16/-12"
+      },
+      {
+        "Version": "C spinning",
+        "Damage": "250*n",
+        "Limit": "5%",
+        "Rate": "94%",
+        "Modifier": "Rift",
+        "Cancel": "Sp",
+        "Guard": "HA",
+        "Startup": "13F",
+        "Active": "until landing",
+        "Total": "-",
+        "Frame Adv.": "-"
+      },
+      {
+        "Version": "C Slash",
+        "Damage": "1000",
+        "Limit": "20%",
+        "Rate": "85%",
+        "Modifier": "Smash",
+        "Cancel": "Sp",
+        "Guard": "H(Crush)A",
+        "Startup": "+3F upon landing",
+        "Active": "2F",
+        "Total": "+49F upon landing",
+        "Frame Adv.": "-19/+3"
+      }
+    ]
+  },
+  {
+    "char": "Cirno",
+    "name": "Icicle Lance",
+    "type": "skill",
+    "img": "./images/Cirno/Ci623bc2.png",
+    "data": [
+      {
+        "Version": "Icicle Spawn",
+        "Damage": "0.1",
+        "Limit": "4%",
+        "Rate": "96%",
+        "Modifier": "Rift",
+        "Cancel": "-",
+        "Density": "B1",
+        "Graze": "1F",
+        "Startup": "15F",
+        "Motion": "-",
+        "Total": "65F",
+        "Frame Adv.": "-"
+      },
+      {
+        "Version": "Icicle Launch",
+        "Damage": "0.1",
+        "Limit": "4%",
+        "Rate": "96%",
+        "Modifier": "Rift",
+        "Cancel": "Sp M",
+        "Density": "B1",
+        "Graze": "∞",
+        "Startup": "29+F",
+        "Motion": "43+F",
+        "Total": "65+F",
+        "Frame Adv.": "-15[+8]"
+      }
+    ]
+  },
+  {
+    "char": "Cirno",
+    "name": "Ice Sign \"Icicle Machine Gun\"",
+    "type": "spell",
+    "img": "./images/Cirno/Cisc01.png",
+    "data": [
+      {
+        "Version": "Ground",
+        "Damage": "0.07",
+        "Limit": "4%",
+        "Rate": "96%",
+        "Modifier": "Smash",
+        "Cancel": "-",
+        "Density": "-",
+        "Graze": "-",
+        "Startup": "15+7",
+        "Motion": "-",
+        "Total": "122F",
+        "Frame Adv.": "-22"
+      },
+      {
+        "Version": "Air",
+        "Damage": "0.075",
+        "Limit": "4%",
+        "Rate": "96%",
+        "Modifier": "Smash",
+        "Cancel": "-",
+        "Density": "-",
+        "Graze": "-",
+        "Startup": "15+7",
+        "Motion": "-",
+        "Total": "122F",
+        "Frame Adv.": "-"
+      }
+    ]
+  },
+  {
+    "char": "Cirno",
+    "name": "Ice Sign \"Fairy Spin\"",
+    "type": "spell",
+    "img": "./images/Cirno/Cisc02.png",
+    "data": [
+      {
+        "Version": "Ground",
+        "Damage": "-",
+        "Limit": "16%",
+        "Rate": "84.9%",
+        "Modifier": "Rift",
+        "Cancel": "-",
+        "Density": "-",
+        "Graze": "-",
+        "Startup": "11+5,33,50",
+        "Motion": "-",
+        "Total": "95F",
+        "Frame Adv.": "-24"
+      },
+      {
+        "Version": "Air",
+        "Damage": "0.4",
+        "Limit": "16%",
+        "Rate": "84.9%",
+        "Modifier": "Rift",
+        "Cancel": "-",
+        "Density": "-",
+        "Graze": "-",
+        "Startup": "17+5,39,56",
+        "Motion": "-",
+        "Total": "93F",
+        "Frame Adv.": "-24"
+      }
+    ]
+  },
+  {
+    "char": "Cirno",
+    "name": "Ice Cube \"Cold Sprinkler\"",
+    "type": "spell",
+    "img": "./images/Cirno/Cisc03.png",
+    "data": [
+      {
+        "Version": "Ball of ice",
+        "Damage": "-",
+        "Limit": "-",
+        "Rate": "-",
+        "Modifier": "-",
+        "Cancel": "-",
+        "Density": "-",
+        "Graze": "-",
+        "Startup": "15+0",
+        "Motion": "-",
+        "Total": "68F",
+        "Frame Adv.": "-"
+      },
+      {
+        "Version": "Icicles",
+        "Damage": "0.05",
+        "Limit": "4%",
+        "Rate": "97.6%",
+        "Modifier": "None",
+        "Cancel": "-",
+        "Density": "-",
+        "Graze": "-",
+        "Startup": "36,39... 201",
+        "Motion": "-",
+        "Total": "68F",
+        "Frame Adv.": "-"
+      }
+    ]
+  },
+  {
+    "char": "Cirno",
+    "name": "Cold Body \"Super Ice Kick\"",
+    "type": "spell",
+    "img": "./images/Cirno/Cisc04.png",
+    "data": [
+      {
+        "Version": "Ground",
+        "Damage": "2703",
+        "Limit": "30%",
+        "Rate": "31.3%",
+        "Modifier": "Rift",
+        "Cancel": "-",
+        "Guard": "HL",
+        "Startup": "29+3",
+        "Active": "-",
+        "Total": "60F",
+        "Frame Adv.": "-34"
+      },
+      {
+        "Version": "Air",
+        "Damage": "2703",
+        "Limit": "30%",
+        "Rate": "31.3%",
+        "Modifier": "Rift",
+        "Cancel": "-",
+        "Guard": "HL",
+        "Startup": "12+3",
+        "Active": "-",
+        "Total": "Until landing",
+        "Frame Adv.": "-34"
+      }
+    ]
+  },
+  {
+    "char": "Cirno",
+    "name": "Ice Sign \"Sword Freezer\"",
+    "type": "spell",
+    "img": "./images/Cirno/Cisc05.png",
+    "data": [
+      {
+        "Version": "First hits",
+        "Damage": "400",
+        "Limit": "0%",
+        "Rate": "99%",
+        "Modifier": "-",
+        "Cancel": "-",
+        "Guard": "HL",
+        "Startup": "10+0",
+        "Active": "-",
+        "Total": "149F",
+        "Frame Adv.": "High disadvantage"
+      },
+      {
+        "Version": "Final hit",
+        "Damage": "1400",
+        "Limit": "100%",
+        "Rate": "80%",
+        "Modifier": "Smash",
+        "Cancel": "-",
+        "Guard": "HL",
+        "Startup": "62",
+        "Active": "-",
+        "Total": "149F",
+        "Frame Adv.": "High disadvantage"
+      }
+    ]
+  },
+  {
+    "char": "Cirno",
+    "name": "Freeze Sign \"Freeze Atmosphere\"",
+    "type": "spell",
+    "img": "./images/Cirno/Cisc06.png",
+    "data": [
+      {
+        "Version": "Aura",
+        "Damage": "-",
+        "Limit": "-",
+        "Rate": "-",
+        "Modifier": "-",
+        "Cancel": "-",
+        "Density": "-",
+        "Graze": "-",
+        "Startup": "13",
+        "Motion": "-",
+        "Total": "45F",
+        "Frame Adv.": "Great advantage"
+      },
+      {
+        "Version": "Trail",
+        "Damage": "0.25",
+        "Limit": "10%",
+        "Rate": "92%",
+        "Modifier": "Rift",
+        "Cancel": "-",
+        "Density": "-",
+        "Graze": "-",
+        "Startup": "108,116,...284",
+        "Motion": "-",
+        "Total": "45F",
+        "Frame Adv.": "Great advantage"
+      }
+    ]
+  },
+  {
+    "char": "Cirno",
+    "name": "Cold Sign \"Instant Freezing Beam\"",
+    "type": "spell",
+    "img": "./images/Cirno/Cisc07.png",
+    "data": [
+      {
+        "Version": "Ground",
+        "Damage": "0.15",
+        "Limit": "45%",
+        "Rate": "40.2%",
+        "Modifier": "Rift",
+        "Cancel": "-",
+        "Density": "-",
+        "Graze": "-",
+        "Startup": "13+5",
+        "Motion": "-",
+        "Total": "108F",
+        "Frame Adv.": "-27"
+      },
+      {
+        "Version": "Air",
+        "Damage": "0.15",
+        "Limit": "45%",
+        "Rate": "40.2%",
+        "Modifier": "Rift",
+        "Cancel": "-",
+        "Density": "-",
+        "Graze": "-",
+        "Startup": "13+5",
+        "Motion": "-",
+        "Total": "108F",
+        "Frame Adv.": "-"
+      }
+    ]
+  },
+  {
+    "char": "Cirno",
+    "name": "Frost Sign \"Frost Columns\"",
+    "type": "spell",
+    "img": "./images/Cirno/Cisc08.png",
+    "data": [
+      {
+        "Damage": "2",
+        "Limit": "20%",
+        "Rate": "90%",
+        "Modifier": "None",
+        "Cancel": "-",
+        "Density": "-",
+        "Graze": "-",
+        "Startup": "13+6",
+        "Motion": "-",
+        "Total": "62F",
+        "Frame Adv.": "-22"
+      }
+    ]
+  },
+  {
+    "char": "Cirno",
+    "name": "Blowing Ice \"Ice Tornado\"",
+    "type": "spell",
+    "img": "./images/Cirno/Cisc09.png",
+    "data": [
+      {
+        "Damage": "0.1",
+        "Limit": "1%",
+        "Rate": "97%",
+        "Modifier": "Rift",
+        "Cancel": "-",
+        "Density": "-",
+        "Graze": "-",
+        "Startup": "17+5",
+        "Motion": "-",
+        "Total": "228F",
+        "Frame Adv.": "-39"
+      }
+    ]
+  },
+  {
+    "char": "Cirno",
+    "name": "Freeze Sign \"Perfect Freeze\"",
+    "type": "spell",
+    "img": "./images/Cirno/Cisc10.png",
+    "data": [
+      {
+        "Version": "Spread",
+        "Damage": "0.0625",
+        "Limit": "1%",
+        "Rate": "99%",
+        "Modifier": "-",
+        "Cancel": "-",
+        "Density": "-",
+        "Graze": "-",
+        "Startup": "15,16,...132",
+        "Motion": "-",
+        "Total": "182F",
+        "Frame Adv.": "-"
+      },
+      {
+        "Version": "Freeze",
+        "Damage": "0.5",
+        "Limit": "10%",
+        "Rate": "97%",
+        "Modifier": "-",
+        "Cancel": "-",
+        "Density": "-",
+        "Graze": "-",
+        "Startup": "135",
+        "Motion": "-",
+        "Total": "190F",
+        "Frame Adv.": "-"
+      },
+      {
+        "Version": "Release",
+        "Damage": "0.25",
+        "Limit": "5%",
+        "Rate": "95%",
+        "Modifier": "-",
+        "Cancel": "-",
+        "Density": "-",
+        "Graze": "-",
+        "Startup": "226",
+        "Motion": "-",
+        "Total": "190F",
+        "Frame Adv.": "-"
+      }
+    ]
+  },
+  {
+    "char": "Cirno",
+    "name": "Ice Cube \"Great Crusher\"",
+    "type": "spell",
+    "img": "./images/Cirno/Cisc11.png",
+    "data": [
+      {
+        "Damage": "4500",
+        "Limit": "100%",
+        "Rate": "75%",
+        "Modifier": "Smash",
+        "Cancel": "-",
+        "Guard": "HL",
+        "Startup": "10+19",
+        "Active": "-",
+        "Total": "69F",
+        "Frame Adv.": "-13"
+      }
+    ]
+  }
+]

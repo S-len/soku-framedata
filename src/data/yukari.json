@@ -1,0 +1,1133 @@
+[
+  {
+    "char": "Yukari",
+    "name": "4A",
+    "type": "normal",
+    "img": "./images/Yukari/175px-Yukari_4a.png",
+    "data": [
+      {
+        "Damage": "200",
+        "Limit": "0%",
+        "Rate": "98%",
+        "Modifier": "None",
+        "Cancel": "R Cn B C Sk Sp",
+        "Guard": "HL",
+        "Startup": "8F",
+        "Active": "3F",
+        "Total": "18F",
+        "Frame Adv.": "-1/X"
+      }
+    ]
+  },
+  {
+    "char": "Yukari",
+    "name": "5A",
+    "type": "normal",
+    "img": "./images/Yukari/175px-Yukari_4a.png",
+    "data": [
+      {
+        "Damage": "200",
+        "Limit": "0%",
+        "Rate": "98%",
+        "Modifier": "None",
+        "Cancel": "D Cn B C Sk Sp",
+        "Guard": "HL",
+        "Startup": "8F",
+        "Active": "3F",
+        "Total": "18F",
+        "Frame Adv.": "-1/X"
+      }
+    ]
+  },
+  {
+    "char": "Yukari",
+    "name": "5AA",
+    "type": "normal",
+    "img": "./images/Yukari/175px-Yukari_4a.png",
+    "data": [
+      {
+        "Damage": "200",
+        "Limit": "0%",
+        "Rate": "98%",
+        "Modifier": "None",
+        "Cancel": "D Cn B C Sk Sp",
+        "Guard": "HL",
+        "Startup": "8F",
+        "Active": "3F",
+        "Total": "18F",
+        "Frame Adv.": "-1/X"
+      }
+    ]
+  },
+  {
+    "char": "Yukari",
+    "name": "5AAA",
+    "type": "normal",
+    "img": "./images/Yukari/175px-Yukari_5aaa.png",
+    "data": [
+      {
+        "Damage": "450",
+        "Limit": "0%",
+        "Rate": "92%",
+        "Modifier": "None",
+        "Cancel": "D Cn B C Sk Sp",
+        "Guard": "H",
+        "Startup": "9F",
+        "Active": "2F",
+        "Total": "30F",
+        "Frame Adv.": "-6/-2"
+      }
+    ]
+  },
+  {
+    "char": "Yukari",
+    "name": "5AAAA",
+    "type": "normal",
+    "img": "./images/Yukari/175px-Yukari_5aaaa.png",
+    "data": [
+      {
+        "Damage": "800",
+        "Limit": "40%",
+        "Rate": "80%",
+        "Modifier": "Smash",
+        "Cancel": "Sp",
+        "Guard": "H",
+        "Startup": "17F",
+        "Active": "4F",
+        "Total": "42F",
+        "Frame Adv.": "-4/+2"
+      }
+    ]
+  },
+  {
+    "char": "Yukari",
+    "name": "f5A",
+    "type": "normal",
+    "img": "./images/Yukari/175px-Yukari_f5a.png",
+    "data": [
+      {
+        "Damage": "520",
+        "Limit": "0%",
+        "Rate": "92%",
+        "Modifier": "None",
+        "Cancel": "Cn B C Sk Sp",
+        "Guard": "L",
+        "Startup": "11F",
+        "Active": "3F",
+        "Total": "25F",
+        "Frame Adv.": "+1/+5"
+      }
+    ]
+  },
+  {
+    "char": "Yukari",
+    "name": "2A",
+    "type": "normal",
+    "img": "./images/Yukari/175px-Yukari_2a.png",
+    "data": [
+      {
+        "Damage": "200",
+        "Limit": "0%",
+        "Rate": "98%",
+        "Modifier": "None",
+        "Cancel": "R Cn B C Sk Sp",
+        "Guard": "L",
+        "Startup": "9F",
+        "Active": "2F",
+        "Total": "24F",
+        "Frame Adv.": "-6/-4"
+      }
+    ]
+  },
+  {
+    "char": "Yukari",
+    "name": "6A",
+    "type": "normal",
+    "img": "./images/Yukari/175px-Yukari_6a.png",
+    "data": [
+      {
+        "Version": "Uncharged",
+        "Damage": "800",
+        "Limit": "40%",
+        "Rate": "85%",
+        "Modifier": "Smash",
+        "Cancel": "B C Sk Sp",
+        "Guard": "H",
+        "Startup": "15F",
+        "Active": "4F",
+        "Total": "40F",
+        "Frame Adv.": "-4/+2"
+      },
+      {
+        "Version": "Charged",
+        "Damage": "900",
+        "Limit": "40%",
+        "Rate": "80%",
+        "Modifier": "Smash",
+        "Cancel": "Sp",
+        "Guard": "H*",
+        "Startup": "30F",
+        "Active": "4F",
+        "Total": "59F",
+        "Frame Adv.": "-2/+20"
+      }
+    ]
+  },
+  {
+    "char": "Yukari",
+    "name": "3A",
+    "type": "normal",
+    "img": "./images/Yukari/175px-Yukari_3a%281%29.png",
+    "data": [
+      {
+        "Damage": "850",
+        "Limit": "40%",
+        "Rate": "85%",
+        "Modifier": "Rift",
+        "Cancel": "B C Sk Sp",
+        "Guard": "L",
+        "Startup": "13F",
+        "Active": "6F",
+        "Total": "45F",
+        "Frame Adv.": "-11/-5"
+      }
+    ]
+  },
+  {
+    "char": "Yukari",
+    "name": "66A or 6DA",
+    "type": "normal",
+    "img": "./images/Yukari/175px-Yukari_66a.png",
+    "data": [
+      {
+        "Damage": "600",
+        "Limit": "0%",
+        "Rate": "92%",
+        "Modifier": "None",
+        "Cancel": "Sk Sp",
+        "Guard": "H",
+        "Startup": "13F",
+        "Active": "2F",
+        "Total": "37F",
+        "Frame Adv.": "-3/+3"
+      }
+    ]
+  },
+  {
+    "char": "Yukari",
+    "name": "66B or 6DB",
+    "type": "normal",
+    "img": "./images/Yukari/175px-Yukari_66b.png",
+    "data": [
+      {
+        "Damage": "550",
+        "Limit": "0%",
+        "Rate": "90%",
+        "Modifier": "None",
+        "Cancel": "Sk Sp",
+        "Guard": "H",
+        "Startup": "14F",
+        "Active": "4F",
+        "Total": "35F",
+        "Frame Adv.": "-5/-1"
+      }
+    ]
+  },
+  {
+    "char": "Yukari",
+    "name": "66C or 6DC",
+    "type": "normal",
+    "img": "./images/Yukari/175px-Yukari_66c%281%29.png",
+    "data": [
+      {
+        "Damage": "950",
+        "Limit": "40%",
+        "Rate": "80%",
+        "Modifier": "Rift",
+        "Cancel": "Sp",
+        "Guard": "L/HL",
+        "Startup": "13F",
+        "Active": "6F",
+        "Total": "68F",
+        "Frame Adv.": "-21/-15"
+      }
+    ]
+  },
+  {
+    "char": "Yukari",
+    "name": "j5A",
+    "type": "normal",
+    "img": "./images/Yukari/175px-Yukari_j5a.png",
+    "data": [
+      {
+        "Damage": "450",
+        "Limit": "0%",
+        "Rate": "92%",
+        "Modifier": "None",
+        "Cancel": "Cn B C Sk Sp",
+        "Guard": "HA",
+        "Startup": "11F",
+        "Active": "6F",
+        "Total": "34F",
+        "Frame Adv.": "(-4F air to air)"
+      }
+    ]
+  },
+  {
+    "char": "Yukari",
+    "name": "j6A",
+    "type": "normal",
+    "img": "./images/Yukari/175px-Yukari_j6a.png",
+    "data": [
+      {
+        "Damage": "800",
+        "Limit": "40%",
+        "Rate": "85%",
+        "Modifier": "Smash",
+        "Cancel": "B C Sk Sp",
+        "Guard": "HA",
+        "Startup": "13F",
+        "Active": "4F",
+        "Total": "61F",
+        "Frame Adv.": "-/-\n(-29F air to air)"
+      }
+    ]
+  },
+  {
+    "char": "Yukari",
+    "name": "j8A",
+    "type": "normal",
+    "img": "./images/Yukari/175px-Yukari_j8a.png",
+    "data": [
+      {
+        "Damage": "850",
+        "Limit": "40%",
+        "Rate": "85%",
+        "Modifier": "Rift",
+        "Cancel": "B C Sk Sp",
+        "Guard": "HA",
+        "Startup": "13F",
+        "Active": "6F",
+        "Total": "56F",
+        "Frame Adv.": "+/+\n(-24F air to air)"
+      }
+    ]
+  },
+  {
+    "char": "Yukari",
+    "name": "j2A",
+    "type": "normal",
+    "img": "./images/Yukari/175px-Yukari_j2a.png",
+    "data": [
+      {
+        "Damage": "700",
+        "Limit": "40%",
+        "Rate": "90%",
+        "Modifier": "Rift",
+        "Cancel": "Sk Sp",
+        "Guard": "HA",
+        "Startup": "16F",
+        "Active": "Until you hit the ground",
+        "Total": "-",
+        "Frame Adv.": "+3/+9 (ia)"
+      }
+    ]
+  },
+  {
+    "char": "Yukari",
+    "name": "Open, Lamented Box of Urashima",
+    "type": "skill",
+    "img": "./images/Yukari/Yu236bc1.png",
+    "data": [
+      {
+        "Version": "B (Air OK)",
+        "Damage": "1 (2 on wb)",
+        "Limit": "40%",
+        "Rate": "80%",
+        "Modifier": "Smash",
+        "Cancel": "Sp M",
+        "Density": "None",
+        "Graze": "-",
+        "Startup": "33F",
+        "Motion": "33F",
+        "Total": "47F",
+        "Frame Adv.": "+19F"
+      },
+      {
+        "Version": "C (Air OK)",
+        "Damage": "1 (2 on wb)",
+        "Limit": "40%",
+        "Rate": "80%",
+        "Modifier": "Smash",
+        "Cancel": "Sp M",
+        "Density": "None",
+        "Graze": "-",
+        "Startup": "33F",
+        "Motion": "33F",
+        "Total": "47F",
+        "Frame Adv.": "+22F"
+      }
+    ]
+  },
+  {
+    "char": "Yukari",
+    "name": "Bound to the Grave",
+    "type": "skill",
+    "img": "./images/Yukari/Yu236bc2.png",
+    "data": [
+      {
+        "Version": "B",
+        "Damage": "0.25",
+        "Limit": "5% x 7",
+        "Rate": "92% x 7",
+        "Modifier": "-",
+        "Cancel": "Sp M",
+        "Density": "None",
+        "Graze": "-",
+        "Startup": "16F",
+        "Motion": "31F",
+        "Total": "70F",
+        "Frame Adv.": "-24[+16]"
+      },
+      {
+        "Version": "C",
+        "Damage": "0.25",
+        "Limit": "5% x 7",
+        "Rate": "92% x 7",
+        "Modifier": "-",
+        "Cancel": "Sp M",
+        "Density": "None",
+        "Graze": "-",
+        "Startup": "27F",
+        "Motion": "42F",
+        "Total": "81F",
+        "Frame Adv.": "-24[+16]"
+      }
+    ]
+  },
+  {
+    "char": "Yukari",
+    "name": "Bewitching Bait",
+    "type": "skill",
+    "img": "./images/Yukari/Yu236bc3.png",
+    "data": [
+      {
+        "Version": "Ground B/C",
+        "Damage": "0.5",
+        "Limit": "15% x n",
+        "Rate": "94% x n",
+        "Modifier": "-",
+        "Cancel": "Sp M",
+        "Density": "-",
+        "Graze": "-",
+        "Startup": "Notes",
+        "Motion": "38F",
+        "Total": "67F",
+        "Frame Adv.": "-"
+      },
+      {
+        "Version": "Air B/C",
+        "Damage": "0.5",
+        "Limit": "15% x n",
+        "Rate": "94% x n",
+        "Modifier": "-",
+        "Cancel": "Sp M",
+        "Density": "-",
+        "Graze": "-",
+        "Startup": "Notes",
+        "Motion": "38F",
+        "Total": "75(10)F",
+        "Frame Adv.": "-"
+      },
+      {
+        "Version": "Charged ground B/C",
+        "Damage": "0.5",
+        "Limit": "15% x n",
+        "Rate": "94% x n",
+        "Modifier": "-",
+        "Cancel": "Sp M",
+        "Density": "-",
+        "Graze": "-",
+        "Startup": "Notes",
+        "Motion": "58F",
+        "Total": "87F",
+        "Frame Adv.": "-"
+      },
+      {
+        "Version": "Charged air B/C",
+        "Damage": "0.5",
+        "Limit": "15% x n",
+        "Rate": "94% x n",
+        "Modifier": "-",
+        "Cancel": "Sp M",
+        "Density": "-",
+        "Graze": "-",
+        "Startup": "Notes",
+        "Motion": "58F",
+        "Total": "95(10)F",
+        "Frame Adv.": "-"
+      }
+    ]
+  },
+  {
+    "char": "Yukari",
+    "name": "Ghostly Butterfly Hidden in Zen Temple",
+    "type": "skill",
+    "img": "./images/Yukari/Yu623bc1.png",
+    "data": [
+      {
+        "Version": "B",
+        "Damage": "450",
+        "Limit": "10%",
+        "Rate": "92%",
+        "Modifier": "Rift",
+        "Cancel": "Sp",
+        "Guard": "HL",
+        "Startup": "15F",
+        "Active": "30F",
+        "Total": "72F",
+        "Frame Adv.": "-59"
+      },
+      {
+        "Version": "C",
+        "Damage": "450",
+        "Limit": "5%",
+        "Rate": "93%",
+        "Modifier": "Rift",
+        "Cancel": "Sp",
+        "Guard": "HL",
+        "Startup": "15F",
+        "Active": "30F",
+        "Total": "103F",
+        "Frame Adv.": "-12F to -19F (Lv0)"
+      }
+    ]
+  },
+  {
+    "char": "Yukari",
+    "name": "Illusion Manji Parasol",
+    "type": "skill",
+    "img": "./images/Yukari/Yu623bc2.png",
+    "data": [
+      {
+        "Version": "B/C",
+        "Damage": "0.25",
+        "Limit": "92%",
+        "Rate": "10%",
+        "Modifier": "Rift",
+        "Cancel": "Sp M",
+        "Density": "B3",
+        "Graze": "infinite",
+        "Startup": "35F",
+        "Motion": "49F",
+        "Total": "71F",
+        "Frame Adv.": "+5F"
+      }
+    ]
+  },
+  {
+    "char": "Yukari",
+    "name": "Border between Brains and Feet",
+    "type": "skill",
+    "img": "./images/Yukari/Yu623bc3.png",
+    "data": [
+      {
+        "Version": "B",
+        "Damage": "1",
+        "Limit": "40%",
+        "Rate": "80%",
+        "Modifier": "Smash",
+        "Cancel": "Sp M",
+        "Density": "None",
+        "Graze": "-",
+        "Startup": "37F",
+        "Motion": "53F",
+        "Total": "89F",
+        "Frame Adv.": "-25[+12]"
+      },
+      {
+        "Version": "C",
+        "Damage": "1",
+        "Limit": "40%",
+        "Rate": "80%",
+        "Modifier": "Smash",
+        "Cancel": "Sp M",
+        "Density": "None",
+        "Graze": "-",
+        "Startup": "76F",
+        "Motion": "103F",
+        "Total": "140F",
+        "Frame Adv.": "+22F"
+      }
+    ]
+  },
+  {
+    "char": "Yukari",
+    "name": "Ride the Waves, Fight the Ocean",
+    "type": "skill",
+    "img": "./images/Yukari/Yu214bc1.png",
+    "data": [
+      {
+        "Version": "Ground B",
+        "Damage": "0",
+        "Limit": "-",
+        "Rate": "-",
+        "Modifier": "-",
+        "Cancel": "Sp M",
+        "Density": "None",
+        "Graze": "-",
+        "Startup": "37F",
+        "Motion": "23F",
+        "Total": "52F",
+        "Frame Adv.": "-"
+      },
+      {
+        "Version": "Air B (Lv1+)",
+        "Damage": "0",
+        "Limit": "-",
+        "Rate": "-",
+        "Modifier": "-",
+        "Cancel": "Sp M",
+        "Density": "None",
+        "Graze": "-",
+        "Startup": "33F",
+        "Motion": "26F",
+        "Total": "59F",
+        "Frame Adv.": "-"
+      },
+      {
+        "Version": "C",
+        "Damage": "0.25",
+        "Limit": "5%",
+        "Rate": "94%",
+        "Modifier": "-",
+        "Cancel": "Sp M",
+        "Density": "None",
+        "Graze": "-",
+        "Startup": "26F",
+        "Motion": "23F",
+        "Total": "52F",
+        "Frame Adv.": "+4,+9,...+67"
+      }
+    ]
+  },
+  {
+    "char": "Yukari",
+    "name": "Universe of Matter and Antimatter",
+    "type": "skill",
+    "img": "./images/Yukari/Yu214bc2.png",
+    "data": [
+      {
+        "Version": "Ground B/C",
+        "Damage": "0",
+        "Limit": "-",
+        "Rate": "-",
+        "Modifier": "-",
+        "Cancel": "Sp M",
+        "Density": "None",
+        "Graze": "-",
+        "Startup": "-",
+        "Motion": "23F",
+        "Total": "52F",
+        "Frame Adv.": "-"
+      },
+      {
+        "Version": "Air B/C",
+        "Damage": "0",
+        "Limit": "-",
+        "Rate": "-",
+        "Modifier": "-",
+        "Cancel": "Sp M",
+        "Density": "None",
+        "Graze": "-",
+        "Startup": "-",
+        "Motion": "26F",
+        "Total": "59(10)F",
+        "Frame Adv.": "-"
+      },
+      {
+        "Version": "Charged Ground B/C",
+        "Damage": "0",
+        "Limit": "-",
+        "Rate": "-",
+        "Modifier": "-",
+        "Cancel": "Sp M",
+        "Density": "None",
+        "Graze": "-",
+        "Startup": "-",
+        "Motion": "33F",
+        "Total": "62F",
+        "Frame Adv.": "-"
+      },
+      {
+        "Version": "Charged Air B/C",
+        "Damage": "0",
+        "Limit": "-",
+        "Rate": "-",
+        "Modifier": "-",
+        "Cancel": "Sp M",
+        "Density": "None",
+        "Graze": "-",
+        "Startup": "-",
+        "Motion": "36F",
+        "Total": "69(10)F",
+        "Frame Adv.": "-"
+      },
+      {
+        "Version": "Reaction",
+        "Damage": "0.1 x n",
+        "Limit": "5%",
+        "Rate": "98%",
+        "Modifier": "-",
+        "Cancel": "Sp M",
+        "Density": "None",
+        "Graze": "-",
+        "Startup": "25[35]F*",
+        "Motion": "23F",
+        "Total": "52F",
+        "Frame Adv.": "+38[+68] ; +48[+78] Lv2+"
+      }
+    ]
+  },
+  {
+    "char": "Yukari",
+    "name": "Eye of Changes",
+    "type": "skill",
+    "img": "./images/Yukari/Yu214bc3.png",
+    "data": [
+      {
+        "Version": "Ground B/C",
+        "Damage": "0",
+        "Limit": "-",
+        "Rate": "-",
+        "Modifier": "-",
+        "Cancel": "Sp M",
+        "Density": "None",
+        "Graze": "-",
+        "Startup": "-",
+        "Motion": "26F",
+        "Total": "52F",
+        "Frame Adv.": "-"
+      },
+      {
+        "Version": "Air B/C",
+        "Damage": "0",
+        "Limit": "-",
+        "Rate": "-",
+        "Modifier": "-",
+        "Cancel": "Sp M",
+        "Density": "None",
+        "Graze": "-",
+        "Startup": "-",
+        "Motion": "26F",
+        "Total": "59F",
+        "Frame Adv.": "-"
+      },
+      {
+        "Version": "Eye shot",
+        "Damage": "0.5",
+        "Limit": "0%",
+        "Rate": "92%",
+        "Modifier": "-",
+        "Cancel": "Sp M",
+        "Density": "None",
+        "Graze": "-",
+        "Startup": "1F",
+        "Motion": "-",
+        "Total": "-",
+        "Frame Adv.": "-"
+      }
+    ]
+  },
+  {
+    "char": "Yukari",
+    "name": "Illusional Rift",
+    "type": "skill",
+    "img": "./images/Yukari/Yu421bc1.png",
+    "data": [
+      {
+        "Version": "B",
+        "Damage": "1300",
+        "Limit": "40%",
+        "Rate": "80%",
+        "Modifier": "Smash",
+        "Cancel": "Sp",
+        "Guard": "-",
+        "Startup": "54F",
+        "Active": "31F",
+        "Total": "104F",
+        "Frame Adv.": "-23"
+      },
+      {
+        "Version": "C",
+        "Damage": "1300",
+        "Limit": "40%",
+        "Rate": "80%",
+        "Modifier": "Smash",
+        "Cancel": "Sp",
+        "Guard": "-",
+        "Startup": "54F",
+        "Active": "18F",
+        "Total": "100F",
+        "Frame Adv.": "-8"
+      }
+    ]
+  },
+  {
+    "char": "Yukari",
+    "name": "Flesh Dismantler",
+    "type": "skill",
+    "img": "./images/Yukari/Yu421bc2.png",
+    "data": [
+      {
+        "Version": "B",
+        "Damage": "400 x 5",
+        "Limit": "10% x n",
+        "Rate": "94%",
+        "Modifier": "Rift",
+        "Cancel": "Sp",
+        "Guard": "L",
+        "Startup": "46F",
+        "Active": "25F",
+        "Total": "120F",
+        "Frame Adv.": "-14[-10]"
+      },
+      {
+        "Version": "C",
+        "Damage": "300 x 7",
+        "Limit": "10% x n",
+        "Rate": "93%",
+        "Modifier": "Rift",
+        "Cancel": "Sp",
+        "Guard": "L",
+        "Startup": "52F",
+        "Active": "40F",
+        "Total": "146F",
+        "Frame Adv.": "-67[-61]"
+      }
+    ]
+  },
+  {
+    "char": "Yukari",
+    "name": "Wings of the Chimera",
+    "type": "skill",
+    "img": "./images/Yukari/Yu421bc3.png",
+    "data": [
+      {
+        "Version": "Ground B",
+        "Damage": "-",
+        "Limit": "-",
+        "Rate": "-",
+        "Modifier": "-",
+        "Cancel": "Sp",
+        "Guard": "-",
+        "Startup": "55F",
+        "Active": "-",
+        "Total": "55F",
+        "Frame Adv.": "-"
+      },
+      {
+        "Version": "Version",
+        "Damage": "Damage",
+        "Limit": "Limit",
+        "Rate": "Rate",
+        "Modifier": "Modifier",
+        "Cancel": "Cancel",
+        "Guard": "Guard",
+        "Startup": "Startup",
+        "Active": "Active",
+        "Total": "Total",
+        "Frame Adv.": "Frame Adv."
+      },
+      {
+        "Version": "Air B",
+        "Damage": "-",
+        "Limit": "-",
+        "Rate": "-",
+        "Modifier": "-",
+        "Cancel": "Sp",
+        "Guard": "-",
+        "Startup": "59F",
+        "Active": "-",
+        "Total": "59(10)F",
+        "Frame Adv.": "-"
+      },
+      {
+        "Version": "Version",
+        "Damage": "Damage",
+        "Limit": "Limit",
+        "Rate": "Rate",
+        "Modifier": "Modifier",
+        "Cancel": "Cancel",
+        "Guard": "Guard",
+        "Startup": "Startup",
+        "Active": "Active",
+        "Total": "Total",
+        "Frame Adv.": "Frame Adv."
+      },
+      {
+        "Version": "C",
+        "Damage": "-",
+        "Limit": "-",
+        "Rate": "-",
+        "Modifier": "-",
+        "Cancel": "Sp",
+        "Guard": "-",
+        "Startup": "19F",
+        "Active": "-",
+        "Total": "29F",
+        "Frame Adv.": "-"
+      }
+    ]
+  },
+  {
+    "char": "Yukari",
+    "name": "Boundary \"Border Between 2D and 3D\"",
+    "type": "spell",
+    "img": "./images/Yukari/Yusc01.png",
+    "data": [
+      {
+        "Damage": "0.5",
+        "Limit": "25%",
+        "Rate": "85%",
+        "Modifier": "Rift",
+        "Cancel": "-",
+        "Density": "None",
+        "Graze": "-",
+        "Startup": "9+23",
+        "Motion": "-",
+        "Total": "60F",
+        "Frame Adv.": "-17F (pointblank)"
+      }
+    ]
+  },
+  {
+    "char": "Yukari",
+    "name": "Shikigami \"Chen\"",
+    "type": "spell",
+    "img": "./images/Yukari/Yusc02.png",
+    "data": [
+      {
+        "Damage": "0.5",
+        "Limit": "30%",
+        "Rate": "80%",
+        "Modifier": "Rift",
+        "Cancel": "-",
+        "Density": "None",
+        "Graze": "-",
+        "Startup": "11+19",
+        "Motion": "-",
+        "Total": "48F",
+        "Frame Adv.": "-"
+      }
+    ]
+  },
+  {
+    "char": "Yukari",
+    "name": "Aerial Bait \"Laced with Venom\" (Air OK)",
+    "type": "spell",
+    "img": "./images/Yukari/Yusc03.png",
+    "data": [
+      {
+        "Version": "Ground",
+        "Damage": "0.2",
+        "Limit": "10%",
+        "Rate": "90%",
+        "Modifier": "Rift",
+        "Cancel": "-",
+        "Density": "Ax12",
+        "Graze": "-",
+        "Startup": "13+94,99,104,109",
+        "Motion": "-",
+        "Total": "52",
+        "Frame Adv.": "Great advantage"
+      }
+    ]
+  },
+  {
+    "char": "Yukari",
+    "name": "Border Sign \"Quadruple Barrier\"",
+    "type": "spell",
+    "img": "./images/Yukari/Yusc04.png",
+    "data": [
+      {
+        "Damage": "0.95",
+        "Limit": "1% x n",
+        "Rate": "99%",
+        "Modifier": "Rift",
+        "Cancel": "-",
+        "Density": "A",
+        "Graze": "-",
+        "Startup": "3+8",
+        "Motion": "-",
+        "Total": "-",
+        "Frame Adv.": "-17F"
+      },
+      {
+        "Damage": "0.95",
+        "Limit": "40%",
+        "Rate": "20%",
+        "Modifier": "Rift",
+        "Cancel": "-",
+        "Density": "A",
+        "Graze": "-",
+        "Startup": "52",
+        "Motion": "-",
+        "Total": "-",
+        "Frame Adv.": "-14"
+      }
+    ]
+  },
+  {
+    "char": "Yukari",
+    "name": "Shikigami \"Ran\"",
+    "type": "spell",
+    "img": "./images/Yukari/Yusc05.png",
+    "data": [
+      {
+        "Damage": "0.75",
+        "Limit": "2%",
+        "Rate": "98%",
+        "Modifier": "Smash",
+        "Cancel": "-",
+        "Density": "None",
+        "Graze": "-",
+        "Startup": "11+15",
+        "Motion": "-",
+        "Total": "48",
+        "Frame Adv.": "+53"
+      }
+    ]
+  },
+  {
+    "char": "Yukari",
+    "name": "Boundary \"Objective Border\"",
+    "type": "spell",
+    "img": "./images/Yukari/Yusc06.png",
+    "data": [
+      {
+        "Damage": "0.2",
+        "Limit": "15%",
+        "Rate": "90%",
+        "Modifier": "Rift",
+        "Cancel": "-",
+        "Density": "None",
+        "Graze": "-",
+        "Startup": "9+variable",
+        "Motion": "-",
+        "Total": "70F",
+        "Frame Adv.": "Variable"
+      }
+    ]
+  },
+  {
+    "char": "Yukari",
+    "name": "Fantasy Nest \"Nest of Fireflies\" (Air OK)",
+    "type": "spell",
+    "img": "./images/Yukari/Yusc07.png",
+    "data": [
+      {
+        "Damage": "0.15",
+        "Limit": "5% x n",
+        "Rate": "97%",
+        "Modifier": "Rift",
+        "Cancel": "-",
+        "Density": "-",
+        "Graze": "-",
+        "Startup": "13+28,29,31,...",
+        "Motion": "-",
+        "Total": "-",
+        "Frame Adv.": "-14"
+      }
+    ]
+  },
+  {
+    "char": "Yukari",
+    "name": "Boundary \"Charming Quadruple Barrier\"",
+    "type": "spell",
+    "img": "./images/Yukari/Yusc08.png",
+    "data": [
+      {
+        "Damage": "1.05",
+        "Limit": "1% x 21",
+        "Rate": "99%",
+        "Modifier": "Rift",
+        "Cancel": "-",
+        "Density": "-",
+        "Graze": "-",
+        "Startup": "5+8",
+        "Motion": "-",
+        "Total": "194F",
+        "Frame Adv.": "-49F"
+      },
+      {
+        "Damage": "Damage",
+        "Limit": "Limit",
+        "Rate": "Rate",
+        "Modifier": "Modifier",
+        "Cancel": "Cancel",
+        "Density": "Density",
+        "Graze": "Graze",
+        "Startup": "Startup",
+        "Motion": "Motion",
+        "Total": "Total",
+        "Frame Adv.": "Frame Adv."
+      },
+      {
+        "Damage": "0.5",
+        "Limit": "40%",
+        "Rate": "20%",
+        "Modifier": "Rift",
+        "Cancel": "-",
+        "Density": "-",
+        "Graze": "-",
+        "Startup": "115",
+        "Motion": "-",
+        "Total": "194F",
+        "Frame Adv.": "-49F"
+      }
+    ]
+  },
+  {
+    "char": "Yukari",
+    "name": "Magic Eye \"The Magic Eye of Laplace\" (Air OK)",
+    "type": "spell",
+    "img": "./images/Yukari/Yusc09.png",
+    "data": [
+      {
+        "Damage": "-",
+        "Limit": "5% x 12",
+        "Rate": "92%",
+        "Modifier": "None",
+        "Cancel": "-",
+        "Density": "-",
+        "Graze": "-",
+        "Startup": "13+...",
+        "Motion": "-",
+        "Total": "67F",
+        "Frame Adv.": "-"
+      }
+    ]
+  },
+  {
+    "char": "Yukari",
+    "name": "Obsolete Line \"Trip to the Old Station\"",
+    "type": "spell",
+    "img": "./images/Yukari/Yusc10.png",
+    "data": [
+      {
+        "Damage": "-",
+        "Limit": "40% x 3",
+        "Rate": "80%",
+        "Modifier": "Rift",
+        "Cancel": "-",
+        "Density": "-",
+        "Graze": "-",
+        "Startup": "16+114,150,186,222",
+        "Motion": "-",
+        "Total": "292F",
+        "Frame Adv.": "-"
+      }
+    ]
+  }
+]

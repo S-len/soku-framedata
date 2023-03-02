@@ -1,0 +1,1488 @@
+[
+  {
+    "char": "Meiling",
+    "name": "4A",
+    "type": "normal",
+    "img": "./images/Meiling/175px-Meiling5a.png",
+    "data": [
+      {
+        "Damage": "200",
+        "Limit": "0%",
+        "Rate": "98%",
+        "Modifier": "None",
+        "Cancel": "R Cn B C Sk Sp",
+        "Guard": "HL",
+        "Startup": "6F",
+        "Active": "2F",
+        "Total": "15F",
+        "Frame Adv.": "+0"
+      }
+    ]
+  },
+  {
+    "char": "Meiling",
+    "name": "5A",
+    "type": "normal",
+    "img": "./images/Meiling/175px-Meiling5a.png",
+    "data": [
+      {
+        "Damage": "200",
+        "Limit": "0%",
+        "Rate": "98%",
+        "Modifier": "None",
+        "Cancel": "D Cn B C Sk Sp",
+        "Guard": "HL",
+        "Startup": "6F",
+        "Active": "2F",
+        "Total": "15F",
+        "Frame Adv.": "+0"
+      }
+    ]
+  },
+  {
+    "char": "Meiling",
+    "name": "5AA",
+    "type": "normal",
+    "img": "./images/Meiling/175px-Meiling5a.png",
+    "data": [
+      {
+        "Damage": "200",
+        "Limit": "0%",
+        "Rate": "98%",
+        "Modifier": "None",
+        "Cancel": "D Cn B C Sk Sp",
+        "Guard": "HL",
+        "Startup": "6F",
+        "Active": "2F",
+        "Total": "15F",
+        "Frame Adv.": "+0"
+      }
+    ]
+  },
+  {
+    "char": "Meiling",
+    "name": "5AAA",
+    "type": "normal",
+    "img": "./images/Meiling/175px-Meiling5AAA.png",
+    "data": [
+      {
+        "Damage": "450",
+        "Limit": "0%",
+        "Rate": "92%",
+        "Modifier": "None",
+        "Cancel": "D B C Sk Sp",
+        "Guard": "H",
+        "Startup": "9F",
+        "Active": "5F",
+        "Total": "30F",
+        "Frame Adv.": "-6/-2"
+      }
+    ]
+  },
+  {
+    "char": "Meiling",
+    "name": "5AAAA",
+    "type": "normal",
+    "img": "./images/Meiling/175px-Meiling5AAAA.png",
+    "data": [
+      {
+        "Damage": "650",
+        "Limit": "0%",
+        "Rate": "90%",
+        "Modifier": "None",
+        "Cancel": "Sk Sp",
+        "Guard": "H",
+        "Startup": "12F",
+        "Active": "2F",
+        "Total": "40F",
+        "Frame Adv.": "-7/-1"
+      }
+    ]
+  },
+  {
+    "char": "Meiling",
+    "name": "5AAA6A",
+    "type": "normal",
+    "img": "./images/Meiling/175px-Meiling5AAA6A.png",
+    "data": [
+      {
+        "Damage": "800",
+        "Limit": "40%",
+        "Rate": "85%",
+        "Modifier": "Smash",
+        "Cancel": "Sp",
+        "Guard": "H",
+        "Startup": "16F",
+        "Active": "3F",
+        "Total": "44F",
+        "Frame Adv.": "-7/-1"
+      }
+    ]
+  },
+  {
+    "char": "Meiling",
+    "name": "5AAA2A",
+    "type": "normal",
+    "img": "./images/Meiling/175px-Meiling5AAA2A.png",
+    "data": [
+      {
+        "Damage": "750",
+        "Limit": "40%",
+        "Rate": "85%",
+        "Modifier": "Rift",
+        "Cancel": "Sp",
+        "Guard": "L",
+        "Startup": "17F",
+        "Active": "3F",
+        "Total": "46F",
+        "Frame Adv.": "-8/-2"
+      }
+    ]
+  },
+  {
+    "char": "Meiling",
+    "name": "f5A",
+    "type": "normal",
+    "img": "./images/Meiling/175px-Meilingf5a.png",
+    "data": [
+      {
+        "Damage": "600",
+        "Limit": "0%",
+        "Rate": "90%",
+        "Modifier": "None",
+        "Cancel": "Cn B C Sk Sp",
+        "Guard": "H",
+        "Startup": "12F",
+        "Active": "2F",
+        "Total": "36F",
+        "Frame Adv.": "-3/+3"
+      }
+    ]
+  },
+  {
+    "char": "Meiling",
+    "name": "2A",
+    "type": "normal",
+    "img": "./images/Meiling/175px-Meilng2a.png",
+    "data": [
+      {
+        "Damage": "200",
+        "Limit": "0%",
+        "Rate": "98%",
+        "Modifier": "None",
+        "Cancel": "R Cn B C Sk Sp",
+        "Guard": "L",
+        "Startup": "7F",
+        "Active": "2F",
+        "Total": "18F",
+        "Frame Adv.": "-2/+0"
+      }
+    ]
+  },
+  {
+    "char": "Meiling",
+    "name": "6A",
+    "type": "normal",
+    "img": "./images/Meiling/175px-Meiling6a1.png",
+    "data": [
+      {
+        "Version": "Uncharged",
+        "Damage": "800",
+        "Limit": "40%",
+        "Rate": "90%",
+        "Modifier": "Smash",
+        "Cancel": "B C Sk Sp",
+        "Guard": "H",
+        "Startup": "16F",
+        "Active": "9F",
+        "Total": "48F",
+        "Frame Adv.": "-11/-5"
+      },
+      {
+        "Version": "Charged",
+        "Damage": "1000",
+        "Limit": "40%",
+        "Rate": "80%",
+        "Modifier": "Smash",
+        "Cancel": "Sp",
+        "Guard": "H*",
+        "Startup": "31F",
+        "Active": "9F",
+        "Total": "64F",
+        "Frame Adv.": "-6/+16"
+      }
+    ]
+  },
+  {
+    "char": "Meiling",
+    "name": "3A",
+    "type": "normal",
+    "img": "./images/Meiling/175px-Meiling3a.png",
+    "data": [
+      {
+        "Version": "Uncharged",
+        "Damage": "750",
+        "Limit": "40%",
+        "Rate": "85%",
+        "Modifier": "Rift",
+        "Cancel": "B C Sk Sp",
+        "Guard": "L",
+        "Startup": "15F",
+        "Active": "3F",
+        "Total": "39F",
+        "Frame Adv.": "-3/+3"
+      },
+      {
+        "Version": "Charged",
+        "Damage": "850",
+        "Limit": "40%",
+        "Rate": "80%",
+        "Modifier": "Rift",
+        "Cancel": "Sp",
+        "Guard": "L*",
+        "Startup": "30F",
+        "Active": "3F",
+        "Total": "54F",
+        "Frame Adv.": "+3/+25"
+      }
+    ]
+  },
+  {
+    "char": "Meiling",
+    "name": "66A or 6DA",
+    "type": "normal",
+    "img": "./images/Meiling/175px-Meiling66A.png",
+    "data": [
+      {
+        "Damage": "450",
+        "Limit": "0%",
+        "Rate": "92%",
+        "Modifier": "None",
+        "Cancel": "Sk Sp",
+        "Guard": "H",
+        "Startup": "12F",
+        "Active": "3F",
+        "Total": "36F",
+        "Frame Adv.": "-9/-5"
+      }
+    ]
+  },
+  {
+    "char": "Meiling",
+    "name": "66B or 6DB",
+    "type": "normal",
+    "img": "./images/Meiling/175px-Meiling66B.png",
+    "data": [
+      {
+        "Damage": "800",
+        "Limit": "40%",
+        "Rate": "85%",
+        "Modifier": "Smash",
+        "Cancel": "Sp",
+        "Guard": "H",
+        "Startup": "19F",
+        "Active": "2F",
+        "Total": "46F",
+        "Frame Adv.": "-6/+0"
+      }
+    ]
+  },
+  {
+    "char": "Meiling",
+    "name": "66C or 6DC",
+    "type": "normal",
+    "img": "./images/Meiling/175px-Meiling66C.png",
+    "data": [
+      {
+        "Damage": "850",
+        "Limit": "40%",
+        "Rate": "80%",
+        "Modifier": "Rift",
+        "Cancel": "Sp",
+        "Guard": "L",
+        "Startup": "17F",
+        "Active": "10F",
+        "Total": "49F",
+        "Frame Adv.": "-11F/-5F"
+      }
+    ]
+  },
+  {
+    "char": "Meiling",
+    "name": "j5A",
+    "type": "normal",
+    "img": "./images/Meiling/175px-Meilingj5a.png",
+    "data": [
+      {
+        "Damage": "450",
+        "Limit": "0%",
+        "Rate": "92%",
+        "Modifier": "None",
+        "Cancel": "Cn B C Sk Sp",
+        "Guard": "HA",
+        "Startup": "9F",
+        "Active": "7F",
+        "Total": "37F",
+        "Frame Adv.": "(-9)"
+      }
+    ]
+  },
+  {
+    "char": "Meiling",
+    "name": "j6A",
+    "type": "normal",
+    "img": "./images/Meiling/175px-Meilingj6a1.png",
+    "data": [
+      {
+        "Damage": "900",
+        "Limit": "40%",
+        "Rate": "85%",
+        "Modifier": "Smash",
+        "Cancel": "B C Sk Sp",
+        "Guard": "HA",
+        "Startup": "15F",
+        "Active": "9F",
+        "Total": "45F",
+        "Frame Adv.": "(-11F)"
+      }
+    ]
+  },
+  {
+    "char": "Meiling",
+    "name": "j8A",
+    "type": "normal",
+    "img": "./images/Meiling/175px-Meilingj8a1.png",
+    "data": [
+      {
+        "Damage": "600, 600",
+        "Limit": "25%, 25%",
+        "Rate": "85%",
+        "Modifier": "Smash",
+        "Cancel": "B C Sk Sp",
+        "Guard": "HA",
+        "Startup": "10F, 26F",
+        "Active": "7F, 3F",
+        "Total": "67F",
+        "Frame Adv.": "(-22F)"
+      }
+    ]
+  },
+  {
+    "char": "Meiling",
+    "name": "j2A",
+    "type": "normal",
+    "img": "./images/Meiling/175px-Meilingj2a1.png",
+    "data": [
+      {
+        "Damage": "600, 600",
+        "Limit": "25%, 25%",
+        "Rate": "85%",
+        "Modifier": "Rift",
+        "Cancel": "B C Sk Sp",
+        "Guard": "HA",
+        "Startup": "12F, 22F",
+        "Active": "2F, 2F",
+        "Total": "Until Landing",
+        "Frame Adv.": "(-F)"
+      }
+    ]
+  },
+  {
+    "char": "Meiling",
+    "name": "5B",
+    "type": "bullet",
+    "img": "./images/Meiling/175px-Meiling5b.png",
+    "data": [
+      {
+        "Version": "Uncharged",
+        "Damage": "0.5",
+        "Limit": "5%",
+        "Rate": "92%",
+        "Modifier": "None",
+        "Cancel": "C Sk Sp M",
+        "Density": "C7x1",
+        "Graze": "∞",
+        "Startup": "13F",
+        "Motion": "23F",
+        "Total": "38F",
+        "Frame Adv.": "-4F [+12F] ~ +2 [+18]"
+      },
+      {
+        "Version": "Charged",
+        "Damage": "1",
+        "Limit": "5%",
+        "Rate": "90%",
+        "Modifier": "Smash",
+        "Cancel": "C Sk Sp M",
+        "Density": "C7x1",
+        "Graze": "∞",
+        "Startup": "28F",
+        "Motion": "40F",
+        "Total": "57F",
+        "Frame Adv.": "-8F [+10F]"
+      }
+    ]
+  },
+  {
+    "char": "Meiling",
+    "name": "2B",
+    "type": "bullet",
+    "img": "./images/Meiling/175px-Meiling2b.png",
+    "data": [
+      {
+        "Damage": "0.5",
+        "Limit": "40%",
+        "Rate": "85%",
+        "Modifier": "Rift",
+        "Cancel": "C Sk Sp M",
+        "Density": "C7x1",
+        "Graze": "∞",
+        "Startup": "16F",
+        "Motion": "29F",
+        "Total": "46F",
+        "Frame Adv.": "-9F [+9F]"
+      }
+    ]
+  },
+  {
+    "char": "Meiling",
+    "name": "6B",
+    "type": "bullet",
+    "img": "./images/Meiling/175px-Meiling6b.png",
+    "data": [
+      {
+        "Damage": "0.125*7",
+        "Limit": "4%*7",
+        "Rate": "99%",
+        "Modifier": "None",
+        "Cancel": "C Sk Sp M",
+        "Density": "C1x7",
+        "Graze": "1F",
+        "Startup": "16F",
+        "Motion": "26F",
+        "Total": "46F",
+        "Frame Adv.": "-15F [+6F]"
+      }
+    ]
+  },
+  {
+    "char": "Meiling",
+    "name": "j5B",
+    "type": "bullet",
+    "img": "./images/Meiling/175px-Meilingj5b.png",
+    "data": [
+      {
+        "Version": "Uncharged",
+        "Damage": "0.5",
+        "Limit": "5%",
+        "Rate": "92%",
+        "Modifier": "None",
+        "Cancel": "C Sk Sp M",
+        "Density": "C7x1",
+        "Graze": "∞",
+        "Startup": "13F",
+        "Motion": "23F",
+        "Total": "49F",
+        "Frame Adv.": "[+12F]"
+      },
+      {
+        "Version": "Charged",
+        "Damage": "1",
+        "Limit": "5%",
+        "Rate": "90%",
+        "Modifier": "Smash",
+        "Cancel": "C Sk Sp M",
+        "Density": "C7x1",
+        "Graze": "∞",
+        "Startup": "28F",
+        "Motion": "40F",
+        "Total": "66F",
+        "Frame Adv.": "[+10F]"
+      }
+    ]
+  },
+  {
+    "char": "Meiling",
+    "name": "j2B",
+    "type": "bullet",
+    "img": "./images/Meiling/175px-Meilingj2b.png",
+    "data": [
+      {
+        "Damage": "0.125*7",
+        "Limit": "4%*7",
+        "Rate": "99%",
+        "Modifier": "None",
+        "Cancel": "C Sk Sp M",
+        "Density": "C1x7",
+        "Graze": "1F",
+        "Startup": "18F",
+        "Motion": "28F",
+        "Total": "48F",
+        "Frame Adv.": "[+6F]"
+      }
+    ]
+  },
+  {
+    "char": "Meiling",
+    "name": "j6B",
+    "type": "bullet",
+    "img": "./images/Meiling/175px-Meilingj6b.png",
+    "data": [
+      {
+        "Damage": "0.125*7",
+        "Limit": "4%*7",
+        "Rate": "99%",
+        "Modifier": "None",
+        "Cancel": "C Sk Sp M",
+        "Density": "C1x7",
+        "Graze": "1F",
+        "Startup": "18F",
+        "Motion": "28F",
+        "Total": "48F",
+        "Frame Adv.": "[+6F]"
+      }
+    ]
+  },
+  {
+    "char": "Meiling",
+    "name": "5C",
+    "type": "bullet",
+    "img": "./images/Meiling/175px-Meiling5c.png",
+    "data": [
+      {
+        "Version": "Uncharged",
+        "Damage": "0.25*3",
+        "Limit": "5%*3",
+        "Rate": "95%",
+        "Modifier": "Rift",
+        "Cancel": "Sk Sp M",
+        "Density": "B3x1",
+        "Graze": "∞",
+        "Startup": "23F",
+        "Motion": "28F",
+        "Total": "54F",
+        "Frame Adv.": "-10F [+17F]"
+      },
+      {
+        "Version": "Charged",
+        "Damage": "0.25*3",
+        "Limit": "5%*3",
+        "Rate": "95%",
+        "Modifier": "Rift",
+        "Cancel": "Sk Sp M",
+        "Density": "B3x1",
+        "Graze": "∞",
+        "Startup": "38F",
+        "Motion": "33F",
+        "Total": "69F",
+        "Frame Adv.": "-10F [+17F]"
+      }
+    ]
+  },
+  {
+    "char": "Meiling",
+    "name": "2C",
+    "type": "bullet",
+    "img": "./images/Meiling/175px-Meiling2c.png",
+    "data": [
+      {
+        "Damage": "0.25*3",
+        "Limit": "5%*3",
+        "Rate": "95%",
+        "Modifier": "Rift",
+        "Cancel": "Sk Sp M",
+        "Density": "B3x1",
+        "Graze": "∞",
+        "Startup": "24F",
+        "Motion": "31F",
+        "Total": "85F",
+        "Frame Adv.": "-"
+      }
+    ]
+  },
+  {
+    "char": "Meiling",
+    "name": "6C",
+    "type": "bullet",
+    "img": "./images/Meiling/175px-Meiling6c.png",
+    "data": [
+      {
+        "Version": "Uncharged",
+        "Damage": "0.35*3",
+        "Limit": "10%*3",
+        "Rate": "95%",
+        "Modifier": "Rift",
+        "Cancel": "Sk Sp M",
+        "Density": "B3x1",
+        "Graze": "10F",
+        "Startup": "17F",
+        "Motion": "33F",
+        "Total": "64F",
+        "Frame Adv.": "-24F [+8F]"
+      },
+      {
+        "Version": "Charged",
+        "Damage": "0.35*3",
+        "Limit": "10%*3",
+        "Rate": "95%",
+        "Modifier": "Rift",
+        "Cancel": "Sk Sp M",
+        "Density": "B3x1",
+        "Graze": "10F",
+        "Startup": "34F",
+        "Motion": "50F",
+        "Total": "81F",
+        "Frame Adv.": "-24F [+8F]"
+      }
+    ]
+  },
+  {
+    "char": "Meiling",
+    "name": "j5C",
+    "type": "bullet",
+    "img": "./images/Meiling/175px-Meilingj5c.png",
+    "data": [
+      {
+        "Version": "Uncharged",
+        "Damage": "0.25*3",
+        "Limit": "5%*3",
+        "Rate": "95%",
+        "Modifier": "Rift",
+        "Cancel": "Sk Sp M",
+        "Density": "B3x1",
+        "Graze": "∞",
+        "Startup": "23F",
+        "Motion": "28F",
+        "Total": "57F",
+        "Frame Adv.": "[+17F]"
+      },
+      {
+        "Version": "Charged",
+        "Damage": "0.25*3",
+        "Limit": "5%*3",
+        "Rate": "95%",
+        "Modifier": "Rift",
+        "Cancel": "Sk Sp M",
+        "Density": "B3x1",
+        "Graze": "∞",
+        "Startup": "32F",
+        "Motion": "37F",
+        "Total": "66F",
+        "Frame Adv.": "[+17F]"
+      }
+    ]
+  },
+  {
+    "char": "Meiling",
+    "name": "j6C",
+    "type": "bullet",
+    "img": "./images/Meiling/175px-Meilingj6c.png",
+    "data": [
+      {
+        "Version": "Uncharged",
+        "Damage": "0.35*3",
+        "Limit": "10%*3",
+        "Rate": "95%",
+        "Modifier": "Rift",
+        "Cancel": "Sk Sp M",
+        "Density": "B3x1",
+        "Graze": "10F",
+        "Startup": "17F",
+        "Motion": "33F",
+        "Total": "64F",
+        "Frame Adv.": "[+8F]"
+      },
+      {
+        "Version": "Charged",
+        "Damage": "0.35*3",
+        "Limit": "10%*3",
+        "Rate": "95%",
+        "Modifier": "Rift",
+        "Cancel": "Sk Sp M",
+        "Density": "B3x1",
+        "Graze": "10F",
+        "Startup": "41F",
+        "Motion": "50F",
+        "Total": "88F",
+        "Frame Adv.": "[+8F]"
+      }
+    ]
+  },
+  {
+    "char": "Meiling",
+    "name": "Fragrant Wave",
+    "type": "skill",
+    "img": "./images/Meiling/Me236bc1.png",
+    "data": [
+      {
+        "Version": "B",
+        "Damage": "1.2",
+        "Limit": "30%",
+        "Rate": "80.4%",
+        "Modifier": "Smash",
+        "Cancel": "Sp M",
+        "Density": "B1x3",
+        "Graze": "∞",
+        "Startup": "28, 35, 42F",
+        "Motion": "49F",
+        "Total": "82F",
+        "Frame Adv.": "-19 [+15]"
+      },
+      {
+        "Version": "C",
+        "Damage": "2",
+        "Limit": "50%",
+        "Rate": "69.5%",
+        "Modifier": "Smash",
+        "Cancel": "Sp M",
+        "Density": "B1x5",
+        "Graze": "∞",
+        "Startup": "63, 70, 77, 84, 91F",
+        "Motion": "112",
+        "Total": "126",
+        "Frame Adv.": "-14 [+1]"
+      }
+    ]
+  },
+  {
+    "char": "Meiling",
+    "name": "Red Cannon",
+    "type": "skill",
+    "img": "./images/Meiling/Me623bc1.png",
+    "data": [
+      {
+        "Version": "B",
+        "Damage": "1200",
+        "Limit": "40%",
+        "Rate": "80%",
+        "Modifier": "Rift",
+        "Cancel": "Sp",
+        "Guard": "H",
+        "Startup": "11F",
+        "Active": "6F",
+        "Total": "56F",
+        "Frame Adv.": "-18/-14"
+      },
+      {
+        "Version": "C",
+        "Damage": "1200",
+        "Limit": "40%",
+        "Rate": "80%",
+        "Modifier": "Rift",
+        "Cancel": "Sp",
+        "Guard": "H",
+        "Startup": "18F",
+        "Active": "6F",
+        "Total": "63F",
+        "Frame Adv.": "-18/-14"
+      }
+    ]
+  },
+  {
+    "char": "Meiling",
+    "name": "Spiral Light Steps",
+    "type": "skill",
+    "img": "./images/Meiling/Me214bc1.png",
+    "data": [
+      {
+        "Version": "B",
+        "Damage": "1000",
+        "Limit": "40%",
+        "Rate": "80%",
+        "Modifier": "Smash",
+        "Cancel": "Sp",
+        "Guard": "H",
+        "Startup": "25F",
+        "Active": "22F",
+        "Total": "64F",
+        "Frame Adv.": "-17/-11"
+      },
+      {
+        "Version": "C",
+        "Damage": "1000",
+        "Limit": "40%",
+        "Rate": "80%",
+        "Modifier": "Smash",
+        "Cancel": "Sp",
+        "Guard": "H",
+        "Startup": "25F",
+        "Active": "22F",
+        "Total": "69F",
+        "Frame Adv.": "-22/-16"
+      },
+      {
+        "Version": "Level 3 stomp",
+        "Damage": "130",
+        "Limit": "0%",
+        "Rate": "99%",
+        "Modifier": "None",
+        "Cancel": "Sp",
+        "Guard": "L",
+        "Startup": "10F",
+        "Active": "4F",
+        "Total": "\"",
+        "Frame Adv.": "\""
+      }
+    ]
+  },
+  {
+    "char": "Meiling",
+    "name": "Yellow Quake Kick",
+    "type": "skill",
+    "img": "./images/Meiling/Me22bc1.png",
+    "data": [
+      {
+        "Version": "B",
+        "Damage": "900",
+        "Limit": "40%",
+        "Rate": "85%",
+        "Modifier": "Rift",
+        "Cancel": "Sp",
+        "Guard": "L",
+        "Startup": "16F",
+        "Active": "12F",
+        "Total": "64F",
+        "Frame Adv.": "-13/-7"
+      },
+      {
+        "Version": "C",
+        "Damage": "900",
+        "Limit": "40%",
+        "Rate": "85%",
+        "Modifier": "Rift",
+        "Cancel": "Sp",
+        "Guard": "L",
+        "Startup": "30F",
+        "Active": "12F",
+        "Total": "69F",
+        "Frame Adv.": "-4/+2"
+      },
+      {
+        "Version": "Charged B",
+        "Damage": "900",
+        "Limit": "40%",
+        "Rate": "85%",
+        "Modifier": "Rift",
+        "Cancel": "Sp",
+        "Guard": "L",
+        "Startup": "33F",
+        "Active": "12F",
+        "Total": "67F",
+        "Frame Adv.": "-13/-7"
+      },
+      {
+        "Version": "Charged C",
+        "Damage": "900",
+        "Limit": "40%",
+        "Rate": "85%",
+        "Modifier": "Rift",
+        "Cancel": "Sp",
+        "Guard": "L",
+        "Startup": "47F",
+        "Active": "12F",
+        "Total": "72F",
+        "Frame Adv.": "-4/+2"
+      }
+    ]
+  },
+  {
+    "char": "Meiling",
+    "name": "Water Taichi Fist",
+    "type": "skill",
+    "img": "./images/Meiling/Me236bc2.png",
+    "data": [
+      {
+        "Version": "B",
+        "Damage": "0.4",
+        "Limit": "10%",
+        "Rate": "94%",
+        "Modifier": "Rift",
+        "Cancel": "Sp M",
+        "Density": "-",
+        "Graze": "-",
+        "Startup": "34F",
+        "Motion": "49F",
+        "Total": "77F",
+        "Frame Adv.": "-11 [+21]"
+      },
+      {
+        "Version": "C",
+        "Damage": "0.4",
+        "Limit": "10%",
+        "Rate": "94%",
+        "Modifier": "Rift",
+        "Cancel": "Sp M",
+        "Density": "-",
+        "Graze": "-",
+        "Startup": "74F",
+        "Motion": "86F",
+        "Total": "117",
+        "Frame Adv.": "-11 [+21]"
+      }
+    ]
+  },
+  {
+    "char": "Meiling",
+    "name": "Colorful Rain",
+    "type": "skill",
+    "img": "./images/Meiling/Me236bc3.png",
+    "data": [
+      {
+        "Version": "B",
+        "Damage": "0.125",
+        "Limit": "5%",
+        "Rate": "97%",
+        "Modifier": "None",
+        "Cancel": "Sp M",
+        "Density": "C1xn",
+        "Graze": "1F",
+        "Startup": "21F",
+        "Motion": "44F",
+        "Total": "94F",
+        "Frame Adv.": "-46 [+5]"
+      },
+      {
+        "Version": "C",
+        "Damage": "0.125",
+        "Limit": "10%",
+        "Rate": "94%",
+        "Modifier": "Rift",
+        "Cancel": "Sp M",
+        "Density": "C1xn",
+        "Graze": "1F",
+        "Startup": "55F",
+        "Motion": "86F",
+        "Total": "117F",
+        "Frame Adv.": "-52 [+11]"
+      }
+    ]
+  },
+  {
+    "char": "Meiling",
+    "name": "Red Energy Release",
+    "type": "skill",
+    "img": "./images/Meiling/Me623bc2.png",
+    "data": [
+      {
+        "Version": "B",
+        "Damage": "1430",
+        "Limit": "40%",
+        "Rate": "70%",
+        "Modifier": "Smash",
+        "Cancel": "Sp",
+        "Guard": "HL",
+        "Startup": "30F",
+        "Active": "16F",
+        "Total": "59F",
+        "Frame Adv.": "+8"
+      },
+      {
+        "Version": "C",
+        "Damage": "1430",
+        "Limit": "40%",
+        "Rate": "70%",
+        "Modifier": "Smash",
+        "Cancel": "Sp",
+        "Guard": "HL",
+        "Startup": "60F",
+        "Active": "16F",
+        "Total": "89F",
+        "Frame Adv.": "-"
+      }
+    ]
+  },
+  {
+    "char": "Meiling",
+    "name": "Tiger Chi Release",
+    "type": "skill",
+    "img": "./images/Meiling/Me623bc3.png",
+    "data": [
+      {
+        "Version": "B",
+        "Damage": "-",
+        "Limit": "-",
+        "Rate": "-",
+        "Modifier": "-",
+        "Cancel": "-",
+        "Density": "-",
+        "Graze": "-",
+        "Startup": "-",
+        "Motion": "-",
+        "Total": "34F",
+        "Frame Adv.": "-"
+      },
+      {
+        "Version": "C",
+        "Damage": "-",
+        "Limit": "0%",
+        "Rate": "99%",
+        "Modifier": "None",
+        "Cancel": "-",
+        "Density": "-",
+        "Graze": "-",
+        "Startup": "-",
+        "Motion": "-",
+        "Total": "54F",
+        "Frame Adv.": "-"
+      }
+    ]
+  },
+  {
+    "char": "Meiling",
+    "name": "Searing Red Fist",
+    "type": "skill",
+    "img": "./images/Meiling/Me214bc2.png",
+    "data": [
+      {
+        "Version": "B shards",
+        "Damage": "0.1",
+        "Limit": "0%",
+        "Rate": "99%",
+        "Modifier": "None",
+        "Cancel": "Sp",
+        "Density": "C1xn",
+        "Graze": "1F",
+        "Startup": "10, 14... 30",
+        "Motion": "-",
+        "Total": "34F",
+        "Frame Adv.": "Variable"
+      },
+      {
+        "Version": "C shards",
+        "Damage": "0.1",
+        "Limit": "0%",
+        "Rate": "99%",
+        "Modifier": "None",
+        "Cancel": "Sp",
+        "Density": "C1xn",
+        "Graze": "1F",
+        "Startup": "10,20... 36",
+        "Motion": "-",
+        "Total": "54F",
+        "Frame Adv.": "Variable"
+      },
+      {
+        "Version": "Version",
+        "Damage": "Damage",
+        "Limit": "Limit",
+        "Rate": "Rate",
+        "Modifier": "Modifier",
+        "Cancel": "Cancel",
+        "Density": "Guard",
+        "Graze": "Startup",
+        "Startup": "Active",
+        "Motion": "Total",
+        "Total": "Frame Adv."
+      },
+      {
+        "Version": "B Punch",
+        "Damage": "860",
+        "Limit": "40%",
+        "Rate": "80%",
+        "Modifier": "Smash",
+        "Cancel": "Sp",
+        "Density": "HA",
+        "Graze": "41F",
+        "Startup": "8F",
+        "Motion": "72F",
+        "Total": "-10/-4"
+      },
+      {
+        "Version": "C Punch",
+        "Damage": "1100",
+        "Limit": "40%",
+        "Rate": "80%",
+        "Modifier": "Smash",
+        "Cancel": "Sp",
+        "Density": "HA",
+        "Graze": "47F",
+        "Startup": "8F",
+        "Motion": "82F",
+        "Total": "-14/-8"
+      }
+    ]
+  },
+  {
+    "char": "Meiling",
+    "name": "Kick of Showering Brillance",
+    "type": "skill",
+    "img": "./images/Meiling/Me214bc3.png",
+    "data": [
+      {
+        "Version": "Ground B",
+        "Damage": "1320",
+        "Limit": "40%",
+        "Rate": "85%",
+        "Modifier": "Smash",
+        "Cancel": "Sp",
+        "Guard": "HA",
+        "Startup": "24F",
+        "Active": "17F",
+        "Total": "58F",
+        "Frame Adv.": "See table"
+      },
+      {
+        "Version": "Ground C",
+        "Damage": "1320",
+        "Limit": "40%",
+        "Rate": "85%",
+        "Modifier": "Smash",
+        "Cancel": "Sp",
+        "Guard": "HA",
+        "Startup": "38F",
+        "Active": "16F",
+        "Total": "71F",
+        "Frame Adv.": "See table"
+      },
+      {
+        "Version": "Air B (Lv2)",
+        "Damage": "1440",
+        "Limit": "40%",
+        "Rate": "85%",
+        "Modifier": "Smash",
+        "Cancel": "Sp",
+        "Guard": "HA",
+        "Startup": "26F",
+        "Active": "10F",
+        "Total": "59F (18)",
+        "Frame Adv.": "See table"
+      },
+      {
+        "Version": "Air C (Lv2)",
+        "Damage": "1440",
+        "Limit": "40%",
+        "Rate": "85%",
+        "Modifier": "Smash",
+        "Cancel": "Sp",
+        "Guard": "HA",
+        "Startup": "28F",
+        "Active": "17F",
+        "Total": "Until landing (18F)",
+        "Frame Adv.": "See table"
+      }
+    ]
+  },
+  {
+    "char": "Meiling",
+    "name": "Earth Dragon Wave",
+    "type": "skill",
+    "img": "./images/Meiling/Me22bc2.png",
+    "data": [
+      {
+        "Version": "B/C",
+        "Damage": "1",
+        "Limit": "40%",
+        "Rate": "85%",
+        "Modifier": "Rift",
+        "Cancel": "Sp M",
+        "Density": "B1x1",
+        "Graze": "∞",
+        "Startup": "16F",
+        "Motion": "27F",
+        "Total": "57F",
+        "Frame Adv.": "-20 [+11]"
+      },
+      {
+        "Version": "Charged B/C",
+        "Damage": "1",
+        "Limit": "50%",
+        "Rate": "69.5%",
+        "Modifier": "Rift",
+        "Cancel": "Sp M",
+        "Density": "B1x1",
+        "Graze": "∞",
+        "Startup": "31F",
+        "Motion": "42F",
+        "Total": "72F",
+        "Frame Adv.": "-20 [+11]"
+      }
+    ]
+  },
+  {
+    "char": "Meiling",
+    "name": "Sky Dragon Kick",
+    "type": "skill",
+    "img": "./images/Meiling/Me22bc3.png",
+    "data": [
+      {
+        "Version": "Ground B",
+        "Damage": "1100",
+        "Limit": "40%",
+        "Rate": "85%",
+        "Modifier": "Smash",
+        "Cancel": "Sp",
+        "Guard": "HA",
+        "Startup": "14F",
+        "Active": "21F",
+        "Total": "72F",
+        "Frame Adv.": "-30/-26"
+      },
+      {
+        "Version": "Ground C",
+        "Damage": "1320",
+        "Limit": "40%",
+        "Rate": "85%",
+        "Modifier": "Smash",
+        "Cancel": "Sp",
+        "Guard": "HA",
+        "Startup": "14F",
+        "Active": "21F",
+        "Total": "81F",
+        "Frame Adv.": "-39/-35"
+      }
+    ]
+  },
+  {
+    "char": "Meiling",
+    "name": "Color Sign \"Colorful Windchime\"",
+    "type": "spell",
+    "img": "./images/Meiling/Mesc01.png",
+    "data": [
+      {
+        "Damage": "2367",
+        "Limit": "11% (1% per hit)",
+        "Rate": "80%",
+        "Modifier": "Rift",
+        "Cancel": "-",
+        "Guard": "HLA",
+        "Startup": "13+6",
+        "Active": "62F",
+        "Total": "122F",
+        "Frame Adv.": "-76 ~ -21"
+      }
+    ]
+  },
+  {
+    "char": "Meiling",
+    "name": "Rainbow Sign \"Intense Rainbow Fist\"",
+    "type": "spell",
+    "img": "./images/Meiling/Mesc02.png",
+    "data": [
+      {
+        "Damage": "2027-2095",
+        "Limit": "30% (2% per hit)",
+        "Rate": "63.3%",
+        "Modifier": "Rift",
+        "Cancel": "-",
+        "Guard": "HLA",
+        "Startup": "11+3",
+        "Active": "-",
+        "Total": "122F",
+        "Frame Adv.": "-70 ~ -19"
+      }
+    ]
+  },
+  {
+    "char": "Meiling",
+    "name": "Chi Sign \"Star Bullets\"",
+    "type": "spell",
+    "img": "./images/Meiling/Mesc03.png",
+    "data": [
+      {
+        "Damage": "0.25",
+        "Limit": "4%",
+        "Rate": "95%",
+        "Modifier": "Smash",
+        "Cancel": "-",
+        "Density": "-",
+        "Graze": "-",
+        "Startup": "5+16",
+        "Motion": "-",
+        "Total": "78F",
+        "Frame Adv.": "-6 ~ +48"
+      }
+    ]
+  },
+  {
+    "char": "Meiling",
+    "name": "Attack Sign \"Roc Fist\"",
+    "type": "spell",
+    "img": "./images/Meiling/Mesc04.png",
+    "data": [
+      {
+        "Damage": "1750",
+        "Limit": "50%",
+        "Rate": "75%",
+        "Modifier": "Rift",
+        "Cancel": "-",
+        "Guard": "H",
+        "Startup": "9+2",
+        "Active": "6F",
+        "Total": "88F",
+        "Frame Adv.": "-50/-46"
+      }
+    ]
+  },
+  {
+    "char": "Meiling",
+    "name": "Chi Sign \"Earth Sky Dragon Kick\"",
+    "type": "spell",
+    "img": "./images/Meiling/Mesc05.png",
+    "data": [
+      {
+        "Version": "Stomp",
+        "Damage": "1000",
+        "Limit": "0%",
+        "Rate": "96%",
+        "Modifier": "Rift",
+        "Cancel": "-",
+        "Guard": "LA",
+        "Startup": "7+9",
+        "Active": "4F",
+        "Total": "120F",
+        "Frame Adv.": "-"
+      },
+      {
+        "Version": "Kick",
+        "Damage": "2813",
+        "Limit": "100%",
+        "Rate": "71.6%",
+        "Modifier": "Smash",
+        "Cancel": "-",
+        "Guard": "H",
+        "Startup": "38F",
+        "Active": "-",
+        "Total": "120F",
+        "Frame Adv.": "-52"
+      }
+    ]
+  },
+  {
+    "char": "Meiling",
+    "name": "Ultimate Color \"Mad Colorful Dance\"",
+    "type": "spell",
+    "img": "./images/Meiling/Mesc06.png",
+    "data": [
+      {
+        "Damage": "3773",
+        "Limit": "34%",
+        "Rate": "50.3%",
+        "Modifier": "Rift",
+        "Cancel": "-",
+        "Guard": "HLA",
+        "Startup": "13+3",
+        "Active": "62F",
+        "Total": "238F",
+        "Frame Adv.": "-184"
+      }
+    ]
+  },
+  {
+    "char": "Meiling",
+    "name": "Colorful Brilliance \"Rainbow Taichi\"",
+    "type": "spell",
+    "img": "./images/Meiling/Mesc07.png",
+    "data": [
+      {
+        "Damage": "0.25",
+        "Limit": "5%",
+        "Rate": "96%",
+        "Modifier": "Rift",
+        "Cancel": "-",
+        "Density": "-",
+        "Graze": "-",
+        "Startup": "19+8",
+        "Motion": "-",
+        "Total": "71F",
+        "Frame Adv.": "-17 ~ +36"
+      }
+    ]
+  },
+  {
+    "char": "Meiling",
+    "name": "Chi Sign \"Fierce Tiger Energy Release\"",
+    "type": "spell",
+    "img": "./images/Meiling/Mesc08.png",
+    "data": [
+      {
+        "Damage": "-",
+        "Limit": "-",
+        "Rate": "-",
+        "Modifier": "-",
+        "Cancel": "-",
+        "Density": "-",
+        "Graze": "-",
+        "Startup": "9",
+        "Motion": "-",
+        "Total": "62F",
+        "Frame Adv.": "-"
+      }
+    ]
+  },
+  {
+    "char": "Meiling",
+    "name": "Star Chi \"Earth-moving Star Bullets\"",
+    "type": "spell",
+    "img": "./images/Meiling/Mesc09.png",
+    "data": [
+      {
+        "Version": "Charge",
+        "Damage": "0.125",
+        "Limit": "0%",
+        "Rate": "99%",
+        "Modifier": "None",
+        "Cancel": "-",
+        "Density": "-",
+        "Graze": "-",
+        "Startup": "5+1F",
+        "Motion": "-",
+        "Total": "130F",
+        "Frame Adv.": "-"
+      },
+      {
+        "Version": "Release",
+        "Damage": "0.125",
+        "Limit": "0%",
+        "Rate": "99%",
+        "Modifier": "Smash",
+        "Cancel": "-",
+        "Density": "-",
+        "Graze": "-",
+        "Startup": "73F",
+        "Motion": "-",
+        "Total": "130F",
+        "Frame Adv.": "-1 ~ +19"
+      }
+    ]
+  },
+  {
+    "char": "Meiling",
+    "name": "Fiery Attack \"Roc-Killing Fist\"",
+    "type": "spell",
+    "img": "./images/Meiling/Mesc10.png",
+    "data": [
+      {
+        "Damage": "5226",
+        "Limit": "50%",
+        "Rate": "48%",
+        "Modifier": "Rift",
+        "Cancel": "-",
+        "Guard": "H",
+        "Startup": "15+13F",
+        "Active": "3F",
+        "Total": "73F",
+        "Frame Adv.": "-18/+4*"
+      }
+    ]
+  },
+  {
+    "char": "Meiling",
+    "name": "'Brilliance \"Rainbow Brilliance Palm\"",
+    "type": "spell",
+    "img": "./images/Meiling/Mesc11.png",
+    "data": [
+      {
+        "Damage": "4541",
+        "Limit": "0% (?)",
+        "Rate": "74.2%",
+        "Modifier": "Rift",
+        "Cancel": "-",
+        "Guard": "H",
+        "Startup": "9+36F",
+        "Active": "4F",
+        "Total": "104F",
+        "Frame Adv.": "-38"
+      }
+    ]
+  }
+]

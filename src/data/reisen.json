@@ -1,0 +1,695 @@
+[
+  {
+    "char": "Reisen",
+    "name": "4A",
+    "type": "normal",
+    "img": "./images/Reisen/175px-Reisen5A.png",
+    "data": [
+      {
+        "Damage": "200",
+        "Limit": "0%",
+        "Rate": "98%",
+        "Modifier": "None",
+        "Cancel": "R Cn B C Sk Sp",
+        "Guard": "HL",
+        "Startup": "7F",
+        "Active": "2F",
+        "Total": "16F",
+        "Frame Adv.": "+0"
+      }
+    ]
+  },
+  {
+    "char": "Reisen",
+    "name": "5A",
+    "type": "normal",
+    "img": "./images/Reisen/175px-Reisen5A.png",
+    "data": [
+      {
+        "Damage": "200",
+        "Limit": "0%",
+        "Rate": "98%",
+        "Modifier": "None",
+        "Cancel": "D Cn B C Sk Sp",
+        "Guard": "HL",
+        "Startup": "7F",
+        "Active": "2F",
+        "Total": "16F",
+        "Frame Adv.": "+0"
+      }
+    ]
+  },
+  {
+    "char": "Reisen",
+    "name": "5AA",
+    "type": "normal",
+    "img": "./images/Reisen/175px-Reisen5A.png",
+    "data": [
+      {
+        "Damage": "200",
+        "Limit": "0%",
+        "Rate": "98%",
+        "Modifier": "None",
+        "Cancel": "D Cn B C Sk Sp",
+        "Guard": "HL",
+        "Startup": "8F",
+        "Active": "2F",
+        "Total": "17F",
+        "Frame Adv.": "+0"
+      }
+    ]
+  },
+  {
+    "char": "Reisen",
+    "name": "5AAA",
+    "type": "normal",
+    "img": "./images/Reisen/175px-Reisen5aaa.png",
+    "data": [
+      {
+        "Damage": "450",
+        "Limit": "20%",
+        "Rate": "85%",
+        "Modifier": "Rift",
+        "Cancel": "D B C Sk Sp",
+        "Guard": "H",
+        "Startup": "9F",
+        "Active": "5F",
+        "Total": "28F",
+        "Frame Adv.": "-4F/+0F"
+      }
+    ]
+  },
+  {
+    "char": "Reisen",
+    "name": "5AAAA",
+    "type": "normal",
+    "img": "./images/Reisen/175px-Reisen5AAAA.png",
+    "data": [
+      {
+        "Damage": "800",
+        "Limit": "20%",
+        "Rate": "85%",
+        "Modifier": "Smash",
+        "Cancel": "Sp",
+        "Guard": "H",
+        "Startup": "15F",
+        "Active": "3F",
+        "Total": "48F",
+        "Frame Adv.": "-9F/-3F"
+      }
+    ]
+  },
+  {
+    "char": "Reisen",
+    "name": "f5A",
+    "type": "normal",
+    "img": "./images/Reisen/175px-Reisenf5a.png",
+    "data": [
+      {
+        "Damage": "450",
+        "Limit": "0%",
+        "Rate": "92%",
+        "Modifier": "None",
+        "Cancel": "B C Sk Sp",
+        "Guard": "HA",
+        "Startup": "12F",
+        "Active": "3F",
+        "Total": "34F",
+        "Frame Adv.": "-7F/-3F"
+      }
+    ]
+  },
+  {
+    "char": "Reisen",
+    "name": "2A",
+    "type": "normal",
+    "img": "./images/Reisen/175px-Reisen2a.png",
+    "data": [
+      {
+        "Damage": "200",
+        "Limit": "0%",
+        "Rate": "98%",
+        "Modifier": "None",
+        "Cancel": "Cn B C Sk Sp",
+        "Guard": "L",
+        "Startup": "7F",
+        "Active": "3F",
+        "Total": "21F",
+        "Frame Adv.": "-5F/-3F"
+      }
+    ]
+  },
+  {
+    "char": "Reisen",
+    "name": "6A",
+    "type": "normal",
+    "img": "./images/Reisen/175px-Reisen6A.png",
+    "data": [
+      {
+        "Version": "Uncharged",
+        "Damage": "800",
+        "Limit": "40%",
+        "Rate": "85%",
+        "Modifier": "Smash",
+        "Cancel": "B C Sk Sp",
+        "Guard": "H",
+        "Startup": "14F",
+        "Active": "18F",
+        "Total": "56F",
+        "Frame Adv.": "-4F/+2F"
+      },
+      {
+        "Version": "Charged",
+        "Damage": "1000",
+        "Limit": "40%",
+        "Rate": "85%",
+        "Modifier": "Smash",
+        "Cancel": "Sp",
+        "Guard": "H*",
+        "Startup": "29F",
+        "Active": "24F",
+        "Total": "822F",
+        "Frame Adv.": "-4F/+19F"
+      }
+    ]
+  },
+  {
+    "char": "Reisen",
+    "name": "3A",
+    "type": "normal",
+    "img": "./images/Reisen/175px-Reisen3A.png",
+    "data": [
+      {
+        "Version": "Uncharged",
+        "Damage": "600",
+        "Limit": "40%",
+        "Rate": "88%",
+        "Modifier": "Rift",
+        "Cancel": "B C Sk Sp",
+        "Guard": "L",
+        "Startup": "11F",
+        "Active": "17F",
+        "Total": "47F",
+        "Frame Adv.": "-15F/-9F"
+      },
+      {
+        "Version": "Charged",
+        "Damage": "600, 600",
+        "Limit": "40%",
+        "Rate": "85%",
+        "Modifier": "Rift",
+        "Cancel": "Sp",
+        "Guard": "L, L*",
+        "Startup": "11F, 21F",
+        "Active": "9F, 36F",
+        "Total": "81F",
+        "Frame Adv.": "-33F/-11F"
+      }
+    ]
+  },
+  {
+    "char": "Reisen",
+    "name": "66A or 6DA",
+    "type": "normal",
+    "img": "./images/Reisen/175px-Reisen66A.png",
+    "data": [
+      {
+        "Damage": "600",
+        "Limit": "0%",
+        "Rate": "88%",
+        "Modifier": "Smash",
+        "Cancel": "Sk Sp",
+        "Guard": "H",
+        "Startup": "13F",
+        "Active": "3F",
+        "Total": "40F",
+        "Frame Adv.": "-6F/+0F"
+      }
+    ]
+  },
+  {
+    "char": "Reisen",
+    "name": "66B or 6DB",
+    "type": "normal",
+    "img": "./images/Reisen/175px-Reisen66B.png",
+    "data": [
+      {
+        "Damage": "800",
+        "Limit": "40%",
+        "Rate": "85%",
+        "Modifier": "Rift",
+        "Cancel": "Sp",
+        "Guard": "L",
+        "Startup": "23F",
+        "Active": "13F",
+        "Total": "51F",
+        "Frame Adv.": "-7F/-1F"
+      }
+    ]
+  },
+  {
+    "char": "Reisen",
+    "name": "66C or 6DC",
+    "type": "normal",
+    "img": "./images/Reisen/175px-Reisen66C.png",
+    "data": [
+      {
+        "Damage": "850",
+        "Limit": "40%",
+        "Rate": "80%",
+        "Modifier": "Smash",
+        "Cancel": "Sp",
+        "Guard": "HA",
+        "Startup": "26F",
+        "Active": "15F",
+        "Total": "48F",
+        "Frame Adv.": "-24F/-18F"
+      }
+    ]
+  },
+  {
+    "char": "Reisen",
+    "name": "j5A",
+    "type": "normal",
+    "img": "./images/Reisen/175px-Reisenj5a.png",
+    "data": [
+      {
+        "Damage": "400",
+        "Limit": "0%",
+        "Rate": "92%",
+        "Modifier": "None",
+        "Cancel": "Cn B C Sk Sp",
+        "Guard": "HA",
+        "Startup": "9F",
+        "Active": "8F",
+        "Total": "32F",
+        "Frame Adv.": "(-10)"
+      }
+    ]
+  },
+  {
+    "char": "Reisen",
+    "name": "j6A",
+    "type": "normal",
+    "img": "./images/Reisen/175px-Reisenj6a.png",
+    "data": [
+      {
+        "Damage": "750",
+        "Limit": "40%",
+        "Rate": "85%",
+        "Modifier": "Smash",
+        "Cancel": "B C Sk Sp",
+        "Guard": "HA",
+        "Startup": "14F",
+        "Active": "2F",
+        "Total": "45F",
+        "Frame Adv.": "(-12F)"
+      }
+    ]
+  },
+  {
+    "char": "Reisen",
+    "name": "j8A",
+    "type": "normal",
+    "img": "./images/Reisen/175px-Reisenj8a.png",
+    "data": [
+      {
+        "Damage": "800",
+        "Limit": "40%",
+        "Rate": "85%",
+        "Modifier": "Rift",
+        "Cancel": "B C Sk Sp",
+        "Guard": "HA",
+        "Startup": "11F",
+        "Active": "9F",
+        "Total": "53F",
+        "Frame Adv.": "(-23F)"
+      }
+    ]
+  },
+  {
+    "char": "Reisen",
+    "name": "j2A",
+    "type": "normal",
+    "img": "./images/Reisen/175px-Reisenj2a.png",
+    "data": [
+      {
+        "Damage": "700",
+        "Limit": "40%",
+        "Rate": "80%",
+        "Modifier": "Smash",
+        "Cancel": "B C Sk Sp",
+        "Guard": "HA",
+        "Startup": "25F",
+        "Active": "8F",
+        "Total": "59F",
+        "Frame Adv.": "+12F (-15F)/+18F"
+      }
+    ]
+  },
+  {
+    "char": "Reisen",
+    "name": "5B",
+    "type": "bullet",
+    "img": "./images/Reisen/175px-Reis5b.jpg",
+    "data": [
+      {
+        "Version": "Uncharged",
+        "Damage": "0.25",
+        "Limit": "5%",
+        "Rate": "93%",
+        "Modifier": "None",
+        "Cancel": "C Sk Sp M",
+        "Density": "C2x3",
+        "Graze": "1F",
+        "Startup": "13, 20, 27F",
+        "Motion": "22F",
+        "Total": "48F",
+        "Frame Adv.": "-5F [+15F]"
+      },
+      {
+        "Version": "Charged",
+        "Damage": "0.25",
+        "Limit": "5%",
+        "Rate": "93%",
+        "Modifier": "None",
+        "Cancel": "C Sk Sp M",
+        "Density": "C2x3",
+        "Graze": "1F",
+        "Startup": "28, 34... 52F",
+        "Motion": "36F",
+        "Total": "73F",
+        "Frame Adv.": "-5F [+15F]"
+      }
+    ]
+  },
+  {
+    "char": "Reisen",
+    "name": "2B",
+    "type": "bullet",
+    "img": "./images/Reisen/175px-Reis2b.jpg",
+    "data": [
+      {
+        "Version": "Uncharged",
+        "Damage": "0.25",
+        "Limit": "5%",
+        "Rate": "93%",
+        "Modifier": "None",
+        "Cancel": "C Sk Sp M",
+        "Density": "C2x3",
+        "Graze": "1F",
+        "Startup": "13, 20, 27F",
+        "Motion": "22F",
+        "Total": "53F",
+        "Frame Adv.": "-10F [+15F]"
+      },
+      {
+        "Version": "Charged",
+        "Damage": "0.25",
+        "Limit": "5%",
+        "Rate": "93%",
+        "Modifier": "None",
+        "Cancel": "C Sk Sp M",
+        "Density": "C2x3",
+        "Graze": "1F",
+        "Startup": "28, 35... 56F",
+        "Motion": "37F",
+        "Total": "82F",
+        "Frame Adv.": "-10F [+15F]"
+      }
+    ]
+  },
+  {
+    "char": "Reisen",
+    "name": "6B",
+    "type": "bullet",
+    "img": "./images/Reisen/175px-Reis6b.jpg",
+    "data": [
+      {
+        "Version": "Uncharged",
+        "Damage": "0.25",
+        "Limit": "5%",
+        "Rate": "93%",
+        "Modifier": "None",
+        "Cancel": "C Sk Sp M",
+        "Density": "C2x3",
+        "Graze": "1F",
+        "Startup": "13, 20, 27F",
+        "Motion": "22F",
+        "Total": "48F",
+        "Frame Adv.": "-5F [+15F]"
+      },
+      {
+        "Version": "Charged",
+        "Damage": "0.25",
+        "Limit": "5%",
+        "Rate": "93%",
+        "Modifier": "None",
+        "Cancel": "C Sk Sp M",
+        "Density": "C2x3",
+        "Graze": "1F",
+        "Startup": "28, 34... 52F",
+        "Motion": "36F",
+        "Total": "73F",
+        "Frame Adv.": "-5F [+15F]"
+      }
+    ]
+  },
+  {
+    "char": "Reisen",
+    "name": "j5B",
+    "type": "bullet",
+    "img": "./images/Reisen/175px-Reisenj5b.jpg",
+    "data": [
+      {
+        "Version": "Uncharged",
+        "Damage": "0.25",
+        "Limit": "5%",
+        "Rate": "93%",
+        "Modifier": "None",
+        "Cancel": "C Sk Sp M",
+        "Density": "C2x3",
+        "Graze": "1F",
+        "Startup": "13, 20, 27F",
+        "Motion": "22F",
+        "Total": "48F",
+        "Frame Adv.": "[+15F]"
+      },
+      {
+        "Version": "Charged",
+        "Damage": "0.25",
+        "Limit": "5%",
+        "Rate": "93%",
+        "Modifier": "None",
+        "Cancel": "C Sk Sp M",
+        "Density": "C2x3",
+        "Graze": "1F",
+        "Startup": "28, 34... 52F",
+        "Motion": "36F",
+        "Total": "73F",
+        "Frame Adv.": "[+15F]"
+      }
+    ]
+  },
+  {
+    "char": "Reisen",
+    "name": "j2B",
+    "type": "bullet",
+    "img": "./images/Reisen/175px-Reisenj2b.jpg",
+    "data": [
+      {
+        "Version": "Uncharged",
+        "Damage": "0.25",
+        "Limit": "5%",
+        "Rate": "93%",
+        "Modifier": "None",
+        "Cancel": "C Sk Sp M",
+        "Density": "C2x3",
+        "Graze": "1F",
+        "Startup": "13, 20, 27F",
+        "Motion": "22F",
+        "Total": "48F",
+        "Frame Adv.": "-5F [+15F]"
+      },
+      {
+        "Version": "Charged",
+        "Damage": "0.25",
+        "Limit": "5%",
+        "Rate": "93%",
+        "Modifier": "None",
+        "Cancel": "C Sk Sp M",
+        "Density": "C2x3",
+        "Graze": "1F",
+        "Startup": "28, 34... 52F",
+        "Motion": "36F",
+        "Total": "73F",
+        "Frame Adv.": "-5F [+15F]"
+      }
+    ]
+  },
+  {
+    "char": "Reisen",
+    "name": "5C",
+    "type": "bullet",
+    "img": "./images/Reisen/175px-Reis5c.jpg",
+    "data": [
+      {
+        "Version": "Uncharged",
+        "Damage": "0.2, 0.2*3",
+        "Limit": "0%, 5%*3",
+        "Rate": "93%, 97%*3",
+        "Modifier": "None, Rift",
+        "Cancel": "Sk Sp M",
+        "Density": "B1x1, B4x1",
+        "Graze": "-",
+        "Startup": "18F",
+        "Motion": "32F",
+        "Total": "47F",
+        "Frame Adv.": "+6F [+22F]"
+      },
+      {
+        "Version": "Charged",
+        "Damage": "0.2, 0.075*3",
+        "Limit": "0%, 5%*3",
+        "Rate": "93%, 97%*3",
+        "Modifier": "None, Rift",
+        "Cancel": "Sk Sp M",
+        "Density": "B1x5, B4x5",
+        "Graze": "-",
+        "Startup": "33F",
+        "Motion": "47F",
+        "Total": "70F",
+        "Frame Adv.": "-2F [+22F]"
+      }
+    ]
+  },
+  {
+    "char": "Reisen",
+    "name": "2C",
+    "type": "bullet",
+    "img": "./images/Reisen/175px-Reis2c.jpg",
+    "data": [
+      {
+        "Damage": "1",
+        "Limit": "40%",
+        "Rate": "85%",
+        "Modifier": "Rift",
+        "Cancel": "Sk Sp M",
+        "Density": "-",
+        "Graze": "-",
+        "Startup": "12F",
+        "Motion": "29F",
+        "Total": "52F",
+        "Frame Adv.": "-19F [+5F]"
+      }
+    ]
+  },
+  {
+    "char": "Reisen",
+    "name": "6C",
+    "type": "bullet",
+    "img": "./images/Reisen/175px-Reis6c.jpg",
+    "data": [
+      {
+        "Version": "Uncharged",
+        "Damage": "0.2, 0.2*3",
+        "Limit": "0%, 5%*3",
+        "Rate": "93%, 97%*3",
+        "Modifier": "None, Rift",
+        "Cancel": "Sk Sp M",
+        "Density": "B1x1, B4x1",
+        "Graze": "-",
+        "Startup": "18F",
+        "Motion": "32F",
+        "Total": "47F",
+        "Frame Adv.": "+6F [+22F]"
+      },
+      {
+        "Version": "Charged",
+        "Damage": "0.2, 0.075*3",
+        "Limit": "0%, 5%*3",
+        "Rate": "93%, 97%*3",
+        "Modifier": "None, Rift",
+        "Cancel": "Sk Sp M",
+        "Density": "B1x5, B4x5",
+        "Graze": "-",
+        "Startup": "33F",
+        "Motion": "47F",
+        "Total": "70F",
+        "Frame Adv.": "-2F [+22F]"
+      }
+    ]
+  },
+  {
+    "char": "Reisen",
+    "name": "j5C",
+    "type": "bullet",
+    "img": "./images/Reisen/175px-Reisenj5c.jpg",
+    "data": [
+      {
+        "Version": "Uncharged",
+        "Damage": "0.2, 0.2*3",
+        "Limit": "0%, 5%*3",
+        "Rate": "93%, 97%*3",
+        "Modifier": "None, Rift",
+        "Cancel": "Sk Sp M",
+        "Density": "B1x1, B4x1",
+        "Graze": "-",
+        "Startup": "18F",
+        "Motion": "32F",
+        "Total": "47F",
+        "Frame Adv.": "[+22F]"
+      },
+      {
+        "Version": "Charged",
+        "Damage": "0.2, 0.075*3",
+        "Limit": "0%, 5%*3",
+        "Rate": "93%, 97%*3",
+        "Modifier": "None, Rift",
+        "Cancel": "Sk Sp M",
+        "Density": "B1x5, B4x5",
+        "Graze": "-",
+        "Startup": "33F",
+        "Motion": "47F",
+        "Total": "70F",
+        "Frame Adv.": "[+22F]"
+      }
+    ]
+  },
+  {
+    "char": "Reisen",
+    "name": "j2C",
+    "type": "bullet",
+    "img": "./images/Reisen/175px-Reisenj2c.jpg",
+    "data": [
+      {
+        "Version": "Uncharged",
+        "Damage": "0.2, 0.2*3",
+        "Limit": "0%, 5%*3",
+        "Rate": "93%, 97%*3",
+        "Modifier": "None, Rift",
+        "Cancel": "Sk Sp M",
+        "Density": "B1x1, B4x1",
+        "Graze": "-",
+        "Startup": "18F",
+        "Motion": "32F",
+        "Total": "47F",
+        "Frame Adv.": "[+22F]"
+      },
+      {
+        "Version": "Charged",
+        "Damage": "0.2, 0.075*3",
+        "Limit": "0%, 5%*3",
+        "Rate": "93%, 97%*3",
+        "Modifier": "None, Rift",
+        "Cancel": "Sk Sp M",
+        "Density": "B1x5, B4x5",
+        "Graze": "-",
+        "Startup": "33F",
+        "Motion": "47F",
+        "Total": "70F",
+        "Frame Adv.": "[+22F]"
+      }
+    ]
+  }
+]

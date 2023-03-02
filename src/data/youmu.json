@@ -1,0 +1,1261 @@
+[
+  {
+    "char": "Youmu",
+    "name": "4A",
+    "type": "normal",
+    "img": "./images/Youmu/175px-Youmu_4a.png",
+    "data": [
+      {
+        "Damage": "200",
+        "Limit": "0%",
+        "Rate": "98%",
+        "Modifier": "None",
+        "Cancel": "R Cn B C Sk Sp",
+        "Guard": "HL",
+        "Startup": "7F",
+        "Active": "3F",
+        "Total": "18F",
+        "Frame Adv.": "-2"
+      }
+    ]
+  },
+  {
+    "char": "Youmu",
+    "name": "5A",
+    "type": "normal",
+    "img": "./images/Youmu/175px-Youmu_4a.png",
+    "data": [
+      {
+        "Damage": "200",
+        "Limit": "0%",
+        "Rate": "98%",
+        "Modifier": "None",
+        "Cancel": "D Cn B C Sk Sp",
+        "Guard": "HL",
+        "Startup": "7F",
+        "Active": "3F",
+        "Total": "18F",
+        "Frame Adv.": "-2"
+      }
+    ]
+  },
+  {
+    "char": "Youmu",
+    "name": "5AA",
+    "type": "normal",
+    "img": "./images/Youmu/175px-Youmu_4a.png",
+    "data": [
+      {
+        "Damage": "200",
+        "Limit": "0%",
+        "Rate": "98%",
+        "Modifier": "None",
+        "Cancel": "D Cn B C Sk Sp",
+        "Guard": "HL",
+        "Startup": "7F",
+        "Active": "3F",
+        "Total": "18F",
+        "Frame Adv.": "-2"
+      }
+    ]
+  },
+  {
+    "char": "Youmu",
+    "name": "5AAA",
+    "type": "normal",
+    "img": "./images/Youmu/175px-Youmu_5aaa.png",
+    "data": [
+      {
+        "Damage": "500",
+        "Limit": "0%",
+        "Rate": "92%",
+        "Modifier": "None",
+        "Cancel": "D Cn B C Sk Sp",
+        "Guard": "H",
+        "Startup": "10F",
+        "Active": "2F",
+        "Total": "31F",
+        "Frame Adv.": "-6F / -2F"
+      }
+    ]
+  },
+  {
+    "char": "Youmu",
+    "name": "5AAAA",
+    "type": "normal",
+    "img": "./images/Youmu/175px-Youmu_5aaaa.png",
+    "data": [
+      {
+        "Damage": "700",
+        "Limit": "40%",
+        "Rate": "85%",
+        "Modifier": "Rift",
+        "Cancel": "D Sk Sp",
+        "Guard": "L",
+        "Startup": "15F",
+        "Active": "2F",
+        "Total": "40F",
+        "Frame Adv.": "-4F / +2F"
+      }
+    ]
+  },
+  {
+    "char": "Youmu",
+    "name": "5AAAAA",
+    "type": "normal",
+    "img": "./images/Youmu/175px-Youmu_5aaaaa.png",
+    "data": [
+      {
+        "Damage": "1000",
+        "Limit": "40%",
+        "Rate": "80%",
+        "Modifier": "Smash",
+        "Cancel": "Sp",
+        "Guard": "H",
+        "Startup": "17F",
+        "Active": "3F",
+        "Total": "50F",
+        "Frame Adv.": "-12F / -6F"
+      }
+    ]
+  },
+  {
+    "char": "Youmu",
+    "name": "F.5A",
+    "type": "normal",
+    "img": "./images/Youmu/175px-Youmu_f5a.png",
+    "data": [
+      {
+        "Damage": "450",
+        "Limit": "0%",
+        "Rate": "93%",
+        "Modifier": "None",
+        "Cancel": "Cn B C Sk Sp",
+        "Guard": "H",
+        "Startup": "10F",
+        "Active": "2F",
+        "Total": "27F",
+        "Frame Adv.": "-2F / +2F"
+      }
+    ]
+  },
+  {
+    "char": "Youmu",
+    "name": "F.2A",
+    "type": "normal",
+    "img": "./images/Youmu/175px-Youmu_f2a.png",
+    "data": [
+      {
+        "Damage": "400",
+        "Limit": "0%",
+        "Rate": "93%",
+        "Modifier": "None",
+        "Cancel": "Cn B C Sk Sp",
+        "Guard": "L",
+        "Startup": "10F",
+        "Active": "2F",
+        "Total": "25F",
+        "Frame Adv.": "0F / +4F"
+      }
+    ]
+  },
+  {
+    "char": "Youmu",
+    "name": "2A/1A",
+    "type": "normal",
+    "img": "./images/Youmu/175px-Youmu_2a.png",
+    "data": [
+      {
+        "Damage": "200",
+        "Limit": "0%",
+        "Rate": "98%",
+        "Modifier": "None",
+        "Cancel": "R Cn B C Sk Sp",
+        "Guard": "L",
+        "Startup": "8F",
+        "Active": "3F",
+        "Total": "20F",
+        "Frame Adv.": "-3F / -1F"
+      }
+    ]
+  },
+  {
+    "char": "Youmu",
+    "name": "6A",
+    "type": "normal",
+    "img": "./images/Youmu/175px-Youmu_6a.png",
+    "data": [
+      {
+        "Damage": "850",
+        "Limit": "40%",
+        "Rate": "15%",
+        "Modifier": "Smash",
+        "Cancel": "B C Sk Sp",
+        "Guard": "H",
+        "Startup": "16F",
+        "Active": "2F",
+        "Total": "43F",
+        "Frame Adv.": "-6F / 0F"
+      }
+    ]
+  },
+  {
+    "char": "Youmu",
+    "name": "6[A]",
+    "type": "normal",
+    "img": "./images/Youmu/175px-Youmu_6-a-.png",
+    "data": [
+      {
+        "Damage": "1200",
+        "Limit": "40%",
+        "Rate": "80%",
+        "Modifier": "Smash",
+        "Cancel": "Sp",
+        "Guard": "H",
+        "Startup": "31F",
+        "Active": "8F",
+        "Total": "62F",
+        "Frame Adv.": "-4F / +18F"
+      }
+    ]
+  },
+  {
+    "char": "Youmu",
+    "name": "3A",
+    "type": "normal",
+    "img": "./images/Youmu/175px-Youmu_3a.png",
+    "data": [
+      {
+        "Damage": "850",
+        "Limit": "40%",
+        "Rate": "85%",
+        "Modifier": "Rift",
+        "Cancel": "B C Sk Sp",
+        "Guard": "L",
+        "Startup": "17F",
+        "Active": "2F",
+        "Total": "42F",
+        "Frame Adv.": "-4F / +2F"
+      }
+    ]
+  },
+  {
+    "char": "Youmu",
+    "name": "3[A]",
+    "type": "normal",
+    "img": "./images/Youmu/175px-Youmu_3-a-.png",
+    "data": [
+      {
+        "Damage": "1200",
+        "Limit": "40%",
+        "Rate": "80%",
+        "Modifier": "Rift",
+        "Cancel": "Sp",
+        "Guard": "L",
+        "Startup": "32F",
+        "Active": "2F",
+        "Total": "61F",
+        "Frame Adv.": "-2F / +20F"
+      }
+    ]
+  },
+  {
+    "char": "Youmu",
+    "name": "66A",
+    "type": "normal",
+    "img": "./images/Youmu/175px-Youmu_66a_1.png",
+    "data": [
+      {
+        "Damage": "550",
+        "Limit": "10%",
+        "Rate": "90%",
+        "Modifier": "None",
+        "Cancel": "Sk Sp",
+        "Guard": "H",
+        "Startup": "11F",
+        "Active": "3F",
+        "Total": "33F",
+        "Frame Adv.": "-7F / -3F"
+      }
+    ]
+  },
+  {
+    "char": "Youmu",
+    "name": "66A6A",
+    "type": "normal",
+    "img": "./images/Youmu/175px-Youmu_66a_2.png",
+    "data": [
+      {
+        "Damage": "800",
+        "Limit": "40%",
+        "Rate": "85%",
+        "Modifier": "Smash",
+        "Cancel": "Sp",
+        "Guard": "H",
+        "Startup": "23F",
+        "Active": "4F",
+        "Total": "50F",
+        "Frame Adv.": "-6F / 0F"
+      }
+    ]
+  },
+  {
+    "char": "Youmu",
+    "name": "66B",
+    "type": "normal",
+    "img": "./images/Youmu/175px-Youmu_66b.png",
+    "data": [
+      {
+        "Damage": "800",
+        "Limit": "40%",
+        "Rate": "90%",
+        "Modifier": "Rift",
+        "Cancel": "Sp",
+        "Guard": "L",
+        "Startup": "19F",
+        "Active": "8F",
+        "Total": "50F",
+        "Frame Adv.": "-10F / -4F"
+      }
+    ]
+  },
+  {
+    "char": "Youmu",
+    "name": "66C",
+    "type": "normal",
+    "img": "./images/Youmu/175px-Youmu_66c_1.png",
+    "data": [
+      {
+        "Damage": "900",
+        "Limit": "40%",
+        "Rate": "90%",
+        "Modifier": "Smash",
+        "Cancel": "Sp",
+        "Guard": "H",
+        "Startup": "19F",
+        "Active": "4F",
+        "Total": "52F",
+        "Frame Adv.": "-12F / -6F"
+      }
+    ]
+  },
+  {
+    "char": "Youmu",
+    "name": "J.5A",
+    "type": "normal",
+    "img": "./images/Youmu/175px-Youmu_j5a.png",
+    "data": [
+      {
+        "Damage": "500",
+        "Limit": "0%",
+        "Rate": "92%",
+        "Modifier": "None",
+        "Cancel": "Cn B C Sk Sp",
+        "Guard": "HA",
+        "Startup": "7F",
+        "Active": "12F",
+        "Total": "42F",
+        "Frame Adv.": "(-16F)"
+      }
+    ]
+  },
+  {
+    "char": "Youmu",
+    "name": "J.6A",
+    "type": "normal",
+    "img": "./images/Youmu/175px-Youmu_j6a.png",
+    "data": [
+      {
+        "Damage": "850",
+        "Limit": "40%",
+        "Rate": "85%",
+        "Modifier": "Smash",
+        "Cancel": "B C Sk Sp",
+        "Guard": "HA",
+        "Startup": "13F",
+        "Active": "9F",
+        "Total": "45F",
+        "Frame Adv.": "(-13F)"
+      }
+    ]
+  },
+  {
+    "char": "Youmu",
+    "name": "J.2A",
+    "type": "normal",
+    "img": "./images/Youmu/175px-Youmu_j2a.png",
+    "data": [
+      {
+        "Damage": "1000",
+        "Limit": "40%",
+        "Rate": "85%",
+        "Modifier": "Smash",
+        "Cancel": "Sp",
+        "Guard": "HA",
+        "Startup": "17F",
+        "Active": "(15F)",
+        "Total": "(62F)",
+        "Frame Adv.": "-3F / +3F"
+      }
+    ]
+  },
+  {
+    "char": "Youmu",
+    "name": "J.8A",
+    "type": "normal",
+    "img": "./images/Youmu/175px-Youmu_j8a.png",
+    "data": [
+      {
+        "Damage": "1000",
+        "Limit": "40%",
+        "Rate": "85%",
+        "Modifier": "Rift",
+        "Cancel": "B C Sk Sp",
+        "Guard": "HA",
+        "Startup": "12F",
+        "Active": "10F",
+        "Total": "50F",
+        "Frame Adv.": "(-19F)"
+      }
+    ]
+  },
+  {
+    "char": "Youmu",
+    "name": "5B",
+    "type": "normal",
+    "img": "./images/Youmu/175px-You5b.jpg",
+    "data": [
+      {
+        "Damage": "0.25x5",
+        "Limit": "5%x5",
+        "Rate": "96%x5",
+        "Modifier": "None",
+        "Cancel": "C Sk Sp M",
+        "Density": "C1x5",
+        "Graze": "1Fx5",
+        "Startup": "30F",
+        "Motion": "36F",
+        "Total": "41F",
+        "Frame Adv.": "+8F [+14F]"
+      }
+    ]
+  },
+  {
+    "char": "Youmu",
+    "name": "6B",
+    "type": "normal",
+    "img": "./images/Youmu/175px-You6b.jpg",
+    "data": [
+      {
+        "Damage": "0.25x5",
+        "Limit": "5%x5",
+        "Rate": "96%x5",
+        "Modifier": "None",
+        "Cancel": "C Sk Sp M",
+        "Density": "C1x5",
+        "Graze": "1Fx5",
+        "Startup": "27F",
+        "Motion": "30F",
+        "Total": "43F",
+        "Frame Adv.": "+11F [+24F]"
+      }
+    ]
+  },
+  {
+    "char": "Youmu",
+    "name": "2B",
+    "type": "normal",
+    "img": "./images/Youmu/175px-You2b.jpg",
+    "data": [
+      {
+        "Damage": "0.25x5",
+        "Limit": "5%x5",
+        "Rate": "96%x5",
+        "Modifier": "None",
+        "Cancel": "C Sk Sp M",
+        "Density": "C1x5",
+        "Graze": "1Fx5",
+        "Startup": "31F",
+        "Motion": "31F",
+        "Total": "46F",
+        "Frame Adv.": "+4F [+20F]"
+      }
+    ]
+  },
+  {
+    "char": "Youmu",
+    "name": "J.5B",
+    "type": "normal",
+    "img": "./images/Youmu/175px-Youj5b.jpg",
+    "data": [
+      {
+        "Damage": "0.25x5",
+        "Limit": "5%x5",
+        "Rate": "96%x5",
+        "Modifier": "None",
+        "Cancel": "C Sk Sp M",
+        "Density": "C1x5",
+        "Graze": "1Fx5",
+        "Startup": "32F",
+        "Motion": "32F",
+        "Total": "46F",
+        "Frame Adv.": "-6F [+18F]"
+      }
+    ]
+  },
+  {
+    "char": "Youmu",
+    "name": "J.2B",
+    "type": "normal",
+    "img": "./images/Youmu/175px-Youj2b.jpg",
+    "data": [
+      {
+        "Damage": "0.25x5",
+        "Limit": "5%x5",
+        "Rate": "96%x5",
+        "Modifier": "None",
+        "Cancel": "C Sk Sp M",
+        "Density": "C1x5",
+        "Graze": "1Fx5",
+        "Startup": "32F",
+        "Motion": "32F",
+        "Total": "46F",
+        "Frame Adv.": "+6F [+30F]"
+      }
+    ]
+  },
+  {
+    "char": "Youmu",
+    "name": "5C",
+    "type": "normal",
+    "img": "./images/Youmu/175px-You5c.jpg",
+    "data": [
+      {
+        "Damage": "0.075x22",
+        "Limit": "2%x22",
+        "Rate": "97%x22",
+        "Modifier": "None",
+        "Cancel": "Sk Sp M",
+        "Density": "C1x22",
+        "Graze": "1Fx22",
+        "Startup": "28F",
+        "Motion": "41F",
+        "Total": "68F",
+        "Frame Adv.": "-F [-F]"
+      }
+    ]
+  },
+  {
+    "char": "Youmu",
+    "name": "2C",
+    "type": "normal",
+    "img": "./images/Youmu/175px-You2c.jpg",
+    "data": [
+      {
+        "Damage": "0.075x22",
+        "Limit": "2%x22",
+        "Rate": "97%x22",
+        "Modifier": "None",
+        "Cancel": "Sk Sp M",
+        "Density": "C1x22",
+        "Graze": "1Fx22",
+        "Startup": "17F",
+        "Motion": "26F",
+        "Total": "42F",
+        "Frame Adv.": "-F [-F]"
+      }
+    ]
+  },
+  {
+    "char": "Youmu",
+    "name": "J.5C",
+    "type": "normal",
+    "img": "./images/Youmu/175px-Youj5c.jpg",
+    "data": [
+      {
+        "Damage": "0.075x22",
+        "Limit": "2%x22",
+        "Rate": "97%x22",
+        "Modifier": "None",
+        "Cancel": "Sk Sp M",
+        "Density": "C1x22",
+        "Graze": "1Fx22",
+        "Startup": "31F",
+        "Motion": "36F",
+        "Total": "87F",
+        "Frame Adv.": "-F [-F]"
+      }
+    ]
+  },
+  {
+    "char": "Youmu",
+    "name": "J.2C",
+    "type": "normal",
+    "img": "./images/Youmu/175px-Youj2c.jpg",
+    "data": [
+      {
+        "Damage": "0.075x22",
+        "Limit": "2%x22",
+        "Rate": "97%x22",
+        "Modifier": "None",
+        "Cancel": "Sk Sp M",
+        "Density": "C1x22",
+        "Graze": "1Fx22",
+        "Startup": "26F",
+        "Motion": "36F",
+        "Total": "87F",
+        "Frame Adv.": "-F [-F]"
+      }
+    ]
+  },
+  {
+    "char": "Youmu",
+    "name": "6C",
+    "type": "normal",
+    "img": "./images/Youmu/175px-You6c.jpg",
+    "data": [
+      {
+        "Damage": "1",
+        "Limit": "40%",
+        "Rate": "85%",
+        "Modifier": "Smash",
+        "Cancel": "Sk Sp M",
+        "Density": "1HP",
+        "Graze": "∞",
+        "Startup": "21F",
+        "Motion": "41F",
+        "Total": "52F",
+        "Frame Adv.": "-8F [+4F]"
+      }
+    ]
+  },
+  {
+    "char": "Youmu",
+    "name": "J.6C",
+    "type": "normal",
+    "img": "./images/Youmu/175px-Youj6c.jpg",
+    "data": [
+      {
+        "Damage": "1",
+        "Limit": "40%",
+        "Rate": "85%",
+        "Modifier": "Smash",
+        "Cancel": "Sk Sp M",
+        "Density": "1HP",
+        "Graze": "∞",
+        "Startup": "17F",
+        "Motion": "37F",
+        "Total": "68F",
+        "Frame Adv.": "-38F [+4F]"
+      }
+    ]
+  },
+  {
+    "char": "Youmu",
+    "name": "Netherworld Reflection Slash",
+    "type": "skill-cards",
+    "img": "./images/Youmu/Yo236bc1.png",
+    "data": [
+      {
+        "Version": "B/C",
+        "Damage": "-",
+        "Limit": "-",
+        "Rate": "-",
+        "Modifier": "None",
+        "Cancel": "Sp M",
+        "Density": "-",
+        "Graze": "-",
+        "Startup": "15F",
+        "Motion": "25F",
+        "Total": "49F",
+        "Frame Adv.": "-"
+      }
+    ]
+  },
+  {
+    "char": "Youmu",
+    "name": "Crescent Moon Slash",
+    "type": "skill-cards",
+    "img": "./images/Youmu/Yo623bc1.png",
+    "data": [
+      {
+        "Version": "B",
+        "Damage": "1000",
+        "Limit": "40%",
+        "Rate": "80%",
+        "Modifier": "Rift",
+        "Cancel": "-",
+        "Guard": "HLA",
+        "Startup": "13F",
+        "Active": "2F",
+        "Total": "70F",
+        "Frame Adv.": "-36F"
+      },
+      {
+        "Version": "C",
+        "Damage": "1376 (600 + 850)",
+        "Limit": "0% + 40% (40%)",
+        "Rate": "93% x 85% (79%)",
+        "Modifier": "None; Rift",
+        "Cancel": "Sp; -",
+        "Guard": "HLA; HA",
+        "Startup": "10F; 32F",
+        "Active": "1F; 5F",
+        "Total": "96F",
+        "Frame Adv.": "-42F / -36F"
+      }
+    ]
+  },
+  {
+    "char": "Youmu",
+    "name": "Slash of Life and Death",
+    "type": "skill-cards",
+    "img": "./images/Youmu/Yo214bc1.png",
+    "data": [
+      {
+        "Version": "B/C",
+        "Damage": "1615 (400 + 600 + 1000)",
+        "Limit": "80% (10% + 30% + 40%)",
+        "Rate": "72.7%",
+        "Modifier": "None\nRift\nSmash",
+        "Cancel": "Sp",
+        "Guard": "HL\nL\nHA",
+        "Startup": "B: 19F C: 22F\nB/C: 14F\nB/C: 19F",
+        "Active": "B: 4F C: 8F\nB/C: 3F\nB/C: 2F",
+        "Total": "B: 54F C: 63F\nB/C: 50F\nB/C: 57F",
+        "Frame Adv.": "B: -14F C: -20F\nB/C: -15F / -9F\nB/C: -17F / -11F"
+      },
+      {
+        "Version": "C LV2",
+        "Damage": "1440",
+        "Limit": "40%",
+        "Rate": "80%",
+        "Modifier": "Smash",
+        "Cancel": "Sp",
+        "Guard": "HA (GC)",
+        "Startup": "24F",
+        "Active": "10F",
+        "Total": "68F",
+        "Frame Adv.": "-24F / +4F"
+      }
+    ]
+  },
+  {
+    "char": "Youmu",
+    "name": "Medium's Bind",
+    "type": "skill-cards",
+    "img": "./images/Youmu/Yo22bc1.png",
+    "data": [
+      {
+        "Version": "B",
+        "Damage": "1",
+        "Limit": "40%",
+        "Rate": "85%",
+        "Modifier": "Smash",
+        "Cancel": "Sp M",
+        "Density": "1HP",
+        "Graze": "∞",
+        "Startup": "16F",
+        "Motion": "32F",
+        "Total": "66F",
+        "Frame Adv.": "-26F [+9F]"
+      },
+      {
+        "Version": "C",
+        "Damage": "1",
+        "Limit": "40%",
+        "Rate": "85%",
+        "Modifier": "Smash",
+        "Cancel": "Sp M",
+        "Density": "1HP",
+        "Graze": "∞",
+        "Startup": "23F",
+        "Motion": "39F",
+        "Total": "73F",
+        "Frame Adv.": "-27F [+8F]"
+      }
+    ]
+  },
+  {
+    "char": "Youmu",
+    "name": "Lotus Stance Cut",
+    "type": "skill-cards",
+    "img": "./images/Youmu/Yo236bc2.png",
+    "data": [
+      {
+        "Version": "B",
+        "Damage": "1",
+        "Limit": "30%",
+        "Rate": "90%",
+        "Modifier": "Rift",
+        "Cancel": "Sp M",
+        "Density": "B1x1",
+        "Graze": "10F",
+        "Startup": "22F",
+        "Motion": "38F",
+        "Total": "70F",
+        "Frame Adv.": "-23F [+10F]"
+      },
+      {
+        "Version": "C",
+        "Damage": "1",
+        "Limit": "30%",
+        "Rate": "90%",
+        "Modifier": "Rift",
+        "Cancel": "Sp M",
+        "Density": "B1x1",
+        "Graze": "10F",
+        "Startup": "29F",
+        "Motion": "45F",
+        "Total": "77F",
+        "Frame Adv.": "-23F [+10F]"
+      }
+    ]
+  },
+  {
+    "char": "Youmu",
+    "name": "Phosphoric Slash",
+    "type": "skill-cards",
+    "img": "./images/Youmu/Yo236bc3.png",
+    "data": [
+      {
+        "Version": "B",
+        "Damage": "0.125 * 4",
+        "Limit": "20% (5%*4)",
+        "Rate": "81.4% (95%^4)",
+        "Modifier": "Smash",
+        "Cancel": "Sp M",
+        "Density": "C2xn",
+        "Graze": "4F",
+        "Startup": "20F",
+        "Motion": "26F",
+        "Total": "62F",
+        "Frame Adv.": "-13F [+24F]"
+      },
+      {
+        "Version": "C",
+        "Damage": "0.125 * 8",
+        "Limit": "40% (5%*8)",
+        "Rate": "66.3% (95%^8)",
+        "Modifier": "Smash",
+        "Cancel": "Sp M",
+        "Density": "C2xn",
+        "Graze": "4F",
+        "Startup": "25F",
+        "Motion": "31F",
+        "Total": "67F",
+        "Frame Adv.": "-13F [+24F]"
+      }
+    ]
+  },
+  {
+    "char": "Youmu",
+    "name": "Intolerant Avici",
+    "type": "skill-cards",
+    "img": "./images/Youmu/Yo623bc2.png",
+    "data": [
+      {
+        "Version": "B\nB Hold",
+        "Damage": "0\n450",
+        "Limit": "40%\n100%",
+        "Rate": "30%\n5.5%",
+        "Modifier": "None\nSmash",
+        "Cancel": "Sp\n-",
+        "Guard": "(UB)",
+        "Startup": "13F",
+        "Active": "1F",
+        "Total": "42F",
+        "Frame Adv.": "+18F\n+60F"
+      },
+      {
+        "Version": "C\nC Hold",
+        "Damage": "0\n450",
+        "Limit": "40%\n100%",
+        "Rate": "30%\n5.5%",
+        "Modifier": "None\nSmash",
+        "Cancel": "Sp\n-",
+        "Guard": "(UB)",
+        "Startup": "13F",
+        "Active": "1F",
+        "Total": "42F",
+        "Frame Adv.": "+20F\n+59F"
+      }
+    ]
+  },
+  {
+    "char": "Youmu",
+    "name": "Insightful Sword",
+    "type": "skill-cards",
+    "img": "./images/Youmu/Yo623bc3.png",
+    "data": [
+      {
+        "Version": "B",
+        "Damage": "1760",
+        "Limit": "40%",
+        "Rate": "80%",
+        "Modifier": "Smash",
+        "Cancel": "Sp",
+        "Guard": "(UB)",
+        "Startup": "6F",
+        "Active": "10F",
+        "Total": "50F",
+        "Frame Adv.": "+58F"
+      },
+      {
+        "Version": "C",
+        "Damage": "1760",
+        "Limit": "40%",
+        "Rate": "80%",
+        "Modifier": "Smash",
+        "Cancel": "Sp",
+        "Guard": "(UB)",
+        "Startup": "11F",
+        "Active": "30F",
+        "Total": "60F",
+        "Frame Adv.": "+58F"
+      }
+    ]
+  },
+  {
+    "char": "Youmu",
+    "name": "Heart Carving Cut",
+    "type": "skill-cards",
+    "img": "./images/Youmu/Yo214bc2.png",
+    "data": [
+      {
+        "Version": "B",
+        "Damage": "1430",
+        "Limit": "40%",
+        "Rate": "85%",
+        "Modifier": "Rift",
+        "Cancel": "Sp",
+        "Guard": "LA",
+        "Startup": "25F",
+        "Active": "10F",
+        "Total": "70F",
+        "Frame Adv.": "-15F / -9F"
+      },
+      {
+        "Version": "C",
+        "Damage": "1430",
+        "Limit": "40%",
+        "Rate": "85%",
+        "Modifier": "Rift",
+        "Cancel": "Sp",
+        "Guard": "LA",
+        "Startup": "30F",
+        "Active": "10F",
+        "Total": "88F",
+        "Frame Adv.": "-28F / -22F"
+      }
+    ]
+  },
+  {
+    "char": "Youmu",
+    "name": "Slashing a Flower Upon One's Head",
+    "type": "skill-cards",
+    "img": "./images/Youmu/Yo214bc3.png",
+    "data": [
+      {
+        "Version": "B Un-Charged",
+        "Damage": "1375",
+        "Limit": "75%",
+        "Rate": "40%",
+        "Modifier": "Smash",
+        "Cancel": "Sp",
+        "Guard": "HA",
+        "Startup": "33F",
+        "Active": "5F",
+        "Total": "62F",
+        "Frame Adv.": "-3F / +3F"
+      },
+      {
+        "Version": "C Un-Charged",
+        "Damage": "1375",
+        "Limit": "75%",
+        "Rate": "40%",
+        "Modifier": "Smash",
+        "Cancel": "Sp",
+        "Guard": "HA",
+        "Startup": "39F",
+        "Active": "6F",
+        "Total": "69F",
+        "Frame Adv.": "-1F / +4F"
+      },
+      {
+        "Version": "B Charged",
+        "Damage": "1650",
+        "Limit": "75%",
+        "Rate": "40%",
+        "Modifier": "Smash",
+        "Cancel": "Sp",
+        "Guard": "HA (GC)",
+        "Startup": "48F",
+        "Active": "3F",
+        "Total": "75F",
+        "Frame Adv.": "-1F / +22F"
+      },
+      {
+        "Version": "C Charged",
+        "Damage": "1650",
+        "Limit": "75%",
+        "Rate": "40%",
+        "Modifier": "Smash",
+        "Cancel": "Sp",
+        "Guard": "HA (GC)",
+        "Startup": "54F",
+        "Active": "7F",
+        "Total": "85F",
+        "Frame Adv.": "-2F / +21F"
+      }
+    ]
+  },
+  {
+    "char": "Youmu",
+    "name": "Wicked Soul",
+    "type": "skill-cards",
+    "img": "./images/Youmu/Yo22bc2.png",
+    "data": [
+      {
+        "Version": "B/C",
+        "Damage": "0.3 x 5",
+        "Limit": "10% x 5",
+        "Rate": "97% x 5",
+        "Modifier": "Rift",
+        "Cancel": "Sp M",
+        "Density": "B1x5",
+        "Graze": "∞",
+        "Startup": "32F",
+        "Motion": "29F",
+        "Total": "69F",
+        "Frame Adv.": "+20F [+54F]"
+      }
+    ]
+  },
+  {
+    "char": "Youmu",
+    "name": "Strange Half-Body",
+    "type": "skill-cards",
+    "img": "./images/Youmu/Yo22bc3.png",
+    "data": [
+      {
+        "Version": "B/C",
+        "Damage": "0.375 x 3",
+        "Limit": "15% x 3",
+        "Rate": "92% x 3",
+        "Modifier": "Smash",
+        "Cancel": "Sp M",
+        "Density": "B1xn",
+        "Graze": "4F",
+        "Startup": "28F",
+        "Motion": "32F",
+        "Total": "66F",
+        "Frame Adv.": "+2F [+35F]"
+      }
+    ]
+  },
+  {
+    "char": "Youmu",
+    "name": "Human Sign \"Slash of Present\"",
+    "type": "spell-cards",
+    "img": "./images/Youmu/Yosc01.png",
+    "data": [
+      {
+        "Damage": "2000",
+        "Limit": "100%",
+        "Rate": "70%",
+        "Modifier": "Rift",
+        "Cancel": "-",
+        "Guard": "HL",
+        "Startup": "6F + 4F",
+        "Active": "10F",
+        "Total": "66F",
+        "Frame Adv.": "-26F"
+      }
+    ]
+  },
+  {
+    "char": "Youmu",
+    "name": "Soul Sign \"Ghostly Wheel of Pain\"",
+    "type": "spell-cards",
+    "img": "./images/Youmu/Yosc02.png",
+    "data": [
+      {
+        "Damage": "-",
+        "Limit": "-",
+        "Rate": "-",
+        "Modifier": "None",
+        "Cancel": "-",
+        "Guard": "-",
+        "Startup": "11F + 11F",
+        "Active": "240F",
+        "Total": "22F",
+        "Frame Adv.": "-"
+      }
+    ]
+  },
+  {
+    "char": "Youmu",
+    "name": "Life Ending Sword \"Meditation\"",
+    "type": "spell-cards",
+    "img": "./images/Youmu/Yosc03.png",
+    "data": [
+      {
+        "Damage": "0.3 x 5",
+        "Limit": "10% x 5",
+        "Rate": "92% x 5",
+        "Modifier": "Smash",
+        "Cancel": "-",
+        "Density": "-",
+        "Graze": "-",
+        "Startup": "7F + 8F",
+        "Motion": "-",
+        "Total": "81F",
+        "Frame Adv.": "-32F"
+      }
+    ]
+  },
+  {
+    "char": "Youmu",
+    "name": "Sword Skill \"Thousand Cherry Blossoms\"",
+    "type": "spell-cards",
+    "img": "./images/Youmu/Yosc04.png",
+    "data": [
+      {
+        "Damage": "0.25 x 14",
+        "Limit": "10% x 14",
+        "Rate": "90% x 14",
+        "Modifier": "Rift",
+        "Cancel": "-",
+        "Density": "-",
+        "Graze": "-",
+        "Startup": "11F + 57F",
+        "Motion": "-",
+        "Total": "68F",
+        "Frame Adv.": "+47F"
+      }
+    ]
+  },
+  {
+    "char": "Youmu",
+    "name": "Reincarnation Sword \"Sword of Cycles\"",
+    "type": "spell-cards",
+    "img": "./images/Youmu/Yosc05.png",
+    "data": [
+      {
+        "Version": "Sword Cycle\nIaido Straight Cut",
+        "Damage": "150 x 15\n1500",
+        "Limit": "0% x 15\n100%",
+        "Rate": "98% x 15\n70%",
+        "Modifier": "None\nRift",
+        "Cancel": "-",
+        "Guard": "HLA\nHL",
+        "Startup": "13F + 4F\n20F [Starting from the last Cycle hit-box]",
+        "Active": "6F\n5F",
+        "Total": "176F",
+        "Frame Adv.": "-28F"
+      }
+    ]
+  },
+  {
+    "char": "Youmu",
+    "name": "Enlightened Sword \"Rise from Delusion\"",
+    "type": "spell-cards",
+    "img": "./images/Youmu/Yosc06.png",
+    "data": [
+      {
+        "Damage": "1200 x 6",
+        "Limit": "3% x 6",
+        "Rate": "92% x 6",
+        "Modifier": "Smash",
+        "Cancel": "-",
+        "Guard": "HLA",
+        "Startup": "7F + 20F",
+        "Active": "16F",
+        "Total": "97F",
+        "Frame Adv.": "-39F"
+      }
+    ]
+  },
+  {
+    "char": "Youmu",
+    "name": "Soul Cutting \"Ascension to Nirvana\"",
+    "type": "spell-cards",
+    "img": "./images/Youmu/Yosc07.png",
+    "data": [
+      {
+        "Damage": "0.10 x 10",
+        "Limit": "10% x 10",
+        "Rate": "96% x 10",
+        "Modifier": "Rift",
+        "Cancel": "-",
+        "Density": "A?x10",
+        "Graze": "-",
+        "Startup": "10F + 9F",
+        "Motion": "-",
+        "Total": "105F",
+        "Frame Adv.": "-5F"
+      }
+    ]
+  },
+  {
+    "char": "Youmu",
+    "name": "Obsessor \"Slash of Eternity\"",
+    "type": "spell-cards",
+    "img": "./images/Youmu/Yosc08.png",
+    "data": [
+      {
+        "Damage": "4903",
+        "Limit": "100%",
+        "Rate": "47%",
+        "Modifier": "Rift",
+        "Cancel": "-",
+        "Guard": "HL",
+        "Startup": "11F + 1F",
+        "Active": "15F",
+        "Total": "65F",
+        "Frame Adv.": "-20F"
+      }
+    ]
+  },
+  {
+    "char": "Youmu",
+    "name": "Spirit \"Secret of Life and Death\"",
+    "type": "spell-cards",
+    "img": "./images/Youmu/Yosc09.png",
+    "data": [
+      {
+        "Damage": "-",
+        "Limit": "-",
+        "Rate": "-",
+        "Modifier": "None",
+        "Cancel": "-",
+        "Guard": "-",
+        "Startup": "11F + 0F",
+        "Active": "600F",
+        "Total": "11F",
+        "Frame Adv.": "-"
+      }
+    ]
+  },
+  {
+    "char": "Youmu",
+    "name": "Empty Perception \"6-root Cleansing\"",
+    "type": "spell-cards",
+    "img": "./images/Youmu/Yosc10.png",
+    "data": [
+      {
+        "Damage": "6318",
+        "Limit": "40%",
+        "Rate": "44.2%",
+        "Modifier": "Smash",
+        "Cancel": "-",
+        "Guard": "(UB)",
+        "Startup": "6F + 0F",
+        "Active": "20F",
+        "Total": "42F",
+        "Frame Adv.": "+15F"
+      }
+    ]
+  }
+]

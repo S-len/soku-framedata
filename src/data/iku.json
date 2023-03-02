@@ -1,0 +1,763 @@
+[
+  {
+    "char": "Iku",
+    "name": "4A",
+    "type": "normal",
+    "img": "./images/Iku/175px-Iku_4a.png",
+    "data": [
+      {
+        "Damage": "380",
+        "Limit": "0%",
+        "Rate": "94%",
+        "Modifier": "None",
+        "Cancel": "Cn B C Sk Sp",
+        "Guard": "H",
+        "Startup": "8F",
+        "Active": "2F",
+        "Total": "25F",
+        "Frame Adv.": "-2/+2"
+      }
+    ]
+  },
+  {
+    "char": "Iku",
+    "name": "5A",
+    "type": "normal",
+    "img": "./images/Iku/175px-Iku_5a.png",
+    "data": [
+      {
+        "Damage": "380",
+        "Limit": "0%",
+        "Rate": "94%",
+        "Modifier": "None",
+        "Cancel": "D Cn B C Sk Sp",
+        "Guard": "H",
+        "Startup": "8F",
+        "Active": "2F",
+        "Total": "25F",
+        "Frame Adv.": "-2/+2"
+      }
+    ]
+  },
+  {
+    "char": "Iku",
+    "name": "5AA",
+    "type": "normal",
+    "img": "./images/Iku/175px-Iku_5aa.png",
+    "data": [
+      {
+        "Damage": "550",
+        "Limit": "20%",
+        "Rate": "92%",
+        "Modifier": "Rift",
+        "Cancel": "D B C Sk Sp",
+        "Guard": "HL",
+        "Startup": "14F",
+        "Active": "2F",
+        "Total": "36F",
+        "Frame Adv.": "-7"
+      }
+    ]
+  },
+  {
+    "char": "Iku",
+    "name": "5AAA",
+    "type": "normal",
+    "img": "./images/Iku/175px-Iku_5aaa.png",
+    "data": [
+      {
+        "Damage": "700",
+        "Limit": "20%",
+        "Rate": "85%",
+        "Modifier": "Smash",
+        "Cancel": "D B C Sk Sp",
+        "Guard": "H",
+        "Startup": "9F",
+        "Active": "4F",
+        "Total": "35F",
+        "Frame Adv.": "-5/-1"
+      }
+    ]
+  },
+  {
+    "char": "Iku",
+    "name": "5AAAA",
+    "type": "normal",
+    "img": "./images/Iku/175px-Iku_5aaaa.png",
+    "data": [
+      {
+        "Damage": "900",
+        "Limit": "40%",
+        "Rate": "80%",
+        "Modifier": "Smash",
+        "Cancel": "Sp",
+        "Guard": "HLA",
+        "Startup": "16F",
+        "Active": "20F",
+        "Total": "65F",
+        "Frame Adv.": "-24"
+      }
+    ]
+  },
+  {
+    "char": "Iku",
+    "name": "f5A",
+    "type": "normal",
+    "img": "./images/Iku/175px-Iku_f5a.png",
+    "data": [
+      {
+        "Damage": "600",
+        "Limit": "0%",
+        "Rate": "90%",
+        "Modifier": "None",
+        "Cancel": "Cn B C Sk Sp",
+        "Guard": "H",
+        "Startup": "16F",
+        "Active": "3F",
+        "Total": "43F",
+        "Frame Adv.": "-6/+0"
+      }
+    ]
+  },
+  {
+    "char": "Iku",
+    "name": "2A",
+    "type": "normal",
+    "img": "./images/Iku/175px-Iku_2a_1.png",
+    "data": [
+      {
+        "Damage": "450",
+        "Limit": "0%",
+        "Rate": "93%",
+        "Modifier": "None",
+        "Cancel": "Cn B C Sk Sp",
+        "Guard": "L",
+        "Startup": "12F",
+        "Active": "8F",
+        "Total": "29F",
+        "Frame Adv.": "-2/+2"
+      }
+    ]
+  },
+  {
+    "char": "Iku",
+    "name": "6A",
+    "type": "normal",
+    "img": "./images/Iku/175px-Iku_6a.png",
+    "data": [
+      {
+        "Version": "Uncharged",
+        "Damage": "700",
+        "Limit": "40%",
+        "Rate": "85%",
+        "Modifier": "Smash",
+        "Cancel": "B C Sk Sp",
+        "Guard": "H",
+        "Startup": "16F",
+        "Active": "2F",
+        "Total": "49F",
+        "Frame Adv.": "-12/-6"
+      },
+      {
+        "Version": "Charged",
+        "Damage": "950",
+        "Limit": "40%",
+        "Rate": "80%",
+        "Modifier": "Smash",
+        "Cancel": "Sp",
+        "Guard": "H*",
+        "Startup": "31F",
+        "Active": "2F",
+        "Total": "64F",
+        "Frame Adv.": "-4/+16"
+      }
+    ]
+  },
+  {
+    "char": "Iku",
+    "name": "3A",
+    "type": "normal",
+    "img": "./images/Iku/175px-Iku_3a.png",
+    "data": [
+      {
+        "Version": "Uncharged",
+        "Damage": "700",
+        "Limit": "40%",
+        "Rate": "85%",
+        "Modifier": "Rift",
+        "Cancel": "B C Sk Sp",
+        "Guard": "L",
+        "Startup": "17F",
+        "Active": "6F",
+        "Total": "48F",
+        "Frame Adv.": "-10/-4"
+      },
+      {
+        "Version": "Charged",
+        "Damage": "850",
+        "Limit": "40%",
+        "Rate": "85%",
+        "Modifier": "Rift",
+        "Cancel": "Sp",
+        "Guard": "L*",
+        "Startup": "32F",
+        "Active": "6F",
+        "Total": "63F",
+        "Frame Adv.": "-4/+18"
+      }
+    ]
+  },
+  {
+    "char": "Iku",
+    "name": "66A or 6DA",
+    "type": "normal",
+    "img": "./images/Iku/175px-Iku_66a.png",
+    "data": [
+      {
+        "Damage": "650",
+        "Limit": "40%",
+        "Rate": "90%",
+        "Modifier": "None",
+        "Cancel": "Sk Sp",
+        "Guard": "H",
+        "Startup": "16F",
+        "Active": "3F",
+        "Total": "43F",
+        "Frame Adv.": "-6/+0"
+      }
+    ]
+  },
+  {
+    "char": "Iku",
+    "name": "66B or 6DB",
+    "type": "normal",
+    "img": "./images/Iku/175px-Iku_66b.png",
+    "data": [
+      {
+        "Damage": "800",
+        "Limit": "40%",
+        "Rate": "85%",
+        "Modifier": "Smash",
+        "Cancel": "Sp",
+        "Guard": "HLA",
+        "Startup": "19F",
+        "Active": "10F",
+        "Total": "58F",
+        "Frame Adv.": "-14"
+      }
+    ]
+  },
+  {
+    "char": "Iku",
+    "name": "66C or 6DC",
+    "type": "normal",
+    "img": "./images/Iku/175px-Iku_66c.png",
+    "data": [
+      {
+        "Damage": "650",
+        "Limit": "40%",
+        "Rate": "85%",
+        "Modifier": "Smash",
+        "Cancel": "Sp",
+        "Guard": "H",
+        "Startup": "27F",
+        "Active": "14F",
+        "Total": "50F",
+        "Frame Adv.": "-2F/+4F"
+      }
+    ]
+  },
+  {
+    "char": "Iku",
+    "name": "j5A",
+    "type": "normal",
+    "img": "./images/Iku/175px-Iku_j5a.png",
+    "data": [
+      {
+        "Damage": "450",
+        "Limit": "0%",
+        "Rate": "92%",
+        "Modifier": "None",
+        "Cancel": "Cn B C Sk Sp",
+        "Guard": "HA",
+        "Startup": "12F",
+        "Active": "3F",
+        "Total": "39F",
+        "Frame Adv.": "(-8)"
+      }
+    ]
+  },
+  {
+    "char": "Iku",
+    "name": "j6A",
+    "type": "normal",
+    "img": "./images/Iku/175px-Iku_j6a_1.png",
+    "data": [
+      {
+        "Damage": "800",
+        "Limit": "40%",
+        "Rate": "80%",
+        "Modifier": "Smash",
+        "Cancel": "B C Sk Sp",
+        "Guard": "HA",
+        "Startup": "13F",
+        "Active": "8F",
+        "Total": "55F",
+        "Frame Adv.": "(-23F)"
+      }
+    ]
+  },
+  {
+    "char": "Iku",
+    "name": "j8A",
+    "type": "normal",
+    "img": "./images/Iku/175px-Iku_j8a.png",
+    "data": [
+      {
+        "Damage": "300*4",
+        "Limit": "5%*4",
+        "Rate": "95%",
+        "Modifier": "Rift",
+        "Cancel": "B C Sk Sp",
+        "Guard": "HA",
+        "Startup": "12F",
+        "Active": "16F",
+        "Total": "55F",
+        "Frame Adv.": "(-12F)"
+      }
+    ]
+  },
+  {
+    "char": "Iku",
+    "name": "j2A",
+    "type": "normal",
+    "img": "./images/Iku/175px-Iku_j2a.png",
+    "data": [
+      {
+        "Damage": "850",
+        "Limit": "40%",
+        "Rate": "80%",
+        "Modifier": "Smash",
+        "Cancel": "B C Sk Sp",
+        "Guard": "HA",
+        "Startup": "13F",
+        "Active": "3F",
+        "Total": "55F",
+        "Frame Adv.": "(-23F)"
+      }
+    ]
+  },
+  {
+    "char": "Iku",
+    "name": "5B",
+    "type": "bullet",
+    "img": "",
+    "data": [
+      {
+        "Version": "Uncharged",
+        "Damage": "0.3*5",
+        "Limit": "5%",
+        "Rate": "93%",
+        "Modifier": "None",
+        "Cancel": "C Sk Sp M",
+        "Density": "C1x5",
+        "Graze": "1F",
+        "Startup": "19F",
+        "Motion": "25F",
+        "Total": "51F",
+        "Frame Adv.": "-2F [+25F]"
+      },
+      {
+        "Version": "Charged",
+        "Damage": "0.3*9",
+        "Limit": "5%",
+        "Rate": "93%",
+        "Modifier": "None",
+        "Cancel": "C Sk Sp M",
+        "Density": "C1x9",
+        "Graze": "1F",
+        "Startup": "39F",
+        "Motion": "45F",
+        "Total": "71F",
+        "Frame Adv.": "-2F [+25F]"
+      }
+    ]
+  },
+  {
+    "char": "Iku",
+    "name": "2B",
+    "type": "bullet",
+    "img": "",
+    "data": [
+      {
+        "Version": "Uncharged",
+        "Damage": "0.3*5",
+        "Limit": "5%",
+        "Rate": "93%",
+        "Modifier": "None",
+        "Cancel": "C Sk Sp M",
+        "Density": "C1x3",
+        "Graze": "1F",
+        "Startup": "18F",
+        "Motion": "24F",
+        "Total": "48F",
+        "Frame Adv.": "+0F [+25F]"
+      },
+      {
+        "Version": "Charged",
+        "Damage": "0.3*9",
+        "Limit": "5%",
+        "Rate": "93%",
+        "Modifier": "None",
+        "Cancel": "C Sk Sp M",
+        "Density": "C1x5",
+        "Graze": "1F",
+        "Startup": "38F",
+        "Motion": "44F",
+        "Total": "68F",
+        "Frame Adv.": "+0F [+25F]"
+      }
+    ]
+  },
+  {
+    "char": "Iku",
+    "name": "j5B",
+    "type": "bullet",
+    "img": "",
+    "data": [
+      {
+        "Version": "Uncharged",
+        "Damage": "0.3*5",
+        "Limit": "5%",
+        "Rate": "93%",
+        "Modifier": "None",
+        "Cancel": "C Sk Sp M",
+        "Density": "C1x5",
+        "Graze": "1F",
+        "Startup": "19F",
+        "Motion": "31F",
+        "Total": "58F",
+        "Frame Adv.": "[+19F]"
+      },
+      {
+        "Version": "Charged",
+        "Damage": "0.3*9",
+        "Limit": "5%",
+        "Rate": "93%",
+        "Modifier": "None",
+        "Cancel": "C Sk Sp M",
+        "Density": "C1x9",
+        "Graze": "1F",
+        "Startup": "39F",
+        "Motion": "51F",
+        "Total": "78F",
+        "Frame Adv.": "[+19F]"
+      }
+    ]
+  },
+  {
+    "char": "Iku",
+    "name": "5C",
+    "type": "bullet",
+    "img": "",
+    "data": [
+      {
+        "Version": "Uncharged",
+        "Damage": "0.3*3, 0.25*4",
+        "Limit": "5%*3, 5%*4",
+        "Rate": "93%, 93%",
+        "Modifier": "None, Rift",
+        "Cancel": "Sk Sp M",
+        "Density": "C3x1, C1x4",
+        "Graze": "15F, 1F",
+        "Startup": "25F, 85F",
+        "Motion": "37F",
+        "Total": "54F",
+        "Frame Adv.": "+49F [+79F]"
+      },
+      {
+        "Version": "Charged",
+        "Damage": "0.3*3, 0.25*4",
+        "Limit": "5%*3, 5%*4",
+        "Rate": "93%, 93%",
+        "Modifier": "None, Rift",
+        "Cancel": "Sk Sp M",
+        "Density": "C3x1, C1x4",
+        "Graze": "15F, 1F",
+        "Startup": "50F, 110F",
+        "Motion": "62F",
+        "Total": "91F",
+        "Frame Adv.": "+49F [+79F]"
+      }
+    ]
+  },
+  {
+    "char": "Iku",
+    "name": "2C",
+    "type": "bullet",
+    "img": "",
+    "data": [
+      {
+        "Damage": "0.25*3",
+        "Limit": "10%*3",
+        "Rate": "95%",
+        "Modifier": "Smash",
+        "Cancel": "Sk Sp M",
+        "Density": "B3x1",
+        "Graze": "-",
+        "Startup": "22F",
+        "Motion": "40F",
+        "Total": "80F",
+        "Frame Adv.": "-"
+      }
+    ]
+  },
+  {
+    "char": "Iku",
+    "name": "6C",
+    "type": "bullet",
+    "img": "",
+    "data": [
+      {
+        "Version": "Uncharged",
+        "Damage": "0.25*4",
+        "Limit": "5%*4",
+        "Rate": "93%",
+        "Modifier": "Rift",
+        "Cancel": "Sk Sp M",
+        "Density": "C1x4",
+        "Graze": "-",
+        "Startup": "15F",
+        "Motion": "27F",
+        "Total": "56F",
+        "Frame Adv.": "-11F [+19F]"
+      },
+      {
+        "Version": "Charged",
+        "Damage": "0.25*5",
+        "Limit": "5%*5",
+        "Rate": "93%",
+        "Modifier": "Rift",
+        "Cancel": "Sk Sp M",
+        "Density": "C1x5",
+        "Graze": "-",
+        "Startup": "40F",
+        "Motion": "52F",
+        "Total": "81F",
+        "Frame Adv.": "-11F [+19F]"
+      }
+    ]
+  },
+  {
+    "char": "Iku",
+    "name": "j5C",
+    "type": "bullet",
+    "img": "",
+    "data": [
+      {
+        "Version": "Uncharged",
+        "Damage": "0.3*3, 0.25*4",
+        "Limit": "5%*3, 5%*4",
+        "Rate": "93%, 93%",
+        "Modifier": "None, Rift",
+        "Cancel": "Sk Sp M",
+        "Density": "C3x1, C1x4",
+        "Graze": "15F, 1F",
+        "Startup": "25F, 85F",
+        "Motion": "37F",
+        "Total": "71F",
+        "Frame Adv.": "[+79F]"
+      },
+      {
+        "Version": "Charged",
+        "Damage": "0.3*3, 0.25*4",
+        "Limit": "5%*3, 5%*4",
+        "Rate": "93%, 93%",
+        "Modifier": "None, Rift",
+        "Cancel": "Sk Sp M",
+        "Density": "C3x1, C1x4",
+        "Graze": "15F, 1F",
+        "Startup": "50F, 110F",
+        "Motion": "62F",
+        "Total": "96F",
+        "Frame Adv.": "[+79F]"
+      }
+    ]
+  },
+  {
+    "char": "Iku",
+    "name": "j6C",
+    "type": "bullet",
+    "img": "",
+    "data": [
+      {
+        "Version": "Uncharged",
+        "Damage": "0.25*4",
+        "Limit": "5%*4",
+        "Rate": "93%",
+        "Modifier": "Rift",
+        "Cancel": "Sk Sp M",
+        "Density": "C1x4",
+        "Graze": "-",
+        "Startup": "15F",
+        "Motion": "27F",
+        "Total": "61F",
+        "Frame Adv.": "[+19F]"
+      },
+      {
+        "Version": "Charged",
+        "Damage": "0.25*5",
+        "Limit": "5%*5",
+        "Rate": "93%",
+        "Modifier": "Rift",
+        "Cancel": "Sk Sp M",
+        "Density": "C1x5",
+        "Graze": "-",
+        "Startup": "40F",
+        "Motion": "52F",
+        "Total": "86F",
+        "Frame Adv.": "[+19F]"
+      }
+    ]
+  },
+  {
+    "char": "Iku",
+    "name": "j2C",
+    "type": "bullet",
+    "img": "",
+    "data": [
+      {
+        "Version": "Uncharged",
+        "Damage": "1 (orb) 0.125*n (tail)",
+        "Limit": "10% (orb) 10%*n (tail)",
+        "Rate": "92% (orb) 98% (tail)",
+        "Modifier": "Rift",
+        "Cancel": "Sk Sp M",
+        "Density": "C5x1 (orb) C1xn (tail)",
+        "Graze": "5F (orb) 1F (tail)",
+        "Startup": "24F",
+        "Motion": "42F",
+        "Total": "71F",
+        "Frame Adv.": "-17F [+13F]"
+      },
+      {
+        "Version": "Charged",
+        "Damage": "1*2 (orb) 0.125*n (tail)",
+        "Limit": "10%*2 (orb) 10%*n (tail)",
+        "Rate": "92% (orb) 98% (tail)",
+        "Modifier": "Rift",
+        "Cancel": "Sk Sp M",
+        "Density": "C5x2, C1xn",
+        "Graze": "5F (orb) 1F (tail)",
+        "Startup": "39F",
+        "Motion": "57F",
+        "Total": "86F",
+        "Frame Adv.": "-17F [+13F]"
+      }
+    ]
+  },
+  {
+    "char": "Iku",
+    "name": "j1C",
+    "type": "bullet",
+    "img": "",
+    "data": [
+      {
+        "Version": "Uncharged",
+        "Damage": "1 (orb) 0.125*n (tail)",
+        "Limit": "10% (orb) 10%*n (tail)",
+        "Rate": "92% (orb) 98% (tail)",
+        "Modifier": "Rift",
+        "Cancel": "Sk Sp M",
+        "Density": "C5x1 (orb) C1xn (tail)",
+        "Graze": "5F (orb) 1F (tail)",
+        "Startup": "24F",
+        "Motion": "42F",
+        "Total": "71F",
+        "Frame Adv.": "-17F [+13F]"
+      },
+      {
+        "Version": "Charged",
+        "Damage": "1*2 (orb) 0.125*n (tail)",
+        "Limit": "10%*2 (orb) 10%*n (tail)",
+        "Rate": "92% (orb) 98% (tail)",
+        "Modifier": "Rift",
+        "Cancel": "Sk Sp M",
+        "Density": "C5x2, C1xn",
+        "Graze": "5F (orb) 1F (tail)",
+        "Startup": "39F",
+        "Motion": "57F",
+        "Total": "86F",
+        "Frame Adv.": "-17F [+13F]"
+      }
+    ]
+  },
+  {
+    "char": "Iku",
+    "name": "Dragon Fish's Strike",
+    "type": "skill",
+    "img": "./images/Iku/Ik236bc1.png",
+    "data": [
+      {
+        "Version": "B",
+        "Damage": "450 x n",
+        "Limit": "5%",
+        "Rate": "92%",
+        "Modifier": "Smash",
+        "Cancel": "Sp",
+        "Guard": "HLA",
+        "Startup": "25F",
+        "Active": "25F",
+        "Total": "71F",
+        "Frame Adv.": "-10"
+      },
+      {
+        "Version": "C",
+        "Damage": "450 x n",
+        "Limit": "5%",
+        "Rate": "92%",
+        "Modifier": "Smash",
+        "Cancel": "Sp",
+        "Guard": "HLA",
+        "Startup": "28F",
+        "Active": "45F",
+        "Total": "99F",
+        "Frame Adv.": "-25"
+      }
+    ]
+  },
+  {
+    "char": "Iku",
+    "name": "Veils Like Water",
+    "type": "skill",
+    "img": "./images/Iku/Ik623bc1.png",
+    "data": [
+      {
+        "Version": "B",
+        "Damage": "1100",
+        "Limit": "40%",
+        "Rate": "80%",
+        "Modifier": "Smash",
+        "Cancel": "Sp",
+        "Guard": "HLA",
+        "Startup": "46F",
+        "Active": "25F",
+        "Total": "94F",
+        "Frame Adv.": "-27"
+      },
+      {
+        "Version": "C",
+        "Damage": "1100",
+        "Limit": "40%",
+        "Rate": "80%",
+        "Modifier": "Smash",
+        "Cancel": "Sp",
+        "Guard": "HLA",
+        "Startup": "26F",
+        "Active": "2F",
+        "Total": "74F",
+        "Frame Adv.": "-27"
+      }
+    ]
+  }
+]

@@ -1,0 +1,1613 @@
+[
+  {
+    "char": "Marisa",
+    "name": "4A",
+    "type": "normal",
+    "img": "./images/Marisa/175px-Marisa_5a.png",
+    "data": [
+      {
+        "Damage": "200",
+        "Limit": "0%",
+        "Rate": "98%",
+        "Modifier": "None",
+        "Cancel": "R Cn B C Sk Sp",
+        "Guard": "HL",
+        "Startup": "7F",
+        "Active": "2F",
+        "Total": "17F",
+        "Frame Adv.": "-1"
+      }
+    ]
+  },
+  {
+    "char": "Marisa",
+    "name": "5A",
+    "type": "normal",
+    "img": "./images/Marisa/175px-Marisa_5a.png",
+    "data": [
+      {
+        "Damage": "200",
+        "Limit": "0%",
+        "Rate": "98%",
+        "Modifier": "None",
+        "Cancel": "D Cn B C Sk Sp",
+        "Guard": "HL",
+        "Startup": "7F",
+        "Active": "2F",
+        "Total": "17F",
+        "Frame Adv.": "-1"
+      }
+    ]
+  },
+  {
+    "char": "Marisa",
+    "name": "5AA",
+    "type": "normal",
+    "img": "./images/Marisa/175px-Marisa_5a.png",
+    "data": [
+      {
+        "Damage": "200",
+        "Limit": "0%",
+        "Rate": "98%",
+        "Modifier": "None",
+        "Cancel": "D Cn B C Sk Sp",
+        "Guard": "HL",
+        "Startup": "7F",
+        "Active": "2F",
+        "Total": "17F",
+        "Frame Adv.": "-1"
+      }
+    ]
+  },
+  {
+    "char": "Marisa",
+    "name": "5AAA",
+    "type": "normal",
+    "img": "./images/Marisa/175px-Marisa_5aaa.png",
+    "data": [
+      {
+        "Damage": "550",
+        "Limit": "0%",
+        "Rate": "92%",
+        "Modifier": "None",
+        "Cancel": "D B C Sk Sp",
+        "Guard": "H",
+        "Startup": "9F",
+        "Active": "5F",
+        "Total": "26F",
+        "Frame Adv.": "-2F/+2F"
+      }
+    ]
+  },
+  {
+    "char": "Marisa",
+    "name": "5AAAA",
+    "type": "normal",
+    "img": "./images/Marisa/175px-Marisa_5aaaa.png",
+    "data": [
+      {
+        "Damage": "900",
+        "Limit": "40%",
+        "Rate": "80%",
+        "Modifier": "Smash",
+        "Cancel": "Sp",
+        "Guard": "H",
+        "Startup": "15F",
+        "Active": "2F",
+        "Total": "44F",
+        "Frame Adv.": "-8F/-2F"
+      }
+    ]
+  },
+  {
+    "char": "Marisa",
+    "name": "f5A",
+    "type": "normal",
+    "img": "./images/Marisa/175px-Marisa_far_5a.png",
+    "data": [
+      {
+        "Damage": "450",
+        "Limit": "0%",
+        "Rate": "92%",
+        "Modifier": "None",
+        "Cancel": "Cn B C Sk Sp",
+        "Guard": "H",
+        "Startup": "11F",
+        "Active": "5F",
+        "Total": "30F",
+        "Frame Adv.": "-4F/+0F"
+      }
+    ]
+  },
+  {
+    "char": "Marisa",
+    "name": "2A",
+    "type": "normal",
+    "img": "./images/Marisa/175px-Marisa_2a.png",
+    "data": [
+      {
+        "Damage": "450",
+        "Limit": "0%",
+        "Rate": "92%",
+        "Modifier": "None",
+        "Cancel": "Cn B C Sk Sp",
+        "Guard": "L",
+        "Startup": "10F",
+        "Active": "4F",
+        "Total": "26F",
+        "Frame Adv.": "-1F/+3F"
+      }
+    ]
+  },
+  {
+    "char": "Marisa",
+    "name": "6A",
+    "type": "normal",
+    "img": "./images/Marisa/175px-Marisa_6a.png",
+    "data": [
+      {
+        "Version": "Uncharged",
+        "Damage": "900",
+        "Limit": "40%",
+        "Rate": "85%",
+        "Modifier": "Smash",
+        "Cancel": "Sk Sp",
+        "Guard": "HA",
+        "Startup": "15F",
+        "Active": "15F",
+        "Total": "52F",
+        "Frame Adv.": "-16F/-10F"
+      },
+      {
+        "Version": "Charged",
+        "Damage": "1100",
+        "Limit": "40%",
+        "Rate": "80%",
+        "Modifier": "Smash",
+        "Cancel": "Sp",
+        "Guard": "H* A",
+        "Startup": "28F",
+        "Active": "28F",
+        "Total": "78F",
+        "Frame Adv.": "-23F/-1F"
+      }
+    ]
+  },
+  {
+    "char": "Marisa",
+    "name": "3A",
+    "type": "normal",
+    "img": "./images/Marisa/175px-Marisa_3a.png",
+    "data": [
+      {
+        "Version": "Uncharged",
+        "Damage": "900",
+        "Limit": "40%",
+        "Rate": "80%",
+        "Modifier": "Rift",
+        "Cancel": "B C Sk Sp",
+        "Guard": "L",
+        "Startup": "16F",
+        "Active": "3F",
+        "Total": "44F",
+        "Frame Adv.": "-7F/-1F"
+      },
+      {
+        "Version": "Charged",
+        "Damage": "1000",
+        "Limit": "40%",
+        "Rate": "80%",
+        "Modifier": "Rift",
+        "Cancel": "Sp",
+        "Guard": "L*",
+        "Startup": "31F",
+        "Active": "3F",
+        "Total": "63F",
+        "Frame Adv.": "-5F/+17F"
+      }
+    ]
+  },
+  {
+    "char": "Marisa",
+    "name": "66A or 6DA",
+    "type": "normal",
+    "img": "./images/Marisa/175px-Marisa_66a.png",
+    "data": [
+      {
+        "Damage": "550",
+        "Limit": "0%",
+        "Rate": "90%",
+        "Modifier": "None",
+        "Cancel": "Sk Sp",
+        "Guard": "HL",
+        "Startup": "13F",
+        "Active": "2F",
+        "Total": "38F",
+        "Frame Adv.": "-4F"
+      }
+    ]
+  },
+  {
+    "char": "Marisa",
+    "name": "66B or 6DB",
+    "type": "normal",
+    "img": "./images/Marisa/175px-Marisa_66b.png",
+    "data": [
+      {
+        "Damage": "1",
+        "Limit": "40%",
+        "Rate": "85%",
+        "Modifier": "Smash",
+        "Cancel": "Sp",
+        "Density": "-",
+        "Graze": "1F",
+        "Startup": "13F",
+        "Motion": "-",
+        "Total": "36F",
+        "Frame Adv.": "-2F~+4"
+      }
+    ]
+  },
+  {
+    "char": "Marisa",
+    "name": "66C or 6DC",
+    "type": "normal",
+    "img": "./images/Marisa/175px-Marisa_66c_1.png",
+    "data": [
+      {
+        "Damage": "1100",
+        "Limit": "40%",
+        "Rate": "75%",
+        "Modifier": "Smash",
+        "Cancel": "Sp",
+        "Guard": "H",
+        "Startup": "15F",
+        "Active": "4F",
+        "Total": "58F",
+        "Frame Adv.": "-16F/-12F"
+      }
+    ]
+  },
+  {
+    "char": "Marisa",
+    "name": "j5A",
+    "type": "normal",
+    "img": "./images/Marisa/175px-Marisa_j5a.png",
+    "data": [
+      {
+        "Damage": "450",
+        "Limit": "0%",
+        "Rate": "92%",
+        "Modifier": "None",
+        "Cancel": "Cn B C Sk Sp",
+        "Guard": "HA",
+        "Startup": "8F",
+        "Active": "2F",
+        "Total": "30F",
+        "Frame Adv.": "(-3)"
+      }
+    ]
+  },
+  {
+    "char": "Marisa",
+    "name": "j6A",
+    "type": "normal",
+    "img": "./images/Marisa/175px-Marisa_j6a.png",
+    "data": [
+      {
+        "Version": "Uncharged",
+        "Damage": "850",
+        "Limit": "40%",
+        "Rate": "85%",
+        "Modifier": "Smash",
+        "Cancel": "B C Sk Sp",
+        "Guard": "HA",
+        "Startup": "13F",
+        "Active": "2F",
+        "Total": "52F",
+        "Frame Adv.": "(-20F)"
+      },
+      {
+        "Version": "Version",
+        "Damage": "Damage",
+        "Limit": "Limit",
+        "Rate": "Rate",
+        "Modifier": "Modifier",
+        "Cancel": "Cancel",
+        "Guard": "Density",
+        "Startup": "Graze",
+        "Active": "Startup",
+        "Total": "Motion",
+        "Frame Adv.": "Total",
+        "undefined": "Damage"
+      },
+      {
+        "Version": "Charged",
+        "Damage": "1000",
+        "Limit": "40%",
+        "Rate": "85%",
+        "Modifier": "None",
+        "Cancel": "Sp",
+        "Guard": "B1x1",
+        "Startup": "-",
+        "Active": "21F",
+        "Total": "-",
+        "Frame Adv.": "50F",
+        "undefined": "1 (2)"
+      }
+    ]
+  },
+  {
+    "char": "Marisa",
+    "name": "j8A",
+    "type": "normal",
+    "img": "./images/Marisa/175px-Marisa_j8a_1.png",
+    "data": [
+      {
+        "Damage": "450, 550",
+        "Limit": "20%, 20%",
+        "Rate": "94%, 90%",
+        "Modifier": "Rift",
+        "Cancel": "B C Sk Sp",
+        "Guard": "HA",
+        "Startup": "12F, 15F",
+        "Active": "3F, 11F",
+        "Total": "55F",
+        "Frame Adv.": "(-21F)"
+      }
+    ]
+  },
+  {
+    "char": "Marisa",
+    "name": "j2A",
+    "type": "normal",
+    "img": "./images/Marisa/175px-Marisa_j2a.png",
+    "data": [
+      {
+        "Version": "Uncharged",
+        "Damage": "900",
+        "Limit": "25%",
+        "Rate": "80%",
+        "Modifier": "Smash",
+        "Cancel": "B C Sk Sp",
+        "Guard": "HA",
+        "Startup": "16F",
+        "Active": "4F",
+        "Total": "55F",
+        "Frame Adv.": "(-20F)"
+      },
+      {
+        "Version": "Version",
+        "Damage": "Damage",
+        "Limit": "Limit",
+        "Rate": "Rate",
+        "Modifier": "Modifier",
+        "Cancel": "Cancel",
+        "Guard": "Density",
+        "Startup": "Graze",
+        "Active": "Startup",
+        "Total": "Motion",
+        "Frame Adv.": "Total",
+        "undefined": "Damage"
+      },
+      {
+        "Version": "Charged",
+        "Damage": "1000",
+        "Limit": "40%",
+        "Rate": "85%",
+        "Modifier": "None",
+        "Cancel": "Sp",
+        "Guard": "B1x1",
+        "Startup": "-",
+        "Active": "23F",
+        "Total": "-",
+        "Frame Adv.": "47F",
+        "undefined": "1 (2)"
+      }
+    ]
+  },
+  {
+    "char": "Marisa",
+    "name": "5B",
+    "type": "bullet",
+    "img": "./images/Marisa/175px-Mari5b.jpg",
+    "data": [
+      {
+        "Version": "Uncharged",
+        "Damage": "0.3*3",
+        "Limit": "5%*3",
+        "Rate": "93%",
+        "Modifier": "None",
+        "Cancel": "C Sk Sp M",
+        "Density": "C1x3",
+        "Graze": "1F",
+        "Startup": "14, 17, 20F",
+        "Motion": "25F",
+        "Total": "39F",
+        "Frame Adv.": "-4F [+11F]"
+      },
+      {
+        "Version": "Charged",
+        "Damage": "0.3*5",
+        "Limit": "5%*5",
+        "Rate": "93%",
+        "Modifier": "None",
+        "Cancel": "C Sk Sp M",
+        "Density": "C1x5",
+        "Graze": "1F",
+        "Startup": "28, 31... 40F",
+        "Motion": "39F",
+        "Total": "53F",
+        "Frame Adv.": "+2 [+14F]"
+      }
+    ]
+  },
+  {
+    "char": "Marisa",
+    "name": "2B",
+    "type": "bullet",
+    "img": "./images/Marisa/175px-Mari2b.jpg",
+    "data": [
+      {
+        "Damage": "0.1*5~12",
+        "Limit": "3%*5~3%~12",
+        "Rate": "95%",
+        "Modifier": "None",
+        "Cancel": "C Sk Sp M",
+        "Density": "C1x5~12",
+        "Graze": "1F",
+        "Startup": "12, 16, ...28~56F",
+        "Motion": "25+F",
+        "Total": "48~78F",
+        "Frame Adv.": "-5~7F [+15F]"
+      }
+    ]
+  },
+  {
+    "char": "Marisa",
+    "name": "6B",
+    "type": "bullet",
+    "img": "./images/Marisa/175px-Mari6b.jpg",
+    "data": [
+      {
+        "Version": "Uncharged",
+        "Damage": "0.3*3",
+        "Limit": "5%*3",
+        "Rate": "93%",
+        "Modifier": "None",
+        "Cancel": "C Sk Sp M",
+        "Density": "C1x3",
+        "Graze": "1F",
+        "Startup": "14, 17, 20F",
+        "Motion": "25F",
+        "Total": "39F",
+        "Frame Adv.": "-4F [+11F]"
+      },
+      {
+        "Version": "Charged",
+        "Damage": "0.3*5",
+        "Limit": "5%*5",
+        "Rate": "93%",
+        "Modifier": "None",
+        "Cancel": "C Sk Sp M",
+        "Density": "C1x5",
+        "Graze": "1F",
+        "Startup": "28, 31... 40F",
+        "Motion": "39F",
+        "Total": "53F",
+        "Frame Adv.": "+2 [+14F]"
+      }
+    ]
+  },
+  {
+    "char": "Marisa",
+    "name": "j5B",
+    "type": "bullet",
+    "img": "./images/Marisa/175px-Marij5b.jpg",
+    "data": [
+      {
+        "Version": "Uncharged",
+        "Damage": "0.3*3",
+        "Limit": "5%*3",
+        "Rate": "93%",
+        "Modifier": "None",
+        "Cancel": "C Sk Sp M",
+        "Density": "C1x3",
+        "Graze": "1F",
+        "Startup": "17, 20, 23F",
+        "Motion": "29F",
+        "Total": "41F",
+        "Frame Adv.": "[+10F]"
+      },
+      {
+        "Version": "Charged",
+        "Damage": "0.3*5",
+        "Limit": "5%*5",
+        "Rate": "93%",
+        "Modifier": "None",
+        "Cancel": "C Sk Sp M",
+        "Density": "C1x5",
+        "Graze": "1F",
+        "Startup": "31, 34... 43F",
+        "Motion": "43F",
+        "Total": "55F",
+        "Frame Adv.": "[+16F]"
+      }
+    ]
+  },
+  {
+    "char": "Marisa",
+    "name": "j2B",
+    "type": "bullet",
+    "img": "./images/Marisa/175px-Marij2b.jpg",
+    "data": [
+      {
+        "Version": "Uncharged",
+        "Damage": "0.3*3",
+        "Limit": "5%*3",
+        "Rate": "93%",
+        "Modifier": "None",
+        "Cancel": "C Sk Sp M",
+        "Density": "C1x3",
+        "Graze": "1F",
+        "Startup": "17, 20, 23F",
+        "Motion": "26F",
+        "Total": "37F",
+        "Frame Adv.": "+1F [+13F]"
+      },
+      {
+        "Version": "Charged",
+        "Damage": "0.3*5",
+        "Limit": "5%*5",
+        "Rate": "93%",
+        "Modifier": "None",
+        "Cancel": "C Sk Sp M",
+        "Density": "C1x5",
+        "Graze": "1F",
+        "Startup": "31, 34... 43F",
+        "Motion": "40F",
+        "Total": "51F",
+        "Frame Adv.": "[+16F]"
+      }
+    ]
+  },
+  {
+    "char": "Marisa",
+    "name": "5C",
+    "type": "bullet",
+    "img": "./images/Marisa/175px-Mari5c.jpg",
+    "data": [
+      {
+        "Version": "Uncharged",
+        "Damage": "0.1, (0.35*3)",
+        "Limit": "0%, (10%*3)",
+        "Rate": "99%, (93%)",
+        "Modifier": "Rift",
+        "Cancel": "C Sk Sp M",
+        "Density": "B1x1, (B3x1)",
+        "Graze": "-",
+        "Startup": "18F",
+        "Motion": "26F",
+        "Total": "73F",
+        "Frame Adv.": "-17F [+31F]"
+      },
+      {
+        "Version": "Charged",
+        "Damage": "0.1, (0.35*5)",
+        "Limit": "0%, (10%*5)",
+        "Rate": "99%, (94%)",
+        "Modifier": "Rift",
+        "Cancel": "C Sk Sp M",
+        "Density": "B1x1, (B5x1)",
+        "Graze": "-",
+        "Startup": "47F",
+        "Motion": "55F",
+        "Total": "102F",
+        "Frame Adv.": "+11F [+59F]"
+      }
+    ]
+  },
+  {
+    "char": "Marisa",
+    "name": "2C",
+    "type": "bullet",
+    "img": "./images/Marisa/175px-Mari2c1.jpg",
+    "data": [
+      {
+        "Damage": "0, (1)",
+        "Limit": "0%, (40%)",
+        "Rate": "100%, (80%)",
+        "Modifier": "None, Rift",
+        "Cancel": "Sk Sp M",
+        "Density": "B1x1, (B3x1)",
+        "Graze": "1F, ‡",
+        "Startup": "19+F",
+        "Motion": "34+F",
+        "Total": "45+F",
+        "Frame Adv.": "-4 [+8]"
+      }
+    ]
+  },
+  {
+    "char": "Marisa",
+    "name": "6C",
+    "type": "bullet",
+    "img": "./images/Marisa/175px-Mari6c.jpg",
+    "data": [
+      {
+        "Damage": "0.125*n",
+        "Limit": "4%*n",
+        "Rate": "98%",
+        "Modifier": "Smash",
+        "Cancel": "Sk Sp M",
+        "Density": "B2x1",
+        "Graze": "-",
+        "Startup": "22+F",
+        "Motion": "42+F",
+        "Total": "81+F",
+        "Frame Adv.": "-2F [+29F]"
+      }
+    ]
+  },
+  {
+    "char": "Marisa",
+    "name": "j5C",
+    "type": "bullet",
+    "img": "./images/Marisa/175px-Marij5c.jpg",
+    "data": [
+      {
+        "Version": "Uncharged",
+        "Damage": "0.1, (0.35*3)",
+        "Limit": "0%, (10%*3)",
+        "Rate": "99%, (93%)",
+        "Modifier": "Rift",
+        "Cancel": "C Sk Sp M",
+        "Density": "B1x1, (B3x1)",
+        "Graze": "-",
+        "Startup": "17F",
+        "Motion": "25F",
+        "Total": "72F",
+        "Frame Adv.": "-17F [+31F]"
+      },
+      {
+        "Version": "Charged",
+        "Damage": "0.1, (0.35*5)",
+        "Limit": "0%, (10%*5)",
+        "Rate": "99%, (94%)",
+        "Modifier": "Rift",
+        "Cancel": "C Sk Sp M",
+        "Density": "B1x1, (B5x1)",
+        "Graze": "-",
+        "Startup": "48F",
+        "Motion": "56F",
+        "Total": "103F",
+        "Frame Adv.": "[+59F]"
+      }
+    ]
+  },
+  {
+    "char": "Marisa",
+    "name": "j6C",
+    "type": "bullet",
+    "img": "./images/Marisa/175px-Marij6c.jpg",
+    "data": [
+      {
+        "Damage": "0.125*n",
+        "Limit": "4%*n",
+        "Rate": "98%",
+        "Modifier": "Smash",
+        "Cancel": "Sk Sp M",
+        "Density": "B2x1",
+        "Graze": "-",
+        "Startup": "22+F",
+        "Motion": "42+F",
+        "Total": "81+F",
+        "Frame Adv.": "[+29F]"
+      }
+    ]
+  },
+  {
+    "char": "Marisa",
+    "name": "j2C",
+    "type": "bullet",
+    "img": "./images/Marisa/175px-Marij2c.jpg",
+    "data": [
+      {
+        "Damage": "0.1, (0.35*3)",
+        "Limit": "0%, (10%*3)",
+        "Rate": "99%, (93%)",
+        "Modifier": "Rift",
+        "Cancel": "C Sk Sp M",
+        "Density": "B1x1, (B3x1)",
+        "Graze": "-",
+        "Startup": "22F",
+        "Motion": "41F",
+        "Total": "56F",
+        "Frame Adv.": "+4F [+20F]"
+      }
+    ]
+  },
+  {
+    "char": "Marisa",
+    "name": "Meteonic Debris",
+    "type": "skill",
+    "img": "./images/Marisa/Ma236bc1.png",
+    "data": [
+      {
+        "Version": "B",
+        "Damage": "0.2",
+        "Limit": "5%",
+        "Rate": "96%",
+        "Modifier": "None",
+        "Cancel": "Sp M",
+        "Density": "B1x1",
+        "Graze": "1F",
+        "Startup": "21F",
+        "Motion": "46F",
+        "Total": "66F",
+        "Frame Adv.": "-14F [+7F]"
+      },
+      {
+        "Version": "C",
+        "Damage": "0.2",
+        "Limit": "5%",
+        "Rate": "96%",
+        "Modifier": "None",
+        "Cancel": "Sp M",
+        "Density": "B1x1",
+        "Graze": "1F",
+        "Startup": "19F",
+        "Motion": "44F",
+        "Total": "64F",
+        "Frame Adv.": "-14F [+7F]"
+      },
+      {
+        "Version": "Charged B/C",
+        "Damage": "0.2",
+        "Limit": "5%",
+        "Rate": "96%",
+        "Modifier": "None",
+        "Cancel": "Sp M",
+        "Density": "B1x1",
+        "Graze": "1F",
+        "Startup": "42F",
+        "Motion": "77F",
+        "Total": "97F",
+        "Frame Adv.": "-8F [+13F]"
+      }
+    ]
+  },
+  {
+    "char": "Marisa",
+    "name": "Narrow Spark",
+    "type": "skill",
+    "img": "./images/Marisa/Ma236bc2.png",
+    "data": [
+      {
+        "Version": "B/C",
+        "Damage": "0.1*10",
+        "Limit": "3%*10",
+        "Rate": "98%*10",
+        "Modifier": "Smash",
+        "Cancel": "Sp M",
+        "Density": "B2x1",
+        "Graze": "∞",
+        "Startup": "25F",
+        "Motion": "83F",
+        "Total": "100F",
+        "Frame Adv.": "[+4]"
+      }
+    ]
+  },
+  {
+    "char": "Marisa",
+    "name": "Green Spread",
+    "type": "skill",
+    "img": "./images/Marisa/Ma236bc3.png",
+    "data": [
+      {
+        "Version": "B",
+        "Damage": "0.25*4",
+        "Limit": "5%*4",
+        "Rate": "95%*4",
+        "Modifier": "Smash",
+        "Cancel": "Sp M",
+        "Density": "B4x1",
+        "Graze": "∞",
+        "Startup": "41F",
+        "Motion": "39F",
+        "Total": "65F",
+        "Frame Adv.": "+13F [+40F]"
+      },
+      {
+        "Version": "C",
+        "Damage": "0.25*4",
+        "Limit": "5%*4",
+        "Rate": "95%*4",
+        "Modifier": "Smash",
+        "Cancel": "Sp M",
+        "Density": "B4x1",
+        "Graze": "∞",
+        "Startup": "41F",
+        "Motion": "49F",
+        "Total": "75F",
+        "Frame Adv.": "+3F [+30F]"
+      },
+      {
+        "Version": "Stars",
+        "Damage": "0.1",
+        "Limit": "5%",
+        "Rate": "96%",
+        "Modifier": "Lift",
+        "Cancel": "Sp M",
+        "Density": "B1x1",
+        "Graze": "5F",
+        "Startup": "47F",
+        "Motion": "-",
+        "Total": "-",
+        "Frame Adv.": "N/A"
+      }
+    ]
+  },
+  {
+    "char": "Marisa",
+    "name": "Miasma Sweep",
+    "type": "skill",
+    "img": "./images/Marisa/Ma623bc1.png",
+    "data": [
+      {
+        "Version": "B",
+        "Damage": "1200",
+        "Limit": "40%",
+        "Rate": "75%",
+        "Modifier": "Rift",
+        "Cancel": "None",
+        "Guard": "HLA",
+        "Startup": "13F",
+        "Active": "22F",
+        "Total": "84F",
+        "Frame Adv.": "-49F"
+      },
+      {
+        "Version": "C",
+        "Damage": "1250",
+        "Limit": "40%",
+        "Rate": "75%",
+        "Modifier": "Rift",
+        "Cancel": "Sp",
+        "Guard": "HLA",
+        "Startup": "13F",
+        "Active": "22F",
+        "Total": "104F",
+        "Frame Adv.": "-69F"
+      }
+    ]
+  },
+  {
+    "char": "Marisa",
+    "name": "Bosky Sweeper",
+    "type": "skill",
+    "img": "./images/Marisa/Ma623bc2.png",
+    "data": [
+      {
+        "Version": "B",
+        "Damage": "0.25*4",
+        "Limit": "10%*4",
+        "Rate": "94%*4",
+        "Modifier": "Lift",
+        "Cancel": "A B C Sk Sp M",
+        "Density": "N/A",
+        "Graze": "∞",
+        "Startup": "13F",
+        "Motion": "52F",
+        "Total": "83F",
+        "Frame Adv.": "-31F [+1F]"
+      },
+      {
+        "Version": "C",
+        "Damage": "0.25*5",
+        "Limit": "10%*5",
+        "Rate": "94%*5",
+        "Modifier": "Lift",
+        "Cancel": "A B C Sk Sp M",
+        "Density": "N/A",
+        "Graze": "∞",
+        "Startup": "13F",
+        "Motion": "62F",
+        "Total": "99F",
+        "Frame Adv.": "-53F [-9F]"
+      }
+    ]
+  },
+  {
+    "char": "Marisa",
+    "name": "Stellar Missile",
+    "type": "skill",
+    "img": "./images/Marisa/Ma623bc3.png",
+    "data": [
+      {
+        "Version": "B",
+        "Damage": "0.125*5",
+        "Limit": "5%*5",
+        "Rate": "96%*5",
+        "Modifier": "Smash",
+        "Cancel": "Sp M",
+        "Density": "B6x1",
+        "Graze": "∞",
+        "Startup": "27F",
+        "Motion": "27F",
+        "Total": "74F",
+        "Frame Adv.": "N/A"
+      },
+      {
+        "Version": "C",
+        "Damage": "0.125*5",
+        "Limit": "5%*5",
+        "Rate": "96%*5",
+        "Modifier": "Smash",
+        "Cancel": "Sp M",
+        "Density": "B6x1",
+        "Graze": "∞",
+        "Startup": "27F",
+        "Motion": "39F",
+        "Total": "74F",
+        "Frame Adv.": "N/A"
+      }
+    ]
+  },
+  {
+    "char": "Marisa",
+    "name": "Witch Leyline",
+    "type": "skill",
+    "img": "./images/Marisa/Ma214bc1.png",
+    "data": [
+      {
+        "Version": "B/C",
+        "Damage": "1350",
+        "Limit": "10%",
+        "Rate": "85%",
+        "Modifier": "Smash",
+        "Cancel": "Sp",
+        "Guard": "HLA",
+        "Startup": "18F",
+        "Active": "22F",
+        "Total": "85F",
+        "Frame Adv.": "-56~-35F"
+      }
+    ]
+  },
+  {
+    "char": "Marisa",
+    "name": "Radial Strike",
+    "type": "skill",
+    "img": "./images/Marisa/Ma214bc2.png",
+    "data": [
+      {
+        "Version": "B/C",
+        "Damage": "1",
+        "Limit": "40%",
+        "Rate": "85%",
+        "Modifier": "Smash",
+        "Cancel": "Sp M",
+        "Density": "B1x1",
+        "Graze": "∞",
+        "Startup": "21F",
+        "Motion": "43F",
+        "Total": "76F",
+        "Frame Adv.": "-34F [0F]"
+      }
+    ]
+  },
+  {
+    "char": "Marisa",
+    "name": "Up Sweeper",
+    "type": "skill",
+    "img": "./images/Marisa/Ma214bc3.png",
+    "data": [
+      {
+        "Version": "B",
+        "Damage": "0.25*4",
+        "Limit": "10%*4",
+        "Rate": "90%*4",
+        "Modifier": "Rift",
+        "Cancel": "Sp",
+        "Density": "N/A",
+        "Graze": "-",
+        "Startup": "13F",
+        "Motion": "N/A",
+        "Total": "93F",
+        "Frame Adv.": "-15F"
+      },
+      {
+        "Version": "C",
+        "Damage": "0.25*4",
+        "Limit": "10%*4",
+        "Rate": "90%*4",
+        "Modifier": "Rift",
+        "Cancel": "Sp",
+        "Density": "N/A",
+        "Graze": "-",
+        "Startup": "18F",
+        "Motion": "N/A",
+        "Total": "106F",
+        "Frame Adv.": "-23F"
+      },
+      {
+        "Version": "Air B",
+        "Damage": "0.25*4",
+        "Limit": "10%*4",
+        "Rate": "90%*4",
+        "Modifier": "Rift",
+        "Cancel": "Sp",
+        "Density": "N/A",
+        "Graze": "-",
+        "Startup": "18F",
+        "Motion": "N/A",
+        "Total": "100F",
+        "Frame Adv.": "varies"
+      },
+      {
+        "Version": "Air C",
+        "Damage": "0.25*4",
+        "Limit": "10%*4",
+        "Rate": "90%*4",
+        "Modifier": "Rift",
+        "Cancel": "Sp",
+        "Density": "N/A",
+        "Graze": "-",
+        "Startup": "15F",
+        "Motion": "N/A",
+        "Total": "107F",
+        "Frame Adv.": "varies"
+      }
+    ]
+  },
+  {
+    "char": "Marisa",
+    "name": "Grand Stardust",
+    "type": "skill",
+    "img": "./images/Marisa/Ma22bc1.png",
+    "data": [
+      {
+        "Version": "B/C",
+        "Damage": "1",
+        "Limit": "40%",
+        "Rate": "85%",
+        "Modifier": "Rift",
+        "Cancel": "Sp M",
+        "Density": "B1x1",
+        "Graze": "1F",
+        "Startup": "48F",
+        "Motion": "28F",
+        "Total": "39F",
+        "Frame Adv.": "+30F [+42]F"
+      }
+    ]
+  },
+  {
+    "char": "Marisa",
+    "name": "Devildom Torch",
+    "type": "skill",
+    "img": "./images/Marisa/Ma22bc2.png",
+    "data": [
+      {
+        "Version": "B/C",
+        "Damage": "0.5",
+        "Limit": "10%",
+        "Rate": "94%",
+        "Modifier": "Rift",
+        "Cancel": "Sp M",
+        "Density": "B1x1",
+        "Graze": "1F",
+        "Startup": "-",
+        "Motion": "-",
+        "Total": "36F",
+        "Frame Adv.": "+14F [+29]F"
+      }
+    ]
+  },
+  {
+    "char": "Marisa",
+    "name": "Magical Reusable Bomb",
+    "type": "skill",
+    "img": "./images/Marisa/Ma22bc3.png",
+    "data": [
+      {
+        "Version": "B",
+        "Damage": "2",
+        "Limit": "40%",
+        "Rate": "85%",
+        "Modifier": "Smash",
+        "Cancel": "Sp M",
+        "Density": "B1x1",
+        "Graze": "1F",
+        "Startup": "25F (205F)",
+        "Motion": "37F",
+        "Total": "61F",
+        "Frame Adv.": "varies"
+      },
+      {
+        "Version": "C",
+        "Damage": "2",
+        "Limit": "40%",
+        "Rate": "85%",
+        "Modifier": "Smash",
+        "Cancel": "Sp M",
+        "Density": "B1x1",
+        "Graze": "1F",
+        "Startup": "31F (211F)",
+        "Motion": "43F",
+        "Total": "67F",
+        "Frame Adv.": "varies"
+      },
+      {
+        "Version": "Air B",
+        "Damage": "2",
+        "Limit": "40%",
+        "Rate": "85%",
+        "Modifier": "Smash",
+        "Cancel": "Sp M",
+        "Density": "B1x1",
+        "Graze": "1F",
+        "Startup": "22F (202F)",
+        "Motion": "44F",
+        "Total": "53F",
+        "Frame Adv.": "varies"
+      },
+      {
+        "Version": "Air C",
+        "Damage": "2",
+        "Limit": "40%",
+        "Rate": "85%",
+        "Modifier": "Smash",
+        "Cancel": "Sp M",
+        "Density": "B1x1",
+        "Graze": "1F",
+        "Startup": "26F (206F)",
+        "Motion": "48F",
+        "Total": "57F",
+        "Frame Adv.": "varies"
+      }
+    ]
+  },
+  {
+    "char": "Marisa",
+    "name": "Star Sign \"Meteoric Shower\"",
+    "type": "spell",
+    "img": "./images/Marisa/25px-Masc01.png",
+    "data": [
+      {
+        "Version": "Ground",
+        "Damage": "~1.6 total",
+        "Limit": "5%",
+        "Rate": "95%",
+        "Modifier": "None",
+        "Cancel": "-",
+        "Density": "-",
+        "Graze": "-",
+        "Startup": "17+10F",
+        "Motion": "-",
+        "Total": "103F",
+        "Frame Adv.": "-7F"
+      }
+    ]
+  },
+  {
+    "char": "Marisa",
+    "name": "Magic Sign \"Stardust Reverie\"",
+    "type": "spell",
+    "img": "./images/Marisa/25px-Masc02.png",
+    "data": [
+      {
+        "Damage": "200*20",
+        "Limit": "2%*20",
+        "Rate": "97%*20",
+        "Modifier": "Smash",
+        "Cancel": "-",
+        "Guard": "HA",
+        "Startup": "7+8F",
+        "Active": "-",
+        "Total": "Varies",
+        "Frame Adv.": "-55F"
+      }
+    ]
+  },
+  {
+    "char": "Marisa",
+    "name": "Light Sign \"Luminous Strike\"",
+    "type": "spell",
+    "img": "./images/Marisa/25px-Masc03.png",
+    "data": [
+      {
+        "Damage": "~1.1 total",
+        "Limit": "10%",
+        "Rate": "95%",
+        "Modifier": "None",
+        "Cancel": "-",
+        "Density": "-",
+        "Graze": "-",
+        "Startup": "17+1F",
+        "Motion": "-",
+        "Total": "76F",
+        "Frame Adv.": "-31F"
+      }
+    ]
+  },
+  {
+    "char": "Marisa",
+    "name": "Ritual Sign \"Orreries Sun\"",
+    "type": "spell",
+    "img": "./images/Marisa/25px-Masc04.png",
+    "data": [
+      {
+        "Version": "B",
+        "Damage": "0.25",
+        "Limit": "5%",
+        "Rate": "95%",
+        "Modifier": "None",
+        "Cancel": "C Sk Sp M",
+        "Density": "-",
+        "Graze": "-",
+        "Startup": "16F",
+        "Motion": "25F",
+        "Total": "39F",
+        "Frame Adv.": "Varies"
+      },
+      {
+        "Version": "Version",
+        "Damage": "Damage",
+        "Limit": "Limit",
+        "Rate": "Rate",
+        "Modifier": "Modifier",
+        "Cancel": "Cancel",
+        "Density": "Density",
+        "Graze": "Graze",
+        "Startup": "Startup",
+        "Motion": "Motion",
+        "Total": "Total",
+        "Frame Adv.": "Frame Adv."
+      },
+      {
+        "Version": "C",
+        "Damage": "0.1",
+        "Limit": "5%",
+        "Rate": "95%",
+        "Modifier": "Rift",
+        "Cancel": "Sk Sp M",
+        "Density": "-",
+        "Graze": "-",
+        "Startup": "38F",
+        "Motion": "36F",
+        "Total": "83F",
+        "Frame Adv.": "~+25F"
+      },
+      {
+        "Version": "Version",
+        "Damage": "Damage",
+        "Limit": "Limit",
+        "Rate": "Rate",
+        "Modifier": "Modifier",
+        "Cancel": "Cancel",
+        "Density": "Density",
+        "Graze": "Graze",
+        "Startup": "Startup",
+        "Motion": "Motion",
+        "Total": "Total",
+        "Frame Adv.": "Frame Adv."
+      },
+      {
+        "Version": "Doublecast",
+        "Damage": "0.05",
+        "Limit": "2%",
+        "Rate": "92%",
+        "Modifier": "Rift",
+        "Cancel": "-",
+        "Density": "-",
+        "Graze": "-",
+        "Startup": "14+2F",
+        "Motion": "-",
+        "Total": "75F",
+        "Frame Adv.": "Varies"
+      }
+    ]
+  },
+  {
+    "char": "Marisa",
+    "name": "Love Sign \"Master Spark\"",
+    "type": "spell",
+    "img": "./images/Marisa/25px-Masc05.png",
+    "data": [
+      {
+        "Damage": "0.05",
+        "Limit": "2%",
+        "Rate": "99%",
+        "Modifier": "None",
+        "Cancel": "-",
+        "Density": "-",
+        "Graze": "-",
+        "Startup": "9+19F",
+        "Motion": "-",
+        "Total": "137F",
+        "Frame Adv.": "-22F"
+      }
+    ]
+  },
+  {
+    "char": "Marisa",
+    "name": "Star Sign \"Escape Velocity\"",
+    "type": "spell",
+    "img": "./images/Marisa/25px-Masc06.png",
+    "data": [
+      {
+        "Damage": "450*11",
+        "Limit": "5%*11",
+        "Rate": "94%*11",
+        "Modifier": "Rift",
+        "Cancel": "-",
+        "Guard": "HA",
+        "Startup": "10+3F",
+        "Active": "-",
+        "Total": "133F",
+        "Frame Adv.": "-93F"
+      }
+    ]
+  },
+  {
+    "char": "Marisa",
+    "name": "Star Sign \"Gravity Beat\"",
+    "type": "spell",
+    "img": "./images/Marisa/25px-Masc07.png",
+    "data": [
+      {
+        "Version": "Rising Shot",
+        "Damage": "0.1",
+        "Limit": "0%",
+        "Rate": "98%",
+        "Modifier": "Rift",
+        "Cancel": "-",
+        "Density": "-",
+        "Graze": "-",
+        "Startup": "5+8F",
+        "Motion": "-",
+        "Total": "-",
+        "Frame Adv.": "-"
+      },
+      {
+        "Version": "Version",
+        "Damage": "Damage",
+        "Limit": "Limit",
+        "Rate": "Rate",
+        "Modifier": "Modifier",
+        "Cancel": "Cancel",
+        "Density": "Density",
+        "Graze": "Graze",
+        "Startup": "Startup",
+        "Motion": "Motion",
+        "Total": "Total",
+        "Frame Adv.": "Frame Adv."
+      },
+      {
+        "Version": "Falling Shot",
+        "Damage": "0.1",
+        "Limit": "2%",
+        "Rate": "99%",
+        "Modifier": "Rift",
+        "Cancel": "-",
+        "Density": "-",
+        "Graze": "-",
+        "Startup": "34F",
+        "Motion": "-",
+        "Total": "-",
+        "Frame Adv.": "-"
+      },
+      {
+        "Version": "Version",
+        "Damage": "Damage",
+        "Limit": "Limit",
+        "Rate": "Rate",
+        "Modifier": "Modifier",
+        "Cancel": "Cancel",
+        "Density": "Density",
+        "Graze": "Graze",
+        "Startup": "Startup",
+        "Motion": "Motion",
+        "Total": "Total",
+        "Frame Adv.": "Frame Adv."
+      },
+      {
+        "Version": "Explosion",
+        "Damage": "1",
+        "Limit": "100%",
+        "Rate": "70%",
+        "Modifier": "Rift",
+        "Cancel": "-",
+        "Density": "-",
+        "Graze": "-",
+        "Startup": "49F",
+        "Motion": "-",
+        "Total": "66F",
+        "Frame Adv.": "+10F"
+      }
+    ]
+  },
+  {
+    "char": "Marisa",
+    "name": "Light Sign \"Earthlight Ray\"",
+    "type": "spell",
+    "img": "./images/Marisa/25px-Masc08.png",
+    "data": [
+      {
+        "Version": "Ground",
+        "Damage": "0.5",
+        "Limit": "20%",
+        "Rate": "93%",
+        "Modifier": "None",
+        "Cancel": "-",
+        "Density": "-",
+        "Graze": "-",
+        "Startup": "7+31F",
+        "Motion": "-",
+        "Total": "57F",
+        "Frame Adv.": "+8~25F"
+      }
+    ]
+  },
+  {
+    "char": "Marisa",
+    "name": "Love Sign \"Non-Directional Laser\"",
+    "type": "spell",
+    "img": "./images/Marisa/25px-Masc09.png",
+    "data": [
+      {
+        "Version": "Ground",
+        "Damage": "0.1",
+        "Limit": "1%",
+        "Rate": "92%",
+        "Modifier": "Rift",
+        "Cancel": "-",
+        "Density": "-",
+        "Graze": "-",
+        "Startup": "17+7F",
+        "Motion": "-",
+        "Total": "199F",
+        "Frame Adv.": "~-23F"
+      }
+    ]
+  },
+  {
+    "char": "Marisa",
+    "name": "Magical Research \"Deep Ecological Bomb\"",
+    "type": "spell",
+    "img": "./images/Marisa/25px-Masc10.png",
+    "data": [
+      {
+        "Version": "Ground",
+        "Damage": "Unblockable",
+        "Limit": "100%",
+        "Rate": "70%",
+        "Modifier": "-",
+        "Cancel": "-",
+        "Density": "-",
+        "Graze": "-",
+        "Startup": "15+41F",
+        "Motion": "-",
+        "Total": "56F",
+        "Frame Adv.": "Down"
+      }
+    ]
+  },
+  {
+    "char": "Marisa",
+    "name": "Magicannon \"Final Spark\"",
+    "type": "spell",
+    "img": "./images/Marisa/25px-Masc11.png",
+    "data": [
+      {
+        "Version": "Ground",
+        "Damage": "0.475...?",
+        "Limit": "2%",
+        "Rate": "99%",
+        "Modifier": "None",
+        "Cancel": "-",
+        "Density": "-",
+        "Graze": "-",
+        "Startup": "17+25F",
+        "Motion": "-",
+        "Total": "205F",
+        "Frame Adv.": "-52F"
+      }
+    ]
+  },
+  {
+    "char": "Marisa",
+    "name": "Star Sign \"Dragon Meteor\"",
+    "type": "spell",
+    "img": "./images/Marisa/25px-Masc12.png",
+    "data": [
+      {
+        "Version": "Ground",
+        "Damage": "0.475...?",
+        "Limit": "2%",
+        "Rate": "99%",
+        "Modifier": "None",
+        "Cancel": "-",
+        "Density": "-",
+        "Graze": "-",
+        "Startup": "17+22F",
+        "Motion": "-",
+        "Total": "240F",
+        "Frame Adv.": "-90F"
+      }
+    ]
+  },
+  {
+    "char": "Marisa",
+    "name": "Comet \"Blazing Star\"",
+    "type": "spell",
+    "img": "./images/Marisa/25px-Masc13.png",
+    "data": [
+      {
+        "Damage": "5000",
+        "Limit": "100%",
+        "Rate": "75%",
+        "Modifier": "None",
+        "Cancel": "-",
+        "Guard": "Crush",
+        "Startup": "5+22F",
+        "Active": "-",
+        "Total": "150F",
+        "Frame Adv.": "-74F"
+      }
+    ]
+  },
+  {
+    "char": "Marisa",
+    "name": "Perversion \"Sure-Fire Master Spark\"",
+    "type": "spell",
+    "img": "./images/Marisa/25px-Masc14.png",
+    "data": [
+      {
+        "Version": "Small Beam",
+        "Damage": "0.05",
+        "Limit": "1%",
+        "Rate": "99%",
+        "Modifier": "None",
+        "Cancel": "-",
+        "Density": "-",
+        "Graze": "-",
+        "Startup": "24+25F",
+        "Motion": "-",
+        "Total": "-",
+        "Frame Adv.": "-"
+      },
+      {
+        "Version": "Version",
+        "Damage": "Damage",
+        "Limit": "Limit",
+        "Rate": "Rate",
+        "Modifier": "Modifier",
+        "Cancel": "Cancel",
+        "Density": "Density",
+        "Graze": "Graze",
+        "Startup": "Startup",
+        "Motion": "Motion",
+        "Total": "Total",
+        "Frame Adv.": "Frame Adv."
+      },
+      {
+        "Version": "Big Beam",
+        "Damage": "0.105...?",
+        "Limit": "2%",
+        "Rate": "97%",
+        "Modifier": "Smash",
+        "Cancel": "-",
+        "Density": "-",
+        "Graze": "-",
+        "Startup": "125F",
+        "Motion": "-",
+        "Total": "304F",
+        "Frame Adv.": "-53F"
+      }
+    ]
+  }
+]

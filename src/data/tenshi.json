@@ -1,0 +1,1109 @@
+[
+  {
+    "char": "Tenshi",
+    "name": "4A",
+    "type": "normal",
+    "img": "./images/Tenshi/175px-Tenshi_5A.png",
+    "data": [
+      {
+        "Damage": "400",
+        "Limit": "0%",
+        "Rate": "93%",
+        "Modifier": "None",
+        "Cancel": "Cn B C Sk Sp",
+        "Guard": "H",
+        "Startup": "9F",
+        "Active": "2F",
+        "Total": "26F",
+        "Frame Adv.": "0/+7(CH)/-2/+2"
+      }
+    ]
+  },
+  {
+    "char": "Tenshi",
+    "name": "5A",
+    "type": "normal",
+    "img": "./images/Tenshi/175px-Tenshi_5A.png",
+    "data": [
+      {
+        "Damage": "400",
+        "Limit": "0%",
+        "Rate": "93%",
+        "Modifier": "None",
+        "Cancel": "D Cn B C Sk Sp",
+        "Guard": "H",
+        "Startup": "9F",
+        "Active": "2F",
+        "Total": "26F",
+        "Frame Adv.": "0/+7(CH)/-2/+2"
+      }
+    ]
+  },
+  {
+    "char": "Tenshi",
+    "name": "5AA",
+    "type": "normal",
+    "img": "./images/Tenshi/175px-Tenshi_5AA.png",
+    "data": [
+      {
+        "Damage": "500",
+        "Limit": "0%",
+        "Rate": "92%",
+        "Modifier": "None",
+        "Cancel": "D B C Sk Sp",
+        "Guard": "L",
+        "Startup": "13F",
+        "Active": "4F",
+        "Total": "31F",
+        "Frame Adv.": "-1/+6(CH)/-3/+1"
+      }
+    ]
+  },
+  {
+    "char": "Tenshi",
+    "name": "5AAA",
+    "type": "normal",
+    "img": "./images/Tenshi/175px-Tenshi_5AAA.png",
+    "data": [
+      {
+        "Damage": "800",
+        "Limit": "40%",
+        "Rate": "80%",
+        "Modifier": "Smash",
+        "Cancel": "Sp",
+        "Guard": "H",
+        "Startup": "17F",
+        "Active": "3F",
+        "Total": "47F",
+        "Frame Adv.": "-9/-3"
+      }
+    ]
+  },
+  {
+    "char": "Tenshi",
+    "name": "f5A",
+    "type": "normal",
+    "img": "./images/Tenshi/175px-Tenshi_f5A_1.png",
+    "data": [
+      {
+        "Version": "Uncharged",
+        "Damage": "600",
+        "Limit": "0%",
+        "Rate": "90%",
+        "Modifier": "None",
+        "Cancel": "Cn B C Sk Sp",
+        "Guard": "H",
+        "Startup": "14F[16F]",
+        "Active": "4F",
+        "Total": "39F",
+        "Frame Adv.": "-1/+9(CH)/-4/+2"
+      },
+      {
+        "Version": "Charged",
+        "Damage": "750",
+        "Limit": "0%",
+        "Rate": "90%",
+        "Modifier": "None",
+        "Cancel": "Sp",
+        "Guard": "H*",
+        "Startup": "29F[31F]",
+        "Active": "4F",
+        "Total": "54F",
+        "Frame Adv.": "+9/+2/+24"
+      }
+    ]
+  },
+  {
+    "char": "Tenshi",
+    "name": "2A",
+    "type": "normal",
+    "img": "./images/Tenshi/175px-Tenshi_2A.png",
+    "data": [
+      {
+        "Damage": "420",
+        "Limit": "0%",
+        "Rate": "92%",
+        "Modifier": "None",
+        "Cancel": "Cn B C Sk Sp",
+        "Guard": "L",
+        "Startup": "9F",
+        "Active": "2F",
+        "Total": "24F",
+        "Frame Adv.": "+2/+9(CH)/0/+4"
+      }
+    ]
+  },
+  {
+    "char": "Tenshi",
+    "name": "3A",
+    "type": "normal",
+    "img": "./images/Tenshi/175px-Tenshi_3A.png",
+    "data": [
+      {
+        "Version": "Uncharged",
+        "Damage": "700",
+        "Limit": "40%",
+        "Rate": "85%",
+        "Modifier": "Rift",
+        "Cancel": "B C Sk Sp",
+        "Guard": "H",
+        "Startup": "15F",
+        "Active": "3F",
+        "Total": "44F",
+        "Frame Adv.": "-8/-2"
+      },
+      {
+        "Version": "Charged",
+        "Damage": "850",
+        "Limit": "40%",
+        "Rate": "85%",
+        "Modifier": "Rift",
+        "Cancel": "Sp",
+        "Guard": "H*",
+        "Startup": "30F",
+        "Active": "3F",
+        "Total": "64F",
+        "Frame Adv.": "-7/+15"
+      }
+    ]
+  },
+  {
+    "char": "Tenshi",
+    "name": "6A",
+    "type": "normal",
+    "img": "./images/Tenshi/175px-Tenshi_6A.png",
+    "data": [
+      {
+        "Version": "Uncharged",
+        "Damage": "650",
+        "Limit": "40%",
+        "Rate": "85%",
+        "Modifier": "Smash",
+        "Cancel": "B C Sk Sp",
+        "Guard": "H",
+        "Startup": "21F",
+        "Active": "3F",
+        "Total": "45F",
+        "Frame Adv.": "-3/+3"
+      },
+      {
+        "Version": "Charged",
+        "Damage": "950",
+        "Limit": "40%",
+        "Rate": "85%",
+        "Modifier": "Smash",
+        "Cancel": "Sp",
+        "Guard": "H*",
+        "Startup": "32F",
+        "Active": "10F",
+        "Total": "63F",
+        "Frame Adv.": "-4/+18"
+      }
+    ]
+  },
+  {
+    "char": "Tenshi",
+    "name": "66A or 6DA",
+    "type": "normal",
+    "img": "./images/Tenshi/175px-Tenshi_66A.png",
+    "data": [
+      {
+        "Damage": "550",
+        "Limit": "0%",
+        "Rate": "92%",
+        "Modifier": "Smash",
+        "Cancel": "Sk Sp",
+        "Guard": "H",
+        "Startup": "11F",
+        "Active": "3F",
+        "Total": "35F",
+        "Frame Adv.": "0/10(CH)/-3/+3"
+      }
+    ]
+  },
+  {
+    "char": "Tenshi",
+    "name": "66B or 6DB",
+    "type": "normal",
+    "img": "./images/Tenshi/175px-Tenshi_66B.png",
+    "data": [
+      {
+        "Damage": "250 (per hit)",
+        "Limit": "10% (per hit)",
+        "Rate": "95% (per hit)",
+        "Modifier": "Rift",
+        "Cancel": "Sk Sp",
+        "Guard": "H",
+        "Startup": "12F/26F/40F",
+        "Active": "2F (per hit)",
+        "Total": "70F",
+        "Frame Adv.": "-9/-3"
+      }
+    ]
+  },
+  {
+    "char": "Tenshi",
+    "name": "66C or 6DC",
+    "type": "normal",
+    "img": "./images/Tenshi/175px-Tenshi_66C.png",
+    "data": [
+      {
+        "Damage": "800",
+        "Limit": "40%",
+        "Rate": "80%",
+        "Modifier": "Smash",
+        "Cancel": "Sp",
+        "Guard": "H",
+        "Startup": "13F",
+        "Active": "7F",
+        "Total": "53F",
+        "Frame Adv.": "-19/-13"
+      }
+    ]
+  },
+  {
+    "char": "Tenshi",
+    "name": "j5A",
+    "type": "normal",
+    "img": "./images/Tenshi/175px-Tenshi_j5A.png",
+    "data": [
+      {
+        "Damage": "450",
+        "Limit": "0%",
+        "Rate": "90%",
+        "Modifier": "None",
+        "Cancel": "Cn B C Sk Sp",
+        "Guard": "HA",
+        "Startup": "9F",
+        "Active": "4F",
+        "Total": "40F",
+        "Frame Adv.": "-"
+      }
+    ]
+  },
+  {
+    "char": "Tenshi",
+    "name": "j2A",
+    "type": "normal",
+    "img": "./images/Tenshi/175px-Tenshi_j2A_1.png",
+    "data": [
+      {
+        "Damage": "850",
+        "Limit": "40%",
+        "Rate": "85%[80%]",
+        "Modifier": "Smash",
+        "Cancel": "Sk Sp",
+        "Guard": "Descent: HA\n\nLanding: L",
+        "Startup": "21F",
+        "Active": "Descent: Until Landing\n\nLanding: 1F",
+        "Total": "Descent: Until Landing\n\nLanding: 28F",
+        "Frame Adv.": "-"
+      }
+    ]
+  },
+  {
+    "char": "Tenshi",
+    "name": "j6A",
+    "type": "normal",
+    "img": "./images/Tenshi/175px-Tenshi_j6A.png",
+    "data": [
+      {
+        "Damage": "750",
+        "Limit": "40%",
+        "Rate": "80%",
+        "Modifier": "Smash",
+        "Cancel": "B C Sk Sp",
+        "Guard": "HA",
+        "Startup": "10F",
+        "Active": "13F",
+        "Total": "58F",
+        "Frame Adv.": "-"
+      }
+    ]
+  },
+  {
+    "char": "Tenshi",
+    "name": "j8A",
+    "type": "normal",
+    "img": "./images/Tenshi/175px-Tenshi_j8A.png",
+    "data": [
+      {
+        "Damage": "850",
+        "Limit": "40%",
+        "Rate": "85%",
+        "Modifier": "Smash",
+        "Cancel": "B C Sk Sp",
+        "Guard": "HA",
+        "Startup": "9F",
+        "Active": "2F",
+        "Total": "55F",
+        "Frame Adv.": "-"
+      }
+    ]
+  },
+  {
+    "char": "Tenshi",
+    "name": "5B",
+    "type": "bullet",
+    "img": "./images/Tenshi/175px-Tenshi_5B.png",
+    "data": [
+      {
+        "Damage": "0.5",
+        "Limit": "10%",
+        "Rate": "92.5%",
+        "Modifier": "None",
+        "Cancel": "C Sk Sp M",
+        "Density": "C1x1",
+        "Graze": "1F",
+        "Startup": "13F",
+        "Motion": "25F",
+        "Total": "50F",
+        "Frame Adv.": "-22F [+4F]"
+      }
+    ]
+  },
+  {
+    "char": "Tenshi",
+    "name": "j5B",
+    "type": "bullet",
+    "img": "./images/Tenshi/175px-Tenshi_j5B.png",
+    "data": [
+      {
+        "Damage": "0.5",
+        "Limit": "10%",
+        "Rate": "92.5%",
+        "Modifier": "None",
+        "Cancel": "C Sk Sp M",
+        "Density": "C1x1",
+        "Graze": "1F",
+        "Startup": "13F",
+        "Motion": "25F",
+        "Total": "58F",
+        "Frame Adv.": "-22F [+4F]"
+      }
+    ]
+  },
+  {
+    "char": "Tenshi",
+    "name": "6B",
+    "type": "bullet",
+    "img": "./images/Tenshi/175px-Tenshi_6B.png",
+    "data": [
+      {
+        "Version": "Uncharged",
+        "Damage": "0.9",
+        "Limit": "30%",
+        "Rate": "83.2%",
+        "Modifier": "None",
+        "Cancel": "C Sk Sp M",
+        "Density": "C6",
+        "Graze": "18F (5F) 1F (4F) 1F",
+        "Startup": "16F",
+        "Motion": "32F",
+        "Total": "61F",
+        "Frame Adv.": "0 [+30]"
+      },
+      {
+        "Version": "Version",
+        "Damage": "Damage",
+        "Limit": "Limit",
+        "Rate": "Rate",
+        "Modifier": "Modifier",
+        "Cancel": "Cancel",
+        "Density": "Density",
+        "Graze": "Graze",
+        "Startup": "Startup",
+        "Motion": "Motion",
+        "Total": "Total",
+        "Frame Adv.": "Frame Adv."
+      },
+      {
+        "Version": "Charged",
+        "Damage": "1.2",
+        "Limit": "40%",
+        "Rate": "78.3%",
+        "Modifier": "None",
+        "Cancel": "C Sk Sp M",
+        "Density": "C8",
+        "Graze": "18F (5F) 1F (4F) 1F",
+        "Startup": "36F",
+        "Motion": "52F",
+        "Total": "81F",
+        "Frame Adv.": "+10 [+40]"
+      }
+    ]
+  },
+  {
+    "char": "Tenshi",
+    "name": "j6B",
+    "type": "bullet",
+    "img": "./images/Tenshi/175px-Tenshi_j6B.png",
+    "data": [
+      {
+        "Version": "Uncharged",
+        "Damage": "0.9",
+        "Limit": "30%",
+        "Rate": "83.2%",
+        "Modifier": "None",
+        "Cancel": "C Sk Sp M",
+        "Density": "C6",
+        "Graze": "18F (5F) 1F (4F) 1F",
+        "Startup": "16F",
+        "Motion": "32F",
+        "Total": "61F",
+        "Frame Adv.": "0 [+30]"
+      },
+      {
+        "Version": "Version",
+        "Damage": "Damage",
+        "Limit": "Limit",
+        "Rate": "Rate",
+        "Modifier": "Modifier",
+        "Cancel": "Cancel",
+        "Density": "Density",
+        "Graze": "Graze",
+        "Startup": "Startup",
+        "Motion": "Motion",
+        "Total": "Total",
+        "Frame Adv.": "Frame Adv."
+      },
+      {
+        "Version": "Charged",
+        "Damage": "1.2",
+        "Limit": "40%",
+        "Rate": "78.3%",
+        "Modifier": "None",
+        "Cancel": "C Sk Sp M",
+        "Density": "C8",
+        "Graze": "18F (5F) 1F (4F) 1F",
+        "Startup": "36F",
+        "Motion": "52F",
+        "Total": "81F",
+        "Frame Adv.": "+10 [+40]"
+      }
+    ]
+  },
+  {
+    "char": "Tenshi",
+    "name": "2B",
+    "type": "bullet",
+    "img": "./images/Tenshi/175px-Tenshi_2B.png",
+    "data": [
+      {
+        "Version": "Uncharged",
+        "Damage": "0.9",
+        "Limit": "30%",
+        "Rate": "83.2%",
+        "Modifier": "None",
+        "Cancel": "C Sk Sp M",
+        "Density": "C6",
+        "Graze": "18F (5F) 1F (4F) 1F",
+        "Startup": "11F",
+        "Motion": "33F",
+        "Total": "58F",
+        "Frame Adv.": "-2 [+24]"
+      }
+    ]
+  },
+  {
+    "char": "Tenshi",
+    "name": "j2B",
+    "type": "bullet",
+    "img": "./images/Tenshi/175px-Tenshi_j2B.png",
+    "data": [
+      {
+        "Version": "Uncharged",
+        "Damage": "0.9",
+        "Limit": "30%",
+        "Rate": "83.2%",
+        "Modifier": "None",
+        "Cancel": "C Sk Sp M",
+        "Density": "C6",
+        "Graze": "18F (5F) 1F (4F) 1F",
+        "Startup": "16F",
+        "Motion": "32F",
+        "Total": "61F",
+        "Frame Adv.": "0 [+30]"
+      },
+      {
+        "Version": "Version",
+        "Damage": "Damage",
+        "Limit": "Limit",
+        "Rate": "Rate",
+        "Modifier": "Modifier",
+        "Cancel": "Cancel",
+        "Density": "Density",
+        "Graze": "Graze",
+        "Startup": "Startup",
+        "Motion": "Motion",
+        "Total": "Total",
+        "Frame Adv.": "Frame Adv."
+      },
+      {
+        "Version": "Charged",
+        "Damage": "1.2",
+        "Limit": "40%",
+        "Rate": "78.3%",
+        "Modifier": "None",
+        "Cancel": "C Sk Sp M",
+        "Density": "C8",
+        "Graze": "18F (5F) 1F (4F) 1F",
+        "Startup": "36F",
+        "Motion": "52F",
+        "Total": "81F",
+        "Frame Adv.": "+10 [+40]"
+      }
+    ]
+  },
+  {
+    "char": "Tenshi",
+    "name": "5C",
+    "type": "bullet",
+    "img": "./images/Tenshi/175px-Tenshi_5C.png",
+    "data": [
+      {
+        "Damage": "0.15x10",
+        "Limit": "50%",
+        "Rate": "73.7%",
+        "Modifier": "None",
+        "Cancel": "Sk Sp M",
+        "Density": "B1x10",
+        "Graze": "5F",
+        "Startup": "26F",
+        "Motion": "41F",
+        "Total": "62F",
+        "Frame Adv.": "-3 [+16]"
+      }
+    ]
+  },
+  {
+    "char": "Tenshi",
+    "name": "j5C",
+    "type": "bullet",
+    "img": "./images/Tenshi/175px-Tenshi_j5C.png",
+    "data": [
+      {
+        "Damage": "0.15x10",
+        "Limit": "50%",
+        "Rate": "73.7%",
+        "Modifier": "None",
+        "Cancel": "Sk Sp M",
+        "Density": "B1x10",
+        "Graze": "5F",
+        "Startup": "26F",
+        "Motion": "41F",
+        "Total": "62F",
+        "Frame Adv.": "-3 [+16]"
+      }
+    ]
+  },
+  {
+    "char": "Tenshi",
+    "name": "2C",
+    "type": "bullet",
+    "img": "./images/Tenshi/175px-Tenshi_2C.png",
+    "data": [
+      {
+        "Damage": "0.15x10",
+        "Limit": "5%",
+        "Rate": "97%",
+        "Modifier": "None",
+        "Cancel": "Sk Sp M",
+        "Density": "B1x10",
+        "Graze": "5F",
+        "Startup": "20F",
+        "Motion": "38F",
+        "Total": "67F",
+        "Frame Adv.": "-3 [+16]"
+      }
+    ]
+  },
+  {
+    "char": "Tenshi",
+    "name": "j2C",
+    "type": "bullet",
+    "img": "./images/Tenshi/175px-Tenshi_j2C.png",
+    "data": [
+      {
+        "Damage": "0.15x10",
+        "Limit": "5%",
+        "Rate": "97%",
+        "Modifier": "None",
+        "Cancel": "Sk Sp M",
+        "Density": "B1x10",
+        "Graze": "5F",
+        "Startup": "20F",
+        "Motion": "38F",
+        "Total": "67F",
+        "Frame Adv.": "-3 [+16]"
+      }
+    ]
+  },
+  {
+    "char": "Tenshi",
+    "name": "Beams of Non-Perception",
+    "type": "skill",
+    "img": "./images/Tenshi/Te236bc1.png",
+    "data": [
+      {
+        "Version": "B/C",
+        "Damage": "2",
+        "Limit": "-",
+        "Rate": "-",
+        "Modifier": "-",
+        "Cancel": "Sp M",
+        "Density": "B1x20",
+        "Graze": "∞",
+        "Startup": "-",
+        "Motion": "-",
+        "Total": "-",
+        "Frame Adv.": "-"
+      }
+    ]
+  },
+  {
+    "char": "Tenshi",
+    "name": "Sword of Non-Perception",
+    "type": "skill",
+    "img": "./images/Tenshi/Te623bc1.png",
+    "data": [
+      {
+        "Version": "B/C",
+        "Damage": "1100",
+        "Limit": "40%",
+        "Rate": "80%",
+        "Modifier": "Smash",
+        "Cancel": "Sp",
+        "Guard": "L",
+        "Startup": "18F",
+        "Active": "2F",
+        "Total": "-",
+        "Frame Adv.": "-11F/5F, -14F/8F"
+      }
+    ]
+  },
+  {
+    "char": "Tenshi",
+    "name": "Sword of the Earth",
+    "type": "skill",
+    "img": "./images/Tenshi/Te214bc1.png",
+    "data": [
+      {
+        "Version": "B/C",
+        "Damage": "1/4 per hit",
+        "Limit": "20%",
+        "Rate": "90%",
+        "Modifier": "Lift",
+        "Cancel": "Sp M",
+        "Density": "-",
+        "Graze": "1F(per spine)",
+        "Startup": "-",
+        "Motion": "-",
+        "Total": "-",
+        "Frame Adv.": "-"
+      }
+    ]
+  },
+  {
+    "char": "Tenshi",
+    "name": "Pillars of Divine Punishment",
+    "type": "skill",
+    "img": "./images/Tenshi/Te22bc1.png",
+    "data": [
+      {
+        "Version": "B/C",
+        "Damage": "1 orb (rightblock) / 2 orbs (wrongblock)",
+        "Limit": "40%",
+        "Rate": "80%",
+        "Modifier": "Smash",
+        "Cancel": "Sp M",
+        "Density": "B1x2 (While Falling)",
+        "Graze": "∞ (While Falling)",
+        "Startup": "-",
+        "Motion": "-",
+        "Total": "-",
+        "Frame Adv.": "-"
+      }
+    ]
+  },
+  {
+    "char": "Tenshi",
+    "name": "Heaven and Earth Press",
+    "type": "skill",
+    "img": "./images/Tenshi/Te236bc2.png",
+    "data": [
+      {
+        "Version": "B/C",
+        "Damage": "0",
+        "Limit": "0% (bullet)/40% (collision)",
+        "Rate": "97%(bullet) /80%(collision)",
+        "Modifier": "Smash",
+        "Cancel": "Sp M",
+        "Density": "B1x2",
+        "Graze": "1F",
+        "Startup": "-",
+        "Motion": "-",
+        "Total": "-",
+        "Frame Adv.": "-9"
+      }
+    ]
+  },
+  {
+    "char": "Tenshi",
+    "name": "Scarlet Sword Temperament",
+    "type": "skill",
+    "img": "./images/Tenshi/Te236bc3.png",
+    "data": [
+      {
+        "Version": "B/C",
+        "Damage": "0.5 (initial swipe) 0.175 (per hit of projectile)",
+        "Limit": "20% (slash)/ 10% (shockwave)",
+        "Rate": "92% (slash)/ 94% (shockwave)",
+        "Modifier": "Lift",
+        "Cancel": "Sp M",
+        "Density": "∞(first slash) / B1x2 (second slash)",
+        "Graze": "∞",
+        "Startup": "14F",
+        "Motion": "-",
+        "Total": "45F",
+        "Frame Adv.": "-"
+      }
+    ]
+  },
+  {
+    "char": "Tenshi",
+    "name": "Sword of Scarlet Perception",
+    "type": "skill",
+    "img": "./images/Tenshi/Te623bc2.png",
+    "data": [
+      {
+        "Version": "B/C",
+        "Damage": "600 (slash)/ 300 (C Finisher)",
+        "Limit": "20% (slash)/ 10% (C Finisher)",
+        "Rate": "92% (slash)/ 94% (C Finisher)",
+        "Modifier": "Smash (slash) / Lift (C Finisher)",
+        "Cancel": "Sp",
+        "Guard": "M / H (C Finisher)",
+        "Startup": "14F",
+        "Active": "-",
+        "Total": "45F",
+        "Frame Adv.": "B Version and wrongblock: -3/ C Version: -9"
+      }
+    ]
+  },
+  {
+    "char": "Tenshi",
+    "name": "Sky Attack",
+    "type": "skill",
+    "img": "./images/Tenshi/Te623bc3.png",
+    "data": [
+      {
+        "Version": "B/C",
+        "Damage": "1100",
+        "Limit": "40%",
+        "Rate": "75.0%",
+        "Modifier": "Lift",
+        "Cancel": "Sk M",
+        "Guard": "M",
+        "Startup": "Ground: 19F/ Air: 13F",
+        "Active": "-",
+        "Total": "45F",
+        "Frame Adv.": "-"
+      }
+    ]
+  },
+  {
+    "char": "Tenshi",
+    "name": "Six Earthquakes -Signs-",
+    "type": "skill",
+    "img": "./images/Tenshi/Te214bc2.png",
+    "data": [
+      {
+        "Version": "B/C",
+        "Damage": "1 (on rightblock) / 2 (on wrongblock)",
+        "Limit": "40%",
+        "Rate": "85%",
+        "Modifier": "Lift",
+        "Cancel": "M",
+        "Density": "Type-3",
+        "Graze": "-",
+        "Startup": "-",
+        "Motion": "-",
+        "Total": "45F",
+        "Frame Adv.": "-"
+      }
+    ]
+  },
+  {
+    "char": "Tenshi",
+    "name": "Sword of Fate",
+    "type": "skill",
+    "img": "./images/Tenshi/Te214bc3.png",
+    "data": [
+      {
+        "Version": "B/C",
+        "Damage": "-",
+        "Limit": "5% (per hit)",
+        "Rate": "91.2% (3 hits)",
+        "Modifier": "-",
+        "Cancel": "Sp M",
+        "Density": "B3x1",
+        "Graze": "∞ (forward path)/3F (returning path)",
+        "Startup": "-",
+        "Motion": "-",
+        "Total": "45F",
+        "Frame Adv.": "-"
+      }
+    ]
+  },
+  {
+    "char": "Tenshi",
+    "name": "Guarding Keystones",
+    "type": "skill",
+    "img": "./images/Tenshi/Te22bc2.png",
+    "data": [
+      {
+        "Version": "B/C",
+        "Damage": "1 (B version) 0.375 (per hit of C version)",
+        "Limit": "10%",
+        "Rate": "90.0%",
+        "Modifier": "-",
+        "Cancel": "Sp M",
+        "Density": "∞ / -",
+        "Graze": "-",
+        "Startup": "-",
+        "Motion": "-",
+        "Total": "45F",
+        "Frame Adv.": "-"
+      }
+    ]
+  },
+  {
+    "char": "Tenshi",
+    "name": "Awakening of the Earth Spirits",
+    "type": "skill",
+    "img": "./images/Tenshi/Te22bc3.png",
+    "data": [
+      {
+        "Version": "B/C",
+        "Damage": "1",
+        "Limit": "-",
+        "Rate": "-",
+        "Modifier": "-",
+        "Cancel": "Sp M",
+        "Density": "-",
+        "Graze": "-",
+        "Startup": "-",
+        "Motion": "-",
+        "Total": "45F",
+        "Frame Adv.": "-"
+      }
+    ]
+  },
+  {
+    "char": "Tenshi",
+    "name": "Earth Sign \"Sword of Unletting Soil\"",
+    "type": "spell",
+    "img": "./images/Tenshi/Tesc01.png",
+    "data": [
+      {
+        "Damage": "0.5 per hit",
+        "Limit": "92%",
+        "Rate": "10%",
+        "Modifier": "Lift",
+        "Cancel": "M",
+        "Density": "A?x4",
+        "Graze": "-",
+        "Startup": "-",
+        "Motion": "-",
+        "Total": "-",
+        "Frame Adv.": "-"
+      }
+    ]
+  },
+  {
+    "char": "Tenshi",
+    "name": "Non-perception \"Sword of Rapture\"",
+    "type": "spell",
+    "img": "./images/Tenshi/Tesc02.png",
+    "data": [
+      {
+        "Damage": "1568",
+        "Limit": "40%",
+        "Rate": "98% (first hit) / 78.4% (second hit)",
+        "Modifier": "Smash",
+        "Cancel": "-",
+        "Guard": "M",
+        "Startup": "-",
+        "Active": "-",
+        "Total": "-",
+        "Frame Adv.": "-17F"
+      }
+    ]
+  },
+  {
+    "char": "Tenshi",
+    "name": "Heaven Sign \"Sword of Divine Justice\"",
+    "type": "spell",
+    "img": "./images/Tenshi/Tesc03.png",
+    "data": [
+      {
+        "Damage": "2500",
+        "Limit": "40%",
+        "Rate": "62.5%",
+        "Modifier": "Lift",
+        "Cancel": "-",
+        "Guard": "HL",
+        "Startup": "13F",
+        "Active": "-",
+        "Total": "-",
+        "Frame Adv.": "-"
+      }
+    ]
+  },
+  {
+    "char": "Tenshi",
+    "name": "Swordplay \"Sword of Swagger\"",
+    "type": "spell",
+    "img": "./images/Tenshi/Tesc04.png",
+    "data": [
+      {
+        "Damage": "400 / 1000 (final slash)",
+        "Limit": "0% / 100% (final slash)",
+        "Rate": "94% / 85% (final slash)",
+        "Modifier": "-",
+        "Cancel": "-",
+        "Guard": "HL",
+        "Startup": "16F",
+        "Active": "-",
+        "Total": "-",
+        "Frame Adv.": "0"
+      }
+    ]
+  },
+  {
+    "char": "Tenshi",
+    "name": "Weather \"Scarlet Weather Pressure\"",
+    "type": "spell",
+    "img": "./images/Tenshi/Tesc05.png",
+    "data": [
+      {
+        "Damage": "-",
+        "Limit": "3% (per bullet)",
+        "Rate": "97%",
+        "Modifier": "-",
+        "Cancel": "-",
+        "Density": "A?x46",
+        "Graze": "-",
+        "Startup": "26F",
+        "Motion": "-",
+        "Total": "-",
+        "Frame Adv.": "0"
+      }
+    ]
+  },
+  {
+    "char": "Tenshi",
+    "name": "Temperament \"Meteorological Revelation\"",
+    "type": "spell",
+    "img": "./images/Tenshi/Tesc06.png",
+    "data": [
+      {
+        "Damage": "-",
+        "Limit": "5% (per bullet)",
+        "Rate": "95%",
+        "Modifier": "-",
+        "Cancel": "-",
+        "Density": "A?",
+        "Graze": "-",
+        "Startup": "13F",
+        "Motion": "-",
+        "Total": "-",
+        "Frame Adv.": "-"
+      }
+    ]
+  },
+  {
+    "char": "Tenshi",
+    "name": "Temperament \"State of Enlightenment\"",
+    "type": "spell",
+    "img": "./images/Tenshi/Tesc07.png",
+    "data": [
+      {
+        "Damage": "-",
+        "Limit": "-",
+        "Rate": "-",
+        "Modifier": "-",
+        "Cancel": "-",
+        "Guard": "-",
+        "Startup": "39F",
+        "Active": "-",
+        "Total": "-",
+        "Frame Adv.": "0"
+      }
+    ]
+  },
+  {
+    "char": "Tenshi",
+    "name": "Earthquake \"Sword of Worry and Joy\"",
+    "type": "spell",
+    "img": "./images/Tenshi/Tesc08.png",
+    "data": [
+      {
+        "Damage": "-",
+        "Limit": "94% (first 10 quakes) / 92% (final quake)",
+        "Rate": "5%",
+        "Modifier": "-",
+        "Cancel": "-",
+        "Density": "Type-3",
+        "Graze": "-",
+        "Startup": "20F",
+        "Motion": "-",
+        "Total": "too fucking long...",
+        "Frame Adv.": "0"
+      }
+    ]
+  },
+  {
+    "char": "Tenshi",
+    "name": "Keystone \"World Creation Press\"",
+    "type": "spell",
+    "img": "./images/Tenshi/Tesc09.png",
+    "data": [
+      {
+        "Damage": "-",
+        "Limit": "10% (ascent) / 40% (landing)",
+        "Rate": "96% (ascent) / 70% (landing)",
+        "Modifier": "-",
+        "Cancel": "-",
+        "Density": "Melee (ascent) / High Type-3 Bullet",
+        "Graze": "-",
+        "Startup": "13F",
+        "Motion": "-",
+        "Total": "-",
+        "Frame Adv.": "-"
+      }
+    ]
+  },
+  {
+    "char": "Tenshi",
+    "name": "Scarlet Weather Rapture\"",
+    "type": "spell",
+    "img": "./images/Tenshi/Tesc10.png",
+    "data": [
+      {
+        "Damage": "-",
+        "Limit": "4%",
+        "Rate": "98%",
+        "Modifier": "-",
+        "Cancel": "-",
+        "Density": "A1",
+        "Graze": "-",
+        "Startup": "41F",
+        "Motion": "-",
+        "Total": "a long time",
+        "Frame Adv.": "0"
+      }
+    ]
+  }
+]

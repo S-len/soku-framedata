@@ -1,0 +1,1631 @@
+[
+  {
+    "char": "Sakuya",
+    "name": "4A",
+    "type": "normal",
+    "img": "./images/Sakuya/Sakuya5A.png",
+    "data": [
+      {
+        "Damage": "200",
+        "Limit": "0%",
+        "Rate": "98%",
+        "Modifier": "None",
+        "Cancel": "R Cn B C Sk Sp",
+        "Guard": "HL",
+        "Startup": "8F",
+        "Active": "2F",
+        "Total": "17F",
+        "Frame Adv.": "0"
+      }
+    ]
+  },
+  {
+    "char": "Sakuya",
+    "name": "5A",
+    "type": "normal",
+    "img": "./images/Sakuya/Sakuya5A.png",
+    "data": [
+      {
+        "Damage": "200",
+        "Limit": "0%",
+        "Rate": "98%",
+        "Modifier": "None",
+        "Cancel": "D Cn B C Sk Sp",
+        "Guard": "HL",
+        "Startup": "8F",
+        "Active": "2F",
+        "Total": "17F",
+        "Frame Adv.": "0"
+      }
+    ]
+  },
+  {
+    "char": "Sakuya",
+    "name": "5AA",
+    "type": "normal",
+    "img": "./images/Sakuya/Sakuya5A.png",
+    "data": [
+      {
+        "Damage": "200",
+        "Limit": "0%",
+        "Rate": "98%",
+        "Modifier": "None",
+        "Cancel": "D Cn B C Sk Sp",
+        "Guard": "HL",
+        "Startup": "7F",
+        "Active": "2F",
+        "Total": "16F",
+        "Frame Adv.": "0"
+      }
+    ]
+  },
+  {
+    "char": "Sakuya",
+    "name": "5AAA",
+    "type": "normal",
+    "img": "./images/Sakuya/Sakuya5AAA.png",
+    "data": [
+      {
+        "Damage": "450",
+        "Limit": "0%",
+        "Rate": "90%",
+        "Modifier": "None",
+        "Cancel": "D B C Sk Sp",
+        "Guard": "H",
+        "Startup": "9F",
+        "Active": "3F",
+        "Total": "25F",
+        "Frame Adv.": "-1/+3"
+      }
+    ]
+  },
+  {
+    "char": "Sakuya",
+    "name": "5AAAA",
+    "type": "normal",
+    "img": "./images/Sakuya/Sakuya5AAAA.png",
+    "data": [
+      {
+        "Damage": "800",
+        "Limit": "40%",
+        "Rate": "80%",
+        "Modifier": "Smash",
+        "Cancel": "Sp",
+        "Guard": "H",
+        "Startup": "17F",
+        "Active": "3F",
+        "Total": "45F",
+        "Frame Adv.": "-7/-1"
+      }
+    ]
+  },
+  {
+    "char": "Sakuya",
+    "name": "f5A",
+    "type": "normal",
+    "img": "./images/Sakuya/Sakuyaf5A.png",
+    "data": [
+      {
+        "Damage": "450",
+        "Limit": "0%",
+        "Rate": "92%",
+        "Modifier": "None",
+        "Cancel": "Cn B C Sk Sp",
+        "Guard": "H",
+        "Startup": "12F",
+        "Active": "3F",
+        "Total": "32F",
+        "Frame Adv.": "-6/-2"
+      }
+    ]
+  },
+  {
+    "char": "Sakuya",
+    "name": "2A",
+    "type": "normal",
+    "img": "./images/Sakuya/Sakuya2A.png",
+    "data": [
+      {
+        "Damage": "450",
+        "Limit": "0%",
+        "Rate": "92%",
+        "Modifier": "None",
+        "Cancel": "Cn B C Sk Sp",
+        "Guard": "L",
+        "Startup": "12F",
+        "Active": "3F",
+        "Total": "29F",
+        "Frame Adv.": "-2/+2"
+      }
+    ]
+  },
+  {
+    "char": "Sakuya",
+    "name": "3A",
+    "type": "normal",
+    "img": "./images/Sakuya/Sakuya3A.png",
+    "data": [
+      {
+        "Version": "First hit",
+        "Damage": "400",
+        "Limit": "40%",
+        "Rate": "90%",
+        "Modifier": "Rift",
+        "Cancel": "Sk Sp",
+        "Guard": "H",
+        "Startup": "17F",
+        "Active": "2F",
+        "Total": "49F",
+        "Frame Adv.": "-/-13"
+      },
+      {
+        "Version": "Second hit",
+        "Damage": "500",
+        "Limit": "0%",
+        "Rate": "90%",
+        "Modifier": "Rift",
+        "Cancel": "Sk Sp",
+        "Guard": "H",
+        "Startup": "21F",
+        "Active": "3F",
+        "Total": "49F",
+        "Frame Adv.": "-6/±0"
+      }
+    ]
+  },
+  {
+    "char": "Sakuya",
+    "name": "3[A]",
+    "type": "normal",
+    "img": "./images/Sakuya/Sakuya3A.png",
+    "data": [
+      {
+        "Version": "First hit",
+        "Damage": "500",
+        "Limit": "40%",
+        "Rate": "90%",
+        "Modifier": "Rift",
+        "Cancel": "Sp",
+        "Guard": "H",
+        "Startup": "34F",
+        "Active": "2F",
+        "Total": "68F",
+        "Frame Adv.": "-"
+      },
+      {
+        "Version": "Second hit",
+        "Damage": "600",
+        "Limit": "40%",
+        "Rate": "90%",
+        "Modifier": "Rift",
+        "Cancel": "Sp",
+        "Guard": "H",
+        "Startup": "38F",
+        "Active": "3F",
+        "Total": "68F",
+        "Frame Adv.": "-2/+20"
+      }
+    ]
+  },
+  {
+    "char": "Sakuya",
+    "name": "6A",
+    "type": "normal",
+    "img": "./images/Sakuya/Sakuya6A.png",
+    "data": [
+      {
+        "Damage": "800",
+        "Limit": "40%",
+        "Rate": "85%",
+        "Modifier": "Rift",
+        "Cancel": "Sk Sp",
+        "Guard": "L",
+        "Startup": "18F",
+        "Active": "3F",
+        "Total": "42F",
+        "Frame Adv.": "-3F/+3F"
+      }
+    ]
+  },
+  {
+    "char": "Sakuya",
+    "name": "66A",
+    "type": "normal",
+    "img": "./images/Sakuya/Sakuya66A.png",
+    "data": [
+      {
+        "Damage": "500",
+        "Limit": "0%",
+        "Rate": "90%",
+        "Modifier": "None",
+        "Cancel": "Sk Sp",
+        "Guard": "H",
+        "Startup": "11F",
+        "Active": "3F",
+        "Total": "29F",
+        "Frame Adv.": "-3/+1"
+      }
+    ]
+  },
+  {
+    "char": "Sakuya",
+    "name": "66B",
+    "type": "normal",
+    "img": "./images/Sakuya/Sakuya66B.png",
+    "data": [
+      {
+        "Version": "First hit",
+        "Damage": "300",
+        "Limit": "10%",
+        "Rate": "94%",
+        "Modifier": "None",
+        "Cancel": "Sp",
+        "Guard": "HA",
+        "Startup": "12",
+        "Active": "5",
+        "Total": "52",
+        "Frame Adv.": "-9/-3"
+      },
+      {
+        "Version": "Second hit",
+        "Damage": "300",
+        "Limit": "10%",
+        "Rate": "94%",
+        "Modifier": "None",
+        "Cancel": "Sp",
+        "Guard": "H",
+        "Startup": "17",
+        "Active": "5",
+        "Total": "52",
+        "Frame Adv.": "-9/-3"
+      },
+      {
+        "Version": "Third hit",
+        "Damage": "300",
+        "Limit": "10%",
+        "Rate": "94%",
+        "Modifier": "None",
+        "Cancel": "Sp",
+        "Guard": "H",
+        "Startup": "22",
+        "Active": "5",
+        "Total": "52",
+        "Frame Adv.": "-9/-3"
+      }
+    ]
+  },
+  {
+    "char": "Sakuya",
+    "name": "66C",
+    "type": "normal",
+    "img": "./images/Sakuya/110px-Sakuya66C.png",
+    "data": [
+      {
+        "Damage": "950",
+        "Limit": "40%",
+        "Rate": "80%",
+        "Modifier": "Rift",
+        "Cancel": "Sp",
+        "Guard": "HA",
+        "Startup": "18F",
+        "Active": "7F",
+        "Total": "54F",
+        "Frame Adv.": "-15/-9"
+      }
+    ]
+  },
+  {
+    "char": "Sakuya",
+    "name": "j5A",
+    "type": "normal",
+    "img": "./images/Sakuya/Sakuyaj5A.png",
+    "data": [
+      {
+        "Damage": "450",
+        "Limit": "0%",
+        "Rate": "90%",
+        "Modifier": "None",
+        "Cancel": "Cn B C Sk Sp",
+        "Guard": "H",
+        "Startup": "10F",
+        "Active": "4F",
+        "Total": "34F",
+        "Frame Adv.": "(-5)"
+      }
+    ]
+  },
+  {
+    "char": "Sakuya",
+    "name": "j6A",
+    "type": "normal",
+    "img": "./images/Sakuya/Sakuyaj6A.png",
+    "data": [
+      {
+        "Damage": "850",
+        "Limit": "40%",
+        "Rate": "85%",
+        "Modifier": "Smash",
+        "Cancel": "B C Sk Sp",
+        "Guard": "H",
+        "Startup": "11F",
+        "Active": "2F",
+        "Total": "49F",
+        "Frame Adv.": "(-19)"
+      }
+    ]
+  },
+  {
+    "char": "Sakuya",
+    "name": "j2A",
+    "type": "normal",
+    "img": "./images/Sakuya/Sakuyaj2A.png",
+    "data": [
+      {
+        "Damage": "900",
+        "Limit": "40%",
+        "Rate": "80%",
+        "Modifier": "Smash",
+        "Cancel": "B C Sk Sp",
+        "Guard": "H",
+        "Startup": "17F",
+        "Active": "2F",
+        "Total": "48F",
+        "Frame Adv.": "(-12)/+5"
+      }
+    ]
+  },
+  {
+    "char": "Sakuya",
+    "name": "j8A",
+    "type": "normal",
+    "img": "./images/Sakuya/Sakuyaj8A.png",
+    "data": [
+      {
+        "Damage": "850",
+        "Limit": "40%",
+        "Rate": "85%",
+        "Modifier": "Smash",
+        "Cancel": "B C Sk Sp",
+        "Guard": "H",
+        "Startup": "17F",
+        "Active": "12F",
+        "Total": "50F",
+        "Frame Adv.": "(-14)"
+      }
+    ]
+  },
+  {
+    "char": "Sakuya",
+    "name": "5B",
+    "type": "bullet",
+    "img": "./images/Sakuya/175px-Sak5b.jpg",
+    "data": [
+      {
+        "Version": "Uncharged",
+        "Damage": "0.075",
+        "Limit": "3%",
+        "Rate": "95%",
+        "Modifier": "None",
+        "Cancel": "C Sk Sp M",
+        "Density": "C1x15",
+        "Graze": "1F",
+        "Startup": "19F",
+        "Motion": "27F",
+        "Total": "55F",
+        "Frame Adv.": "-8[+17]"
+      },
+      {
+        "Version": "Charged",
+        "Damage": "0.075",
+        "Limit": "3%",
+        "Rate": "95%",
+        "Modifier": "None",
+        "Cancel": "C Sk Sp M",
+        "Density": "C1x21",
+        "Graze": "1F",
+        "Startup": "39F",
+        "Motion": "47F",
+        "Total": "75F",
+        "Frame Adv.": "-2[+17]"
+      }
+    ]
+  },
+  {
+    "char": "Sakuya",
+    "name": "6B",
+    "type": "bullet",
+    "img": "./images/Sakuya/175px-Sak6b.jpg",
+    "data": [
+      {
+        "Version": "Uncharged",
+        "Damage": "0.075",
+        "Limit": "3%",
+        "Rate": "95%",
+        "Modifier": "None",
+        "Cancel": "C Sk Sp M",
+        "Density": "C1x15",
+        "Graze": "1F",
+        "Startup": "19F",
+        "Motion": "27F",
+        "Total": "55F",
+        "Frame Adv.": "-8[+17]"
+      },
+      {
+        "Version": "Charged",
+        "Damage": "0.075",
+        "Limit": "3%",
+        "Rate": "95%",
+        "Modifier": "None",
+        "Cancel": "C Sk Sp M",
+        "Density": "C1x21",
+        "Graze": "1F",
+        "Startup": "39F",
+        "Motion": "47F",
+        "Total": "75F",
+        "Frame Adv.": "-2[+17]"
+      }
+    ]
+  },
+  {
+    "char": "Sakuya",
+    "name": "2B",
+    "type": "bullet",
+    "img": "./images/Sakuya/175px-Sak2b.jpg",
+    "data": [
+      {
+        "Version": "Uncharged",
+        "Damage": "0.075",
+        "Limit": "3%",
+        "Rate": "95%",
+        "Modifier": "None",
+        "Cancel": "C Sk Sp M",
+        "Density": "C1x15",
+        "Graze": "1F",
+        "Startup": "12F",
+        "Motion": "23F",
+        "Total": "53F",
+        "Frame Adv.": "-13[+17]"
+      }
+    ]
+  },
+  {
+    "char": "Sakuya",
+    "name": "j5B",
+    "type": "bullet",
+    "img": "./images/Sakuya/175px-Sakj5b.jpg",
+    "data": [
+      {
+        "Version": "Uncharged",
+        "Damage": "0.075",
+        "Limit": "3%",
+        "Rate": "95%",
+        "Modifier": "None",
+        "Cancel": "C Sk Sp M",
+        "Density": "C1x15",
+        "Graze": "1F",
+        "Startup": "16F",
+        "Motion": "24F",
+        "Total": "53F",
+        "Frame Adv.": "[+17F ~ +27F]"
+      },
+      {
+        "Version": "Charged",
+        "Damage": "0.075",
+        "Limit": "3%",
+        "Rate": "95%",
+        "Modifier": "None",
+        "Cancel": "C Sk Sp M",
+        "Density": "C1x21",
+        "Graze": "1F",
+        "Startup": "36F",
+        "Motion": "44F",
+        "Total": "67F",
+        "Frame Adv.": "[+17 ~ +27]"
+      }
+    ]
+  },
+  {
+    "char": "Sakuya",
+    "name": "j2B",
+    "type": "bullet",
+    "img": "./images/Sakuya/175px-Sakj2b.jpg",
+    "data": [
+      {
+        "Version": "Uncharged",
+        "Damage": "0.075",
+        "Limit": "3%",
+        "Rate": "95%",
+        "Modifier": "None",
+        "Cancel": "C Sk Sp M",
+        "Density": "C1x15",
+        "Graze": "1F",
+        "Startup": "16F",
+        "Motion": "24F",
+        "Total": "53F",
+        "Frame Adv.": "[+17 ~ +27]"
+      },
+      {
+        "Version": "Charged",
+        "Damage": "0.075",
+        "Limit": "3%",
+        "Rate": "95%",
+        "Modifier": "None",
+        "Cancel": "C Sk Sp M",
+        "Density": "C1x21",
+        "Graze": "1F",
+        "Startup": "36F",
+        "Motion": "44F",
+        "Total": "67F",
+        "Frame Adv.": "[+17F ~ +27F]"
+      }
+    ]
+  },
+  {
+    "char": "Sakuya",
+    "name": "5C",
+    "type": "bullet",
+    "img": "./images/Sakuya/175px-Sak5c.jpg",
+    "data": [
+      {
+        "Damage": "0.125",
+        "Limit": "5%",
+        "Rate": "93%",
+        "Modifier": "None",
+        "Cancel": "Sk Sp M",
+        "Density": "B1x7",
+        "Graze": "1F",
+        "Startup": "22F",
+        "Motion": "37F",
+        "Total": "62F",
+        "Frame Adv.": "-7[+18]"
+      }
+    ]
+  },
+  {
+    "char": "Sakuya",
+    "name": "6C",
+    "type": "bullet",
+    "img": "./images/Sakuya/175px-Sak6c.jpg",
+    "data": [
+      {
+        "Version": "Uncharged",
+        "Damage": "0.25",
+        "Limit": "6%",
+        "Rate": "93%",
+        "Modifier": "None",
+        "Cancel": "Sk Sp M",
+        "Density": "B1x5",
+        "Graze": "∞",
+        "Startup": "18F",
+        "Motion": "32F",
+        "Total": "59F",
+        "Frame Adv.": "-17[+10]"
+      },
+      {
+        "Version": "Charged",
+        "Damage": "0.25",
+        "Limit": "6%",
+        "Rate": "93%",
+        "Modifier": "None",
+        "Cancel": "Sk Sp M",
+        "Density": "B1x7",
+        "Graze": "∞",
+        "Startup": "38F",
+        "Motion": "52F",
+        "Total": "79F",
+        "Frame Adv.": "-17[+10]"
+      }
+    ]
+  },
+  {
+    "char": "Sakuya",
+    "name": "2C",
+    "type": "bullet",
+    "img": "./images/Sakuya/175px-Sak2c.jpg",
+    "data": [
+      {
+        "Damage": "0.125",
+        "Limit": "6%",
+        "Rate": "93%",
+        "Modifier": "None",
+        "Cancel": "Sk Sp M",
+        "Density": "B1x5",
+        "Graze": "1F",
+        "Startup": "19F",
+        "Motion": "31F",
+        "Total": "59F",
+        "Frame Adv.": "-18[+12]"
+      }
+    ]
+  },
+  {
+    "char": "Sakuya",
+    "name": "j5C",
+    "type": "bullet",
+    "img": "./images/Sakuya/175px-Sakj5c.jpg",
+    "data": [
+      {
+        "Damage": "0.125",
+        "Limit": "5%",
+        "Rate": "93%",
+        "Modifier": "None",
+        "Cancel": "Sk Sp M",
+        "Density": "B1x7",
+        "Graze": "1F",
+        "Startup": "16F",
+        "Motion": "30F",
+        "Total": "58F",
+        "Frame Adv.": "-9[+21]"
+      }
+    ]
+  },
+  {
+    "char": "Sakuya",
+    "name": "j6C",
+    "type": "bullet",
+    "img": "./images/Sakuya/175px-Sakj6c.jpg",
+    "data": [
+      {
+        "Version": "Uncharged",
+        "Damage": "0.25",
+        "Limit": "6%",
+        "Rate": "93%",
+        "Modifier": "None",
+        "Cancel": "Sk Sp M",
+        "Density": "B1x5",
+        "Graze": "∞",
+        "Startup": "16F",
+        "Motion": "25F",
+        "Total": "53F",
+        "Frame Adv.": "-13[+15]"
+      },
+      {
+        "Version": "Charged",
+        "Damage": "0.25",
+        "Limit": "6%",
+        "Rate": "93%",
+        "Modifier": "None",
+        "Cancel": "Sk Sp M",
+        "Density": "B1x7",
+        "Graze": "∞",
+        "Startup": "36F",
+        "Motion": "45F",
+        "Total": "73F",
+        "Frame Adv.": "-13[+15]"
+      }
+    ]
+  },
+  {
+    "char": "Sakuya",
+    "name": "j2C",
+    "type": "bullet",
+    "img": "./images/Sakuya/175px-Sakj2c.jpg",
+    "data": [
+      {
+        "Version": "Uncharged",
+        "Damage": "0.125",
+        "Limit": "6%",
+        "Rate": "93%",
+        "Modifier": "None",
+        "Cancel": "Sk Sp M",
+        "Density": "B1x5",
+        "Graze": "∞",
+        "Startup": "19F",
+        "Motion": "28F",
+        "Total": "55F",
+        "Frame Adv.": "-12[+15]"
+      },
+      {
+        "Version": "Charged",
+        "Damage": "0.125",
+        "Limit": "5%",
+        "Rate": "93%",
+        "Modifier": "None",
+        "Cancel": "Sk Sp M",
+        "Density": "B1x7",
+        "Graze": "∞",
+        "Startup": "31F",
+        "Motion": "40F",
+        "Total": "67F",
+        "Frame Adv.": "-12[+15]"
+      }
+    ]
+  },
+  {
+    "char": "Sakuya",
+    "name": "Magic Star Sword",
+    "type": "skill",
+    "img": "./images/Sakuya/Iz236bc1.png",
+    "data": [
+      {
+        "Version": "B",
+        "Damage": "1.2",
+        "Limit": "40%",
+        "Rate": "51.3%",
+        "Modifier": "Smash",
+        "Cancel": "Sp M",
+        "Density": "B1x8",
+        "Graze": "∞",
+        "Startup": "25F",
+        "Motion": "40F",
+        "Total": "56F",
+        "Frame Adv.": "-6 [+11]"
+      },
+      {
+        "Version": "C",
+        "Damage": "1.2",
+        "Limit": "40%",
+        "Rate": "51.3%",
+        "Modifier": "Smash",
+        "Cancel": "Sp M",
+        "Density": "B1x8",
+        "Graze": "∞",
+        "Startup": "25F",
+        "Motion": "34F",
+        "Total": "66F",
+        "Frame Adv.": "-6 [+11]"
+      }
+    ]
+  },
+  {
+    "char": "Sakuya",
+    "name": "Close-up Magic",
+    "type": "skill",
+    "img": "./images/Sakuya/Iz623bc1.png",
+    "data": [
+      {
+        "Version": "B",
+        "Damage": "1214",
+        "Limit": "20%",
+        "Rate": "74.8%",
+        "Modifier": "Rift",
+        "Cancel": "B C Sk Sp",
+        "Guard": "HLA",
+        "Startup": "11F",
+        "Active": "26F",
+        "Total": "78F",
+        "Frame Adv.": "-51"
+      },
+      {
+        "Version": "Air B",
+        "Damage": "1214",
+        "Limit": "15%",
+        "Rate": "74.8%",
+        "Modifier": "Rift",
+        "Cancel": "None",
+        "Guard": "HLA",
+        "Startup": "9F",
+        "Active": "26F",
+        "Total": "66F",
+        "Frame Adv.": "-3"
+      },
+      {
+        "Version": "C",
+        "Damage": "1444",
+        "Limit": "25%",
+        "Rate": "69.5%",
+        "Modifier": "Rift",
+        "Cancel": "Sp",
+        "Guard": "HLA",
+        "Startup": "23F",
+        "Active": "36F",
+        "Total": "108F",
+        "Frame Adv.": "-"
+      },
+      {
+        "Version": "Air C",
+        "Damage": "1444",
+        "Limit": "25%",
+        "Rate": "69.5%",
+        "Modifier": "Rift",
+        "Cancel": "None",
+        "Guard": "HLA",
+        "Startup": "9F",
+        "Active": "46F",
+        "Total": "96F",
+        "Frame Adv.": "-20"
+      }
+    ]
+  },
+  {
+    "char": "Sakuya",
+    "name": "Bounce no Bounce",
+    "type": "skill",
+    "img": "./images/Sakuya/Iz214bc1.png",
+    "data": [
+      {
+        "Version": "B",
+        "Damage": "0.075",
+        "Limit": "5%",
+        "Rate": "94%",
+        "Modifier": "None",
+        "Cancel": "Sp M",
+        "Density": "C1x12",
+        "Graze": "1F",
+        "Startup": "17F",
+        "Motion": "32F",
+        "Total": "51F",
+        "Frame Adv.": "-13 [+7]"
+      },
+      {
+        "Version": "C",
+        "Damage": "0.075",
+        "Limit": "5%",
+        "Rate": "94%",
+        "Modifier": "None",
+        "Cancel": "Sp M",
+        "Density": "C1x15",
+        "Graze": "1F",
+        "Startup": "17F",
+        "Motion": "32F",
+        "Total": "41F",
+        "Frame Adv.": "-13 [+7]"
+      }
+    ]
+  },
+  {
+    "char": "Sakuya",
+    "name": "Vanishing Everything",
+    "type": "skill",
+    "img": "./images/Sakuya/Iz22bc1.png",
+    "data": [
+      {
+        "Version": "B",
+        "Damage": "-",
+        "Limit": "-",
+        "Rate": "-",
+        "Modifier": "-",
+        "Cancel": "-",
+        "Guard": "-",
+        "Startup": "-",
+        "Active": "-",
+        "Total": "50F",
+        "Frame Adv.": "-"
+      },
+      {
+        "Version": "C",
+        "Damage": "-",
+        "Limit": "-",
+        "Rate": "-",
+        "Modifier": "-",
+        "Cancel": "-",
+        "Guard": "-",
+        "Startup": "-",
+        "Active": "-",
+        "Total": "50F",
+        "Frame Adv.": "-"
+      }
+    ]
+  },
+  {
+    "char": "Sakuya",
+    "name": "Sense of Thrown Edge",
+    "type": "skill",
+    "img": "./images/Sakuya/Iz236bc2.png",
+    "data": [
+      {
+        "Version": "Ground B/C level 1",
+        "Damage": "0.125",
+        "Limit": "10%",
+        "Rate": "96%",
+        "Modifier": "Rift",
+        "Cancel": "Sp M",
+        "Density": "C1xn",
+        "Graze": "1F",
+        "Startup": "17F",
+        "Motion": "30F",
+        "Total": "57F",
+        "Frame Adv.": "-17 [+11]"
+      },
+      {
+        "Version": "Ground B/C level 2-4",
+        "Damage": "0.125",
+        "Limit": "10%",
+        "Rate": "96%",
+        "Modifier": "Rift",
+        "Cancel": "Sp M",
+        "Density": "C1xn",
+        "Graze": "1F",
+        "Startup": "17F",
+        "Motion": "26F",
+        "Total": "53F",
+        "Frame Adv.": "-17 [+11]"
+      },
+      {
+        "Version": "Air B/C level 1",
+        "Damage": "0.125",
+        "Limit": "10%",
+        "Rate": "96%",
+        "Modifier": "Rift",
+        "Cancel": "Sp M",
+        "Density": "C1xn",
+        "Graze": "1F",
+        "Startup": "17F",
+        "Motion": "29F",
+        "Total": "48F",
+        "Frame Adv.": "-17 [+11]"
+      },
+      {
+        "Version": "Air B/C level 2-4",
+        "Damage": "0.125",
+        "Limit": "10%",
+        "Rate": "96%",
+        "Modifier": "Rift",
+        "Cancel": "Sp M",
+        "Density": "C1xn",
+        "Graze": "1F",
+        "Startup": "17F",
+        "Motion": "25F",
+        "Total": "44F",
+        "Frame Adv.": "-17 [+11]"
+      }
+    ]
+  },
+  {
+    "char": "Sakuya",
+    "name": "Parallel Brane",
+    "type": "skill",
+    "img": "./images/Sakuya/Iz236bc3.png",
+    "data": [
+      {
+        "Version": "Ground",
+        "Damage": "0.125",
+        "Limit": "5%",
+        "Rate": "93%",
+        "Modifier": "None",
+        "Cancel": "Sp M",
+        "Density": "C1xn",
+        "Graze": "1F",
+        "Startup": "62F",
+        "Motion": "35F",
+        "Total": "66F",
+        "Frame Adv.": "+21 [+53]"
+      },
+      {
+        "Version": "Air",
+        "Damage": "0.125",
+        "Limit": "5%",
+        "Rate": "93%",
+        "Modifier": "None",
+        "Cancel": "Sp M",
+        "Density": "C1xn",
+        "Graze": "1F",
+        "Startup": "67F",
+        "Motion": "35F",
+        "Total": "72F",
+        "Frame Adv.": "-"
+      }
+    ]
+  },
+  {
+    "char": "Sakuya",
+    "name": "Propelling Silver",
+    "type": "skill",
+    "img": "./images/Sakuya/Iz623bc2.png",
+    "data": [
+      {
+        "Version": "B",
+        "Damage": "0.125",
+        "Limit": "10%",
+        "Rate": "92%",
+        "Modifier": "None",
+        "Cancel": "Sp M",
+        "Density": "B4xn",
+        "Graze": "4F",
+        "Startup": "47F",
+        "Motion": "34F",
+        "Total": "59F",
+        "Frame Adv.": "+18 [+44]"
+      },
+      {
+        "Version": "C",
+        "Damage": "0.125",
+        "Limit": "10%",
+        "Rate": "92%",
+        "Modifier": "None",
+        "Cancel": "Sp M",
+        "Density": "B4xn",
+        "Graze": "4F",
+        "Startup": "52F",
+        "Motion": "39F",
+        "Total": "64F",
+        "Frame Adv.": "+18 [+44]"
+      }
+    ]
+  },
+  {
+    "char": "Sakuya",
+    "name": "Dancing Star Sword",
+    "type": "skill",
+    "img": "./images/Sakuya/Iz623bc3.png",
+    "data": [
+      {
+        "Version": "Activation",
+        "Damage": "-",
+        "Limit": "-",
+        "Rate": "-",
+        "Modifier": "None",
+        "Cancel": "Sp",
+        "Density": "-",
+        "Graze": "-",
+        "Startup": "46F",
+        "Motion": "No",
+        "Total": "66F",
+        "Frame Adv.": "-"
+      },
+      {
+        "Version": "C simultaneous launch",
+        "Damage": "0.15",
+        "Limit": "5%",
+        "Rate": "98%",
+        "Modifier": "Smash",
+        "Cancel": "Sp M",
+        "Density": "C1xn",
+        "Graze": "1F",
+        "Startup": "16F",
+        "Motion": "31F",
+        "Total": "53F",
+        "Frame Adv.": "-12 ~ -9"
+      },
+      {
+        "Version": "Melee launch (light)",
+        "Damage": "-",
+        "Limit": "10%",
+        "Rate": "94%",
+        "Modifier": "None",
+        "Cancel": "-",
+        "Density": "C1",
+        "Graze": "1F",
+        "Startup": "1F",
+        "Motion": "-",
+        "Total": "-",
+        "Frame Adv.": "Variable"
+      },
+      {
+        "Version": "Melee launch (medium)",
+        "Damage": "-",
+        "Limit": "10%",
+        "Rate": "97%",
+        "Modifier": "None",
+        "Cancel": "-",
+        "Density": "C1",
+        "Graze": "1F",
+        "Startup": "2F",
+        "Motion": "-",
+        "Total": "-",
+        "Frame Adv.": "Variable"
+      },
+      {
+        "Version": "Melee launch (heavy)",
+        "Damage": "-",
+        "Limit": "10%",
+        "Rate": "97%",
+        "Modifier": "None",
+        "Cancel": "-",
+        "Density": "C1",
+        "Graze": "1F",
+        "Startup": "3F",
+        "Motion": "-",
+        "Total": "-",
+        "Frame Adv.": "Variable"
+      }
+    ]
+  },
+  {
+    "char": "Sakuya",
+    "name": "Square Ricochet",
+    "type": "skill",
+    "img": "./images/Sakuya/Iz214bc2.png",
+    "data": [
+      {
+        "Version": "B",
+        "Damage": "0.75",
+        "Limit": "30%",
+        "Rate": "77.8%",
+        "Modifier": "None",
+        "Cancel": "Sp M",
+        "Density": "C3x1",
+        "Graze": "∞",
+        "Startup": "-",
+        "Motion": "32F",
+        "Total": "51F",
+        "Frame Adv.": "-"
+      },
+      {
+        "Version": "C",
+        "Damage": "0.75",
+        "Limit": "30%",
+        "Rate": "77.8%",
+        "Modifier": "None",
+        "Cancel": "Sp M",
+        "Density": "C3x1",
+        "Graze": "∞",
+        "Startup": "-",
+        "Motion": "32F",
+        "Total": "41F",
+        "Frame Adv.": "-"
+      },
+      {
+        "Version": "Charged B",
+        "Damage": "1",
+        "Limit": "50%",
+        "Rate": "65.9%",
+        "Modifier": "None",
+        "Cancel": "Sp M",
+        "Density": "C3x1",
+        "Graze": "∞",
+        "Startup": "-",
+        "Motion": "57F",
+        "Total": "76F",
+        "Frame Adv.": "-"
+      },
+      {
+        "Version": "Charged C",
+        "Damage": "1",
+        "Limit": "50%",
+        "Rate": "65.9%",
+        "Modifier": "None",
+        "Cancel": "Sp M",
+        "Density": "C3x1",
+        "Graze": "∞",
+        "Startup": "-",
+        "Motion": "57F",
+        "Total": "66F",
+        "Frame Adv.": "-"
+      }
+    ]
+  },
+  {
+    "char": "Sakuya",
+    "name": "Misdirection",
+    "type": "skill",
+    "img": "./images/Sakuya/Iz214bc3.png",
+    "data": [
+      {
+        "Version": "B/C",
+        "Damage": "0.75",
+        "Limit": "30%",
+        "Rate": "77.8%",
+        "Modifier": "Rift",
+        "Cancel": "Sp M",
+        "Density": "-",
+        "Graze": "-",
+        "Startup": "76F",
+        "Motion": "32F",
+        "Total": "51F",
+        "Frame Adv.": "-"
+      },
+      {
+        "Version": "Charged B/C",
+        "Damage": "0.75",
+        "Limit": "30%",
+        "Rate": "77.8%",
+        "Modifier": "Rift",
+        "Cancel": "Sp M",
+        "Density": "-",
+        "Graze": "-",
+        "Startup": "101F/121F",
+        "Motion": "57F",
+        "Total": "76F",
+        "Frame Adv.": "-"
+      }
+    ]
+  },
+  {
+    "char": "Sakuya",
+    "name": "Perfect Maid",
+    "type": "skill",
+    "img": "./images/Sakuya/Iz22bc2.png",
+    "data": [
+      {
+        "Version": "B",
+        "Damage": "-",
+        "Limit": "-",
+        "Rate": "-",
+        "Modifier": "-",
+        "Cancel": "-",
+        "Density": "-",
+        "Graze": "-",
+        "Startup": "13F",
+        "Motion": "-",
+        "Total": "62F",
+        "Frame Adv.": "-"
+      },
+      {
+        "Version": "C",
+        "Damage": "-",
+        "Limit": "-",
+        "Rate": "-",
+        "Modifier": "-",
+        "Cancel": "-",
+        "Density": "-",
+        "Graze": "-",
+        "Startup": "13F",
+        "Motion": "-",
+        "Total": "92F",
+        "Frame Adv.": "-"
+      },
+      {
+        "Version": "Counter",
+        "Damage": "4",
+        "Limit": "80%",
+        "Rate": "44.5%",
+        "Modifier": "Rift",
+        "Cancel": "-",
+        "Density": "B1x40",
+        "Graze": "1F",
+        "Startup": "2F",
+        "Motion": "-",
+        "Total": "29F",
+        "Frame Adv.": "~+20"
+      }
+    ]
+  },
+  {
+    "char": "Sakuya",
+    "name": "Time Paradox",
+    "type": "skill",
+    "img": "./images/Sakuya/Iz22bc3.png",
+    "data": [
+      {
+        "Version": "B Melee",
+        "Damage": "-",
+        "Limit": "20%",
+        "Rate": "85%",
+        "Modifier": "-",
+        "Cancel": "Sp",
+        "Density": "-",
+        "Graze": "-",
+        "Startup": "36F",
+        "Motion": "-",
+        "Total": "92F",
+        "Frame Adv.": "-"
+      },
+      {
+        "Version": "B double",
+        "Damage": "-",
+        "Limit": "20%",
+        "Rate": "74.8%",
+        "Modifier": "Rift",
+        "Cancel": "-",
+        "Density": "-",
+        "Graze": "1F",
+        "Startup": "11F~26F",
+        "Motion": "-",
+        "Total": "62F",
+        "Frame Adv.": "-15 ~ ±0"
+      },
+      {
+        "Version": "C double",
+        "Damage": "-",
+        "Limit": "20%",
+        "Rate": "85%",
+        "Modifier": "-",
+        "Cancel": "-",
+        "Density": "-",
+        "Graze": "1F",
+        "Startup": "36F",
+        "Motion": "-",
+        "Total": "45F",
+        "Frame Adv.": "-"
+      },
+      {
+        "Version": "C melee",
+        "Damage": "-",
+        "Limit": "20%",
+        "Rate": "74.8%",
+        "Modifier": "Rift",
+        "Cancel": "Sp",
+        "Density": "-",
+        "Graze": "-",
+        "Startup": "13F",
+        "Motion": "-",
+        "Total": "45F",
+        "Frame Adv.": "-10"
+      }
+    ]
+  },
+  {
+    "char": "Sakuya",
+    "name": "Illusion Sign \"Killing Doll\"",
+    "type": "spell",
+    "img": "./images/Sakuya/Izsc01.png",
+    "data": [
+      {
+        "Damage": "2.4",
+        "Limit": "96%",
+        "Rate": "19.3%",
+        "Modifier": "Smash",
+        "Cancel": "-",
+        "Density": "-",
+        "Graze": "-",
+        "Startup": "10+107",
+        "Motion": "-",
+        "Total": "66F",
+        "Frame Adv.": "Great advantage"
+      }
+    ]
+  },
+  {
+    "char": "Sakuya",
+    "name": "Silver Sign \"Silver Bound\"",
+    "type": "spell",
+    "img": "./images/Sakuya/Izsc02.png",
+    "data": [
+      {
+        "Version": "Ground",
+        "Damage": "Variable",
+        "Limit": "5% per hit",
+        "Rate": "Variable, -35 at point blank range",
+        "Modifier": "None",
+        "Cancel": "-",
+        "Density": "-",
+        "Graze": "-",
+        "Startup": "14+21",
+        "Motion": "-",
+        "Total": "91",
+        "Frame Adv.": "Variable"
+      },
+      {
+        "Version": "Air",
+        "Damage": "Variable",
+        "Limit": "5% per hit",
+        "Rate": "Variable",
+        "Modifier": "None",
+        "Cancel": "-",
+        "Density": "-",
+        "Graze": "-",
+        "Startup": "14+35",
+        "Motion": "-",
+        "Total": "97",
+        "Frame Adv.": "Variable"
+      }
+    ]
+  },
+  {
+    "char": "Sakuya",
+    "name": "Conjuring \"Eternal Meek\"",
+    "type": "spell",
+    "img": "./images/Sakuya/Izsc03.png",
+    "data": [
+      {
+        "Damage": "0.2 per hit",
+        "Limit": "2% per hit",
+        "Rate": "Variable",
+        "Modifier": "Rift",
+        "Cancel": "-",
+        "Density": "-",
+        "Graze": "-",
+        "Startup": "13+2~105",
+        "Motion": "-",
+        "Total": "141F",
+        "Frame Adv.": "-7"
+      }
+    ]
+  },
+  {
+    "char": "Sakuya",
+    "name": "Time Sign \"Private Square\"",
+    "type": "spell",
+    "img": "./images/Sakuya/Izsc04.png",
+    "data": [
+      {
+        "Damage": "-",
+        "Limit": "-",
+        "Rate": "-",
+        "Modifier": "-",
+        "Cancel": "-",
+        "Density": "-",
+        "Graze": "-",
+        "Startup": "24",
+        "Motion": "-",
+        "Total": "101F",
+        "Frame Adv.": "-"
+      }
+    ]
+  },
+  {
+    "char": "Sakuya",
+    "name": "Wound Sign \"Inscribed Red Soul\"",
+    "type": "spell",
+    "img": "./images/Sakuya/Izsc05.png",
+    "data": [
+      {
+        "Damage": "1.9",
+        "Limit": "46%",
+        "Rate": "39.1%",
+        "Modifier": "Rift",
+        "Cancel": "-",
+        "Density": "-",
+        "Graze": "-",
+        "Startup": "13+2",
+        "Motion": "-",
+        "Total": "143F",
+        "Frame Adv.": "-17"
+      }
+    ]
+  },
+  {
+    "char": "Sakuya",
+    "name": "Speed Sign \"Luminous Ricochet\"",
+    "type": "spell",
+    "img": "./images/Sakuya/Izsc06.png",
+    "data": [
+      {
+        "Damage": "1",
+        "Limit": "5% per hit",
+        "Rate": "15",
+        "Modifier": "Rift",
+        "Cancel": "-",
+        "Density": "-",
+        "Graze": "-",
+        "Startup": "10+6",
+        "Motion": "-",
+        "Total": "51F",
+        "Frame Adv.": "Great advantage"
+      }
+    ]
+  },
+  {
+    "char": "Sakuya",
+    "name": "Time Sign \"Imaginary Vertical Time\"",
+    "type": "spell",
+    "img": "./images/Sakuya/Izsc07.png",
+    "data": [
+      {
+        "Damage": "-",
+        "Limit": "2% per hit",
+        "Rate": "97%",
+        "Modifier": "None",
+        "Cancel": "-",
+        "Density": "-",
+        "Graze": "-",
+        "Startup": "11+8+28f",
+        "Motion": "-",
+        "Total": "37F",
+        "Frame Adv.": "Variable"
+      }
+    ]
+  },
+  {
+    "char": "Sakuya",
+    "name": "Watch \"Luna Dial\"",
+    "type": "spell",
+    "img": "./images/Sakuya/Izsc08.png",
+    "data": [
+      {
+        "Damage": "1",
+        "Limit": "40%",
+        "Rate": "92%",
+        "Modifier": "None",
+        "Cancel": "-",
+        "Density": "-",
+        "Graze": "-",
+        "Startup": "17+4",
+        "Motion": "-",
+        "Total": "67F",
+        "Frame Adv.": "-10"
+      }
+    ]
+  },
+  {
+    "char": "Sakuya",
+    "name": "Buriallusion \"Phantasmic Killer\"",
+    "type": "spell",
+    "img": "./images/Sakuya/Izsc09.png",
+    "data": [
+      {
+        "Version": "Ground",
+        "Damage": "3.5",
+        "Limit": "1% per hit",
+        "Rate": "Variable",
+        "Modifier": "Rift",
+        "Cancel": "-",
+        "Density": "-",
+        "Graze": "-",
+        "Startup": "10+40",
+        "Motion": "-",
+        "Total": "172F",
+        "Frame Adv.": "-11"
+      },
+      {
+        "Version": "Air",
+        "Damage": "3.5",
+        "Limit": "1% per hit",
+        "Rate": "Variable",
+        "Modifier": "Rift",
+        "Cancel": "-",
+        "Density": "-",
+        "Graze": "-",
+        "Startup": "10+40",
+        "Motion": "-",
+        "Total": "Until landing",
+        "Frame Adv.": "-11"
+      }
+    ]
+  },
+  {
+    "char": "Sakuya",
+    "name": "Scarred Soul \"Soul Sculpture\"",
+    "type": "spell",
+    "img": "./images/Sakuya/Izsc10.png",
+    "data": [
+      {
+        "Damage": "1.8",
+        "Limit": "46%",
+        "Rate": "39.1%",
+        "Modifier": "Rift",
+        "Cancel": "-",
+        "Density": "-",
+        "Graze": "-",
+        "Startup": "13+2",
+        "Motion": "-",
+        "Total": "142F",
+        "Frame Adv.": "-16"
+      }
+    ]
+  },
+  {
+    "char": "Sakuya",
+    "name": "Time Sign \"Sakuya's Special Stopwatch\"",
+    "type": "spell",
+    "img": "./images/Sakuya/Izsc11.png",
+    "data": [
+      {
+        "Damage": "-",
+        "Limit": "-",
+        "Rate": "-",
+        "Modifier": "None",
+        "Cancel": "-",
+        "Density": "-",
+        "Graze": "-",
+        "Startup": "24",
+        "Motion": "-",
+        "Total": "101F",
+        "Frame Adv.": "-"
+      }
+    ]
+  },
+  {
+    "char": "Sakuya",
+    "name": "Light Speed \"C. Ricochet\"",
+    "type": "spell",
+    "img": "./images/Sakuya/Izsc12.png",
+    "data": [
+      {
+        "Damage": "2.5",
+        "Limit": "50%",
+        "Rate": "73.7%",
+        "Modifier": "Rift",
+        "Cancel": "-",
+        "Density": "-",
+        "Graze": "-",
+        "Startup": "10+4",
+        "Motion": "-",
+        "Total": "35F",
+        "Frame Adv.": "Great advantage"
+      }
+    ]
+  },
+  {
+    "char": "Sakuya",
+    "name": "Sakuya's World",
+    "type": "spell",
+    "img": "./images/Sakuya/Izsc13.png",
+    "data": [
+      {
+        "Damage": "-",
+        "Limit": "-",
+        "Rate": "-",
+        "Modifier": "None",
+        "Cancel": "-",
+        "Density": "-",
+        "Graze": "-",
+        "Startup": "77",
+        "Motion": "-",
+        "Total": "153F",
+        "Frame Adv.": "∞"
+      }
+    ]
+  }
+]

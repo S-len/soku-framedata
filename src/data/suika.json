@@ -1,0 +1,1286 @@
+[
+  {
+    "char": "Suika",
+    "name": "4A",
+    "type": "normal",
+    "img": "./images/Suika/175px-Suika_5A.png",
+    "data": [
+      {
+        "Damage": "500",
+        "Limit": "0%",
+        "Rate": "94%",
+        "Modifier": "-",
+        "Cancel": "Cn B C Sk Sp",
+        "Guard": "H",
+        "Startup": "9F",
+        "Active": "4F",
+        "Total": "26F",
+        "Frame Adv.": "-2/+2"
+      }
+    ]
+  },
+  {
+    "char": "Suika",
+    "name": "5A",
+    "type": "normal",
+    "img": "./images/Suika/175px-Suika_5A.png",
+    "data": [
+      {
+        "Damage": "500",
+        "Limit": "0%",
+        "Rate": "94%",
+        "Modifier": "-",
+        "Cancel": "D Cn B C Sk Sp",
+        "Guard": "H",
+        "Startup": "9F",
+        "Active": "4F",
+        "Total": "26F",
+        "Frame Adv.": "-2/+2"
+      }
+    ]
+  },
+  {
+    "char": "Suika",
+    "name": "5AA",
+    "type": "normal",
+    "img": "./images/Suika/175px-Suika_5aa.png",
+    "data": [
+      {
+        "Damage": "600",
+        "Limit": "0%",
+        "Rate": "92%",
+        "Modifier": "-",
+        "Cancel": "D B C Sk Sp",
+        "Guard": "HL",
+        "Startup": "13F",
+        "Active": "3F",
+        "Total": "36F",
+        "Frame Adv.": "-2"
+      }
+    ]
+  },
+  {
+    "char": "Suika",
+    "name": "5AAA",
+    "type": "normal",
+    "img": "./images/Suika/175px-Suika_5aaa.png",
+    "data": [
+      {
+        "Damage": "850",
+        "Limit": "40%",
+        "Rate": "85%",
+        "Modifier": "Rift",
+        "Cancel": "D Sp",
+        "Guard": "H",
+        "Startup": "17F",
+        "Active": "6F",
+        "Total": "52F",
+        "Frame Adv.": "-14/-8"
+      }
+    ]
+  },
+  {
+    "char": "Suika",
+    "name": "5AAAA",
+    "type": "normal",
+    "img": "./images/Suika/175px-Suika_5aaaa.png",
+    "data": [
+      {
+        "Damage": "1200",
+        "Limit": "40%",
+        "Rate": "80%",
+        "Modifier": "Smash",
+        "Cancel": "Sp",
+        "Guard": "H*",
+        "Startup": "25F",
+        "Active": "11F",
+        "Total": "62F",
+        "Frame Adv.": "-9/+13"
+      }
+    ]
+  },
+  {
+    "char": "Suika",
+    "name": "fA",
+    "type": "normal",
+    "img": "./images/Suika/175px-Suika_f5A.png",
+    "data": [
+      {
+        "Version": "Uncharged",
+        "Damage": "1000",
+        "Limit": "0%",
+        "Rate": "80%",
+        "Modifier": "-",
+        "Cancel": "Cn B C Sk Sp",
+        "Guard": "H",
+        "Startup": "17F",
+        "Active": "4F",
+        "Total": "40F",
+        "Frame Adv.": "-2/+4"
+      },
+      {
+        "Version": "Charged",
+        "Damage": "1250",
+        "Limit": "40%",
+        "Rate": "80%",
+        "Modifier": "Smash",
+        "Cancel": "Sp",
+        "Guard": "H*",
+        "Startup": "35F",
+        "Active": "4F",
+        "Total": "62F",
+        "Frame Adv.": "0/+22"
+      }
+    ]
+  },
+  {
+    "char": "Suika",
+    "name": "2A",
+    "type": "normal",
+    "img": "./images/Suika/175px-Suika_2A.png",
+    "data": [
+      {
+        "Damage": "550",
+        "Limit": "0%",
+        "Rate": "92%",
+        "Modifier": "-",
+        "Cancel": "Cn B C Sk Sp",
+        "Guard": "L",
+        "Startup": "9F",
+        "Active": "3F",
+        "Total": "28F",
+        "Frame Adv.": "-4/0"
+      }
+    ]
+  },
+  {
+    "char": "Suika",
+    "name": "3A",
+    "type": "normal",
+    "img": "./images/Suika/175px-Suika_3A.png",
+    "data": [
+      {
+        "Version": "Uncharged",
+        "Damage": "900",
+        "Limit": "40%",
+        "Rate": "85%",
+        "Modifier": "Rift",
+        "Cancel": "B C Sk Sp",
+        "Guard": "L",
+        "Startup": "19F",
+        "Active": "12F",
+        "Total": "54F",
+        "Frame Adv.": "-14/-8"
+      },
+      {
+        "Version": "Charged",
+        "Damage": "1100",
+        "Limit": "40%",
+        "Rate": "85%",
+        "Modifier": "Rift",
+        "Cancel": "Sp",
+        "Guard": "L*",
+        "Startup": "34F",
+        "Active": "12F",
+        "Total": "69F",
+        "Frame Adv.": "-8/+14"
+      }
+    ]
+  },
+  {
+    "char": "Suika",
+    "name": "6A",
+    "type": "normal",
+    "img": "./images/Suika/175px-Suika_6A.png",
+    "data": [
+      {
+        "Version": "Uncharged",
+        "Damage": "1000",
+        "Limit": "40%",
+        "Rate": "85%",
+        "Modifier": "Smash",
+        "Cancel": "B C Sk Sp",
+        "Guard": "H",
+        "Startup": "18F",
+        "Active": "15F",
+        "Total": "50",
+        "Frame Adv.": "-11/-5"
+      },
+      {
+        "Version": "Charged",
+        "Damage": "1150",
+        "Limit": "40%",
+        "Rate": "20%",
+        "Modifier": "Smash",
+        "Cancel": "Sp",
+        "Guard": "H*",
+        "Startup": "33F",
+        "Active": "14F",
+        "Total": "65F",
+        "Frame Adv.": "-5/+17"
+      }
+    ]
+  },
+  {
+    "char": "Suika",
+    "name": "66A",
+    "type": "normal",
+    "img": "./images/Suika/175px-Suika_66A_first.png",
+    "data": [
+      {
+        "Version": "1st hit",
+        "Damage": "450",
+        "Limit": "0%",
+        "Rate": "90%",
+        "Modifier": "Rift",
+        "Cancel": "Sk Sp",
+        "Guard": "HL",
+        "Startup": "14F",
+        "Active": "2F",
+        "Total": "62F",
+        "Frame Adv.": "-10"
+      },
+      {
+        "Version": "2nd hit",
+        "Damage": "700",
+        "Limit": "40%",
+        "Rate": "80%",
+        "Modifier": "Rift",
+        "Cancel": "Sk Sp",
+        "Guard": "H",
+        "Startup": "31F",
+        "Active": "3F",
+        "Total": "62F",
+        "Frame Adv.": "-4"
+      }
+    ]
+  },
+  {
+    "char": "Suika",
+    "name": "66B",
+    "type": "normal",
+    "img": "./images/Suika/175px-Suika_66B.png",
+    "data": [
+      {
+        "Damage": "500",
+        "Limit": "15%",
+        "Rate": "92%",
+        "Modifier": "Rift",
+        "Cancel": "Sp",
+        "Guard": "L",
+        "Startup": "18F",
+        "Active": "18F",
+        "Total": "59F",
+        "Frame Adv.": "-8/-2"
+      }
+    ]
+  },
+  {
+    "char": "Suika",
+    "name": "66C",
+    "type": "normal",
+    "img": "./images/Suika/175px-Suika_66C.png",
+    "data": [
+      {
+        "Damage": "900",
+        "Limit": "40%",
+        "Rate": "75%",
+        "Modifier": "Smash",
+        "Cancel": "Sk Sp",
+        "Guard": "H",
+        "Startup": "21F",
+        "Active": "29F",
+        "Total": "57F",
+        "Frame Adv.": "-27/-21"
+      }
+    ]
+  },
+  {
+    "char": "Suika",
+    "name": "j5A",
+    "type": "normal",
+    "img": "./images/Suika/175px-Suika_j5a.png",
+    "data": [
+      {
+        "Damage": "600",
+        "Limit": "0%",
+        "Rate": "90%",
+        "Modifier": "-",
+        "Cancel": "Cn B C Sk Sp",
+        "Guard": "H",
+        "Startup": "9F",
+        "Active": "20F",
+        "Total": "42F",
+        "Frame Adv.": "-18/-14"
+      }
+    ]
+  },
+  {
+    "char": "Suika",
+    "name": "j2A",
+    "type": "normal",
+    "img": "./images/Suika/175px-Suika_j2a_first.png",
+    "data": [
+      {
+        "Damage": "400/1000",
+        "Limit": "0%/40%",
+        "Rate": "90%/80%",
+        "Modifier": "Smash",
+        "Cancel": "C B Sk Sp",
+        "Guard": "H",
+        "Startup": "13F/15F",
+        "Active": "2F/2F",
+        "Total": "60F",
+        "Frame Adv.": "-24/-18"
+      }
+    ]
+  },
+  {
+    "char": "Suika",
+    "name": "j6A",
+    "type": "normal",
+    "img": "./images/Suika/175px-Suika_j6a.png",
+    "data": [
+      {
+        "Damage": "1200",
+        "Limit": "40%",
+        "Rate": "85%",
+        "Modifier": "Smash",
+        "Cancel": "B C Sk Sp",
+        "Guard": "H",
+        "Startup": "12F",
+        "Active": "9F",
+        "Total": "63F",
+        "Frame Adv.": "-30/-24"
+      }
+    ]
+  },
+  {
+    "char": "Suika",
+    "name": "j8A",
+    "type": "normal",
+    "img": "./images/Suika/175px-Suika_j8a.png",
+    "data": [
+      {
+        "Damage": "250",
+        "Limit": "5%",
+        "Rate": "98%",
+        "Modifier": "Rift",
+        "Cancel": "B C Sk Sp",
+        "Guard": "H",
+        "Startup": "13F",
+        "Active": "23F",
+        "Total": "60F",
+        "Frame Adv.": "-"
+      }
+    ]
+  },
+  {
+    "char": "Suika",
+    "name": "5B",
+    "type": "bullet",
+    "img": "./images/Suika/175px-Suik5b.jpg",
+    "data": [
+      {
+        "Version": "Uncharged",
+        "Damage": "400",
+        "Limit": "10%",
+        "Rate": "90%",
+        "Modifier": "-",
+        "Cancel": "C Sk Sp M",
+        "Density": "C3",
+        "Graze": "-",
+        "Startup": "15F",
+        "Motion": "27F",
+        "Total": "42F",
+        "Frame Adv.": "-12[+3]",
+        "Spirit": "0.5"
+      },
+      {
+        "Version": "Charged",
+        "Damage": "400",
+        "Limit": "10%",
+        "Rate": "90%",
+        "Modifier": "-",
+        "Cancel": "C Sk Sp M",
+        "Density": "C3x3",
+        "Graze": "-",
+        "Startup": "30F",
+        "Motion": "55F",
+        "Total": "81F",
+        "Frame Adv.": "+12[+14]",
+        "Spirit": "0.5"
+      }
+    ]
+  },
+  {
+    "char": "Suika",
+    "name": "2B",
+    "type": "bullet",
+    "img": "./images/Suika/175px-Suika_2B.png",
+    "data": [
+      {
+        "Version": "Uncharged",
+        "Damage": "1100",
+        "Limit": "40%",
+        "Rate": "85%",
+        "Modifier": "Rift",
+        "Cancel": "C Sk Sp",
+        "Guard": "HL",
+        "Startup": "16F",
+        "Active": "2F",
+        "Total": "43F",
+        "Frame Adv.": "-6"
+      },
+      {
+        "Version": "Charged",
+        "Damage": "1100",
+        "Limit": "40%",
+        "Rate": "80%",
+        "Modifier": "Rift",
+        "Cancel": "C Sk Sp",
+        "Guard": "L",
+        "Startup": "36F",
+        "Active": "2F",
+        "Total": "63F",
+        "Frame Adv.": "-6/0"
+      }
+    ]
+  },
+  {
+    "char": "Suika",
+    "name": "6B",
+    "type": "bullet",
+    "img": "./images/Suika/175px-Suik6b.jpg",
+    "data": [
+      {
+        "Version": "Fireball",
+        "Damage": "100",
+        "Limit": "0%",
+        "Rate": "98%",
+        "Modifier": "-",
+        "Cancel": "C Sk Sp M",
+        "Density": "C1",
+        "Graze": "1F",
+        "Startup": "18F",
+        "Motion": "30F",
+        "Total": "45F",
+        "Frame Adv.": "-5[+10]",
+        "Spirit": "0"
+      },
+      {
+        "Version": "Explosion",
+        "Damage": "750",
+        "Limit": "40%",
+        "Rate": "85%",
+        "Modifier": "-",
+        "Cancel": "C Sk Sp M",
+        "Density": "B1",
+        "Graze": "1F",
+        "Startup": "18F",
+        "Motion": "30F",
+        "Total": "45F",
+        "Frame Adv.": "-5[+10]",
+        "Spirit": "1.0"
+      }
+    ]
+  },
+  {
+    "char": "Suika",
+    "name": "5C",
+    "type": "bullet",
+    "img": "./images/Suika/175px-Suik5c.jpg",
+    "data": [
+      {
+        "Damage": "150",
+        "Limit": "2%",
+        "Rate": "98%",
+        "Modifier": "-",
+        "Cancel": "Sk Sp M",
+        "Density": "C1x18",
+        "Graze": "1F",
+        "Startup": "52F",
+        "Motion": "36F",
+        "Total": "51F",
+        "Frame Adv.": "+16[+31]",
+        "Spirit": "0.125"
+      }
+    ]
+  },
+  {
+    "char": "Suika",
+    "name": "2C",
+    "type": "bullet",
+    "img": "./images/Suika/175px-Suik2c.jpg",
+    "data": [
+      {
+        "Damage": "150",
+        "Limit": "2%",
+        "Rate": "98%",
+        "Modifier": "-",
+        "Cancel": "Sk Sp M",
+        "Density": "C1x18",
+        "Graze": "1F",
+        "Startup": "41F",
+        "Motion": "22F",
+        "Total": "42F",
+        "Frame Adv.": "-",
+        "Spirit": "0.125"
+      }
+    ]
+  },
+  {
+    "char": "Suika",
+    "name": "6C",
+    "type": "bullet",
+    "img": "./images/Suika/175px-Suik6c.jpg",
+    "data": [
+      {
+        "Damage": "150",
+        "Limit": "2%",
+        "Rate": "98%",
+        "Modifier": "-",
+        "Cancel": "Sk Sp M",
+        "Density": "C1x18",
+        "Graze": "1F",
+        "Startup": "52F",
+        "Motion": "36F",
+        "Total": "51F",
+        "Frame Adv.": "+16[+31]",
+        "Spirit": "0.125"
+      }
+    ]
+  },
+  {
+    "char": "Suika",
+    "name": "j5C",
+    "type": "bullet",
+    "img": "./images/Suika/175px-Suikj5c.jpg",
+    "data": [
+      {
+        "Damage": "150",
+        "Limit": "2%",
+        "Rate": "98%",
+        "Modifier": "-",
+        "Cancel": "Sk Sp",
+        "Density": "C1x18",
+        "Graze": "1F",
+        "Startup": "52F",
+        "Motion": "31F",
+        "Total": "51F",
+        "Frame Adv.": "+16[+36]",
+        "Spirit": "0.125"
+      }
+    ]
+  },
+  {
+    "char": "Suika",
+    "name": "j6C",
+    "type": "bullet",
+    "img": "./images/Suika/175px-Suikj6c.jpg",
+    "data": [
+      {
+        "Damage": "150",
+        "Limit": "2%",
+        "Rate": "98%",
+        "Modifier": "-",
+        "Cancel": "Sk Sp",
+        "Density": "C1x18",
+        "Graze": "1F",
+        "Startup": "52F",
+        "Motion": "31F",
+        "Total": "51F",
+        "Frame Adv.": "+16[+36]",
+        "Spirit": "0.125"
+      }
+    ]
+  },
+  {
+    "char": "Suika",
+    "name": "Spectre -Dense-",
+    "type": "skill",
+    "img": "./images/Suika/Ib236bc1.png",
+    "data": [
+      {
+        "Version": "Punch",
+        "Damage": "1200",
+        "Limit": "40%",
+        "Rate": "80%",
+        "Modifier": "Smash",
+        "Cancel": "Sp",
+        "Guard": "HL",
+        "Startup": "25F",
+        "Active": "3F",
+        "Total": "58F",
+        "Frame Adv.": "-8",
+        "Spirit": "-"
+      },
+      {
+        "Version": "Explosions",
+        "Damage": "300",
+        "Limit": "10%",
+        "Rate": "92%",
+        "Modifier": "Rift",
+        "Cancel": "Sp",
+        "Guard": "-",
+        "Startup": "-",
+        "Active": "23,28,33,38F",
+        "Total": "No",
+        "Frame Adv.": "58F",
+        "Spirit": "0.125"
+      }
+    ]
+  },
+  {
+    "char": "Suika",
+    "name": "Gnome -Dense-",
+    "type": "skill",
+    "img": "./images/Suika/Ib623bc1.png",
+    "data": [
+      {
+        "Version": "Dive B",
+        "Damage": "600",
+        "Limit": "0%",
+        "Rate": "90%",
+        "Modifier": "-",
+        "Cancel": "Sp",
+        "Guard": "HL",
+        "Startup": "31F",
+        "Active": "10F",
+        "Total": "84F",
+        "Frame Adv.": "-13"
+      },
+      {
+        "Version": "Dive C",
+        "Damage": "600",
+        "Limit": "0%",
+        "Rate": "90%",
+        "Modifier": "-",
+        "Cancel": "Sp",
+        "Guard": "HL",
+        "Startup": "31F",
+        "Active": "10F",
+        "Total": "89F",
+        "Frame Adv.": "-13"
+      },
+      {
+        "Version": "Version",
+        "Damage": "Damage",
+        "Limit": "Limit",
+        "Rate": "Rate",
+        "Modifier": "Modifier",
+        "Cancel": "Cancel",
+        "Guard": "Density",
+        "Startup": "Graze",
+        "Active": "Startup",
+        "Total": "Motion",
+        "Frame Adv.": "Total",
+        "undefined": "Spirit"
+      },
+      {
+        "Version": "Spike B",
+        "Damage": "1000",
+        "Limit": "40%",
+        "Rate": "85%",
+        "Modifier": "Rift",
+        "Cancel": "Sp",
+        "Guard": "-",
+        "Startup": "-",
+        "Active": "41F",
+        "Total": "-",
+        "Frame Adv.": "84F",
+        "undefined": "0"
+      },
+      {
+        "Version": "Spike C",
+        "Damage": "1000",
+        "Limit": "40%",
+        "Rate": "85%",
+        "Modifier": "Rift",
+        "Cancel": "Sp",
+        "Guard": "-",
+        "Startup": "-",
+        "Active": "46F",
+        "Total": "-",
+        "Frame Adv.": "89F",
+        "undefined": "0"
+      }
+    ]
+  },
+  {
+    "char": "Suika",
+    "name": "Spectre -Thin-",
+    "type": "skill",
+    "img": "./images/Suika/Ib214bc1.png",
+    "data": [
+      {
+        "Version": "Ground B",
+        "Damage": "200",
+        "Limit": "5%",
+        "Rate": "94%",
+        "Modifier": "-",
+        "Cancel": "Sp M",
+        "Density": "-",
+        "Graze": "-",
+        "Startup": "32F",
+        "Motion": "37F",
+        "Total": "51F",
+        "Frame Adv.": "+5 [+20]",
+        "Spirit": "0.125"
+      },
+      {
+        "Version": "Air B (Lv1+)",
+        "Damage": "200",
+        "Limit": "5%",
+        "Rate": "94%",
+        "Modifier": "-",
+        "Cancel": "Sp M",
+        "Density": "-",
+        "Graze": "-",
+        "Startup": "32F",
+        "Motion": "37F",
+        "Total": "54(14)F",
+        "Frame Adv.": "-3 [+12]",
+        "Spirit": "0.125"
+      },
+      {
+        "Version": "Ground C",
+        "Damage": "200",
+        "Limit": "5%",
+        "Rate": "94%",
+        "Modifier": "-",
+        "Cancel": "Sp M",
+        "Density": "-",
+        "Graze": "-",
+        "Startup": "24F",
+        "Motion": "37F",
+        "Total": "51F",
+        "Frame Adv.": "[+20]",
+        "Spirit": "0.125"
+      },
+      {
+        "Version": "Air C (Lv1+)",
+        "Damage": "200",
+        "Limit": "5%",
+        "Rate": "94%",
+        "Modifier": "-",
+        "Cancel": "Sp M",
+        "Density": "-",
+        "Graze": "-",
+        "Startup": "24F",
+        "Motion": "37F",
+        "Total": "54(14)F",
+        "Frame Adv.": "[+12]",
+        "Spirit": "0.125"
+      }
+    ]
+  },
+  {
+    "char": "Suika",
+    "name": "Gathering Oni",
+    "type": "skill",
+    "img": "./images/Suika/Ib22bc1.png",
+    "data": [
+      {
+        "Version": "B/C",
+        "Damage": "-",
+        "Limit": "-",
+        "Rate": "-",
+        "Modifier": "-",
+        "Cancel": "Sp M",
+        "Density": "-",
+        "Graze": "-",
+        "Startup": "-",
+        "Motion": "27F",
+        "Total": "41F",
+        "Frame Adv.": "-",
+        "Spirit": "-"
+      }
+    ]
+  },
+  {
+    "char": "Suika",
+    "name": "Oni Spirit Bomb",
+    "type": "skill",
+    "img": "./images/Suika/Ib236bc2.png",
+    "data": [
+      {
+        "Version": "Ground B/C",
+        "Damage": "880/1320/2200",
+        "Limit": "40/40/80%",
+        "Rate": "85/80/75%",
+        "Modifier": "Smash",
+        "Cancel": "Sp M",
+        "Density": "-",
+        "Graze": "-",
+        "Startup": "17/55/111F",
+        "Motion": "32F",
+        "Total": "65/107/165F",
+        "Frame Adv.": "-26 [+9]",
+        "Spirit": "1"
+      },
+      {
+        "Version": "Air B/C",
+        "Damage": "880/1320/2200",
+        "Limit": "40/40/80%",
+        "Rate": "85/80/75%",
+        "Modifier": "Smash",
+        "Cancel": "Sp M",
+        "Density": "-",
+        "Graze": "-",
+        "Startup": "17/55/111F",
+        "Motion": "32F",
+        "Total": "68(13)/110/168F",
+        "Frame Adv.": "-",
+        "Spirit": "1"
+      }
+    ]
+  },
+  {
+    "char": "Suika",
+    "name": "Foot Bellows",
+    "type": "skill",
+    "img": "./images/Suika/Ib236bc3.png",
+    "data": [
+      {
+        "Version": "B",
+        "Damage": "1485",
+        "Limit": "40%",
+        "Rate": "70%",
+        "Modifier": "Smash",
+        "Cancel": "Sp",
+        "Guard": "L",
+        "Startup": "31",
+        "Active": "4",
+        "Total": "63",
+        "Frame Adv.": "-5/-1"
+      },
+      {
+        "Version": "C",
+        "Damage": "1485",
+        "Limit": "40%",
+        "Rate": "70%",
+        "Modifier": "Smash",
+        "Cancel": "Sp",
+        "Guard": "L",
+        "Startup": "33",
+        "Active": "4",
+        "Total": "65",
+        "Frame Adv.": "-5/-1"
+      }
+    ]
+  },
+  {
+    "char": "Suika",
+    "name": "Gnome -Thin-",
+    "type": "skill",
+    "img": "./images/Suika/Ib623bc2.png",
+    "data": [
+      {
+        "Version": "B earthquake",
+        "Damage": "550",
+        "Limit": "40%",
+        "Rate": "85%",
+        "Modifier": "Rift",
+        "Cancel": "Sp",
+        "Guard": "L",
+        "Startup": "23F",
+        "Active": "3F",
+        "Total": "55F",
+        "Frame Adv.": "-11/-10"
+      },
+      {
+        "Version": "C earthquake",
+        "Damage": "550",
+        "Limit": "40%",
+        "Rate": "85%",
+        "Modifier": "Rift",
+        "Cancel": "Sp",
+        "Guard": "L",
+        "Startup": "33F",
+        "Active": "3F",
+        "Total": "70F",
+        "Frame Adv.": "-15/-15"
+      },
+      {
+        "Version": "Version",
+        "Damage": "Damage",
+        "Limit": "Limit",
+        "Rate": "Rate",
+        "Modifier": "Modifier",
+        "Cancel": "Cancel",
+        "Guard": "Density",
+        "Startup": "Graze",
+        "Active": "Startup",
+        "Total": "Motion",
+        "Frame Adv.": "Total",
+        "undefined": "Spirit"
+      },
+      {
+        "Version": "B wisps",
+        "Damage": "330",
+        "Limit": "5%",
+        "Rate": "94%",
+        "Modifier": "Rift",
+        "Cancel": "Sp",
+        "Guard": "-",
+        "Startup": "-",
+        "Active": "20F",
+        "Total": "-",
+        "Frame Adv.": "55",
+        "undefined": "-"
+      },
+      {
+        "Version": "C wisps",
+        "Damage": "330",
+        "Limit": "5%",
+        "Rate": "94%",
+        "Modifier": "Rift",
+        "Cancel": "Sp",
+        "Guard": "-",
+        "Startup": "-",
+        "Active": "30F",
+        "Total": "-",
+        "Frame Adv.": "70F",
+        "undefined": "-"
+      }
+    ]
+  },
+  {
+    "char": "Suika",
+    "name": "Fire Oni",
+    "type": "skill",
+    "img": "./images/Suika/Ib623bc3.png",
+    "data": [
+      {
+        "Version": "B",
+        "Damage": "880",
+        "Limit": "40%",
+        "Rate": "80%",
+        "Modifier": "Rift",
+        "Cancel": "Sp M",
+        "Density": "-",
+        "Graze": "-",
+        "Startup": "21F",
+        "Motion": "39F",
+        "Total": "85F",
+        "Frame Adv.": "-34 [+13]",
+        "Spirit": "1"
+      },
+      {
+        "Version": "C",
+        "Damage": "880",
+        "Limit": "40%",
+        "Rate": "80%",
+        "Modifier": "Rift",
+        "Cancel": "Sp M",
+        "Density": "-",
+        "Graze": "-",
+        "Startup": "21F",
+        "Motion": "39F",
+        "Total": "85F",
+        "Frame Adv.": "-34 [+13]",
+        "Spirit": "1"
+      }
+    ]
+  },
+  {
+    "char": "Suika",
+    "name": "Unpleasant Mist",
+    "type": "skill",
+    "img": "./images/Suika/Ib214bc2.png",
+    "data": [
+      {
+        "Version": "B",
+        "Damage": "-",
+        "Limit": "-",
+        "Rate": "-",
+        "Modifier": "-",
+        "Cancel": "-",
+        "Density": "-",
+        "Graze": "-",
+        "Startup": "-",
+        "Motion": "-",
+        "Total": "69F",
+        "Frame Adv.": "-",
+        "Spirit": "-"
+      },
+      {
+        "Version": "C",
+        "Damage": "-",
+        "Limit": "-",
+        "Rate": "-",
+        "Modifier": "-",
+        "Cancel": "-",
+        "Density": "-",
+        "Graze": "-",
+        "Startup": "-",
+        "Motion": "-",
+        "Total": "79F",
+        "Frame Adv.": "-",
+        "Spirit": "-"
+      }
+    ]
+  },
+  {
+    "char": "Suika",
+    "name": "Ignis Fatuus",
+    "type": "skill",
+    "img": "./images/Suika/Ib214bc3.png",
+    "data": [
+      {
+        "Version": "B",
+        "Damage": "440",
+        "Limit": "15%",
+        "Rate": "92%",
+        "Modifier": "Rift",
+        "Cancel": "Sp M",
+        "Density": "-",
+        "Graze": "-",
+        "Startup": "23, 28F",
+        "Motion": "40F",
+        "Total": "69F",
+        "Frame Adv.": "-25 [+10]",
+        "Spirit": "0.5"
+      },
+      {
+        "Version": "C",
+        "Damage": "440",
+        "Limit": "15%",
+        "Rate": "92%",
+        "Modifier": "Rift",
+        "Cancel": "Sp M",
+        "Density": "-",
+        "Graze": "-",
+        "Startup": "30, 35, 40, 45F",
+        "Motion": "57F",
+        "Total": "79F",
+        "Frame Adv.": "-25 [+10]",
+        "Spirit": "0.5"
+      }
+    ]
+  },
+  {
+    "char": "Suika",
+    "name": "Thin Oni",
+    "type": "skill",
+    "img": "./images/Suika/Ib22bc2.png",
+    "data": [
+      {
+        "Version": "B/C",
+        "Damage": "132",
+        "Limit": "5%",
+        "Rate": "96%",
+        "Modifier": "-",
+        "Cancel": "Sp M",
+        "Density": "-",
+        "Graze": "-",
+        "Startup": "54, 59, ...124F",
+        "Motion": "27F",
+        "Total": "41F",
+        "Frame Adv.": "-25 [+10]",
+        "Spirit": "0.5"
+      },
+      {
+        "Version": "Charged B/C",
+        "Damage": "132",
+        "Limit": "5%",
+        "Rate": "96%",
+        "Modifier": "-",
+        "Cancel": "Sp M",
+        "Density": "-",
+        "Graze": "-",
+        "Startup": "94, 99, ...226F",
+        "Motion": "67F",
+        "Total": "81F",
+        "Frame Adv.": "-25 [+10]",
+        "Spirit": "0.5"
+      }
+    ]
+  },
+  {
+    "char": "Suika",
+    "name": "Kidnapping Oni",
+    "type": "skill",
+    "img": "./images/Suika/Ib22bc3.png",
+    "data": [
+      {
+        "Version": "B",
+        "Damage": "1633",
+        "Limit": "0%",
+        "Rate": "74.2%",
+        "Modifier": "-",
+        "Cancel": "-",
+        "Guard": "Unblockable",
+        "Startup": "34",
+        "Active": "40",
+        "Total": "113",
+        "Frame Adv.": "-"
+      },
+      {
+        "Version": "C",
+        "Damage": "1633",
+        "Limit": "0%",
+        "Rate": "74.2%",
+        "Modifier": "-",
+        "Cancel": "-",
+        "Guard": "Unblockable",
+        "Startup": "45",
+        "Active": "40",
+        "Total": "124",
+        "Frame Adv.": "-"
+      }
+    ]
+  },
+  {
+    "char": "Suika",
+    "name": "Great Oni \"Missing Purple Power\"",
+    "type": "spell",
+    "img": "./images/Suika/Ibsc07.png",
+    "data": [
+      {
+        "Version": "Initial activation",
+        "Damage": "1500",
+        "Limit": "40%",
+        "Rate": "80%",
+        "Modifier": "Rift",
+        "Cancel": "-",
+        "Guard": "HLA",
+        "Startup": "2+20",
+        "Active": "3F",
+        "Total": "69F",
+        "Frame Adv.": "-28"
+      },
+      {
+        "Version": "5A",
+        "Damage": "2000",
+        "Limit": "40%",
+        "Rate": "50%",
+        "Modifier": "Smash",
+        "Cancel": "-",
+        "Guard": "Overhead",
+        "Startup": "22",
+        "Active": "2F",
+        "Total": "60F",
+        "Frame Adv.": "-11/hit"
+      },
+      {
+        "Version": "2A/2B/2C",
+        "Damage": "500",
+        "Limit": "10%",
+        "Rate": "94%",
+        "Modifier": "-",
+        "Cancel": "-",
+        "Guard": "HLA",
+        "Startup": "27,39,51,..",
+        "Active": "∞",
+        "Total": "-",
+        "Frame Adv.": "-32~-20"
+      },
+      {
+        "Version": "5B",
+        "Damage": "2000",
+        "Limit": "40%",
+        "Rate": "50%",
+        "Modifier": "Rift",
+        "Cancel": "-",
+        "Guard": "L*",
+        "Startup": "23",
+        "Active": "3F",
+        "Total": "77F",
+        "Frame Adv.": "-27/-5"
+      },
+      {
+        "Version": "5C",
+        "Damage": "2000",
+        "Limit": "40%",
+        "Rate": "50%",
+        "Modifier": "Rift",
+        "Cancel": "-",
+        "Guard": "H*",
+        "Startup": "26",
+        "Active": "2F",
+        "Total": "66F",
+        "Frame Adv.": "-14/+8"
+      },
+      {
+        "Version": "j5A",
+        "Damage": "2500",
+        "Limit": "40%",
+        "Rate": "50%",
+        "Modifier": "Smash",
+        "Cancel": "-",
+        "Guard": "Overhead",
+        "Startup": "23",
+        "Active": "20F",
+        "Total": "-",
+        "Frame Adv.": "-"
+      },
+      {
+        "Version": "j5B",
+        "Damage": "2500",
+        "Limit": "40%",
+        "Rate": "50%",
+        "Modifier": "Rift",
+        "Cancel": "-",
+        "Guard": "L (True)",
+        "Startup": "30",
+        "Active": "5F",
+        "Total": "-",
+        "Frame Adv.": "-15"
+      },
+      {
+        "Version": "j5C",
+        "Damage": "2000",
+        "Limit": "40%",
+        "Rate": "20%",
+        "Modifier": "Rift",
+        "Cancel": "-",
+        "Guard": "H",
+        "Startup": "15",
+        "Active": "24F",
+        "Total": "-",
+        "Frame Adv.": "-"
+      },
+      {
+        "Version": "Walk",
+        "Damage": "500",
+        "Limit": "20%",
+        "Rate": "94%",
+        "Modifier": "-",
+        "Cancel": "-",
+        "Guard": "HL",
+        "Startup": "58",
+        "Active": "7F",
+        "Total": "-",
+        "Frame Adv.": "-"
+      },
+      {
+        "Version": "Horn",
+        "Damage": "1500",
+        "Limit": "0%",
+        "Rate": "50%",
+        "Modifier": "Rift",
+        "Cancel": "R Cn B C M",
+        "Guard": "Unblockable",
+        "Startup": "29",
+        "Active": "14F",
+        "Total": "113F",
+        "Frame Adv.": "-"
+      },
+      {
+        "Version": "Jump",
+        "Damage": "500",
+        "Limit": "10%",
+        "Rate": "94%",
+        "Modifier": "Smash",
+        "Cancel": "-",
+        "Guard": "HL",
+        "Startup": "23",
+        "Active": "25F",
+        "Total": "113F",
+        "Frame Adv.": "-"
+      }
+    ]
+  }
+]

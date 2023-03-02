@@ -1,0 +1,728 @@
+[
+  {
+    "char": "Sanae",
+    "name": "4A",
+    "type": "normal",
+    "img": "./images/Sanae/175px-Sanae-5a.png",
+    "data": [
+      {
+        "Damage": "200",
+        "Limit": "0%",
+        "Rate": "98%",
+        "Modifier": "None",
+        "Cancel": "R Cn B C Sk Sp",
+        "Guard": "HL",
+        "Startup": "7F",
+        "Active": "2F",
+        "Total": "19F",
+        "Frame Adv.": "-3"
+      }
+    ]
+  },
+  {
+    "char": "Sanae",
+    "name": "5A",
+    "type": "normal",
+    "img": "./images/Sanae/175px-Sanae-5a.png",
+    "data": [
+      {
+        "Damage": "200",
+        "Limit": "0%",
+        "Rate": "98%",
+        "Modifier": "None",
+        "Cancel": "D Cn B C Sk Sp",
+        "Guard": "HL",
+        "Startup": "7F",
+        "Active": "2F",
+        "Total": "19F",
+        "Frame Adv.": "-3"
+      }
+    ]
+  },
+  {
+    "char": "Sanae",
+    "name": "5AA",
+    "type": "normal",
+    "img": "./images/Sanae/175px-Sanae-5a.png",
+    "data": [
+      {
+        "Damage": "200",
+        "Limit": "0%",
+        "Rate": "98%",
+        "Modifier": "None",
+        "Cancel": "D Cn B C Sk Sp",
+        "Guard": "HL",
+        "Startup": "7F",
+        "Active": "2F",
+        "Total": "19F",
+        "Frame Adv.": "-3"
+      }
+    ]
+  },
+  {
+    "char": "Sanae",
+    "name": "5AAA",
+    "type": "normal",
+    "img": "./images/Sanae/175px-Sanae-5aaa.png",
+    "data": [
+      {
+        "Damage": "500",
+        "Limit": "0%",
+        "Rate": "92%",
+        "Modifier": "None",
+        "Cancel": "D Cn B C Sk Sp",
+        "Guard": "H",
+        "Startup": "10F",
+        "Active": "2F",
+        "Total": "28F",
+        "Frame Adv.": "-3/+1"
+      }
+    ]
+  },
+  {
+    "char": "Sanae",
+    "name": "5AAAA",
+    "type": "normal",
+    "img": "./images/Sanae/175px-Sanae-5aaaa.PNG",
+    "data": [
+      {
+        "Damage": "800",
+        "Limit": "40%",
+        "Rate": "80%",
+        "Modifier": "Smash",
+        "Cancel": "Sp",
+        "Guard": "H",
+        "Startup": "17F",
+        "Active": "6F",
+        "Total": "45F",
+        "Frame Adv.": "-7/-1"
+      }
+    ]
+  },
+  {
+    "char": "Sanae",
+    "name": "f5A",
+    "type": "normal",
+    "img": "./images/Sanae/175px-Sanae-f5a.png",
+    "data": [
+      {
+        "Damage": "500",
+        "Limit": "0%",
+        "Rate": "92%",
+        "Modifier": "None",
+        "Cancel": "Cn B C Sk Sp",
+        "Guard": "L",
+        "Startup": "11F",
+        "Active": "2F",
+        "Total": "30F",
+        "Frame Adv.": "-4/+0"
+      }
+    ]
+  },
+  {
+    "char": "Sanae",
+    "name": "2A",
+    "type": "normal",
+    "img": "./images/Sanae/175px-Sanae-2a.png",
+    "data": [
+      {
+        "Damage": "450",
+        "Limit": "0%",
+        "Rate": "92%",
+        "Modifier": "None",
+        "Cancel": "Cn B C Sk Sp",
+        "Guard": "L",
+        "Startup": "9F",
+        "Active": "2F",
+        "Total": "26F",
+        "Frame Adv.": "-2/+2"
+      }
+    ]
+  },
+  {
+    "char": "Sanae",
+    "name": "6A",
+    "type": "normal",
+    "img": "./images/Sanae/175px-Sanae6a.png",
+    "data": [
+      {
+        "Version": "Uncharged",
+        "Damage": "650",
+        "Limit": "40%",
+        "Rate": "90%",
+        "Modifier": "Smash",
+        "Cancel": "B C Sk Sp",
+        "Guard": "H",
+        "Startup": "16F",
+        "Active": "3F",
+        "Total": "43F",
+        "Frame Adv.": "-6/0"
+      },
+      {
+        "Version": "Charged",
+        "Damage": "800",
+        "Limit": "40%",
+        "Rate": "85%",
+        "Modifier": "Smash",
+        "Cancel": "Sp",
+        "Guard": "H*",
+        "Startup": "31F",
+        "Active": "3F",
+        "Total": "58F",
+        "Frame Adv.": "+0/+22"
+      }
+    ]
+  },
+  {
+    "char": "Sanae",
+    "name": "3A",
+    "type": "normal",
+    "img": "./images/Sanae/175px-Sanae3a.png",
+    "data": [
+      {
+        "Version": "Uncharged",
+        "Damage": "650",
+        "Limit": "40%",
+        "Rate": "90%",
+        "Modifier": "Rift",
+        "Cancel": "B C Sk Sp",
+        "Guard": "L",
+        "Startup": "17F",
+        "Active": "12F",
+        "Total": "56F",
+        "Frame Adv.": "-18/-12"
+      },
+      {
+        "Version": "Charged",
+        "Damage": "800",
+        "Limit": "40%",
+        "Rate": "85%",
+        "Modifier": "Rift",
+        "Cancel": "Sp",
+        "Guard": "L*",
+        "Startup": "32F",
+        "Active": "16F",
+        "Total": "75F",
+        "Frame Adv.": "-16/+6"
+      }
+    ]
+  },
+  {
+    "char": "Sanae",
+    "name": "66A",
+    "type": "normal",
+    "img": "./images/Sanae/175px-HBox_Sanae-66a.png",
+    "data": [
+      {
+        "Damage": "400",
+        "Limit": "92%",
+        "Rate": "0%",
+        "Modifier": "None",
+        "Cancel": "Sk Sp",
+        "Guard": "H",
+        "Startup": "14F",
+        "Active": "2F",
+        "Total": "34F",
+        "Frame Adv.": "-5/-1"
+      }
+    ]
+  },
+  {
+    "char": "Sanae",
+    "name": "66B",
+    "type": "normal",
+    "img": "./images/Sanae/175px-Sanae-66b.png",
+    "data": [
+      {
+        "Damage": "750",
+        "Limit": "40%",
+        "Rate": "85%",
+        "Modifier": "Smash",
+        "Cancel": "Sp",
+        "Guard": "H",
+        "Startup": "15F",
+        "Active": "3F",
+        "Total": "51F",
+        "Frame Adv.": "-15/-9"
+      }
+    ]
+  },
+  {
+    "char": "Sanae",
+    "name": "66C",
+    "type": "normal",
+    "img": "./images/Sanae/175px-Sanae-66c1.png",
+    "data": [
+      {
+        "Damage": "650, 600",
+        "Limit": "20%, 20%",
+        "Rate": "90%, 90%",
+        "Modifier": "Smash, Rift",
+        "Cancel": "Sp",
+        "Guard": "H",
+        "Startup": "16F, 31F",
+        "Active": "2F, 4F",
+        "Total": "61F",
+        "Frame Adv.": "-9F/-3F"
+      }
+    ]
+  },
+  {
+    "char": "Sanae",
+    "name": "j5A",
+    "type": "normal",
+    "img": "./images/Sanae/175px-Sanae-j5a.png",
+    "data": [
+      {
+        "Damage": "450",
+        "Limit": "0%",
+        "Rate": "92%",
+        "Modifier": "None",
+        "Cancel": "Cn B C Sk Sp",
+        "Guard": "HA",
+        "Startup": "12F",
+        "Active": "3F",
+        "Total": "41F",
+        "Frame Adv.": "(-10)"
+      }
+    ]
+  },
+  {
+    "char": "Sanae",
+    "name": "j6A",
+    "type": "normal",
+    "img": "./images/Sanae/175px-Sanaej6a.png",
+    "data": [
+      {
+        "Damage": "850",
+        "Limit": "40%",
+        "Rate": "85%",
+        "Modifier": "Smash",
+        "Cancel": "B C Sk Sp",
+        "Guard": "HA",
+        "Startup": "13F",
+        "Active": "3F",
+        "Total": "47F",
+        "Frame Adv.": "(-15)"
+      }
+    ]
+  },
+  {
+    "char": "Sanae",
+    "name": "j8A",
+    "type": "normal",
+    "img": "./images/Sanae/175px-Sanae-j8a.png",
+    "data": [
+      {
+        "Damage": "800",
+        "Limit": "40%",
+        "Rate": "85%",
+        "Modifier": "Rift",
+        "Cancel": "B C Sk Sp",
+        "Guard": "HA",
+        "Startup": "13F",
+        "Active": "2F",
+        "Total": "43F",
+        "Frame Adv.": "(-11)"
+      }
+    ]
+  },
+  {
+    "char": "Sanae",
+    "name": "j2A",
+    "type": "normal",
+    "img": "./images/Sanae/175px-Sanaej2a.png",
+    "data": [
+      {
+        "Damage": "600",
+        "Limit": "20%",
+        "Rate": "85%",
+        "Modifier": "None",
+        "Cancel": "B C Sk Sp",
+        "Guard": "HA",
+        "Startup": "11F",
+        "Active": "40F",
+        "Total": "61F",
+        "Frame Adv.": "-10 (-12)/-4"
+      }
+    ]
+  },
+  {
+    "char": "Sanae",
+    "name": "5B",
+    "type": "normal",
+    "img": "./images/Sanae/175px-Sanae5b.png",
+    "data": [
+      {
+        "Version": "Uncharged",
+        "Damage": "0.1",
+        "Limit": "4%",
+        "Rate": "98%",
+        "Modifier": "None",
+        "Cancel": "C Sk Sp M",
+        "Density": "C1x8",
+        "Graze": "1F",
+        "Startup": "17F",
+        "Motion": "23F",
+        "Total": "51F",
+        "Frame Adv.": "-3F [+26F]"
+      },
+      {
+        "Version": "Charged",
+        "Damage": "0.1",
+        "Limit": "4%",
+        "Rate": "98%",
+        "Modifier": "None",
+        "Cancel": "C Sk Sp M",
+        "Density": "C1x20",
+        "Graze": "1F",
+        "Startup": "38F",
+        "Motion": "44F",
+        "Total": "72F",
+        "Frame Adv.": "0F [+29F]"
+      }
+    ]
+  },
+  {
+    "char": "Sanae",
+    "name": "2B",
+    "type": "normal",
+    "img": "./images/Sanae/175px-Sanae2b.png",
+    "data": [
+      {
+        "Version": "Uncharged",
+        "Damage": "0.1",
+        "Limit": "4%",
+        "Rate": "98%",
+        "Modifier": "None",
+        "Cancel": "C Sk Sp M",
+        "Density": "C1x10",
+        "Graze": "1F",
+        "Startup": "17F",
+        "Motion": "25F",
+        "Total": "56F",
+        "Frame Adv.": "-24F [+8F]"
+      },
+      {
+        "Version": "Charged",
+        "Damage": "0.1",
+        "Limit": "4%",
+        "Rate": "98%",
+        "Modifier": "None",
+        "Cancel": "C Sk Sp M",
+        "Density": "C1x22",
+        "Graze": "1F",
+        "Startup": "38F",
+        "Motion": "46F",
+        "Total": "77F",
+        "Frame Adv.": "-24F [+8F]"
+      }
+    ]
+  },
+  {
+    "char": "Sanae",
+    "name": "6B",
+    "type": "normal",
+    "img": "./images/Sanae/175px-Sanae6b.png",
+    "data": [
+      {
+        "Version": "Uncharged",
+        "Damage": "0.1",
+        "Limit": "4%",
+        "Rate": "98%",
+        "Modifier": "None",
+        "Cancel": "C Sk Sp M",
+        "Density": "C1x8",
+        "Graze": "1F",
+        "Startup": "17F",
+        "Motion": "23F",
+        "Total": "51F",
+        "Frame Adv.": "-3F [+26F]"
+      },
+      {
+        "Version": "Charged",
+        "Damage": "0.1",
+        "Limit": "4%",
+        "Rate": "98%",
+        "Modifier": "None",
+        "Cancel": "C Sk Sp M",
+        "Density": "C1x20",
+        "Graze": "1F",
+        "Startup": "38F",
+        "Motion": "44F",
+        "Total": "72F",
+        "Frame Adv.": "0F [+29F]"
+      }
+    ]
+  },
+  {
+    "char": "Sanae",
+    "name": "j5B",
+    "type": "normal",
+    "img": "./images/Sanae/175px-Sanaej5b.png",
+    "data": [
+      {
+        "Version": "Uncharged",
+        "Damage": "0.1",
+        "Limit": "4%",
+        "Rate": "98%",
+        "Modifier": "None",
+        "Cancel": "C Sk Sp M",
+        "Density": "C1x8",
+        "Graze": "1F",
+        "Startup": "17F",
+        "Motion": "27F",
+        "Total": "51F",
+        "Frame Adv.": "-"
+      },
+      {
+        "Version": "Charged",
+        "Damage": "0.1",
+        "Limit": "4%",
+        "Rate": "98%",
+        "Modifier": "None",
+        "Cancel": "C Sk Sp M",
+        "Density": "C1x20",
+        "Graze": "1F",
+        "Startup": "38F",
+        "Motion": "44F",
+        "Total": "72F",
+        "Frame Adv.": "-"
+      }
+    ]
+  },
+  {
+    "char": "Sanae",
+    "name": "j2B",
+    "type": "normal",
+    "img": "./images/Sanae/175px-Sanaej2b.png",
+    "data": [
+      {
+        "Version": "Uncharged",
+        "Damage": "0.1",
+        "Limit": "4%",
+        "Rate": "98%",
+        "Modifier": "None",
+        "Cancel": "C Sk Sp M",
+        "Density": "C1x8",
+        "Graze": "1F",
+        "Startup": "21F",
+        "Motion": "23F",
+        "Total": "55F",
+        "Frame Adv.": "-"
+      },
+      {
+        "Version": "Charged",
+        "Damage": "0.1",
+        "Limit": "4%",
+        "Rate": "98%",
+        "Modifier": "None",
+        "Cancel": "C Sk Sp M",
+        "Density": "C1x20",
+        "Graze": "1F",
+        "Startup": "42F",
+        "Motion": "48F",
+        "Total": "76F",
+        "Frame Adv.": "-"
+      }
+    ]
+  },
+  {
+    "char": "Sanae",
+    "name": "5C",
+    "type": "normal",
+    "img": "./images/Sanae/175px-Sanae5c.png",
+    "data": [
+      {
+        "Version": "Uncharged",
+        "Damage": "0.25, 0.25*4",
+        "Limit": "10%, 10%*4",
+        "Rate": "94%, 94%",
+        "Modifier": "Rift",
+        "Cancel": "Sk Sp M",
+        "Density": "B1x1, B4x1",
+        "Graze": "1F, ∞",
+        "Startup": "21F, 51F",
+        "Motion": "37F",
+        "Total": "64F",
+        "Frame Adv.": "-22F [+6F], +11F [+39F]"
+      },
+      {
+        "Version": "Charged",
+        "Damage": "0.25, 0.25*5",
+        "Limit": "10%, 7%*5",
+        "Rate": "94%",
+        "Modifier": "Rift",
+        "Cancel": "Sk Sp M",
+        "Density": "B1x1, B5x1",
+        "Graze": "1F, ∞",
+        "Startup": "37F, 67F",
+        "Motion": "53F",
+        "Total": "80F",
+        "Frame Adv.": "-22F [+6F], +12F [+40F]"
+      }
+    ]
+  },
+  {
+    "char": "Sanae",
+    "name": "2C",
+    "type": "normal",
+    "img": "./images/Sanae/175px-Sanae2c.png",
+    "data": [
+      {
+        "Damage": "0.5",
+        "Limit": "10%",
+        "Rate": "94%",
+        "Modifier": "None",
+        "Cancel": "Sk Sp M",
+        "Density": "B1x5",
+        "Graze": "5F",
+        "Startup": "24F",
+        "Motion": "38F",
+        "Total": "57F",
+        "Frame Adv.": "-"
+      }
+    ]
+  },
+  {
+    "char": "Sanae",
+    "name": "4C",
+    "type": "normal",
+    "img": "./images/Sanae/175px-Sanae4c.png",
+    "data": [
+      {
+        "Damage": "~0.15",
+        "Limit": "5%",
+        "Rate": "-",
+        "Modifier": "Rift",
+        "Cancel": "Sk Sp M",
+        "Density": "1HP",
+        "Graze": "-",
+        "Startup": "25F",
+        "Motion": "47F",
+        "Total": "80F",
+        "Frame Adv.": "-30F [+3F]"
+      }
+    ]
+  },
+  {
+    "char": "Sanae",
+    "name": "6C",
+    "type": "normal",
+    "img": "./images/Sanae/175px-Sanae6c.png",
+    "data": [
+      {
+        "Damage": "1",
+        "Limit": "40%",
+        "Rate": "-",
+        "Modifier": "Smash",
+        "Cancel": "Sk Sp M",
+        "Density": "B1x1",
+        "Graze": "1F",
+        "Startup": "20F",
+        "Motion": "39F",
+        "Total": "72F",
+        "Frame Adv.": "-31F [+3F]"
+      }
+    ]
+  },
+  {
+    "char": "Sanae",
+    "name": "j5C",
+    "type": "normal",
+    "img": "./images/Sanae/175px-Sanaej5c.png",
+    "data": [
+      {
+        "Version": "Uncharged",
+        "Damage": "0.25, 0.25*4",
+        "Limit": "10%, 10%*4",
+        "Rate": "94%, 94%",
+        "Modifier": "Rift",
+        "Cancel": "Sk Sp M",
+        "Density": "B1x1, B4x1",
+        "Graze": "1F, ∞",
+        "Startup": "21F, 51F",
+        "Motion": "37F",
+        "Total": "64F",
+        "Frame Adv.": "-22F [+6F], +11F [+39F]"
+      },
+      {
+        "Version": "Charged",
+        "Damage": "0.25, 0.25*4",
+        "Limit": "10%, 7%*5",
+        "Rate": "94%",
+        "Modifier": "Rift",
+        "Cancel": "Sk Sp M",
+        "Density": "B1x1, B5x1",
+        "Graze": "1F, ∞",
+        "Startup": "37F, 67F",
+        "Motion": "53F",
+        "Total": "80F",
+        "Frame Adv.": "-22F [+6F], +12F [+40F]"
+      }
+    ]
+  },
+  {
+    "char": "Sanae",
+    "name": "j2C",
+    "type": "normal",
+    "img": "./images/Sanae/175px-Sanaej2c.png",
+    "data": [
+      {
+        "Damage": "0.5",
+        "Limit": "10%",
+        "Rate": "94%",
+        "Modifier": "None",
+        "Cancel": "Sk Sp M",
+        "Density": "B1x5 (occasionally B1x7)",
+        "Graze": "5F",
+        "Startup": "23F",
+        "Motion": "37F",
+        "Total": "60F",
+        "Frame Adv.": "-"
+      }
+    ]
+  },
+  {
+    "char": "Sanae",
+    "name": "j4C",
+    "type": "normal",
+    "img": "./images/Sanae/175px-Sanaej4c.png",
+    "data": [
+      {
+        "Damage": "~0.15",
+        "Limit": "5%",
+        "Rate": "-",
+        "Modifier": "Rift",
+        "Cancel": "Sk Sp M",
+        "Density": "1HP",
+        "Graze": "-",
+        "Startup": "37F",
+        "Motion": "42F",
+        "Total": "65F",
+        "Frame Adv.": "-3F [+21F]"
+      }
+    ]
+  },
+  {
+    "char": "Sanae",
+    "name": "j6C",
+    "type": "normal",
+    "img": "./images/Sanae/175px-Sanaej6c.png",
+    "data": [
+      {
+        "Damage": "1",
+        "Limit": "40%",
+        "Rate": "80%",
+        "Modifier": "Smash",
+        "Cancel": "Sk Sp M",
+        "Density": "B1x1",
+        "Graze": "1F",
+        "Startup": "20F",
+        "Motion": "39F",
+        "Total": "72F",
+        "Frame Adv.": "-31F [+3F]"
+      }
+    ]
+  }
+]

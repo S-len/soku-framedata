@@ -1,0 +1,1540 @@
+[
+  {
+    "char": "Aya",
+    "name": "4A",
+    "type": "normal",
+    "img": "./images/Aya/175px-Aya5A.png",
+    "data": [
+      {
+        "Damage": "200",
+        "Limit": "0%",
+        "Rate": "95%",
+        "Modifier": "None",
+        "Cancel": "R Cn B C Sk Sp",
+        "Guard": "HL",
+        "Startup": "7F",
+        "Active": "2F",
+        "Total": "18F",
+        "Frame Adv.": "-1"
+      }
+    ]
+  },
+  {
+    "char": "Aya",
+    "name": "5A",
+    "type": "normal",
+    "img": "./images/Aya/175px-Aya5A.png",
+    "data": [
+      {
+        "Damage": "200",
+        "Limit": "0%",
+        "Rate": "95%",
+        "Modifier": "None",
+        "Cancel": "D Cn B C Sk Sp",
+        "Guard": "HL",
+        "Startup": "7F",
+        "Active": "2F",
+        "Total": "18F",
+        "Frame Adv.": "-1"
+      }
+    ]
+  },
+  {
+    "char": "Aya",
+    "name": "5AA",
+    "type": "normal",
+    "img": "./images/Aya/175px-Aya5A.png",
+    "data": [
+      {
+        "Damage": "200",
+        "Limit": "0%",
+        "Rate": "95%",
+        "Modifier": "None",
+        "Cancel": "D Cn B C Sk Sp",
+        "Guard": "HL",
+        "Startup": "7F",
+        "Active": "2F",
+        "Total": "18F",
+        "Frame Adv.": "-1"
+      }
+    ]
+  },
+  {
+    "char": "Aya",
+    "name": "5AAA",
+    "type": "normal",
+    "img": "./images/Aya/175px-Aya5AAA.png",
+    "data": [
+      {
+        "Damage": "400",
+        "Limit": "0%",
+        "Rate": "93%",
+        "Modifier": "None",
+        "Cancel": "D B C Sk Sp",
+        "Guard": "H",
+        "Startup": "10F",
+        "Active": "2F",
+        "Total": "27F",
+        "Frame Adv.": "-2/+2"
+      }
+    ]
+  },
+  {
+    "char": "Aya",
+    "name": "5AAAA",
+    "type": "normal",
+    "img": "./images/Aya/175px-Aya5AAAA.png",
+    "data": [
+      {
+        "Damage": "650",
+        "Limit": "40%",
+        "Rate": "85%",
+        "Modifier": "Smash",
+        "Cancel": "Sp",
+        "Guard": "H",
+        "Startup": "17F",
+        "Active": "3F",
+        "Total": "46F",
+        "Frame Adv.": "-8/-2"
+      }
+    ]
+  },
+  {
+    "char": "Aya",
+    "name": "f5A",
+    "type": "normal",
+    "img": "./images/Aya/175px-Ayaf5A.png",
+    "data": [
+      {
+        "Damage": "400",
+        "Limit": "0%",
+        "Rate": "93%",
+        "Modifier": "None",
+        "Cancel": "Cn B C Sk Sp",
+        "Guard": "H",
+        "Startup": "12F",
+        "Active": "2F",
+        "Total": "30F",
+        "Frame Adv.": "-3/+1"
+      }
+    ]
+  },
+  {
+    "char": "Aya",
+    "name": "2A",
+    "type": "normal",
+    "img": "./images/Aya/175px-Aya2A.png",
+    "data": [
+      {
+        "Damage": "200",
+        "Limit": "0%",
+        "Rate": "95%",
+        "Modifier": "None",
+        "Cancel": "R Cn B C Sk Sp",
+        "Guard": "L",
+        "Startup": "7F",
+        "Active": "2F",
+        "Total": "16F",
+        "Frame Adv.": "+0/+2"
+      }
+    ]
+  },
+  {
+    "char": "Aya",
+    "name": "6A",
+    "type": "normal",
+    "img": "./images/Aya/175px-Aya6A.png",
+    "data": [
+      {
+        "Version": "Uncharged",
+        "Damage": "650",
+        "Limit": "40%",
+        "Rate": "85%",
+        "Modifier": "Smash",
+        "Cancel": "B C Sk Sp",
+        "Guard": "H",
+        "Startup": "17F",
+        "Active": "2F",
+        "Total": "43F",
+        "Frame Adv.": "-5/+1"
+      },
+      {
+        "Version": "Charged",
+        "Damage": "800",
+        "Limit": "40%",
+        "Rate": "85%",
+        "Modifier": "Smash",
+        "Cancel": "Sp",
+        "Guard": "H*",
+        "Startup": "32F",
+        "Active": "4F",
+        "Total": "60F",
+        "Frame Adv.": "-1/+21"
+      }
+    ]
+  },
+  {
+    "char": "Aya",
+    "name": "3A",
+    "type": "normal",
+    "img": "./images/Aya/175px-Aya3A.png",
+    "data": [
+      {
+        "Version": "Uncharged",
+        "Damage": "650",
+        "Limit": "40%",
+        "Rate": "85%",
+        "Modifier": "Rift",
+        "Cancel": "B C Sk Sp",
+        "Guard": "L",
+        "Startup": "16F",
+        "Active": "2F",
+        "Total": "43F",
+        "Frame Adv.": "-6/+0"
+      },
+      {
+        "Version": "Charged",
+        "Damage": "900",
+        "Limit": "40%",
+        "Rate": "85%",
+        "Modifier": "Rift",
+        "Cancel": "Sp",
+        "Guard": "L*",
+        "Startup": "30F",
+        "Active": "5F",
+        "Total": "59F",
+        "Frame Adv.": "-2/+20"
+      }
+    ]
+  },
+  {
+    "char": "Aya",
+    "name": "66A or 6DA",
+    "type": "normal",
+    "img": "./images/Aya/175px-Aya66A.png",
+    "data": [
+      {
+        "Damage": "400",
+        "Limit": "0%",
+        "Rate": "93%",
+        "Modifier": "None",
+        "Cancel": "Sk Sp",
+        "Guard": "H",
+        "Startup": "11F",
+        "Active": "2F",
+        "Total": "31F",
+        "Frame Adv.": "-5/-1"
+      }
+    ]
+  },
+  {
+    "char": "Aya",
+    "name": "66B or 6DB",
+    "type": "normal",
+    "img": "./images/Aya/175px-Aya66B.png",
+    "data": [
+      {
+        "Damage": "650",
+        "Limit": "40%",
+        "Rate": "72.5%",
+        "Modifier": "Smash",
+        "Cancel": "Sp",
+        "Guard": "H",
+        "Startup": "17F",
+        "Active": "3F",
+        "Total": "41F",
+        "Frame Adv.": "-2/+4"
+      }
+    ]
+  },
+  {
+    "char": "Aya",
+    "name": "66C or 6DC",
+    "type": "normal",
+    "img": "./images/Aya/175px-Aya66C.png",
+    "data": [
+      {
+        "Damage": "700",
+        "Limit": "40%",
+        "Rate": "80%",
+        "Modifier": "Smash",
+        "Cancel": "Sp",
+        "Guard": "HA",
+        "Startup": "15F",
+        "Active": "8F",
+        "Total": "59F",
+        "Frame Adv.": "-23/-17F"
+      }
+    ]
+  },
+  {
+    "char": "Aya",
+    "name": "j5A",
+    "type": "normal",
+    "img": "./images/Aya/175px-Ayaj5Afix.png",
+    "data": [
+      {
+        "Damage": "350",
+        "Limit": "0%",
+        "Rate": "95%",
+        "Modifier": "None",
+        "Cancel": "Cn B C Sk Sp",
+        "Guard": "HA",
+        "Startup": "8F",
+        "Active": "6F",
+        "Total": "34F",
+        "Frame Adv.": "(-7)"
+      }
+    ]
+  },
+  {
+    "char": "Aya",
+    "name": "j6A",
+    "type": "normal",
+    "img": "./images/Aya/175px-Ayaj6A.png",
+    "data": [
+      {
+        "Damage": "600",
+        "Limit": "40%",
+        "Rate": "85%",
+        "Modifier": "Smash",
+        "Cancel": "B C Sk Sp",
+        "Guard": "HA",
+        "Startup": "13F",
+        "Active": "8F",
+        "Total": "52F",
+        "Frame Adv.": "(-20F)"
+      }
+    ]
+  },
+  {
+    "char": "Aya",
+    "name": "j8A",
+    "type": "normal",
+    "img": "./images/Aya/175px-Ayaj8A.png",
+    "data": [
+      {
+        "Damage": "600",
+        "Limit": "40%",
+        "Rate": "85%",
+        "Modifier": "Smash",
+        "Cancel": "B C Sk Sp",
+        "Guard": "HA",
+        "Startup": "11F",
+        "Active": "2F",
+        "Total": "45F",
+        "Frame Adv.": "(-18F)"
+      }
+    ]
+  },
+  {
+    "char": "Aya",
+    "name": "j2A",
+    "type": "normal",
+    "img": "./images/Aya/175px-Ayaj2a.png",
+    "data": [
+      {
+        "Damage": "800",
+        "Limit": "40%",
+        "Rate": "90%",
+        "Modifier": "Rift",
+        "Cancel": "Sp",
+        "Guard": "HA",
+        "Startup": "20F",
+        "Active": "Until Landing",
+        "Total": "- + 18F landing",
+        "Frame Adv.": "(instant air) +2F/+8F, see table"
+      }
+    ]
+  },
+  {
+    "char": "Aya",
+    "name": "5B",
+    "type": "bullet",
+    "img": "./images/Aya/175px-Aya5b.jpg",
+    "data": [
+      {
+        "Version": "Uncharged",
+        "Damage": "0.5",
+        "Limit": "10%",
+        "Rate": "92%",
+        "Modifier": "None",
+        "Cancel": "C Sk Sp M",
+        "Density": "C1x1",
+        "Graze": "1F",
+        "Startup": "13F",
+        "Motion": "19F",
+        "Total": "39F",
+        "Frame Adv.": "-11F [+9F]"
+      },
+      {
+        "Version": "Charged",
+        "Damage": "0.5",
+        "Limit": "10%",
+        "Rate": "92%",
+        "Modifier": "None",
+        "Cancel": "C Sk Sp M",
+        "Density": "C1x3",
+        "Graze": "1F",
+        "Startup": "28F",
+        "Motion": "34F",
+        "Total": "54F",
+        "Frame Adv.": "-11F [+9F]"
+      }
+    ]
+  },
+  {
+    "char": "Aya",
+    "name": "2B",
+    "type": "bullet",
+    "img": "./images/Aya/175px-Aya2b.jpg",
+    "data": [
+      {
+        "Damage": "0.5",
+        "Limit": "20%",
+        "Rate": "94%",
+        "Modifier": "None",
+        "Cancel": "C Sk Sp M",
+        "Density": "C1x1",
+        "Graze": "5F",
+        "Startup": "14F",
+        "Motion": "21F",
+        "Total": "50F",
+        "Frame Adv.": "-21F [+8F]"
+      }
+    ]
+  },
+  {
+    "char": "Aya",
+    "name": "6B",
+    "type": "bullet",
+    "img": "./images/Aya/175px-Aya6b.jpg",
+    "data": [
+      {
+        "Version": "Uncharged",
+        "Damage": "0.5",
+        "Limit": "10%",
+        "Rate": "92%",
+        "Modifier": "None",
+        "Cancel": "C Sk Sp M",
+        "Density": "C1x1",
+        "Graze": "1F",
+        "Startup": "13F",
+        "Motion": "19F",
+        "Total": "39F",
+        "Frame Adv.": "-11F [+9F]"
+      },
+      {
+        "Version": "Charged",
+        "Damage": "0.5",
+        "Limit": "10%",
+        "Rate": "92%",
+        "Modifier": "None",
+        "Cancel": "C Sk Sp M",
+        "Density": "C1x3",
+        "Graze": "1F",
+        "Startup": "28F",
+        "Motion": "34F",
+        "Total": "54F",
+        "Frame Adv.": "-11F [+9F]"
+      }
+    ]
+  },
+  {
+    "char": "Aya",
+    "name": "j5B",
+    "type": "bullet",
+    "img": "./images/Aya/175px-Ayaj5b.jpg",
+    "data": [
+      {
+        "Version": "Uncharged",
+        "Damage": "0.5",
+        "Limit": "10%",
+        "Rate": "92%",
+        "Modifier": "None",
+        "Cancel": "C Sk Sp M",
+        "Density": "C1x1",
+        "Graze": "1F",
+        "Startup": "13F",
+        "Motion": "19F",
+        "Total": "41F",
+        "Frame Adv.": "[+9F]"
+      },
+      {
+        "Version": "Charged",
+        "Damage": "0.5",
+        "Limit": "10%",
+        "Rate": "92%",
+        "Modifier": "None",
+        "Cancel": "C Sk Sp M",
+        "Density": "C1x3",
+        "Graze": "1F",
+        "Startup": "28F",
+        "Motion": "34F",
+        "Total": "56F",
+        "Frame Adv.": "[+9F]"
+      }
+    ]
+  },
+  {
+    "char": "Aya",
+    "name": "j2B",
+    "type": "bullet",
+    "img": "./images/Aya/175px-Ayaj2b.jpg",
+    "data": [
+      {
+        "Version": "Uncharged",
+        "Damage": "0.5",
+        "Limit": "40%",
+        "Rate": "90%",
+        "Modifier": "None",
+        "Cancel": "C Sk Sp M",
+        "Density": "C1x1",
+        "Graze": "1F",
+        "Startup": "13F",
+        "Motion": "19F",
+        "Total": "41F",
+        "Frame Adv.": "[+9F]"
+      },
+      {
+        "Version": "Charged",
+        "Damage": "0.5",
+        "Limit": "10%",
+        "Rate": "92%",
+        "Modifier": "None",
+        "Cancel": "C Sk Sp M",
+        "Density": "C1x3",
+        "Graze": "1F",
+        "Startup": "28F",
+        "Motion": "34F",
+        "Total": "56F",
+        "Frame Adv.": "[+9F]"
+      }
+    ]
+  },
+  {
+    "char": "Aya",
+    "name": "5C",
+    "type": "bullet",
+    "img": "./images/Aya/175px-Aya5c.jpg",
+    "data": [
+      {
+        "Version": "Uncharged",
+        "Damage": "1",
+        "Limit": "40%",
+        "Rate": "90%",
+        "Modifier": "Smash",
+        "Cancel": "Sk Sp M",
+        "Density": "C1x1",
+        "Graze": "5F",
+        "Startup": "21F",
+        "Motion": "30F",
+        "Total": "49F",
+        "Frame Adv.": "-7F [+12F]"
+      },
+      {
+        "Version": "Charged",
+        "Damage": "1",
+        "Limit": "40%",
+        "Rate": "90%",
+        "Modifier": "Smash",
+        "Cancel": "Sk Sp M",
+        "Density": "C1x2",
+        "Graze": "5F",
+        "Startup": "36F",
+        "Motion": "45F",
+        "Total": "69F",
+        "Frame Adv.": "-12F [+12F]"
+      }
+    ]
+  },
+  {
+    "char": "Aya",
+    "name": "2C",
+    "type": "bullet",
+    "img": "./images/Aya/175px-Aya2c.jpg",
+    "data": [
+      {
+        "Version": "Uncharged",
+        "Damage": "1",
+        "Limit": "40%",
+        "Rate": "90%",
+        "Modifier": "Smash",
+        "Cancel": "Sk Sp M",
+        "Density": "C1x1",
+        "Graze": "5F",
+        "Startup": "21F",
+        "Motion": "30F",
+        "Total": "49F",
+        "Frame Adv.": "-7F [+12F]"
+      },
+      {
+        "Version": "Charged",
+        "Damage": "1",
+        "Limit": "40%",
+        "Rate": "90%",
+        "Modifier": "Smash",
+        "Cancel": "Sk Sp M",
+        "Density": "C1x2",
+        "Graze": "5F",
+        "Startup": "36F",
+        "Motion": "45F",
+        "Total": "69F",
+        "Frame Adv.": "-12F [+12F]"
+      }
+    ]
+  },
+  {
+    "char": "Aya",
+    "name": "6C",
+    "type": "bullet",
+    "img": "./images/Aya/175px-Aya6c.jpg",
+    "data": [
+      {
+        "Damage": "1",
+        "Limit": "40%",
+        "Rate": "85%",
+        "Modifier": "Smash",
+        "Cancel": "Sk Sp M",
+        "Density": "B1x1",
+        "Graze": "10F",
+        "Startup": "21F",
+        "Motion": "30F",
+        "Total": "49F",
+        "Frame Adv.": "-7F [+`1F]"
+      }
+    ]
+  },
+  {
+    "char": "Aya",
+    "name": "j5C",
+    "type": "bullet",
+    "img": "./images/Aya/175px-Ayaj5c.jpg",
+    "data": [
+      {
+        "Version": "Uncharged",
+        "Damage": "1",
+        "Limit": "40%",
+        "Rate": "90%",
+        "Modifier": "Smash",
+        "Cancel": "Sk Sp M",
+        "Density": "C1x1",
+        "Graze": "5F",
+        "Startup": "21F",
+        "Motion": "30F",
+        "Total": "49F",
+        "Frame Adv.": "-7F [+12F]"
+      },
+      {
+        "Version": "Charged",
+        "Damage": "1",
+        "Limit": "40%",
+        "Rate": "90%",
+        "Modifier": "Smash",
+        "Cancel": "Sk Sp M",
+        "Density": "C1x2",
+        "Graze": "5F",
+        "Startup": "36F",
+        "Motion": "45F",
+        "Total": "70F",
+        "Frame Adv.": "-12F [+12F]"
+      }
+    ]
+  },
+  {
+    "char": "Aya",
+    "name": "j2C",
+    "type": "bullet",
+    "img": "./images/Aya/175px-Ayaj2c.jpg",
+    "data": [
+      {
+        "Version": "Uncharged",
+        "Damage": "1",
+        "Limit": "40%",
+        "Rate": "90%",
+        "Modifier": "Smash",
+        "Cancel": "Sk Sp M",
+        "Density": "C1x1",
+        "Graze": "5F",
+        "Startup": "21F",
+        "Motion": "30F",
+        "Total": "49F",
+        "Frame Adv.": "-7F [+12F]"
+      },
+      {
+        "Version": "Charged",
+        "Damage": "1",
+        "Limit": "40%",
+        "Rate": "90%",
+        "Modifier": "Smash",
+        "Cancel": "Sk Sp M",
+        "Density": "C1x2",
+        "Graze": "5F",
+        "Startup": "36F",
+        "Motion": "45F",
+        "Total": "69F",
+        "Frame Adv.": "-12F [+12F]"
+      }
+    ]
+  },
+  {
+    "char": "Aya",
+    "name": "j6C",
+    "type": "bullet",
+    "img": "./images/Aya/175px-Ayaj6c.jpg",
+    "data": [
+      {
+        "Damage": "1",
+        "Limit": "40%",
+        "Rate": "85%",
+        "Modifier": "Smash",
+        "Cancel": "Sk Sp M",
+        "Density": "B1x1",
+        "Graze": "10F",
+        "Startup": "21F",
+        "Motion": "30F",
+        "Total": "49F",
+        "Frame Adv.": "-7F [+`1F]"
+      }
+    ]
+  },
+  {
+    "char": "Aya",
+    "name": "Gust Fan",
+    "type": "skill",
+    "img": "./images/Aya/Ay236bc1.png",
+    "data": [
+      {
+        "Version": "B/C",
+        "Damage": "1",
+        "Limit": "40%",
+        "Rate": "90%",
+        "Modifier": "Rift",
+        "Cancel": "Sp M",
+        "Density": "-",
+        "Graze": "-",
+        "Startup": "15F",
+        "Motion": "25F",
+        "Total": "49F",
+        "Frame Adv.": "-13 [+12]"
+      }
+    ]
+  },
+  {
+    "char": "Aya",
+    "name": "Gale Fan",
+    "type": "skill",
+    "img": "./images/Aya/Ay236bc2.png",
+    "data": [
+      {
+        "Version": "Ground",
+        "Damage": "0.25",
+        "Limit": "10%",
+        "Rate": "92%",
+        "Modifier": "Rift",
+        "Cancel": "Sp M",
+        "Density": "-",
+        "Graze": "-",
+        "Startup": "15F",
+        "Motion": "30F",
+        "Total": "54F",
+        "Frame Adv.": "-18 [+7]"
+      },
+      {
+        "Version": "Air",
+        "Damage": "0.25",
+        "Limit": "10%",
+        "Rate": "92%",
+        "Modifier": "Rift",
+        "Cancel": "Sp M",
+        "Density": "-",
+        "Graze": "-",
+        "Startup": "15F",
+        "Motion": "30F",
+        "Total": "59(10)F",
+        "Frame Adv.": "-23 [+7]"
+      }
+    ]
+  },
+  {
+    "char": "Aya",
+    "name": "Wind from the Maple Fan",
+    "type": "skill",
+    "img": "./images/Aya/Ay236bc3.png",
+    "data": [
+      {
+        "Version": "B",
+        "Damage": "0.25",
+        "Limit": "5%",
+        "Rate": "93%",
+        "Modifier": "Rift",
+        "Cancel": "Sp M",
+        "Density": "-",
+        "Graze": "-",
+        "Startup": "19, 23, ..35",
+        "Motion": "34F",
+        "Total": "58F",
+        "Frame Adv.": "-10 [+15]"
+      },
+      {
+        "Version": "C",
+        "Damage": "0.25",
+        "Limit": "5%",
+        "Rate": "93%",
+        "Modifier": "Rift",
+        "Cancel": "Sp M",
+        "Density": "-",
+        "Graze": "-",
+        "Startup": "22, 26, ..46",
+        "Motion": "37F",
+        "Total": "61F",
+        "Frame Adv.": "-10 [+15]"
+      }
+    ]
+  },
+  {
+    "char": "Aya",
+    "name": "Domination Dash",
+    "type": "skill",
+    "img": "./images/Aya/Ay214bc1.png",
+    "data": [
+      {
+        "Version": "B",
+        "Damage": "1000",
+        "Limit": "20%",
+        "Rate": "80%",
+        "Modifier": "Smash",
+        "Cancel": "Sp",
+        "Guard": "HLA",
+        "Startup": "26F",
+        "Active": "21F",
+        "Total": "74F",
+        "Frame Adv.": "-36"
+      },
+      {
+        "Version": "Air B",
+        "Damage": "1000",
+        "Limit": "20%",
+        "Rate": "80%",
+        "Modifier": "Smash",
+        "Cancel": "Sp",
+        "Guard": "HLA",
+        "Startup": "26F",
+        "Active": "21F",
+        "Total": "Until landing",
+        "Frame Adv.": "Until landing"
+      },
+      {
+        "Version": "C",
+        "Damage": "1000",
+        "Limit": "20%",
+        "Rate": "80%",
+        "Modifier": "Smash",
+        "Cancel": "Sp",
+        "Guard": "HLA",
+        "Startup": "26F",
+        "Active": "21F",
+        "Total": "115F",
+        "Frame Adv.": "-38/Until landing"
+      },
+      {
+        "Version": "Air C",
+        "Damage": "1000",
+        "Limit": "20%",
+        "Rate": "80%",
+        "Modifier": "Smash",
+        "Cancel": "Sp",
+        "Guard": "HA",
+        "Startup": "26F",
+        "Active": "21F",
+        "Total": "Until landing",
+        "Frame Adv.": "Until landing"
+      }
+    ]
+  },
+  {
+    "char": "Aya",
+    "name": "Graceful Dash",
+    "type": "skill",
+    "img": "./images/Aya/Ay214bc2.png",
+    "data": [
+      {
+        "Version": "B",
+        "Damage": "715",
+        "Limit": "20%",
+        "Rate": "90%",
+        "Modifier": "Rift",
+        "Cancel": "Sp",
+        "Guard": "HLA",
+        "Startup": "26F",
+        "Active": "31F",
+        "Total": "86F",
+        "Frame Adv.": "-30"
+      },
+      {
+        "Version": "Air B",
+        "Damage": "715",
+        "Limit": "20%",
+        "Rate": "90%",
+        "Modifier": "Rift",
+        "Cancel": "Sp",
+        "Guard": "HLA",
+        "Startup": "26F",
+        "Active": "31F",
+        "Total": "8(landing)",
+        "Frame Adv.": "-17 (TK)"
+      },
+      {
+        "Version": "C",
+        "Damage": "715",
+        "Limit": "20%",
+        "Rate": "90%",
+        "Modifier": "Rift",
+        "Cancel": "Sp",
+        "Guard": "HLA",
+        "Startup": "26F",
+        "Active": "31F",
+        "Total": "114F",
+        "Frame Adv.": "-51"
+      },
+      {
+        "Version": "Air C",
+        "Damage": "715",
+        "Limit": "20%",
+        "Rate": "890%",
+        "Modifier": "Rift",
+        "Cancel": "Sp",
+        "Guard": "HA",
+        "Startup": "26F",
+        "Active": "31F",
+        "Total": "8(landing)",
+        "Frame Adv.": "-15~-1/-9~+5"
+      },
+      {
+        "Version": "Follow-ups",
+        "Damage": "715",
+        "Limit": "20%",
+        "Rate": "85%",
+        "Modifier": "Smash",
+        "Cancel": "Sp",
+        "Guard": "HLA, HA",
+        "Startup": "15F",
+        "Active": "21F",
+        "Total": "22F(landing)",
+        "Frame Adv.": "-35~/+4"
+      }
+    ]
+  },
+  {
+    "char": "Aya",
+    "name": "Tengu Felling",
+    "type": "skill",
+    "img": "./images/Aya/Ay214bc3.png",
+    "data": [
+      {
+        "Version": "Ground B",
+        "Damage": "1",
+        "Limit": "40%",
+        "Rate": "80%",
+        "Modifier": "Smash",
+        "Cancel": "Sp",
+        "Density": "-",
+        "Graze": "-",
+        "Startup": "34",
+        "Motion": "-",
+        "Total": "72F",
+        "Frame Adv.": "-17"
+      },
+      {
+        "Version": "Ground C",
+        "Damage": "1",
+        "Limit": "40%",
+        "Rate": "80%",
+        "Modifier": "Smash",
+        "Cancel": "Sp",
+        "Density": "-",
+        "Graze": "-",
+        "Startup": "32",
+        "Motion": "-",
+        "Total": "78F",
+        "Frame Adv.": "-25"
+      },
+      {
+        "Version": "Air B",
+        "Damage": "1",
+        "Limit": "40%",
+        "Rate": "80%",
+        "Modifier": "Smash",
+        "Cancel": "Sp",
+        "Density": "-",
+        "Graze": "-",
+        "Startup": "36",
+        "Motion": "-",
+        "Total": "10 (landing)",
+        "Frame Adv.": "-"
+      },
+      {
+        "Version": "Air C",
+        "Damage": "1",
+        "Limit": "40%",
+        "Rate": "80%",
+        "Modifier": "Smash",
+        "Cancel": "Sp",
+        "Density": "-",
+        "Graze": "-",
+        "Startup": "36",
+        "Motion": "-",
+        "Total": "10 (landing)",
+        "Frame Adv.": "-"
+      }
+    ]
+  },
+  {
+    "char": "Aya",
+    "name": "Pelting in the Night",
+    "type": "skill",
+    "img": "./images/Aya/Ay421bc1.png",
+    "data": [
+      {
+        "Version": "B/C",
+        "Damage": "None",
+        "Limit": "5%",
+        "Rate": "96%",
+        "Modifier": "None",
+        "Cancel": "Sp M",
+        "Density": "-",
+        "Graze": "-",
+        "Startup": "125, 129, ..145F",
+        "Motion": "28F",
+        "Total": "68F",
+        "Frame Adv.": "-"
+      }
+    ]
+  },
+  {
+    "char": "Aya",
+    "name": "Wind Sickle Veiling",
+    "type": "skill",
+    "img": "./images/Aya/Ay421bc2.png",
+    "data": [
+      {
+        "Version": "Ground B/C",
+        "Damage": "0.25",
+        "Limit": "20%",
+        "Rate": "94%",
+        "Modifier": "None",
+        "Cancel": "Sp",
+        "Density": "-",
+        "Graze": "-",
+        "Startup": "21",
+        "Motion": "No",
+        "Total": "51F",
+        "Frame Adv.": "-15"
+      },
+      {
+        "Version": "Air B/C",
+        "Damage": "0.25",
+        "Limit": "20%",
+        "Rate": "94%",
+        "Modifier": "None",
+        "Cancel": "Sp",
+        "Density": "-",
+        "Graze": "-",
+        "Startup": "21",
+        "Motion": "-",
+        "Total": "50F",
+        "Frame Adv.": "-14"
+      }
+    ]
+  },
+  {
+    "char": "Aya",
+    "name": "Tengu Pebbles",
+    "type": "skill",
+    "img": "./images/Aya/Ay421bc3.png",
+    "data": [
+      {
+        "Version": "B",
+        "Damage": "-",
+        "Limit": "-",
+        "Rate": "-",
+        "Modifier": "-",
+        "Cancel": "Sp M",
+        "Density": "-",
+        "Graze": "-",
+        "Startup": "-",
+        "Motion": "44",
+        "Total": "64F",
+        "Frame Adv.": "-"
+      },
+      {
+        "Version": "C",
+        "Damage": "1",
+        "Limit": "4%",
+        "Rate": "98%",
+        "Modifier": "None",
+        "Cancel": "Sp M",
+        "Density": "-",
+        "Graze": "-",
+        "Startup": "12, 15, ..69",
+        "Motion": "-",
+        "Total": "52F",
+        "Frame Adv.": "+3[+22]~+57[+80]"
+      },
+      {
+        "Version": "Air C",
+        "Damage": "0.1",
+        "Limit": "4%",
+        "Rate": "98%",
+        "Modifier": "None",
+        "Cancel": "Sp M",
+        "Density": "-",
+        "Graze": "-",
+        "Startup": "12, 15, ..69",
+        "Motion": "20",
+        "Total": "64F",
+        "Frame Adv.": "-"
+      }
+    ]
+  },
+  {
+    "char": "Aya",
+    "name": "Wind Standing of the Tengu",
+    "type": "skill",
+    "img": "./images/Aya/Ay22bc1.png",
+    "data": [
+      {
+        "Version": "Floating",
+        "Damage": "-",
+        "Limit": "-",
+        "Rate": "-",
+        "Modifier": "None",
+        "Cancel": "Sp M",
+        "Density": "-",
+        "Graze": "-",
+        "Startup": "-",
+        "Motion": "17F",
+        "Total": "82F",
+        "Frame Adv.": "-"
+      },
+      {
+        "Version": "B/C",
+        "Damage": "1",
+        "Limit": "40%",
+        "Rate": "90%",
+        "Modifier": "Rift",
+        "Cancel": "Sp",
+        "Density": "-",
+        "Graze": "-",
+        "Startup": "1F",
+        "Motion": "-",
+        "Total": "33F",
+        "Frame Adv.": "-"
+      }
+    ]
+  },
+  {
+    "char": "Aya",
+    "name": "Tengu Downburst",
+    "type": "skill",
+    "img": "./images/Aya/Ay22bc2.png",
+    "data": [
+      {
+        "Version": "B",
+        "Damage": "1",
+        "Limit": "40, 20 (60%)",
+        "Rate": "90, 90 (81%)",
+        "Modifier": "Smash,Smash",
+        "Cancel": "Sp",
+        "Density": "-",
+        "Graze": "-",
+        "Startup": "15",
+        "Motion": "-",
+        "Total": "Until landing",
+        "Frame Adv.": "-5"
+      },
+      {
+        "Version": "C",
+        "Damage": "1",
+        "Limit": "40%",
+        "Rate": "90%",
+        "Modifier": "Rift",
+        "Cancel": "Sp M",
+        "Density": "-",
+        "Graze": "-",
+        "Startup": "1f Upon landing",
+        "Motion": "-",
+        "Total": "Upon landing",
+        "Frame Adv.": "-"
+      }
+    ]
+  },
+  {
+    "char": "Aya",
+    "name": "Tengu Drum",
+    "type": "skill",
+    "img": "./images/Aya/Ay22bc3.png",
+    "data": [
+      {
+        "Version": "B",
+        "Damage": "880",
+        "Limit": "40%",
+        "Rate": "85%",
+        "Modifier": "Rift",
+        "Cancel": "Sp, Followups",
+        "Guard": "HA",
+        "Startup": "26F",
+        "Active": "21F",
+        "Total": "58F",
+        "Frame Adv.": "-43~-24/-36~-18"
+      },
+      {
+        "Version": "C",
+        "Damage": "880",
+        "Limit": "40%",
+        "Rate": "85%",
+        "Modifier": "Rift",
+        "Cancel": "Sp, Followups",
+        "Guard": "HA",
+        "Startup": "26F",
+        "Active": "31F",
+        "Total": "68F",
+        "Frame Adv.": "-43~-24/-36~-18"
+      },
+      {
+        "Version": "Air B",
+        "Damage": "880",
+        "Limit": "40%",
+        "Rate": "85%",
+        "Modifier": "Rift",
+        "Cancel": "Sp, Followups",
+        "Guard": "HA",
+        "Startup": "27F",
+        "Active": "Until landing",
+        "Total": "Until landing",
+        "Frame Adv.": "-43~-24/-36~-18"
+      },
+      {
+        "Version": "Air C",
+        "Damage": "880",
+        "Limit": "40%",
+        "Rate": "85%",
+        "Modifier": "Rift",
+        "Cancel": "Sp, Followups",
+        "Guard": "HA",
+        "Startup": "26F",
+        "Active": "31F",
+        "Total": "8(landing)",
+        "Frame Adv.": "-43~-24/-36~-18"
+      },
+      {
+        "Version": "Follow-ups",
+        "Damage": "880",
+        "Limit": "40%",
+        "Rate": "85%",
+        "Modifier": "Rift",
+        "Cancel": "Sp, Followups",
+        "Guard": "HA",
+        "Startup": "15F",
+        "Active": "21F",
+        "Total": "22F(landing)",
+        "Frame Adv.": "-35~/+4"
+      }
+    ]
+  },
+  {
+    "char": "Aya",
+    "name": "Demonic Beast \"Sickle Weasel Veiling\"",
+    "type": "spell",
+    "img": "./images/Aya/Aysc01.png",
+    "data": [
+      {
+        "Version": "Ground",
+        "Damage": "0.5",
+        "Limit": "40%",
+        "Rate": "-%",
+        "Modifier": "-",
+        "Cancel": "-",
+        "Density": "-",
+        "Graze": "-",
+        "Startup": "7+10",
+        "Motion": "-",
+        "Total": "47",
+        "Frame Adv.": "+39"
+      },
+      {
+        "Version": "Air",
+        "Damage": "0.5",
+        "Limit": "40%",
+        "Rate": "-%",
+        "Modifier": "-",
+        "Cancel": "-",
+        "Density": "-",
+        "Graze": "-",
+        "Startup": "7+10",
+        "Motion": "-",
+        "Total": "46",
+        "Frame Adv.": "+39"
+      }
+    ]
+  },
+  {
+    "char": "Aya",
+    "name": "Wind Sign \"Wind of the Tengu Path\"",
+    "type": "spell",
+    "img": "./images/Aya/Aysc02.png",
+    "data": [
+      {
+        "Damage": "1.8",
+        "Limit": "35%",
+        "Rate": "-%",
+        "Modifier": "Rift",
+        "Cancel": "-",
+        "Density": "-",
+        "Graze": "-",
+        "Startup": "10+11",
+        "Motion": "-",
+        "Total": "53",
+        "Frame Adv.": "+23"
+      }
+    ]
+  },
+  {
+    "char": "Aya",
+    "name": "Wind Sign \"Tengu Limited Special\"",
+    "type": "spell",
+    "img": "./images/Aya/Aysc03.png",
+    "data": [
+      {
+        "Version": "Ground",
+        "Damage": "-",
+        "Limit": "-",
+        "Rate": "-",
+        "Modifier": "-",
+        "Cancel": "-",
+        "Density": "-",
+        "Graze": "-",
+        "Startup": "7",
+        "Motion": "-",
+        "Total": "47",
+        "Frame Adv.": "-"
+      },
+      {
+        "Version": "Air",
+        "Damage": "-",
+        "Limit": "-",
+        "Rate": "-",
+        "Modifier": "-",
+        "Cancel": "-",
+        "Density": "-",
+        "Graze": "-",
+        "Startup": "7",
+        "Motion": "-",
+        "Total": "46",
+        "Frame Adv.": "-"
+      }
+    ]
+  },
+  {
+    "char": "Aya",
+    "name": "Whirl Sign \"Maple Leaf Fan\"",
+    "type": "spell",
+    "img": "./images/Aya/Aysc04.png",
+    "data": [
+      {
+        "Damage": "2",
+        "Limit": "16%",
+        "Rate": "-%",
+        "Modifier": "-",
+        "Cancel": "-",
+        "Density": "-",
+        "Graze": "-",
+        "Startup": "10+10",
+        "Motion": "-",
+        "Total": "100",
+        "Frame Adv.": "+31"
+      }
+    ]
+  },
+  {
+    "char": "Aya",
+    "name": "Thrust Sign \"Tengu's Macroburst\"",
+    "type": "spell",
+    "img": "./images/Aya/Aysc05.png",
+    "data": [
+      {
+        "Damage": "1.1",
+        "Limit": "16%",
+        "Rate": "36.9%",
+        "Modifier": "-",
+        "Cancel": "-",
+        "Density": "-",
+        "Graze": "-",
+        "Startup": "15+10",
+        "Motion": "-",
+        "Total": "Variable",
+        "Frame Adv.": "+45"
+      }
+    ]
+  },
+  {
+    "char": "Aya",
+    "name": "Squall \"Sarutahiko's Guidance\"",
+    "type": "spell",
+    "img": "./images/Aya/Aysc06.png",
+    "data": [
+      {
+        "Version": "Ground",
+        "Damage": "2400",
+        "Limit": "100%",
+        "Rate": "75%",
+        "Modifier": "-",
+        "Cancel": "-",
+        "Guard": "-",
+        "Startup": "10+11",
+        "Active": "-",
+        "Total": "77",
+        "Frame Adv.": "-36"
+      },
+      {
+        "Version": "Air",
+        "Damage": "2400",
+        "Limit": "100%",
+        "Rate": "75%",
+        "Modifier": "-",
+        "Cancel": "-",
+        "Guard": "-",
+        "Startup": "8+13",
+        "Active": "-",
+        "Total": "Variable",
+        "Frame Adv.": "Variable"
+      }
+    ]
+  },
+  {
+    "char": "Aya",
+    "name": "Headwind \"Route Forbidden to Man\"",
+    "type": "spell",
+    "img": "./images/Aya/Aysc07.png",
+    "data": [
+      {
+        "Damage": "Variable",
+        "Limit": "-%",
+        "Rate": "-%",
+        "Modifier": "-",
+        "Cancel": "-",
+        "Density": "-",
+        "Graze": "-",
+        "Startup": "10",
+        "Motion": "-",
+        "Total": "80",
+        "Frame Adv.": "Very positive, with gaps"
+      }
+    ]
+  },
+  {
+    "char": "Aya",
+    "name": "Crow Sign \"Dark Daymare\"",
+    "type": "spell",
+    "img": "./images/Aya/Aysc08.png",
+    "data": [
+      {
+        "Damage": "1.1",
+        "Limit": "50%",
+        "Rate": "87.1%",
+        "Modifier": "-",
+        "Cancel": "-",
+        "Density": "-",
+        "Graze": "-",
+        "Startup": "13",
+        "Motion": "-",
+        "Total": "196",
+        "Frame Adv.": "-"
+      },
+      {
+        "Damage": "1.1",
+        "Limit": "50%",
+        "Rate": "87.1%",
+        "Modifier": "-",
+        "Cancel": "-",
+        "Density": "-",
+        "Graze": "-",
+        "Startup": "13",
+        "Motion": "-",
+        "Total": "208",
+        "Frame Adv.": "-"
+      }
+    ]
+  },
+  {
+    "char": "Aya",
+    "name": "Tornado \"Indication to the Divine\"",
+    "type": "spell",
+    "img": "./images/Aya/Aysc09.png",
+    "data": [
+      {
+        "Version": "Ground",
+        "Damage": "4126",
+        "Limit": "19%",
+        "Rate": "54%",
+        "Modifier": "-",
+        "Cancel": "-",
+        "Guard": "-",
+        "Startup": "10+10",
+        "Active": "-",
+        "Total": "222F",
+        "Frame Adv.": "Highly negative"
+      }
+    ]
+  },
+  {
+    "char": "Aya",
+    "name": "Illusionary Dominance",
+    "type": "spell",
+    "img": "./images/Aya/Aysc10.png",
+    "data": [
+      {
+        "Version": "Wind burst",
+        "Damage": "1",
+        "Limit": "0%",
+        "Rate": "80%",
+        "Modifier": "Rift",
+        "Cancel": "-",
+        "Density": "-",
+        "Graze": "-",
+        "Startup": "7",
+        "Motion": "-",
+        "Total": "146F",
+        "Frame Adv.": "-85"
+      },
+      {
+        "Version": "Rush",
+        "Damage": "0",
+        "Limit": "0%",
+        "Rate": "90%",
+        "Modifier": "Rush",
+        "Cancel": "-",
+        "Density": "-",
+        "Graze": "-",
+        "Startup": "34",
+        "Motion": "-",
+        "Total": "146F",
+        "Frame Adv.": "-85"
+      },
+      {
+        "Version": "Dashes",
+        "Damage": "0",
+        "Limit": "0, 100% (last hit)",
+        "Rate": "99%",
+        "Modifier": "Rift (last hit)",
+        "Cancel": "-",
+        "Density": "-",
+        "Graze": "-",
+        "Startup": "-",
+        "Motion": "-",
+        "Total": "146F",
+        "Frame Adv.": "-69 (last hit)"
+      }
+    ]
+  }
+]
