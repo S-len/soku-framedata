@@ -395,7 +395,7 @@
     "data": [
       {
         "Version": "Uncharged",
-        "Damage": "0.5",
+        "Damage": "500",
         "Limit": "5%",
         "Rate": "92%",
         "Modifier": "None",
@@ -405,11 +405,12 @@
         "Startup": "13F",
         "Motion": "23F",
         "Total": "38F",
-        "Frame Adv.": "-4F [+12F] ~ +2 [+18]"
+        "Frame Adv.": "-4F [+12F] ~ +2 [+18]",
+        "Spirit": "0.5"
       },
       {
         "Version": "Charged",
-        "Damage": "1",
+        "Damage": "650",
         "Limit": "5%",
         "Rate": "90%",
         "Modifier": "Smash",
@@ -419,7 +420,8 @@
         "Startup": "28F",
         "Motion": "40F",
         "Total": "57F",
-        "Frame Adv.": "-8F [+10F]"
+        "Frame Adv.": "-8F [+10F]",
+        "Spirit": "1"
       }
     ]
   },
@@ -430,7 +432,7 @@
     "img": "./images/Meiling/175px-Meiling2b.png",
     "data": [
       {
-        "Damage": "0.5",
+        "Damage": "650",
         "Limit": "40%",
         "Rate": "85%",
         "Modifier": "Rift",
@@ -440,7 +442,8 @@
         "Startup": "16F",
         "Motion": "29F",
         "Total": "46F",
-        "Frame Adv.": "-9F [+9F]"
+        "Frame Adv.": "-9F [+9F]",
+        "Spirit": "0.5"
       }
     ]
   },
@@ -451,7 +454,7 @@
     "img": "./images/Meiling/175px-Meiling6b.png",
     "data": [
       {
-        "Damage": "0.125*7",
+        "Damage": "100*7",
         "Limit": "4%*7",
         "Rate": "99%",
         "Modifier": "None",
@@ -461,7 +464,8 @@
         "Startup": "16F",
         "Motion": "26F",
         "Total": "46F",
-        "Frame Adv.": "-15F [+6F]"
+        "Frame Adv.": "-15F [+6F]",
+        "Spirit": "0.125*7"
       }
     ]
   },
@@ -473,7 +477,7 @@
     "data": [
       {
         "Version": "Uncharged",
-        "Damage": "0.5",
+        "Damage": "500",
         "Limit": "5%",
         "Rate": "92%",
         "Modifier": "None",
@@ -483,11 +487,12 @@
         "Startup": "13F",
         "Motion": "23F",
         "Total": "49F",
-        "Frame Adv.": "[+12F]"
+        "Frame Adv.": "[+12F]",
+        "Spirit": "0.5"
       },
       {
         "Version": "Charged",
-        "Damage": "1",
+        "Damage": "650",
         "Limit": "5%",
         "Rate": "90%",
         "Modifier": "Smash",
@@ -497,7 +502,8 @@
         "Startup": "28F",
         "Motion": "40F",
         "Total": "66F",
-        "Frame Adv.": "[+10F]"
+        "Frame Adv.": "[+10F]",
+        "Spirit": "1"
       }
     ]
   },
@@ -508,7 +514,7 @@
     "img": "./images/Meiling/175px-Meilingj2b.png",
     "data": [
       {
-        "Damage": "0.125*7",
+        "Damage": "100*7",
         "Limit": "4%*7",
         "Rate": "99%",
         "Modifier": "None",
@@ -518,7 +524,8 @@
         "Startup": "18F",
         "Motion": "28F",
         "Total": "48F",
-        "Frame Adv.": "[+6F]"
+        "Frame Adv.": "[+6F]",
+        "Spirit": "0.125*7"
       }
     ]
   },
@@ -529,7 +536,7 @@
     "img": "./images/Meiling/175px-Meilingj6b.png",
     "data": [
       {
-        "Damage": "0.125*7",
+        "Damage": "100*7",
         "Limit": "4%*7",
         "Rate": "99%",
         "Modifier": "None",
@@ -539,7 +546,8 @@
         "Startup": "18F",
         "Motion": "28F",
         "Total": "48F",
-        "Frame Adv.": "[+6F]"
+        "Frame Adv.": "[+6F]",
+        "Spirit": "0.125*7"
       }
     ]
   },
@@ -551,7 +559,7 @@
     "data": [
       {
         "Version": "Uncharged",
-        "Damage": "0.25*3",
+        "Damage": "250*3",
         "Limit": "5%*3",
         "Rate": "95%",
         "Modifier": "Rift",
@@ -561,11 +569,12 @@
         "Startup": "23F",
         "Motion": "28F",
         "Total": "54F",
-        "Frame Adv.": "-10F [+17F]"
+        "Frame Adv.": "-10F [+17F]",
+        "Spirit": "0.25*3"
       },
       {
         "Version": "Charged",
-        "Damage": "0.25*3",
+        "Damage": "250*3",
         "Limit": "5%*3",
         "Rate": "95%",
         "Modifier": "Rift",
@@ -575,7 +584,8 @@
         "Startup": "38F",
         "Motion": "33F",
         "Total": "69F",
-        "Frame Adv.": "-10F [+17F]"
+        "Frame Adv.": "-10F [+17F]",
+        "Spirit": "0.25*3"
       }
     ]
   },
@@ -586,7 +596,7 @@
     "img": "./images/Meiling/175px-Meiling2c.png",
     "data": [
       {
-        "Damage": "0.25*3",
+        "Damage": "250*3",
         "Limit": "5%*3",
         "Rate": "95%",
         "Modifier": "Rift",
@@ -596,7 +606,8 @@
         "Startup": "24F",
         "Motion": "31F",
         "Total": "85F",
-        "Frame Adv.": "-"
+        "Frame Adv.": "-",
+        "Spirit": "0.25*3"
       }
     ]
   },
@@ -608,7 +619,7 @@
     "data": [
       {
         "Version": "Uncharged",
-        "Damage": "0.35*3",
+        "Damage": "300*3",
         "Limit": "10%*3",
         "Rate": "95%",
         "Modifier": "Rift",
@@ -618,11 +629,12 @@
         "Startup": "17F",
         "Motion": "33F",
         "Total": "64F",
-        "Frame Adv.": "-24F [+8F]"
+        "Frame Adv.": "-24F [+8F]",
+        "Spirit": "0.35*3"
       },
       {
         "Version": "Charged",
-        "Damage": "0.35*3",
+        "Damage": "300*3",
         "Limit": "10%*3",
         "Rate": "95%",
         "Modifier": "Rift",
@@ -632,7 +644,8 @@
         "Startup": "34F",
         "Motion": "50F",
         "Total": "81F",
-        "Frame Adv.": "-24F [+8F]"
+        "Frame Adv.": "-24F [+8F]",
+        "Spirit": "0.35*3"
       }
     ]
   },
@@ -644,7 +657,7 @@
     "data": [
       {
         "Version": "Uncharged",
-        "Damage": "0.25*3",
+        "Damage": "250*3",
         "Limit": "5%*3",
         "Rate": "95%",
         "Modifier": "Rift",
@@ -654,11 +667,12 @@
         "Startup": "23F",
         "Motion": "28F",
         "Total": "57F",
-        "Frame Adv.": "[+17F]"
+        "Frame Adv.": "[+17F]",
+        "Spirit": "0.25*3"
       },
       {
         "Version": "Charged",
-        "Damage": "0.25*3",
+        "Damage": "250*3",
         "Limit": "5%*3",
         "Rate": "95%",
         "Modifier": "Rift",
@@ -668,7 +682,8 @@
         "Startup": "32F",
         "Motion": "37F",
         "Total": "66F",
-        "Frame Adv.": "[+17F]"
+        "Frame Adv.": "[+17F]",
+        "Spirit": "0.25*3"
       }
     ]
   },
@@ -680,7 +695,7 @@
     "data": [
       {
         "Version": "Uncharged",
-        "Damage": "0.35*3",
+        "Damage": "300*3",
         "Limit": "10%*3",
         "Rate": "95%",
         "Modifier": "Rift",
@@ -690,11 +705,12 @@
         "Startup": "17F",
         "Motion": "33F",
         "Total": "64F",
-        "Frame Adv.": "[+8F]"
+        "Frame Adv.": "[+8F]",
+        "Spirit": "0.35*3"
       },
       {
         "Version": "Charged",
-        "Damage": "0.35*3",
+        "Damage": "300*3",
         "Limit": "10%*3",
         "Rate": "95%",
         "Modifier": "Rift",
@@ -704,7 +720,8 @@
         "Startup": "41F",
         "Motion": "50F",
         "Total": "88F",
-        "Frame Adv.": "[+8F]"
+        "Frame Adv.": "[+8F]",
+        "Spirit": "0.35*3"
       }
     ]
   },
@@ -716,7 +733,7 @@
     "data": [
       {
         "Version": "B",
-        "Damage": "1.2",
+        "Damage": "1202",
         "Limit": "30%",
         "Rate": "80.4%",
         "Modifier": "Smash",
@@ -726,11 +743,12 @@
         "Startup": "28, 35, 42F",
         "Motion": "49F",
         "Total": "82F",
-        "Frame Adv.": "-19 [+15]"
+        "Frame Adv.": "-19 [+15]",
+        "Spirit": "1.2"
       },
       {
         "Version": "C",
-        "Damage": "2",
+        "Damage": "1797",
         "Limit": "50%",
         "Rate": "69.5%",
         "Modifier": "Smash",
@@ -740,7 +758,8 @@
         "Startup": "63, 70, 77, 84, 91F",
         "Motion": "112",
         "Total": "126",
-        "Frame Adv.": "-14 [+1]"
+        "Frame Adv.": "-14 [+1]",
+        "Spirit": "2"
       }
     ]
   },
@@ -893,7 +912,7 @@
     "data": [
       {
         "Version": "B",
-        "Damage": "0.4",
+        "Damage": "440",
         "Limit": "10%",
         "Rate": "94%",
         "Modifier": "Rift",
@@ -903,11 +922,12 @@
         "Startup": "34F",
         "Motion": "49F",
         "Total": "77F",
-        "Frame Adv.": "-11 [+21]"
+        "Frame Adv.": "-11 [+21]",
+        "Spirit": "0.4"
       },
       {
         "Version": "C",
-        "Damage": "0.4",
+        "Damage": "440",
         "Limit": "10%",
         "Rate": "94%",
         "Modifier": "Rift",
@@ -917,7 +937,8 @@
         "Startup": "74F",
         "Motion": "86F",
         "Total": "117",
-        "Frame Adv.": "-11 [+21]"
+        "Frame Adv.": "-11 [+21]",
+        "Spirit": "0.4"
       }
     ]
   },
@@ -929,7 +950,7 @@
     "data": [
       {
         "Version": "B",
-        "Damage": "0.125",
+        "Damage": "220",
         "Limit": "5%",
         "Rate": "97%",
         "Modifier": "None",
@@ -939,11 +960,12 @@
         "Startup": "21F",
         "Motion": "44F",
         "Total": "94F",
-        "Frame Adv.": "-46 [+5]"
+        "Frame Adv.": "-46 [+5]",
+        "Spirit": "0.125"
       },
       {
         "Version": "C",
-        "Damage": "0.125",
+        "Damage": "440",
         "Limit": "10%",
         "Rate": "94%",
         "Modifier": "Rift",
@@ -953,7 +975,8 @@
         "Startup": "55F",
         "Motion": "86F",
         "Total": "117F",
-        "Frame Adv.": "-52 [+11]"
+        "Frame Adv.": "-52 [+11]",
+        "Spirit": "0.125"
       }
     ]
   },
@@ -999,7 +1022,7 @@
     "data": [
       {
         "Version": "B",
-        "Damage": "-",
+        "Damage": "55",
         "Limit": "-",
         "Rate": "-",
         "Modifier": "-",
@@ -1009,11 +1032,12 @@
         "Startup": "-",
         "Motion": "-",
         "Total": "34F",
-        "Frame Adv.": "-"
+        "Frame Adv.": "-",
+        "Spirit": "-"
       },
       {
         "Version": "C",
-        "Damage": "-",
+        "Damage": "55",
         "Limit": "0%",
         "Rate": "99%",
         "Modifier": "None",
@@ -1023,7 +1047,8 @@
         "Startup": "-",
         "Motion": "-",
         "Total": "54F",
-        "Frame Adv.": "-"
+        "Frame Adv.": "-",
+        "Spirit": "-"
       }
     ]
   },
@@ -1035,7 +1060,7 @@
     "data": [
       {
         "Version": "B shards",
-        "Damage": "0.1",
+        "Damage": "55",
         "Limit": "0%",
         "Rate": "99%",
         "Modifier": "None",
@@ -1045,11 +1070,12 @@
         "Startup": "10, 14... 30",
         "Motion": "-",
         "Total": "34F",
-        "Frame Adv.": "Variable"
+        "Frame Adv.": "Variable",
+        "Spirit": "0.1"
       },
       {
         "Version": "C shards",
-        "Damage": "0.1",
+        "Damage": "55",
         "Limit": "0%",
         "Rate": "99%",
         "Modifier": "None",
@@ -1059,7 +1085,8 @@
         "Startup": "10,20... 36",
         "Motion": "-",
         "Total": "54F",
-        "Frame Adv.": "Variable"
+        "Frame Adv.": "Variable",
+        "Spirit": "0.1"
       },
       {
         "Version": "Version",
@@ -1170,7 +1197,7 @@
     "data": [
       {
         "Version": "B/C",
-        "Damage": "1",
+        "Damage": "880",
         "Limit": "40%",
         "Rate": "85%",
         "Modifier": "Rift",
@@ -1180,11 +1207,12 @@
         "Startup": "16F",
         "Motion": "27F",
         "Total": "57F",
-        "Frame Adv.": "-20 [+11]"
+        "Frame Adv.": "-20 [+11]",
+        "Spirit": "1"
       },
       {
         "Version": "Charged B/C",
-        "Damage": "1",
+        "Damage": "1797",
         "Limit": "50%",
         "Rate": "69.5%",
         "Modifier": "Rift",
@@ -1194,7 +1222,8 @@
         "Startup": "31F",
         "Motion": "42F",
         "Total": "72F",
-        "Frame Adv.": "-20 [+11]"
+        "Frame Adv.": "-20 [+11]",
+        "Spirit": "1"
       }
     ]
   },
@@ -1279,7 +1308,7 @@
     "img": "./images/Meiling/Mesc03.png",
     "data": [
       {
-        "Damage": "0.25",
+        "Damage": "500",
         "Limit": "4%",
         "Rate": "95%",
         "Modifier": "Smash",
@@ -1289,7 +1318,8 @@
         "Startup": "5+16",
         "Motion": "-",
         "Total": "78F",
-        "Frame Adv.": "-6 ~ +48"
+        "Frame Adv.": "-6 ~ +48",
+        "Spirit": "0.25"
       }
     ]
   },
@@ -1374,7 +1404,7 @@
     "img": "./images/Meiling/Mesc07.png",
     "data": [
       {
-        "Damage": "0.25",
+        "Damage": "400",
         "Limit": "5%",
         "Rate": "96%",
         "Modifier": "Rift",
@@ -1384,7 +1414,8 @@
         "Startup": "19+8",
         "Motion": "-",
         "Total": "71F",
-        "Frame Adv.": "-17 ~ +36"
+        "Frame Adv.": "-17 ~ +36",
+        "Spirit": "0.25"
       }
     ]
   },
@@ -1405,7 +1436,8 @@
         "Startup": "9",
         "Motion": "-",
         "Total": "62F",
-        "Frame Adv.": "-"
+        "Frame Adv.": "-",
+        "Spirit": "-"
       }
     ]
   },
@@ -1417,7 +1449,7 @@
     "data": [
       {
         "Version": "Charge",
-        "Damage": "0.125",
+        "Damage": "100",
         "Limit": "0%",
         "Rate": "99%",
         "Modifier": "None",
@@ -1427,11 +1459,12 @@
         "Startup": "5+1F",
         "Motion": "-",
         "Total": "130F",
-        "Frame Adv.": "-"
+        "Frame Adv.": "-",
+        "Spirit": "0.125"
       },
       {
         "Version": "Release",
-        "Damage": "0.125",
+        "Damage": "100",
         "Limit": "0%",
         "Rate": "99%",
         "Modifier": "Smash",
@@ -1441,7 +1474,8 @@
         "Startup": "73F",
         "Motion": "-",
         "Total": "130F",
-        "Frame Adv.": "-1 ~ +19"
+        "Frame Adv.": "-1 ~ +19",
+        "Spirit": "0.125"
       }
     ]
   },

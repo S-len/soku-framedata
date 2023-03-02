@@ -348,7 +348,7 @@
     "img": "./images/Tenshi/175px-Tenshi_5B.png",
     "data": [
       {
-        "Damage": "0.5",
+        "Damage": "450",
         "Limit": "10%",
         "Rate": "92.5%",
         "Modifier": "None",
@@ -358,7 +358,8 @@
         "Startup": "13F",
         "Motion": "25F",
         "Total": "50F",
-        "Frame Adv.": "-22F [+4F]"
+        "Frame Adv.": "-22F [+4F]",
+        "Spirit": "0.5"
       }
     ]
   },
@@ -369,7 +370,7 @@
     "img": "./images/Tenshi/175px-Tenshi_j5B.png",
     "data": [
       {
-        "Damage": "0.5",
+        "Damage": "450",
         "Limit": "10%",
         "Rate": "92.5%",
         "Modifier": "None",
@@ -379,7 +380,8 @@
         "Startup": "13F",
         "Motion": "25F",
         "Total": "58F",
-        "Frame Adv.": "-22F [+4F]"
+        "Frame Adv.": "-22F [+4F]",
+        "Spirit": "0.5"
       }
     ]
   },
@@ -391,7 +393,7 @@
     "data": [
       {
         "Version": "Uncharged",
-        "Damage": "0.9",
+        "Damage": "824",
         "Limit": "30%",
         "Rate": "83.2%",
         "Modifier": "None",
@@ -401,7 +403,8 @@
         "Startup": "16F",
         "Motion": "32F",
         "Total": "61F",
-        "Frame Adv.": "0 [+30]"
+        "Frame Adv.": "0 [+30]",
+        "Spirit": "0.9"
       },
       {
         "Version": "Version",
@@ -415,11 +418,12 @@
         "Startup": "Startup",
         "Motion": "Motion",
         "Total": "Total",
-        "Frame Adv.": "Frame Adv."
+        "Frame Adv.": "Frame Adv.",
+        "Spirit": "Spirit"
       },
       {
         "Version": "Charged",
-        "Damage": "1.2",
+        "Damage": "1062",
         "Limit": "40%",
         "Rate": "78.3%",
         "Modifier": "None",
@@ -429,7 +433,8 @@
         "Startup": "36F",
         "Motion": "52F",
         "Total": "81F",
-        "Frame Adv.": "+10 [+40]"
+        "Frame Adv.": "+10 [+40]",
+        "Spirit": "1.2"
       }
     ]
   },
@@ -441,7 +446,7 @@
     "data": [
       {
         "Version": "Uncharged",
-        "Damage": "0.9",
+        "Damage": "824",
         "Limit": "30%",
         "Rate": "83.2%",
         "Modifier": "None",
@@ -451,7 +456,8 @@
         "Startup": "16F",
         "Motion": "32F",
         "Total": "61F",
-        "Frame Adv.": "0 [+30]"
+        "Frame Adv.": "0 [+30]",
+        "Spirit": "0.9"
       },
       {
         "Version": "Version",
@@ -465,11 +471,12 @@
         "Startup": "Startup",
         "Motion": "Motion",
         "Total": "Total",
-        "Frame Adv.": "Frame Adv."
+        "Frame Adv.": "Frame Adv.",
+        "Spirit": "Spirit"
       },
       {
         "Version": "Charged",
-        "Damage": "1.2",
+        "Damage": "1062",
         "Limit": "40%",
         "Rate": "78.3%",
         "Modifier": "None",
@@ -479,7 +486,8 @@
         "Startup": "36F",
         "Motion": "52F",
         "Total": "81F",
-        "Frame Adv.": "+10 [+40]"
+        "Frame Adv.": "+10 [+40]",
+        "Spirit": "1.2"
       }
     ]
   },
@@ -491,7 +499,7 @@
     "data": [
       {
         "Version": "Uncharged",
-        "Damage": "0.9",
+        "Damage": "824",
         "Limit": "30%",
         "Rate": "83.2%",
         "Modifier": "None",
@@ -501,7 +509,8 @@
         "Startup": "11F",
         "Motion": "33F",
         "Total": "58F",
-        "Frame Adv.": "-2 [+24]"
+        "Frame Adv.": "-2 [+24]",
+        "Spirit": "0.9"
       }
     ]
   },
@@ -513,7 +522,7 @@
     "data": [
       {
         "Version": "Uncharged",
-        "Damage": "0.9",
+        "Damage": "824",
         "Limit": "30%",
         "Rate": "83.2%",
         "Modifier": "None",
@@ -523,7 +532,8 @@
         "Startup": "16F",
         "Motion": "32F",
         "Total": "61F",
-        "Frame Adv.": "0 [+30]"
+        "Frame Adv.": "0 [+30]",
+        "Spirit": "0.9"
       },
       {
         "Version": "Version",
@@ -537,11 +547,12 @@
         "Startup": "Startup",
         "Motion": "Motion",
         "Total": "Total",
-        "Frame Adv.": "Frame Adv."
+        "Frame Adv.": "Frame Adv.",
+        "Spirit": "Spirit"
       },
       {
         "Version": "Charged",
-        "Damage": "1.2",
+        "Damage": "1062",
         "Limit": "40%",
         "Rate": "78.3%",
         "Modifier": "None",
@@ -551,7 +562,8 @@
         "Startup": "36F",
         "Motion": "52F",
         "Total": "81F",
-        "Frame Adv.": "+10 [+40]"
+        "Frame Adv.": "+10 [+40]",
+        "Spirit": "1.2"
       }
     ]
   },
@@ -562,7 +574,7 @@
     "img": "./images/Tenshi/175px-Tenshi_5C.png",
     "data": [
       {
-        "Damage": "0.15x10",
+        "Damage": "1747",
         "Limit": "50%",
         "Rate": "73.7%",
         "Modifier": "None",
@@ -572,7 +584,8 @@
         "Startup": "26F",
         "Motion": "41F",
         "Total": "62F",
-        "Frame Adv.": "-3 [+16]"
+        "Frame Adv.": "-3 [+16]",
+        "Spirit": "0.15x10"
       }
     ]
   },
@@ -583,7 +596,7 @@
     "img": "./images/Tenshi/175px-Tenshi_j5C.png",
     "data": [
       {
-        "Damage": "0.15x10",
+        "Damage": "1747",
         "Limit": "50%",
         "Rate": "73.7%",
         "Modifier": "None",
@@ -593,7 +606,8 @@
         "Startup": "26F",
         "Motion": "41F",
         "Total": "62F",
-        "Frame Adv.": "-3 [+16]"
+        "Frame Adv.": "-3 [+16]",
+        "Spirit": "0.15x10"
       }
     ]
   },
@@ -604,7 +618,7 @@
     "img": "./images/Tenshi/175px-Tenshi_2C.png",
     "data": [
       {
-        "Damage": "0.15x10",
+        "Damage": "200",
         "Limit": "5%",
         "Rate": "97%",
         "Modifier": "None",
@@ -614,7 +628,8 @@
         "Startup": "20F",
         "Motion": "38F",
         "Total": "67F",
-        "Frame Adv.": "-3 [+16]"
+        "Frame Adv.": "-3 [+16]",
+        "Spirit": "0.15x10"
       }
     ]
   },
@@ -625,7 +640,7 @@
     "img": "./images/Tenshi/175px-Tenshi_j2C.png",
     "data": [
       {
-        "Damage": "0.15x10",
+        "Damage": "200",
         "Limit": "5%",
         "Rate": "97%",
         "Modifier": "None",
@@ -635,7 +650,8 @@
         "Startup": "20F",
         "Motion": "38F",
         "Total": "67F",
-        "Frame Adv.": "-3 [+16]"
+        "Frame Adv.": "-3 [+16]",
+        "Spirit": "0.15x10"
       }
     ]
   },
@@ -647,7 +663,7 @@
     "data": [
       {
         "Version": "B/C",
-        "Damage": "2",
+        "Damage": "1080",
         "Limit": "-",
         "Rate": "-",
         "Modifier": "-",
@@ -657,7 +673,8 @@
         "Startup": "-",
         "Motion": "-",
         "Total": "-",
-        "Frame Adv.": "-"
+        "Frame Adv.": "-",
+        "Spirit": "2"
       }
     ]
   },
@@ -690,7 +707,7 @@
     "data": [
       {
         "Version": "B/C",
-        "Damage": "1/4 per hit",
+        "Damage": "80 (per spine)",
         "Limit": "20%",
         "Rate": "90%",
         "Modifier": "Lift",
@@ -700,7 +717,8 @@
         "Startup": "-",
         "Motion": "-",
         "Total": "-",
-        "Frame Adv.": "-"
+        "Frame Adv.": "-",
+        "Spirit": "1/4 per hit"
       }
     ]
   },
@@ -712,7 +730,7 @@
     "data": [
       {
         "Version": "B/C",
-        "Damage": "1 orb (rightblock) / 2 orbs (wrongblock)",
+        "Damage": "1000",
         "Limit": "40%",
         "Rate": "80%",
         "Modifier": "Smash",
@@ -722,7 +740,8 @@
         "Startup": "-",
         "Motion": "-",
         "Total": "-",
-        "Frame Adv.": "-"
+        "Frame Adv.": "-",
+        "Spirit": "1 orb (rightblock) / 2 orbs (wrongblock)"
       }
     ]
   },
@@ -734,7 +753,7 @@
     "data": [
       {
         "Version": "B/C",
-        "Damage": "0",
+        "Damage": "275/1100",
         "Limit": "0% (bullet)/40% (collision)",
         "Rate": "97%(bullet) /80%(collision)",
         "Modifier": "Smash",
@@ -744,7 +763,8 @@
         "Startup": "-",
         "Motion": "-",
         "Total": "-",
-        "Frame Adv.": "-9"
+        "Frame Adv.": "-9",
+        "Spirit": "0"
       }
     ]
   },
@@ -756,7 +776,7 @@
     "data": [
       {
         "Version": "B/C",
-        "Damage": "0.5 (initial swipe) 0.175 (per hit of projectile)",
+        "Damage": "600 (slash)/ 300 (shockwave)",
         "Limit": "20% (slash)/ 10% (shockwave)",
         "Rate": "92% (slash)/ 94% (shockwave)",
         "Modifier": "Lift",
@@ -766,7 +786,8 @@
         "Startup": "14F",
         "Motion": "-",
         "Total": "45F",
-        "Frame Adv.": "-"
+        "Frame Adv.": "-",
+        "Spirit": "0.5 (initial swipe) 0.175 (per hit of projectile)"
       }
     ]
   },
@@ -820,7 +841,7 @@
     "data": [
       {
         "Version": "B/C",
-        "Damage": "1 (on rightblock) / 2 (on wrongblock)",
+        "Damage": "1320",
         "Limit": "40%",
         "Rate": "85%",
         "Modifier": "Lift",
@@ -830,7 +851,8 @@
         "Startup": "-",
         "Motion": "-",
         "Total": "45F",
-        "Frame Adv.": "-"
+        "Frame Adv.": "-",
+        "Spirit": "1 (on rightblock) / 2 (on wrongblock)"
       }
     ]
   },
@@ -842,7 +864,7 @@
     "data": [
       {
         "Version": "B/C",
-        "Damage": "-",
+        "Damage": "635 (3 hits)",
         "Limit": "5% (per hit)",
         "Rate": "91.2% (3 hits)",
         "Modifier": "-",
@@ -852,7 +874,8 @@
         "Startup": "-",
         "Motion": "-",
         "Total": "45F",
-        "Frame Adv.": "-"
+        "Frame Adv.": "-",
+        "Spirit": "-"
       }
     ]
   },
@@ -864,7 +887,7 @@
     "data": [
       {
         "Version": "B/C",
-        "Damage": "1 (B version) 0.375 (per hit of C version)",
+        "Damage": "660 (B Version) / 550 (per hit of C Version)",
         "Limit": "10%",
         "Rate": "90.0%",
         "Modifier": "-",
@@ -874,7 +897,8 @@
         "Startup": "-",
         "Motion": "-",
         "Total": "45F",
-        "Frame Adv.": "-"
+        "Frame Adv.": "-",
+        "Spirit": "1 (B version) 0.375 (per hit of C version)"
       }
     ]
   },
@@ -886,7 +910,7 @@
     "data": [
       {
         "Version": "B/C",
-        "Damage": "1",
+        "Damage": "-",
         "Limit": "-",
         "Rate": "-",
         "Modifier": "-",
@@ -896,7 +920,8 @@
         "Startup": "-",
         "Motion": "-",
         "Total": "45F",
-        "Frame Adv.": "-"
+        "Frame Adv.": "-",
+        "Spirit": "1"
       }
     ]
   },
@@ -907,7 +932,7 @@
     "img": "./images/Tenshi/Tesc01.png",
     "data": [
       {
-        "Damage": "0.5 per hit",
+        "Damage": "800x4",
         "Limit": "92%",
         "Rate": "10%",
         "Modifier": "Lift",
@@ -917,7 +942,8 @@
         "Startup": "-",
         "Motion": "-",
         "Total": "-",
-        "Frame Adv.": "-"
+        "Frame Adv.": "-",
+        "Spirit": "0.5 per hit"
       }
     ]
   },
@@ -988,7 +1014,7 @@
     "img": "./images/Tenshi/Tesc05.png",
     "data": [
       {
-        "Damage": "-",
+        "Damage": "150x46",
         "Limit": "3% (per bullet)",
         "Rate": "97%",
         "Modifier": "-",
@@ -998,7 +1024,8 @@
         "Startup": "26F",
         "Motion": "-",
         "Total": "-",
-        "Frame Adv.": "0"
+        "Frame Adv.": "0",
+        "Spirit": "-"
       }
     ]
   },
@@ -1009,7 +1036,7 @@
     "img": "./images/Tenshi/Tesc06.png",
     "data": [
       {
-        "Damage": "-",
+        "Damage": "600 per hit(no weather) / 800 per hit(weather active)",
         "Limit": "5% (per bullet)",
         "Rate": "95%",
         "Modifier": "-",
@@ -1019,7 +1046,8 @@
         "Startup": "13F",
         "Motion": "-",
         "Total": "-",
-        "Frame Adv.": "-"
+        "Frame Adv.": "-",
+        "Spirit": "-"
       }
     ]
   },
@@ -1050,7 +1078,7 @@
     "img": "./images/Tenshi/Tesc08.png",
     "data": [
       {
-        "Damage": "-",
+        "Damage": "650 (first 10 quakes) / 500 (final quake)",
         "Limit": "94% (first 10 quakes) / 92% (final quake)",
         "Rate": "5%",
         "Modifier": "-",
@@ -1060,7 +1088,8 @@
         "Startup": "20F",
         "Motion": "-",
         "Total": "too fucking long...",
-        "Frame Adv.": "0"
+        "Frame Adv.": "0",
+        "Spirit": "-"
       }
     ]
   },
@@ -1071,7 +1100,7 @@
     "img": "./images/Tenshi/Tesc09.png",
     "data": [
       {
-        "Damage": "-",
+        "Damage": "1200 (ascent) / 5000 (landing)",
         "Limit": "10% (ascent) / 40% (landing)",
         "Rate": "96% (ascent) / 70% (landing)",
         "Modifier": "-",
@@ -1081,7 +1110,8 @@
         "Startup": "13F",
         "Motion": "-",
         "Total": "-",
-        "Frame Adv.": "-"
+        "Frame Adv.": "-",
+        "Spirit": "-"
       }
     ]
   },
@@ -1092,7 +1122,7 @@
     "img": "./images/Tenshi/Tesc10.png",
     "data": [
       {
-        "Damage": "-",
+        "Damage": "400 (per hit)",
         "Limit": "4%",
         "Rate": "98%",
         "Modifier": "-",
@@ -1102,7 +1132,8 @@
         "Startup": "41F",
         "Motion": "-",
         "Total": "a long time",
-        "Frame Adv.": "0"
+        "Frame Adv.": "0",
+        "Spirit": "-"
       }
     ]
   }

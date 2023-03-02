@@ -355,7 +355,7 @@
     "data": [
       {
         "Version": "Uncharged",
-        "Damage": "0.5",
+        "Damage": "300",
         "Limit": "10%",
         "Rate": "92%",
         "Modifier": "None",
@@ -365,11 +365,12 @@
         "Startup": "13F",
         "Motion": "19F",
         "Total": "39F",
-        "Frame Adv.": "-11F [+9F]"
+        "Frame Adv.": "-11F [+9F]",
+        "Spirit": "0.5"
       },
       {
         "Version": "Charged",
-        "Damage": "0.5",
+        "Damage": "300",
         "Limit": "10%",
         "Rate": "92%",
         "Modifier": "None",
@@ -379,7 +380,8 @@
         "Startup": "28F",
         "Motion": "34F",
         "Total": "54F",
-        "Frame Adv.": "-11F [+9F]"
+        "Frame Adv.": "-11F [+9F]",
+        "Spirit": "0.5"
       }
     ]
   },
@@ -390,7 +392,7 @@
     "img": "./images/Aya/175px-Aya2b.jpg",
     "data": [
       {
-        "Damage": "0.5",
+        "Damage": "350",
         "Limit": "20%",
         "Rate": "94%",
         "Modifier": "None",
@@ -400,7 +402,8 @@
         "Startup": "14F",
         "Motion": "21F",
         "Total": "50F",
-        "Frame Adv.": "-21F [+8F]"
+        "Frame Adv.": "-21F [+8F]",
+        "Spirit": "0.5"
       }
     ]
   },
@@ -412,7 +415,7 @@
     "data": [
       {
         "Version": "Uncharged",
-        "Damage": "0.5",
+        "Damage": "300",
         "Limit": "10%",
         "Rate": "92%",
         "Modifier": "None",
@@ -422,11 +425,12 @@
         "Startup": "13F",
         "Motion": "19F",
         "Total": "39F",
-        "Frame Adv.": "-11F [+9F]"
+        "Frame Adv.": "-11F [+9F]",
+        "Spirit": "0.5"
       },
       {
         "Version": "Charged",
-        "Damage": "0.5",
+        "Damage": "300",
         "Limit": "10%",
         "Rate": "92%",
         "Modifier": "None",
@@ -436,7 +440,8 @@
         "Startup": "28F",
         "Motion": "34F",
         "Total": "54F",
-        "Frame Adv.": "-11F [+9F]"
+        "Frame Adv.": "-11F [+9F]",
+        "Spirit": "0.5"
       }
     ]
   },
@@ -448,7 +453,7 @@
     "data": [
       {
         "Version": "Uncharged",
-        "Damage": "0.5",
+        "Damage": "300",
         "Limit": "10%",
         "Rate": "92%",
         "Modifier": "None",
@@ -458,11 +463,12 @@
         "Startup": "13F",
         "Motion": "19F",
         "Total": "41F",
-        "Frame Adv.": "[+9F]"
+        "Frame Adv.": "[+9F]",
+        "Spirit": "0.5"
       },
       {
         "Version": "Charged",
-        "Damage": "0.5",
+        "Damage": "300",
         "Limit": "10%",
         "Rate": "92%",
         "Modifier": "None",
@@ -472,7 +478,8 @@
         "Startup": "28F",
         "Motion": "34F",
         "Total": "56F",
-        "Frame Adv.": "[+9F]"
+        "Frame Adv.": "[+9F]",
+        "Spirit": "0.5"
       }
     ]
   },
@@ -484,7 +491,7 @@
     "data": [
       {
         "Version": "Uncharged",
-        "Damage": "0.5",
+        "Damage": "600",
         "Limit": "40%",
         "Rate": "90%",
         "Modifier": "None",
@@ -494,11 +501,12 @@
         "Startup": "13F",
         "Motion": "19F",
         "Total": "41F",
-        "Frame Adv.": "[+9F]"
+        "Frame Adv.": "[+9F]",
+        "Spirit": "0.5"
       },
       {
         "Version": "Charged",
-        "Damage": "0.5",
+        "Damage": "300",
         "Limit": "10%",
         "Rate": "92%",
         "Modifier": "None",
@@ -508,7 +516,8 @@
         "Startup": "28F",
         "Motion": "34F",
         "Total": "56F",
-        "Frame Adv.": "[+9F]"
+        "Frame Adv.": "[+9F]",
+        "Spirit": "0.5"
       }
     ]
   },
@@ -520,7 +529,7 @@
     "data": [
       {
         "Version": "Uncharged",
-        "Damage": "1",
+        "Damage": "600",
         "Limit": "40%",
         "Rate": "90%",
         "Modifier": "Smash",
@@ -530,11 +539,12 @@
         "Startup": "21F",
         "Motion": "30F",
         "Total": "49F",
-        "Frame Adv.": "-7F [+12F]"
+        "Frame Adv.": "-7F [+12F]",
+        "Spirit": "1"
       },
       {
         "Version": "Charged",
-        "Damage": "1",
+        "Damage": "600",
         "Limit": "40%",
         "Rate": "90%",
         "Modifier": "Smash",
@@ -544,7 +554,8 @@
         "Startup": "36F",
         "Motion": "45F",
         "Total": "69F",
-        "Frame Adv.": "-12F [+12F]"
+        "Frame Adv.": "-12F [+12F]",
+        "Spirit": "1"
       }
     ]
   },
@@ -556,7 +567,7 @@
     "data": [
       {
         "Version": "Uncharged",
-        "Damage": "1",
+        "Damage": "600",
         "Limit": "40%",
         "Rate": "90%",
         "Modifier": "Smash",
@@ -566,11 +577,12 @@
         "Startup": "21F",
         "Motion": "30F",
         "Total": "49F",
-        "Frame Adv.": "-7F [+12F]"
+        "Frame Adv.": "-7F [+12F]",
+        "Spirit": "1"
       },
       {
         "Version": "Charged",
-        "Damage": "1",
+        "Damage": "600",
         "Limit": "40%",
         "Rate": "90%",
         "Modifier": "Smash",
@@ -580,7 +592,8 @@
         "Startup": "36F",
         "Motion": "45F",
         "Total": "69F",
-        "Frame Adv.": "-12F [+12F]"
+        "Frame Adv.": "-12F [+12F]",
+        "Spirit": "1"
       }
     ]
   },
@@ -591,7 +604,7 @@
     "img": "./images/Aya/175px-Aya6c.jpg",
     "data": [
       {
-        "Damage": "1",
+        "Damage": "650",
         "Limit": "40%",
         "Rate": "85%",
         "Modifier": "Smash",
@@ -601,7 +614,8 @@
         "Startup": "21F",
         "Motion": "30F",
         "Total": "49F",
-        "Frame Adv.": "-7F [+`1F]"
+        "Frame Adv.": "-7F [+`1F]",
+        "Spirit": "1"
       }
     ]
   },
@@ -613,7 +627,7 @@
     "data": [
       {
         "Version": "Uncharged",
-        "Damage": "1",
+        "Damage": "600",
         "Limit": "40%",
         "Rate": "90%",
         "Modifier": "Smash",
@@ -623,11 +637,12 @@
         "Startup": "21F",
         "Motion": "30F",
         "Total": "49F",
-        "Frame Adv.": "-7F [+12F]"
+        "Frame Adv.": "-7F [+12F]",
+        "Spirit": "1"
       },
       {
         "Version": "Charged",
-        "Damage": "1",
+        "Damage": "600",
         "Limit": "40%",
         "Rate": "90%",
         "Modifier": "Smash",
@@ -637,7 +652,8 @@
         "Startup": "36F",
         "Motion": "45F",
         "Total": "70F",
-        "Frame Adv.": "-12F [+12F]"
+        "Frame Adv.": "-12F [+12F]",
+        "Spirit": "1"
       }
     ]
   },
@@ -649,7 +665,7 @@
     "data": [
       {
         "Version": "Uncharged",
-        "Damage": "1",
+        "Damage": "600",
         "Limit": "40%",
         "Rate": "90%",
         "Modifier": "Smash",
@@ -659,11 +675,12 @@
         "Startup": "21F",
         "Motion": "30F",
         "Total": "49F",
-        "Frame Adv.": "-7F [+12F]"
+        "Frame Adv.": "-7F [+12F]",
+        "Spirit": "1"
       },
       {
         "Version": "Charged",
-        "Damage": "1",
+        "Damage": "600",
         "Limit": "40%",
         "Rate": "90%",
         "Modifier": "Smash",
@@ -673,7 +690,8 @@
         "Startup": "36F",
         "Motion": "45F",
         "Total": "69F",
-        "Frame Adv.": "-12F [+12F]"
+        "Frame Adv.": "-12F [+12F]",
+        "Spirit": "1"
       }
     ]
   },
@@ -684,7 +702,7 @@
     "img": "./images/Aya/175px-Ayaj6c.jpg",
     "data": [
       {
-        "Damage": "1",
+        "Damage": "650",
         "Limit": "40%",
         "Rate": "85%",
         "Modifier": "Smash",
@@ -694,7 +712,8 @@
         "Startup": "21F",
         "Motion": "30F",
         "Total": "49F",
-        "Frame Adv.": "-7F [+`1F]"
+        "Frame Adv.": "-7F [+`1F]",
+        "Spirit": "1"
       }
     ]
   },
@@ -706,7 +725,7 @@
     "data": [
       {
         "Version": "B/C",
-        "Damage": "1",
+        "Damage": "900",
         "Limit": "40%",
         "Rate": "90%",
         "Modifier": "Rift",
@@ -716,7 +735,8 @@
         "Startup": "15F",
         "Motion": "25F",
         "Total": "49F",
-        "Frame Adv.": "-13 [+12]"
+        "Frame Adv.": "-13 [+12]",
+        "Spirit": "1"
       }
     ]
   },
@@ -728,7 +748,7 @@
     "data": [
       {
         "Version": "Ground",
-        "Damage": "0.25",
+        "Damage": "440",
         "Limit": "10%",
         "Rate": "92%",
         "Modifier": "Rift",
@@ -738,11 +758,12 @@
         "Startup": "15F",
         "Motion": "30F",
         "Total": "54F",
-        "Frame Adv.": "-18 [+7]"
+        "Frame Adv.": "-18 [+7]",
+        "Spirit": "0.25"
       },
       {
         "Version": "Air",
-        "Damage": "0.25",
+        "Damage": "440",
         "Limit": "10%",
         "Rate": "92%",
         "Modifier": "Rift",
@@ -752,7 +773,8 @@
         "Startup": "15F",
         "Motion": "30F",
         "Total": "59(10)F",
-        "Frame Adv.": "-23 [+7]"
+        "Frame Adv.": "-23 [+7]",
+        "Spirit": "0.25"
       }
     ]
   },
@@ -764,7 +786,7 @@
     "data": [
       {
         "Version": "B",
-        "Damage": "0.25",
+        "Damage": "330",
         "Limit": "5%",
         "Rate": "93%",
         "Modifier": "Rift",
@@ -774,11 +796,12 @@
         "Startup": "19, 23, ..35",
         "Motion": "34F",
         "Total": "58F",
-        "Frame Adv.": "-10 [+15]"
+        "Frame Adv.": "-10 [+15]",
+        "Spirit": "0.25"
       },
       {
         "Version": "C",
-        "Damage": "0.25",
+        "Damage": "330",
         "Limit": "5%",
         "Rate": "93%",
         "Modifier": "Rift",
@@ -788,7 +811,8 @@
         "Startup": "22, 26, ..46",
         "Motion": "37F",
         "Total": "61F",
-        "Frame Adv.": "-10 [+15]"
+        "Frame Adv.": "-10 [+15]",
+        "Spirit": "0.25"
       }
     ]
   },
@@ -933,7 +957,7 @@
     "data": [
       {
         "Version": "Ground B",
-        "Damage": "1",
+        "Damage": "1210",
         "Limit": "40%",
         "Rate": "80%",
         "Modifier": "Smash",
@@ -943,11 +967,12 @@
         "Startup": "34",
         "Motion": "-",
         "Total": "72F",
-        "Frame Adv.": "-17"
+        "Frame Adv.": "-17",
+        "Spirit": "1"
       },
       {
         "Version": "Ground C",
-        "Damage": "1",
+        "Damage": "1210",
         "Limit": "40%",
         "Rate": "80%",
         "Modifier": "Smash",
@@ -957,11 +982,12 @@
         "Startup": "32",
         "Motion": "-",
         "Total": "78F",
-        "Frame Adv.": "-25"
+        "Frame Adv.": "-25",
+        "Spirit": "1"
       },
       {
         "Version": "Air B",
-        "Damage": "1",
+        "Damage": "1210",
         "Limit": "40%",
         "Rate": "80%",
         "Modifier": "Smash",
@@ -971,11 +997,12 @@
         "Startup": "36",
         "Motion": "-",
         "Total": "10 (landing)",
-        "Frame Adv.": "-"
+        "Frame Adv.": "-",
+        "Spirit": "1"
       },
       {
         "Version": "Air C",
-        "Damage": "1",
+        "Damage": "1210",
         "Limit": "40%",
         "Rate": "80%",
         "Modifier": "Smash",
@@ -985,7 +1012,8 @@
         "Startup": "36",
         "Motion": "-",
         "Total": "10 (landing)",
-        "Frame Adv.": "-"
+        "Frame Adv.": "-",
+        "Spirit": "1"
       }
     ]
   },
@@ -997,7 +1025,7 @@
     "data": [
       {
         "Version": "B/C",
-        "Damage": "None",
+        "Damage": "200",
         "Limit": "5%",
         "Rate": "96%",
         "Modifier": "None",
@@ -1007,7 +1035,8 @@
         "Startup": "125, 129, ..145F",
         "Motion": "28F",
         "Total": "68F",
-        "Frame Adv.": "-"
+        "Frame Adv.": "-",
+        "Spirit": "None"
       }
     ]
   },
@@ -1019,7 +1048,7 @@
     "data": [
       {
         "Version": "Ground B/C",
-        "Damage": "0.25",
+        "Damage": "264",
         "Limit": "20%",
         "Rate": "94%",
         "Modifier": "None",
@@ -1029,11 +1058,12 @@
         "Startup": "21",
         "Motion": "No",
         "Total": "51F",
-        "Frame Adv.": "-15"
+        "Frame Adv.": "-15",
+        "Spirit": "0.25"
       },
       {
         "Version": "Air B/C",
-        "Damage": "0.25",
+        "Damage": "264",
         "Limit": "20%",
         "Rate": "94%",
         "Modifier": "None",
@@ -1043,7 +1073,8 @@
         "Startup": "21",
         "Motion": "-",
         "Total": "50F",
-        "Frame Adv.": "-14"
+        "Frame Adv.": "-14",
+        "Spirit": "0.25"
       }
     ]
   },
@@ -1065,11 +1096,12 @@
         "Startup": "-",
         "Motion": "44",
         "Total": "64F",
-        "Frame Adv.": "-"
+        "Frame Adv.": "-",
+        "Spirit": "-"
       },
       {
         "Version": "C",
-        "Damage": "1",
+        "Damage": "110",
         "Limit": "4%",
         "Rate": "98%",
         "Modifier": "None",
@@ -1079,11 +1111,12 @@
         "Startup": "12, 15, ..69",
         "Motion": "-",
         "Total": "52F",
-        "Frame Adv.": "+3[+22]~+57[+80]"
+        "Frame Adv.": "+3[+22]~+57[+80]",
+        "Spirit": "1"
       },
       {
         "Version": "Air C",
-        "Damage": "0.1",
+        "Damage": "110",
         "Limit": "4%",
         "Rate": "98%",
         "Modifier": "None",
@@ -1093,7 +1126,8 @@
         "Startup": "12, 15, ..69",
         "Motion": "20",
         "Total": "64F",
-        "Frame Adv.": "-"
+        "Frame Adv.": "-",
+        "Spirit": "0.1"
       }
     ]
   },
@@ -1115,11 +1149,12 @@
         "Startup": "-",
         "Motion": "17F",
         "Total": "82F",
-        "Frame Adv.": "-"
+        "Frame Adv.": "-",
+        "Spirit": "-"
       },
       {
         "Version": "B/C",
-        "Damage": "1",
+        "Damage": "600",
         "Limit": "40%",
         "Rate": "90%",
         "Modifier": "Rift",
@@ -1129,7 +1164,8 @@
         "Startup": "1F",
         "Motion": "-",
         "Total": "33F",
-        "Frame Adv.": "-"
+        "Frame Adv.": "-",
+        "Spirit": "1"
       }
     ]
   },
@@ -1141,7 +1177,7 @@
     "data": [
       {
         "Version": "B",
-        "Damage": "1",
+        "Damage": "660, 880 (1281)",
         "Limit": "40, 20 (60%)",
         "Rate": "90, 90 (81%)",
         "Modifier": "Smash,Smash",
@@ -1151,11 +1187,12 @@
         "Startup": "15",
         "Motion": "-",
         "Total": "Until landing",
-        "Frame Adv.": "-5"
+        "Frame Adv.": "-5",
+        "Spirit": "1"
       },
       {
         "Version": "C",
-        "Damage": "1",
+        "Damage": "715",
         "Limit": "40%",
         "Rate": "90%",
         "Modifier": "Rift",
@@ -1165,7 +1202,8 @@
         "Startup": "1f Upon landing",
         "Motion": "-",
         "Total": "Upon landing",
-        "Frame Adv.": "-"
+        "Frame Adv.": "-",
+        "Spirit": "1"
       }
     ]
   },
@@ -1250,7 +1288,7 @@
     "data": [
       {
         "Version": "Ground",
-        "Damage": "0.5",
+        "Damage": "790",
         "Limit": "40%",
         "Rate": "-%",
         "Modifier": "-",
@@ -1260,11 +1298,12 @@
         "Startup": "7+10",
         "Motion": "-",
         "Total": "47",
-        "Frame Adv.": "+39"
+        "Frame Adv.": "+39",
+        "Spirit": "0.5"
       },
       {
         "Version": "Air",
-        "Damage": "0.5",
+        "Damage": "790",
         "Limit": "40%",
         "Rate": "-%",
         "Modifier": "-",
@@ -1274,7 +1313,8 @@
         "Startup": "7+10",
         "Motion": "-",
         "Total": "46",
-        "Frame Adv.": "+39"
+        "Frame Adv.": "+39",
+        "Spirit": "0.5"
       }
     ]
   },
@@ -1285,7 +1325,7 @@
     "img": "./images/Aya/Aysc02.png",
     "data": [
       {
-        "Damage": "1.8",
+        "Damage": "1573",
         "Limit": "35%",
         "Rate": "-%",
         "Modifier": "Rift",
@@ -1295,7 +1335,8 @@
         "Startup": "10+11",
         "Motion": "-",
         "Total": "53",
-        "Frame Adv.": "+23"
+        "Frame Adv.": "+23",
+        "Spirit": "1.8"
       }
     ]
   },
@@ -1317,7 +1358,8 @@
         "Startup": "7",
         "Motion": "-",
         "Total": "47",
-        "Frame Adv.": "-"
+        "Frame Adv.": "-",
+        "Spirit": "-"
       },
       {
         "Version": "Air",
@@ -1331,7 +1373,8 @@
         "Startup": "7",
         "Motion": "-",
         "Total": "46",
-        "Frame Adv.": "-"
+        "Frame Adv.": "-",
+        "Spirit": "-"
       }
     ]
   },
@@ -1342,7 +1385,7 @@
     "img": "./images/Aya/Aysc04.png",
     "data": [
       {
-        "Damage": "2",
+        "Damage": "2359",
         "Limit": "16%",
         "Rate": "-%",
         "Modifier": "-",
@@ -1352,7 +1395,8 @@
         "Startup": "10+10",
         "Motion": "-",
         "Total": "100",
-        "Frame Adv.": "+31"
+        "Frame Adv.": "+31",
+        "Spirit": "2"
       }
     ]
   },
@@ -1363,7 +1407,7 @@
     "img": "./images/Aya/Aysc05.png",
     "data": [
       {
-        "Damage": "1.1",
+        "Damage": "2375",
         "Limit": "16%",
         "Rate": "36.9%",
         "Modifier": "-",
@@ -1373,7 +1417,8 @@
         "Startup": "15+10",
         "Motion": "-",
         "Total": "Variable",
-        "Frame Adv.": "+45"
+        "Frame Adv.": "+45",
+        "Spirit": "1.1"
       }
     ]
   },
@@ -1428,7 +1473,8 @@
         "Startup": "10",
         "Motion": "-",
         "Total": "80",
-        "Frame Adv.": "Very positive, with gaps"
+        "Frame Adv.": "Very positive, with gaps",
+        "Spirit": "Variable"
       }
     ]
   },
@@ -1439,7 +1485,7 @@
     "img": "./images/Aya/Aysc08.png",
     "data": [
       {
-        "Damage": "1.1",
+        "Damage": "~4146",
         "Limit": "50%",
         "Rate": "87.1%",
         "Modifier": "-",
@@ -1449,10 +1495,11 @@
         "Startup": "13",
         "Motion": "-",
         "Total": "196",
-        "Frame Adv.": "-"
+        "Frame Adv.": "-",
+        "Spirit": "1.1"
       },
       {
-        "Damage": "1.1",
+        "Damage": "~4146",
         "Limit": "50%",
         "Rate": "87.1%",
         "Modifier": "-",
@@ -1462,7 +1509,8 @@
         "Startup": "13",
         "Motion": "-",
         "Total": "208",
-        "Frame Adv.": "-"
+        "Frame Adv.": "-",
+        "Spirit": "1.1"
       }
     ]
   },
@@ -1495,7 +1543,7 @@
     "data": [
       {
         "Version": "Wind burst",
-        "Damage": "1",
+        "Damage": "100",
         "Limit": "0%",
         "Rate": "80%",
         "Modifier": "Rift",
@@ -1505,11 +1553,12 @@
         "Startup": "7",
         "Motion": "-",
         "Total": "146F",
-        "Frame Adv.": "-85"
+        "Frame Adv.": "-85",
+        "Spirit": "1"
       },
       {
         "Version": "Rush",
-        "Damage": "0",
+        "Damage": "800",
         "Limit": "0%",
         "Rate": "90%",
         "Modifier": "Rush",
@@ -1519,11 +1568,12 @@
         "Startup": "34",
         "Motion": "-",
         "Total": "146F",
-        "Frame Adv.": "-85"
+        "Frame Adv.": "-85",
+        "Spirit": "0"
       },
       {
         "Version": "Dashes",
-        "Damage": "0",
+        "Damage": "150 x n",
         "Limit": "0, 100% (last hit)",
         "Rate": "99%",
         "Modifier": "Rift (last hit)",
@@ -1533,7 +1583,8 @@
         "Startup": "-",
         "Motion": "-",
         "Total": "146F",
-        "Frame Adv.": "-69 (last hit)"
+        "Frame Adv.": "-69 (last hit)",
+        "Spirit": "0"
       }
     ]
   }

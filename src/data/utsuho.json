@@ -310,7 +310,7 @@
         "Active": "Startup",
         "Total": "Motion",
         "Frame Adv.": "Total",
-        "undefined": "Damage"
+        "undefined": "Spirit"
       },
       {
         "Version": "Blast",
@@ -450,7 +450,7 @@
     "data": [
       {
         "Version": "Uncharged",
-        "Damage": "0.2*5",
+        "Damage": "200",
         "Limit": "5%",
         "Rate": "93%",
         "Modifier": "None",
@@ -460,11 +460,12 @@
         "Startup": "18F",
         "Motion": "29F",
         "Total": "54F",
-        "Frame Adv.": "-13[+12]"
+        "Frame Adv.": "-13[+12]",
+        "Spirit": "0.2*5"
       },
       {
         "Version": "Charged",
-        "Damage": "0.2*9",
+        "Damage": "200",
         "Limit": "5%",
         "Rate": "93%",
         "Modifier": "None",
@@ -474,7 +475,8 @@
         "Startup": "38F~82F",
         "Motion": "49F~93F",
         "Total": "74F~118F",
-        "Frame Adv.": "-5[+14]"
+        "Frame Adv.": "-5[+14]",
+        "Spirit": "0.2*9"
       }
     ]
   },
@@ -486,7 +488,7 @@
     "data": [
       {
         "Version": "Uncharged",
-        "Damage": "0.2*5",
+        "Damage": "200",
         "Limit": "5%",
         "Rate": "93%",
         "Modifier": "None",
@@ -496,11 +498,12 @@
         "Startup": "17F",
         "Motion": "27F",
         "Total": "58F",
-        "Frame Adv.": "Height Specific"
+        "Frame Adv.": "Height Specific",
+        "Spirit": "0.2*5"
       },
       {
         "Version": "Charged",
-        "Damage": "0.2*9",
+        "Damage": "200",
         "Limit": "5%",
         "Rate": "93%",
         "Modifier": "None",
@@ -510,7 +513,8 @@
         "Startup": "31F~75F",
         "Motion": "41F~85F",
         "Total": "72F~116F",
-        "Frame Adv.": "Height Specific"
+        "Frame Adv.": "Height Specific",
+        "Spirit": "0.2*9"
       }
     ]
   },
@@ -521,7 +525,7 @@
     "img": "./images/Utsuho/175px-Uts6b.png",
     "data": [
       {
-        "Damage": "0.25*n",
+        "Damage": "200*n",
         "Limit": "5%*n",
         "Rate": "93%*n",
         "Modifier": "None",
@@ -531,7 +535,8 @@
         "Startup": "25F",
         "Motion": "34F",
         "Total": "63F",
-        "Frame Adv.": "-22[+7]"
+        "Frame Adv.": "-22[+7]",
+        "Spirit": "0.25*n"
       }
     ]
   },
@@ -543,7 +548,7 @@
     "data": [
       {
         "Version": "Uncharged",
-        "Damage": "0.2*5",
+        "Damage": "200",
         "Limit": "5%",
         "Rate": "93%",
         "Modifier": "None",
@@ -553,11 +558,12 @@
         "Startup": "18F",
         "Motion": "29F",
         "Total": "54F",
-        "Frame Adv.": "-13[+12]"
+        "Frame Adv.": "-13[+12]",
+        "Spirit": "0.2*5"
       },
       {
         "Version": "Charged",
-        "Damage": "0.2*9",
+        "Damage": "200",
         "Limit": "5%",
         "Rate": "93%",
         "Modifier": "None",
@@ -567,7 +573,8 @@
         "Startup": "38F~82F",
         "Motion": "49F~93F",
         "Total": "74F~117F",
-        "Frame Adv.": "-5[+14]"
+        "Frame Adv.": "-5[+14]",
+        "Spirit": "0.2*9"
       }
     ]
   },
@@ -579,7 +586,7 @@
     "data": [
       {
         "Version": "Uncharged",
-        "Damage": "0.2*9",
+        "Damage": "200",
         "Limit": "5%",
         "Rate": "93%",
         "Modifier": "None",
@@ -589,11 +596,12 @@
         "Startup": "18F",
         "Motion": "29F",
         "Total": "54F",
-        "Frame Adv.": "-13[+12F]"
+        "Frame Adv.": "-13[+12F]",
+        "Spirit": "0.2*9"
       },
       {
         "Version": "Charged",
-        "Damage": "0.2*9",
+        "Damage": "200",
         "Limit": "5%",
         "Rate": "93%",
         "Modifier": "None",
@@ -603,7 +611,8 @@
         "Startup": "38F",
         "Motion": "49F",
         "Total": "74F",
-        "Frame Adv.": "-5[+14F]"
+        "Frame Adv.": "-5[+14F]",
+        "Spirit": "0.2*9"
       }
     ]
   },
@@ -614,7 +623,7 @@
     "img": "./images/Utsuho/175px-Utsj6b.png",
     "data": [
       {
-        "Damage": "0.25*n",
+        "Damage": "200*n",
         "Limit": "5%*n",
         "Rate": "93%*n",
         "Modifier": "None",
@@ -624,7 +633,8 @@
         "Startup": "25F",
         "Motion": "33F",
         "Total": "62F",
-        "Frame Adv.": "-18[+11F]"
+        "Frame Adv.": "-18[+11F]",
+        "Spirit": "0.25*n"
       }
     ]
   },
@@ -636,7 +646,7 @@
     "data": [
       {
         "Version": "Uncharged",
-        "Damage": "0.25*n",
+        "Damage": "400*n",
         "Limit": "10%*n",
         "Rate": "93%*n",
         "Modifier": "Lift Attack",
@@ -646,11 +656,12 @@
         "Startup": "25F",
         "Motion": "32F",
         "Total": "70F",
-        "Frame Adv.": "-14[+24]"
+        "Frame Adv.": "-14[+24]",
+        "Spirit": "0.25*n"
       },
       {
         "Version": "Charged",
-        "Damage": "0.25*n",
+        "Damage": "400*n(Main bullet), 300*n(Satellites)",
         "Limit": "10%*n",
         "Rate": "93%*n",
         "Modifier": "Lift Attack",
@@ -660,7 +671,8 @@
         "Startup": "37F",
         "Motion": "49F",
         "Total": "86F",
-        "Frame Adv.": "-18[+20]"
+        "Frame Adv.": "-18[+20]",
+        "Spirit": "0.25*n"
       }
     ]
   },
@@ -671,7 +683,7 @@
     "img": "./images/Utsuho/175px-Uts2c.png",
     "data": [
       {
-        "Damage": "0.125*10",
+        "Damage": "150*10 (1342)",
         "Limit": "4%*10 (40%)",
         "Rate": "98%*10 (81.7%)",
         "Modifier": "None",
@@ -681,7 +693,8 @@
         "Startup": "20F",
         "Motion": "39F",
         "Total": "83F",
-        "Frame Adv.": "-6[+29 ~ +31]"
+        "Frame Adv.": "-6[+29 ~ +31]",
+        "Spirit": "0.125*10"
       }
     ]
   },
@@ -692,7 +705,7 @@
     "img": "./images/Utsuho/175px-Uts6c.png",
     "data": [
       {
-        "Damage": "0.125*10",
+        "Damage": "150*10 (1342)",
         "Limit": "4%*10 (40%)",
         "Rate": "98%*10 (81.7%)",
         "Modifier": "None",
@@ -702,7 +715,8 @@
         "Startup": "24F",
         "Motion": "43F",
         "Total": "93F",
-        "Frame Adv.": "-12[+29 ~ +31]"
+        "Frame Adv.": "-12[+29 ~ +31]",
+        "Spirit": "0.125*10"
       }
     ]
   },
@@ -714,7 +728,7 @@
     "data": [
       {
         "Version": "Uncharged",
-        "Damage": "0.25*n",
+        "Damage": "400*n",
         "Limit": "10%*n",
         "Rate": "93%*n",
         "Modifier": "Lift Attack",
@@ -724,11 +738,12 @@
         "Startup": "25F",
         "Motion": "32F",
         "Total": "74F",
-        "Frame Adv.": "-17[+25F]"
+        "Frame Adv.": "-17[+25F]",
+        "Spirit": "0.25*n"
       },
       {
         "Version": "Charged",
-        "Damage": "0.25*n",
+        "Damage": "400*n(Main bullet), 300*n(Satellites)",
         "Limit": "10%*n",
         "Rate": "93%*n",
         "Modifier": "Lift Attack",
@@ -738,7 +753,8 @@
         "Startup": "37",
         "Motion": "48F",
         "Total": "90F",
-        "Frame Adv.": "-21F[+21F]"
+        "Frame Adv.": "-21F[+21F]",
+        "Spirit": "0.25*n"
       }
     ]
   },
@@ -749,7 +765,7 @@
     "img": "./images/Utsuho/175px-Utsj6c.png",
     "data": [
       {
-        "Damage": "0.125*10",
+        "Damage": "150*10 (1342)",
         "Limit": "4%*10 (40%)",
         "Rate": "98%*10 (81.7%)",
         "Modifier": "None",
@@ -759,7 +775,8 @@
         "Startup": "24F",
         "Motion": "43F",
         "Total": "93F",
-        "Frame Adv.": "-12[+29 ~ +31]"
+        "Frame Adv.": "-12[+29 ~ +31]",
+        "Spirit": "0.125*10"
       }
     ]
   },
@@ -770,7 +787,7 @@
     "img": "./images/Utsuho/175px-Utsj2c.png",
     "data": [
       {
-        "Damage": "0.125*10",
+        "Damage": "150*10 (1342)",
         "Limit": "4%*10 (40%)",
         "Rate": "98%*10 (81.7%)",
         "Modifier": "None",
@@ -780,7 +797,8 @@
         "Startup": "24F",
         "Motion": "43F",
         "Total": "93F",
-        "Frame Adv.": "-12[+29 ~ +31]"
+        "Frame Adv.": "-12[+29 ~ +31]",
+        "Spirit": "0.125*10"
       }
     ]
   },
@@ -792,7 +810,7 @@
     "data": [
       {
         "Version": "B",
-        "Damage": "0.375 x n",
+        "Damage": "400xn",
         "Limit": "10%",
         "Rate": "95%",
         "Modifier": "Smash",
@@ -802,7 +820,8 @@
         "Startup": "36F",
         "Motion": "53F",
         "Total": "97F",
-        "Frame Adv.": "-20 ~ -7 [+30 ~ +38]"
+        "Frame Adv.": "-20 ~ -7 [+30 ~ +38]",
+        "Spirit": "0.375 x n"
       }
     ]
   },
@@ -814,7 +833,7 @@
     "data": [
       {
         "Version": "B",
-        "Damage": "0.5 x n",
+        "Damage": "320xn",
         "Limit": "10%",
         "Rate": "95.0%",
         "Modifier": "Rift",
@@ -824,11 +843,12 @@
         "Startup": "20F",
         "Motion": "49F",
         "Total": "64F",
-        "Frame Adv.": "-19 ~ -6[-4 ~ +10]"
+        "Frame Adv.": "-19 ~ -6[-4 ~ +10]",
+        "Spirit": "0.5 x n"
       },
       {
         "Version": "C",
-        "Damage": "0.5 x n",
+        "Damage": "400xn",
         "Limit": "10%",
         "Rate": "95.0%",
         "Modifier": "Rift",
@@ -838,7 +858,8 @@
         "Startup": "24F",
         "Motion": "54F",
         "Total": "69F",
-        "Frame Adv.": "-19 ~ -6[-4 ~ +10]"
+        "Frame Adv.": "-19 ~ -6[-4 ~ +10]",
+        "Spirit": "0.5 x n"
       }
     ]
   },
@@ -850,7 +871,7 @@
     "data": [
       {
         "Version": "B / C",
-        "Damage": "0.5 x n",
+        "Damage": "x",
         "Limit": "x%",
         "Rate": "x.x%",
         "Modifier": "x",
@@ -860,7 +881,8 @@
         "Startup": "x",
         "Motion": "x",
         "Total": "68F ~ 198F",
-        "Frame Adv.": "-"
+        "Frame Adv.": "-",
+        "Spirit": "0.5 x n"
       }
     ]
   },
@@ -872,7 +894,7 @@
     "data": [
       {
         "Version": "Sun",
-        "Damage": "0.125 x n",
+        "Damage": "200xn",
         "Limit": "5%",
         "Rate": "98.0%",
         "Modifier": "Rift",
@@ -882,11 +904,12 @@
         "Startup": "8F",
         "Motion": "-",
         "Total": "-",
-        "Frame Adv.": "-"
+        "Frame Adv.": "-",
+        "Spirit": "0.125 x n"
       },
       {
         "Version": "Bullets released",
-        "Damage": "0.125 x n",
+        "Damage": "200xn",
         "Limit": "5%",
         "Rate": "93.0%",
         "Modifier": "None",
@@ -896,7 +919,8 @@
         "Startup": "28F",
         "Motion": "40F",
         "Total": "68F ~ 198F",
-        "Frame Adv.": "-6 ~ +0 [Varies]"
+        "Frame Adv.": "-6 ~ +0 [Varies]",
+        "Spirit": "0.125 x n"
       }
     ]
   },
@@ -907,7 +931,7 @@
     "img": "./images/Utsuho/Ut236bc2.png",
     "data": [
       {
-        "Damage": "1",
+        "Damage": "1100",
         "Limit": "40%",
         "Rate": "80.0%",
         "Modifier": "Rift",
@@ -917,7 +941,8 @@
         "Startup": "23F",
         "Motion": "37F",
         "Total": "55F",
-        "Frame Adv.": "-11 [+7]"
+        "Frame Adv.": "-11 [+7]",
+        "Spirit": "1"
       }
     ]
   },
@@ -929,7 +954,7 @@
     "data": [
       {
         "Version": "B",
-        "Damage": "0.25 x 3",
+        "Damage": "440 x 3",
         "Limit": "8%",
         "Rate": "94.0%",
         "Modifier": "None",
@@ -939,11 +964,12 @@
         "Startup": "20F ~ 28F",
         "Motion": "40F ~ 48F",
         "Total": "58F ~ 66F",
-        "Frame Adv.": "-7 [+11]"
+        "Frame Adv.": "-7 [+11]",
+        "Spirit": "0.25 x 3"
       },
       {
         "Version": "C",
-        "Damage": "0.25 x 3",
+        "Damage": "440",
         "Limit": "8%",
         "Rate": "94.0%",
         "Modifier": "None",
@@ -953,7 +979,8 @@
         "Startup": "20F ~ 36F",
         "Motion": "40F ~ 56F",
         "Total": "58F ~ 74F",
-        "Frame Adv.": "-7 [+11]"
+        "Frame Adv.": "-7 [+11]",
+        "Spirit": "0.25 x 3"
       }
     ]
   },
@@ -975,7 +1002,8 @@
         "Startup": "x",
         "Motion": "x",
         "Total": "x",
-        "Frame Adv.": "x [x]"
+        "Frame Adv.": "x [x]",
+        "Spirit": "x"
       },
       {
         "Version": "x",
@@ -989,7 +1017,8 @@
         "Startup": "x",
         "Motion": "x",
         "Total": "x",
-        "Frame Adv.": "x[x]"
+        "Frame Adv.": "x[x]",
+        "Spirit": "x"
       }
     ]
   },
@@ -1031,7 +1060,8 @@
         "Startup": "x",
         "Motion": "x",
         "Total": "x",
-        "Frame Adv.": "x [x]"
+        "Frame Adv.": "x [x]",
+        "Spirit": "x"
       },
       {
         "Version": "x",
@@ -1045,7 +1075,8 @@
         "Startup": "x",
         "Motion": "x",
         "Total": "x",
-        "Frame Adv.": "x[x]"
+        "Frame Adv.": "x[x]",
+        "Spirit": "x"
       }
     ]
   },
@@ -1067,7 +1098,8 @@
         "Startup": "x",
         "Motion": "x",
         "Total": "x",
-        "Frame Adv.": "x [x]"
+        "Frame Adv.": "x [x]",
+        "Spirit": "x"
       },
       {
         "Version": "x",
@@ -1081,7 +1113,8 @@
         "Startup": "x",
         "Motion": "x",
         "Total": "x",
-        "Frame Adv.": "x[x]"
+        "Frame Adv.": "x[x]",
+        "Spirit": "x"
       }
     ]
   },
@@ -1103,7 +1136,8 @@
         "Startup": "x",
         "Motion": "x",
         "Total": "x",
-        "Frame Adv.": "x [x]"
+        "Frame Adv.": "x [x]",
+        "Spirit": "x"
       },
       {
         "Version": "x",
@@ -1117,7 +1151,8 @@
         "Startup": "x",
         "Motion": "x",
         "Total": "x",
-        "Frame Adv.": "x[x]"
+        "Frame Adv.": "x[x]",
+        "Spirit": "x"
       }
     ]
   },
@@ -1139,7 +1174,8 @@
         "Startup": "x",
         "Motion": "x",
         "Total": "x",
-        "Frame Adv.": "x [x]"
+        "Frame Adv.": "x [x]",
+        "Spirit": "x"
       },
       {
         "Version": "x",
@@ -1153,7 +1189,8 @@
         "Startup": "x",
         "Motion": "x",
         "Total": "x",
-        "Frame Adv.": "x[x]"
+        "Frame Adv.": "x[x]",
+        "Spirit": "x"
       }
     ]
   }

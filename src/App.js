@@ -152,12 +152,13 @@ const Entries = ({results, showfull, limit}) => {
   )
 }
 
-const characters = [ "alice", "cirno", "iku", "komachi", "marisa",
+const characters = [ "alice", "aya", "cirno", "iku", "komachi", "marisa",
   "meiling", "patchouli", "reimu", "reisen", "remilia", "sakuya", "sanae",
   "suika", "suwako", "tenshi", "utsuho", "youmu", "yukari", "yuyuko" ]
 
 const characterData = {
   "alice": alice,
+  "aya": aya,
   "cirno": cirno,
   "iku": iku,
   "komachi": komachi,

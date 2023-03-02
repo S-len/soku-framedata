@@ -355,7 +355,7 @@
     "data": [
       {
         "Version": "Uncharged",
-        "Damage": "0.3*5",
+        "Damage": "300*5",
         "Limit": "5%",
         "Rate": "93%",
         "Modifier": "None",
@@ -365,11 +365,12 @@
         "Startup": "19F",
         "Motion": "25F",
         "Total": "51F",
-        "Frame Adv.": "-2F [+25F]"
+        "Frame Adv.": "-2F [+25F]",
+        "Spirit": "0.3*5"
       },
       {
         "Version": "Charged",
-        "Damage": "0.3*9",
+        "Damage": "300*9",
         "Limit": "5%",
         "Rate": "93%",
         "Modifier": "None",
@@ -379,7 +380,8 @@
         "Startup": "39F",
         "Motion": "45F",
         "Total": "71F",
-        "Frame Adv.": "-2F [+25F]"
+        "Frame Adv.": "-2F [+25F]",
+        "Spirit": "0.3*9"
       }
     ]
   },
@@ -391,7 +393,7 @@
     "data": [
       {
         "Version": "Uncharged",
-        "Damage": "0.3*5",
+        "Damage": "300*3",
         "Limit": "5%",
         "Rate": "93%",
         "Modifier": "None",
@@ -401,11 +403,12 @@
         "Startup": "18F",
         "Motion": "24F",
         "Total": "48F",
-        "Frame Adv.": "+0F [+25F]"
+        "Frame Adv.": "+0F [+25F]",
+        "Spirit": "0.3*5"
       },
       {
         "Version": "Charged",
-        "Damage": "0.3*9",
+        "Damage": "300*5",
         "Limit": "5%",
         "Rate": "93%",
         "Modifier": "None",
@@ -415,7 +418,8 @@
         "Startup": "38F",
         "Motion": "44F",
         "Total": "68F",
-        "Frame Adv.": "+0F [+25F]"
+        "Frame Adv.": "+0F [+25F]",
+        "Spirit": "0.3*9"
       }
     ]
   },
@@ -427,7 +431,7 @@
     "data": [
       {
         "Version": "Uncharged",
-        "Damage": "0.3*5",
+        "Damage": "300*5",
         "Limit": "5%",
         "Rate": "93%",
         "Modifier": "None",
@@ -437,11 +441,12 @@
         "Startup": "19F",
         "Motion": "31F",
         "Total": "58F",
-        "Frame Adv.": "[+19F]"
+        "Frame Adv.": "[+19F]",
+        "Spirit": "0.3*5"
       },
       {
         "Version": "Charged",
-        "Damage": "0.3*9",
+        "Damage": "300*9",
         "Limit": "5%",
         "Rate": "93%",
         "Modifier": "None",
@@ -451,7 +456,8 @@
         "Startup": "39F",
         "Motion": "51F",
         "Total": "78F",
-        "Frame Adv.": "[+19F]"
+        "Frame Adv.": "[+19F]",
+        "Spirit": "0.3*9"
       }
     ]
   },
@@ -463,7 +469,7 @@
     "data": [
       {
         "Version": "Uncharged",
-        "Damage": "0.3*3, 0.25*4",
+        "Damage": "300*3, 300*4",
         "Limit": "5%*3, 5%*4",
         "Rate": "93%, 93%",
         "Modifier": "None, Rift",
@@ -473,11 +479,12 @@
         "Startup": "25F, 85F",
         "Motion": "37F",
         "Total": "54F",
-        "Frame Adv.": "+49F [+79F]"
+        "Frame Adv.": "+49F [+79F]",
+        "Spirit": "0.3*3, 0.25*4"
       },
       {
         "Version": "Charged",
-        "Damage": "0.3*3, 0.25*4",
+        "Damage": "300*3, 300*4",
         "Limit": "5%*3, 5%*4",
         "Rate": "93%, 93%",
         "Modifier": "None, Rift",
@@ -487,7 +494,8 @@
         "Startup": "50F, 110F",
         "Motion": "62F",
         "Total": "91F",
-        "Frame Adv.": "+49F [+79F]"
+        "Frame Adv.": "+49F [+79F]",
+        "Spirit": "0.3*3, 0.25*4"
       }
     ]
   },
@@ -498,7 +506,7 @@
     "img": "",
     "data": [
       {
-        "Damage": "0.25*3",
+        "Damage": "300*3",
         "Limit": "10%*3",
         "Rate": "95%",
         "Modifier": "Smash",
@@ -508,7 +516,8 @@
         "Startup": "22F",
         "Motion": "40F",
         "Total": "80F",
-        "Frame Adv.": "-"
+        "Frame Adv.": "-",
+        "Spirit": "0.25*3"
       }
     ]
   },
@@ -520,7 +529,7 @@
     "data": [
       {
         "Version": "Uncharged",
-        "Damage": "0.25*4",
+        "Damage": "300*4",
         "Limit": "5%*4",
         "Rate": "93%",
         "Modifier": "Rift",
@@ -530,11 +539,12 @@
         "Startup": "15F",
         "Motion": "27F",
         "Total": "56F",
-        "Frame Adv.": "-11F [+19F]"
+        "Frame Adv.": "-11F [+19F]",
+        "Spirit": "0.25*4"
       },
       {
         "Version": "Charged",
-        "Damage": "0.25*5",
+        "Damage": "300*5",
         "Limit": "5%*5",
         "Rate": "93%",
         "Modifier": "Rift",
@@ -544,7 +554,8 @@
         "Startup": "40F",
         "Motion": "52F",
         "Total": "81F",
-        "Frame Adv.": "-11F [+19F]"
+        "Frame Adv.": "-11F [+19F]",
+        "Spirit": "0.25*5"
       }
     ]
   },
@@ -556,7 +567,7 @@
     "data": [
       {
         "Version": "Uncharged",
-        "Damage": "0.3*3, 0.25*4",
+        "Damage": "300*3, 300*4",
         "Limit": "5%*3, 5%*4",
         "Rate": "93%, 93%",
         "Modifier": "None, Rift",
@@ -566,11 +577,12 @@
         "Startup": "25F, 85F",
         "Motion": "37F",
         "Total": "71F",
-        "Frame Adv.": "[+79F]"
+        "Frame Adv.": "[+79F]",
+        "Spirit": "0.3*3, 0.25*4"
       },
       {
         "Version": "Charged",
-        "Damage": "0.3*3, 0.25*4",
+        "Damage": "300*3, 300*4",
         "Limit": "5%*3, 5%*4",
         "Rate": "93%, 93%",
         "Modifier": "None, Rift",
@@ -580,7 +592,8 @@
         "Startup": "50F, 110F",
         "Motion": "62F",
         "Total": "96F",
-        "Frame Adv.": "[+79F]"
+        "Frame Adv.": "[+79F]",
+        "Spirit": "0.3*3, 0.25*4"
       }
     ]
   },
@@ -592,7 +605,7 @@
     "data": [
       {
         "Version": "Uncharged",
-        "Damage": "0.25*4",
+        "Damage": "300*4",
         "Limit": "5%*4",
         "Rate": "93%",
         "Modifier": "Rift",
@@ -602,11 +615,12 @@
         "Startup": "15F",
         "Motion": "27F",
         "Total": "61F",
-        "Frame Adv.": "[+19F]"
+        "Frame Adv.": "[+19F]",
+        "Spirit": "0.25*4"
       },
       {
         "Version": "Charged",
-        "Damage": "0.25*5",
+        "Damage": "300*5",
         "Limit": "5%*5",
         "Rate": "93%",
         "Modifier": "Rift",
@@ -616,7 +630,8 @@
         "Startup": "40F",
         "Motion": "52F",
         "Total": "86F",
-        "Frame Adv.": "[+19F]"
+        "Frame Adv.": "[+19F]",
+        "Spirit": "0.25*5"
       }
     ]
   },
@@ -628,7 +643,7 @@
     "data": [
       {
         "Version": "Uncharged",
-        "Damage": "1 (orb) 0.125*n (tail)",
+        "Damage": "700 (orb) 100*n (tail)",
         "Limit": "10% (orb) 10%*n (tail)",
         "Rate": "92% (orb) 98% (tail)",
         "Modifier": "Rift",
@@ -638,11 +653,12 @@
         "Startup": "24F",
         "Motion": "42F",
         "Total": "71F",
-        "Frame Adv.": "-17F [+13F]"
+        "Frame Adv.": "-17F [+13F]",
+        "Spirit": "1 (orb) 0.125*n (tail)"
       },
       {
         "Version": "Charged",
-        "Damage": "1*2 (orb) 0.125*n (tail)",
+        "Damage": "700*2 (orb) 100*n (tail)",
         "Limit": "10%*2 (orb) 10%*n (tail)",
         "Rate": "92% (orb) 98% (tail)",
         "Modifier": "Rift",
@@ -652,7 +668,8 @@
         "Startup": "39F",
         "Motion": "57F",
         "Total": "86F",
-        "Frame Adv.": "-17F [+13F]"
+        "Frame Adv.": "-17F [+13F]",
+        "Spirit": "1*2 (orb) 0.125*n (tail)"
       }
     ]
   },
@@ -664,7 +681,7 @@
     "data": [
       {
         "Version": "Uncharged",
-        "Damage": "1 (orb) 0.125*n (tail)",
+        "Damage": "700 (orb) 100*n (tail)",
         "Limit": "10% (orb) 10%*n (tail)",
         "Rate": "92% (orb) 98% (tail)",
         "Modifier": "Rift",
@@ -674,11 +691,12 @@
         "Startup": "24F",
         "Motion": "42F",
         "Total": "71F",
-        "Frame Adv.": "-17F [+13F]"
+        "Frame Adv.": "-17F [+13F]",
+        "Spirit": "1 (orb) 0.125*n (tail)"
       },
       {
         "Version": "Charged",
-        "Damage": "1*2 (orb) 0.125*n (tail)",
+        "Damage": "700*2 (orb) 100*n (tail)",
         "Limit": "10%*2 (orb) 10%*n (tail)",
         "Rate": "92% (orb) 98% (tail)",
         "Modifier": "Rift",
@@ -688,7 +706,8 @@
         "Startup": "39F",
         "Motion": "57F",
         "Total": "86F",
-        "Frame Adv.": "-17F [+13F]"
+        "Frame Adv.": "-17F [+13F]",
+        "Spirit": "1*2 (orb) 0.125*n (tail)"
       }
     ]
   },

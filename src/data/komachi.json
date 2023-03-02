@@ -355,7 +355,7 @@
     "data": [
       {
         "Version": "Uncharged",
-        "Damage": "0.125*6",
+        "Damage": "150*6",
         "Limit": "5%*6",
         "Rate": "97%",
         "Modifier": "None",
@@ -365,11 +365,12 @@
         "Startup": "16, 18, ...26F",
         "Motion": "23F",
         "Total": "50F",
-        "Frame Adv.": "-9F [+15F]"
+        "Frame Adv.": "-9F [+15F]",
+        "Spirit": "0.125*6"
       },
       {
         "Version": "Charged",
-        "Damage": "0.125*6",
+        "Damage": "150*10",
         "Limit": "5%*10",
         "Rate": "97%",
         "Modifier": "None",
@@ -379,7 +380,8 @@
         "Startup": "31, 33, ...49F",
         "Motion": "42F",
         "Total": "73F",
-        "Frame Adv.": "-9F [+15F]"
+        "Frame Adv.": "-9F [+15F]",
+        "Spirit": "0.125*6"
       }
     ]
   },
@@ -390,7 +392,7 @@
     "img": "./images/Komachi/175px-Kom2b.jpg",
     "data": [
       {
-        "Damage": "0.125*8",
+        "Damage": "150*8",
         "Limit": "5%*8",
         "Rate": "97%",
         "Modifier": "None",
@@ -400,7 +402,8 @@
         "Startup": "20, 22, ...34F",
         "Motion": "29F",
         "Total": "57F",
-        "Frame Adv.": "-19F [+15F]"
+        "Frame Adv.": "-19F [+15F]",
+        "Spirit": "0.125*8"
       }
     ]
   },
@@ -412,7 +415,7 @@
     "data": [
       {
         "Version": "Uncharged",
-        "Damage": "0.125*6",
+        "Damage": "150*6",
         "Limit": "5%*6",
         "Rate": "97%",
         "Modifier": "None",
@@ -422,11 +425,12 @@
         "Startup": "16, 18, ...26F",
         "Motion": "27F",
         "Total": "50F",
-        "Frame Adv.": "-9F [+15F]"
+        "Frame Adv.": "-9F [+15F]",
+        "Spirit": "0.125*6"
       },
       {
         "Version": "Charged",
-        "Damage": "0.125*6",
+        "Damage": "150*10",
         "Limit": "5%*10",
         "Rate": "97%",
         "Modifier": "None",
@@ -436,7 +440,8 @@
         "Startup": "31, 33, ...49F",
         "Motion": "42F",
         "Total": "73F",
-        "Frame Adv.": "-9F [+15F]"
+        "Frame Adv.": "-9F [+15F]",
+        "Spirit": "0.125*6"
       }
     ]
   },
@@ -448,7 +453,7 @@
     "data": [
       {
         "Version": "Uncharged",
-        "Damage": "0.125*6",
+        "Damage": "150*6",
         "Limit": "5%*6",
         "Rate": "97%",
         "Modifier": "None",
@@ -458,11 +463,12 @@
         "Startup": "22, 24, ...32F",
         "Motion": "27F",
         "Total": "57F",
-        "Frame Adv.": "[+15F]"
+        "Frame Adv.": "[+15F]",
+        "Spirit": "0.125*6"
       },
       {
         "Version": "Charged",
-        "Damage": "0.125*6",
+        "Damage": "150*10",
         "Limit": "5%*10",
         "Rate": "97%",
         "Modifier": "None",
@@ -472,7 +478,8 @@
         "Startup": "37, 39, ...55F",
         "Motion": "42F",
         "Total": "72F",
-        "Frame Adv.": "[+15F]"
+        "Frame Adv.": "[+15F]",
+        "Spirit": "0.125*6"
       }
     ]
   },
@@ -484,7 +491,7 @@
     "data": [
       {
         "Version": "Uncharged",
-        "Damage": "0.125*6",
+        "Damage": "150*6",
         "Limit": "5%*6",
         "Rate": "97%",
         "Modifier": "None",
@@ -494,11 +501,12 @@
         "Startup": "21, 23, ...31F",
         "Motion": "26F",
         "Total": "59F",
-        "Frame Adv.": "[+15F]"
+        "Frame Adv.": "[+15F]",
+        "Spirit": "0.125*6"
       },
       {
         "Version": "Charged",
-        "Damage": "0.125*6",
+        "Damage": "150*10",
         "Limit": "5%*10",
         "Rate": "97%",
         "Modifier": "None",
@@ -508,7 +516,8 @@
         "Startup": "33, 35, ...51F",
         "Motion": "41F",
         "Total": "74F",
-        "Frame Adv.": "[+16F]"
+        "Frame Adv.": "[+16F]",
+        "Spirit": "0.125*6"
       }
     ]
   },
@@ -519,7 +528,7 @@
     "img": "./images/Komachi/175px-Komj6b.jpg",
     "data": [
       {
-        "Damage": "0.125*10",
+        "Damage": "150*10",
         "Limit": "5%*10",
         "Rate": "97%",
         "Modifier": "None",
@@ -529,7 +538,8 @@
         "Startup": "17, 19, ...35F",
         "Motion": "27F",
         "Total": "57F",
-        "Frame Adv.": "[+16F]"
+        "Frame Adv.": "[+16F]",
+        "Spirit": "0.125*10"
       }
     ]
   },
@@ -540,7 +550,7 @@
     "img": "./images/Komachi/175px-Kom5c.jpg",
     "data": [
       {
-        "Damage": "0.5",
+        "Damage": "700",
         "Limit": "10%",
         "Rate": "80%",
         "Modifier": "Rift",
@@ -550,7 +560,8 @@
         "Startup": "25F",
         "Motion": "33F",
         "Total": "65F",
-        "Frame Adv.": "-19F [+14F]"
+        "Frame Adv.": "-19F [+14F]",
+        "Spirit": "0.5"
       }
     ]
   },
@@ -561,7 +572,7 @@
     "img": "./images/Komachi/175px-Kom2c1.png",
     "data": [
       {
-        "Damage": "1*n",
+        "Damage": "800*n",
         "Limit": "15%*n",
         "Rate": "90%",
         "Modifier": "Smash",
@@ -571,7 +582,8 @@
         "Startup": "21+F",
         "Motion": "42+F",
         "Total": "63+F",
-        "Frame Adv.": "-12F [+10F]"
+        "Frame Adv.": "-12F [+10F]",
+        "Spirit": "1*n"
       }
     ]
   },
@@ -583,7 +595,7 @@
     "data": [
       {
         "Version": "Uncharged",
-        "Damage": "0.5*2",
+        "Damage": "500*2",
         "Limit": "25%*2",
         "Rate": "92%",
         "Modifier": "Smash",
@@ -593,11 +605,12 @@
         "Startup": "25F",
         "Motion": "37F",
         "Total": "61F",
-        "Frame Adv.": "-6F [+19F]"
+        "Frame Adv.": "-6F [+19F]",
+        "Spirit": "0.5*2"
       },
       {
         "Version": "Charged",
-        "Damage": "0.5*4",
+        "Damage": "500*4",
         "Limit": "25%*4",
         "Rate": "93%",
         "Modifier": "Smash",
@@ -607,7 +620,8 @@
         "Startup": "40F",
         "Motion": "52F",
         "Total": "81F",
-        "Frame Adv.": "-6F [+19F]"
+        "Frame Adv.": "-6F [+19F]",
+        "Spirit": "0.5*4"
       }
     ]
   },
@@ -618,7 +632,7 @@
     "img": "./images/Komachi/175px-Komj5c.jpg",
     "data": [
       {
-        "Damage": "0.5",
+        "Damage": "700",
         "Limit": "10%",
         "Rate": "80%",
         "Modifier": "Rift",
@@ -628,7 +642,8 @@
         "Startup": "26F",
         "Motion": "34F",
         "Total": "84F",
-        "Frame Adv.": "[+14F]"
+        "Frame Adv.": "[+14F]",
+        "Spirit": "0.5"
       }
     ]
   },
@@ -640,7 +655,7 @@
     "data": [
       {
         "Version": "Uncharged",
-        "Damage": "0.5*2",
+        "Damage": "500*2",
         "Limit": "25%*2",
         "Rate": "92%",
         "Modifier": "Smash",
@@ -650,11 +665,12 @@
         "Startup": "21F",
         "Motion": "33F",
         "Total": "67F",
-        "Frame Adv.": "-16F [+19F]"
+        "Frame Adv.": "-16F [+19F]",
+        "Spirit": "0.5*2"
       },
       {
         "Version": "Charged",
-        "Damage": "0.5*4",
+        "Damage": "500*4",
         "Limit": "25%*4",
         "Rate": "93%",
         "Modifier": "Smash",
@@ -664,7 +680,8 @@
         "Startup": "34F",
         "Motion": "46F",
         "Total": "80F",
-        "Frame Adv.": "-16F [+19F]"
+        "Frame Adv.": "-16F [+19F]",
+        "Spirit": "0.5*4"
       }
     ]
   },
@@ -676,7 +693,7 @@
     "data": [
       {
         "Version": "Uncharged",
-        "Damage": "0.5*2",
+        "Damage": "500*2",
         "Limit": "25%*2",
         "Rate": "92%",
         "Modifier": "Smash",
@@ -686,11 +703,12 @@
         "Startup": "23F",
         "Motion": "35F",
         "Total": "74F",
-        "Frame Adv.": "[+19F]"
+        "Frame Adv.": "[+19F]",
+        "Spirit": "0.5*2"
       },
       {
         "Version": "Charged",
-        "Damage": "0.5*4",
+        "Damage": "500*4",
         "Limit": "25%*4",
         "Rate": "93%",
         "Modifier": "Smash",
@@ -700,7 +718,8 @@
         "Startup": "36F",
         "Motion": "48F",
         "Total": "82F",
-        "Frame Adv.": "[+19F]"
+        "Frame Adv.": "[+19F]",
+        "Spirit": "0.5*4"
       }
     ]
   }
