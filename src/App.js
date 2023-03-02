@@ -19,17 +19,13 @@ import utsuho from './data/utsuho.json'
 import youmu from './data/youmu.json'
 import yukari from './data/yukari.json'
 import yuyuko from './data/yuyuko.json'
-import {useState} from 'react';
+import React, {useContext, useState} from 'react';
+
+//TODO: Clean up.
 
 const data = [].concat(suika, alice, aya, cirno, iku, komachi, marisa, meiling,
   patchouli, reimu, reisen, remilia, sakuya, sanae, suwako, tenshi, utsuho,
   youmu, yukari, yuyuko)
-
-const HeaderButton = ({ text }) => (
-  <button className="hover:bg-orange-500 hover:cursor-pointer active:bg-orange-700 px-2 py-1">
-    {text}
-  </button>
-)
 
 const FlexRow = ({ children, className }) => (
   <div className={"flex flex-row " + className}>
@@ -43,7 +39,14 @@ const FlexCol = ({ children, className }) => (
   </div>
 )
 
-const Header = () => (
+const HeaderButton = ({ text, onClick }) => (
+  <button className="hover:bg-neutral-700 hover:cursor-pointer active:bg-neutral-800 px-2 py-1"
+      onClick={onClick}>
+    {text}
+  </button>
+)
+
+const Header = ({buttons, onClick}) => (
   <header className="flex flex-row justify-between items-center h-12 bg-neutral-900 text-white text-xl font-bold border-white border-b-4 shadow-xl px-4">
     <FlexRow className="row gap-1 items-center">
       <IconFlask height="24px" width="24px" fill="currentColor"/>
@@ -52,9 +55,7 @@ const Header = () => (
       </h1>
     </FlexRow>
     <FlexRow className="gap-2">
-      <HeaderButton text="Guide" />
-      <HeaderButton text="Characters" />
-      <HeaderButton text="Options" />
+      { buttons.map(buttonText => <HeaderButton text={buttonText} onClick={() => onClick(buttonText)}/>) }
     </FlexRow>
   </header>
 )
@@ -90,10 +91,6 @@ const minify = (str) =>
   minVers[str]? minVers[str] : str
 const normal = (str) => str
 
-const minimal = false
-const keyfilter = minimal? minify : normal
-const valfilter = minimal? minify : normal
-
 const filtered = {
 //  "Cancel": true,
 //  "Version": true
@@ -107,8 +104,13 @@ const HoverImg = ({src, loading}) => (
     loading="lazy"/>
 )
 
+const StyleContext = React.createContext(false)
+
 // TODO: fix up
 const Entry = ({move}) => {
+  const minimal = useContext(StyleContext)
+  const keyfilter = minimal? minify : normal
+  const valfilter = minimal? minify : normal
   return (
     <FlexCol className="w-full border-b last:border-b-0">
       <FlexRow className="gap-2 items-center">
@@ -228,9 +230,9 @@ const parseSearch = (query) => {
     searchOpts.name = searchOpts.name.slice(0, -1)
   }
 
-  if(searchOpts.characters.length == 0)
+  if(searchOpts.characters.length === 0)
     searchOpts.characters = characters
-  if(searchOpts.types.length == 0)
+  if(searchOpts.types.length === 0)
     searchOpts.types = moveTypes
 
   return searchOpts
@@ -240,7 +242,7 @@ const search = (query) => {
   const searchOpts = parseSearch(query)
 
   let moves = []
-  if(searchOpts.characters.length == 20)
+  if(searchOpts.characters.length === 20)
     moves = data
   else
     moves = searchOpts.characters.map(char => characterData[char]).flat()
@@ -255,8 +257,7 @@ const search = (query) => {
 
 const TextButton = ({text, onClick}) => (
   <div className="font-bold cursor-pointer select-none
-      dark:hover:text-neutral-400 dark:active:text-neutral-200
-      hover:text-neutral-600 active:text-neutral-800"
+      hover:text-neutral-400 active:text-neutral-200"
       onClick={onClick}>
     {text}
   </div> 
@@ -283,7 +284,7 @@ const Body = () => {
 
   return (
     <div className="flex flex-col max-w-7xl w-full items-center self-center bg-neutral-900 
-        p-2 pb-5 shadow-xl border-b-2 border-white gap-3">
+        p-2 pb-5 mb-10 shadow-xl border-b-2 border-white gap-3">
       <h2 className="text-2xl font-bold text-center">Search</h2>
       <input className="bg-transparent w-1/2 border-b border-white px-2 py-1 text-lg mb-5"
         placeholder="Eg: Suika 5A" value={query} onChange={onSearch}/>
@@ -293,11 +294,45 @@ const Body = () => {
   )
 }
 
-function App() {
+const GuidePopup = ({active, onClose}) => {
+  return active? (
+    <div className="flex fixed top-0 left-0 right-0 z-50 w-full h-full p-4 overflow-x-hidden overflow-y-auto
+        justify-center content-between items-center backdrop-brightness-50"
+        onClick={onClose}>
+      <div class="bg-neutral-800 max-w-lg w-full border border-t-4 py-1 px-2 pb-4">
+        <h2 className="text-center text-2xl">Guide</h2>
+        Things you can search for that might not be apparent:
+        <ul className="px-6 list-disc">
+          <li>Multiple characters (it shows results from all given characters)</li>
+          <li>Move types (normal, bullet, skill, spell)</li>
+          <li>Exact search by adding . at the end (useful for stuff like 5A)</li>
+          <li>Combinations of everything above.</li>
+        </ul>
+      </div>
+    </div>
+  ) : <></>
+}
+
+const App = () => {
+  const [minimal, setMinimal] = useState(false)
+  const [popup, setPopup] = useState(false)
+
+  const onHeaderButton = (button) => {
+    if(button === "Minimal")
+      setMinimal(true)
+    else if(button === "Normal")
+      setMinimal(false)
+    else if(button === "Guide")
+      setPopup(true)
+  }
+
   return (
-    <div className="min-h-screen bg-stone-200 dark:bg-neutral-800 dark:text-white flex flex-col gap-5">
-      <Header />
-      <Body />
+    <div className="min-h-screen bg-neutral-800 text-white flex flex-col gap-5">
+      <StyleContext.Provider value={minimal}>
+        <Header buttons={[minimal? "Normal" : "Minimal", "Guide"]} onClick={onHeaderButton}/>
+        <Body />
+        <GuidePopup active={popup} onClose={() => setPopup(false)}/>
+      </StyleContext.Provider>
     </div>
   );
 }
