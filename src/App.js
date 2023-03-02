@@ -101,7 +101,7 @@ const HoverImg = ({src, loading}) => (
     className="pointer-events-none absolute
       opacity-0 transition-opacity group-hover:opacity-100
       border my-12" 
-    loading="lazy"/>
+    loading={loading}/>
 )
 
 const StyleContext = React.createContext(false)
@@ -287,7 +287,7 @@ const Body = () => {
         p-2 pb-5 mb-10 shadow-xl border-b-2 border-white gap-3">
       <h2 className="text-2xl font-bold text-center">Search</h2>
       <input className="bg-transparent w-1/2 border-b border-white px-2 py-1 text-lg mb-5"
-        placeholder="Eg: Suika 5A" value={query} onChange={onSearch}/>
+        placeholder="Eg: 'Suika 5A', 'remi okuu 5aa.', 'suika spell great oni'..." value={query} onChange={onSearch}/>
       <Entries results={results} showfull={showfull} limit={MAX_RESULTS}/>
       { showfull || <TextButton text="Show full" onClick={onShowfull}/>}
     </div>
