@@ -150,18 +150,107 @@ const Entries = ({results, showfull, limit}) => {
   )
 }
 
-const search = (data, query) => {
-  const contains = (move => move.name.toLowerCase().includes(queryLC))
-  const exact = (move => move.name.toLowerCase() === queryLC)
-  let useExact = false
+const characters = [ "alice", "cirno", "iku", "komachi", "marisa",
+  "meiling", "patchouli", "reimu", "reisen", "remilia", "sakuya", "sanae",
+  "suika", "suwako", "tenshi", "utsuho", "youmu", "yukari", "yuyuko" ]
 
-  if(query.endsWith(".")) {
-    useExact = true
-    query = query.slice(0, -1)
+const characterData = {
+  "alice": alice,
+  "cirno": cirno,
+  "iku": iku,
+  "komachi": komachi,
+  "marisa": marisa,
+  "meiling": meiling,
+  "patchouli": patchouli,
+  "reimu": reimu,
+  "reisen": reisen,
+  "remilia": remilia,
+  "sakuya": sakuya,
+  "sanae": sanae,
+  "suika": suika,
+  "suwako": suwako,
+  "tenshi": tenshi,
+  "utsuho": utsuho,
+  "youmu": youmu,
+  "yukari": yukari,
+  "yuyuko": yuyuko
+}
+
+const moveTypes = [ "normal", "bullet", "skill", "spell" ]
+
+const aliases = {
+  "chirno": "cirno",
+  "koma": "komachi",
+  "hong": "meiling",
+  "patchy": "patchouli",
+  "remi": "remilia",
+  "oni": "suika",
+  "wako": "suwako",
+  "okuu": "utsuho",
+  "yoom": "youmu",
+  "hag": "yukari",
+  "unga": "yuyuko",
+
+  "melee": "normal",
+  "spellcard": "spell"
+}
+
+const parseSearch = (query) => {
+  const searchOpts = {
+    characters: [],
+    types: [],
+    name: '',
+    exact: false
   }
-  const queryLC = query.toLowerCase()
 
-  return data.filter(useExact? exact : contains)
+  const rest = []
+
+  query.toLowerCase().split(' ').forEach((queryWord) => {
+    const aliased = aliases[queryWord]
+    if(aliased) queryWord = aliased
+
+    if(characters.includes(queryWord)) {
+      searchOpts.characters.push(queryWord)
+      return
+    }
+
+    if(moveTypes.includes(queryWord)) {
+      searchOpts.types.push(queryWord)
+      return
+    }
+
+    rest.push(queryWord)
+  })
+
+  searchOpts.name = rest.join(' ')
+  if(searchOpts.name.endsWith('.')) {
+    searchOpts.exact = true
+    searchOpts.name = searchOpts.name.slice(0, -1)
+  }
+
+  if(searchOpts.characters.length == 0)
+    searchOpts.characters = characters
+  if(searchOpts.types.length == 0)
+    searchOpts.types = moveTypes
+
+  return searchOpts
+}
+
+const search = (query) => {
+  const searchOpts = parseSearch(query)
+
+  let moves = []
+  if(searchOpts.characters.length == 20)
+    moves = data
+  else
+    moves = searchOpts.characters.map(char => characterData[char]).flat()
+
+  return moves.filter(move => {
+    return searchOpts.types.includes(move.type) &&
+      (searchOpts.exact?
+        searchOpts.name === move.name.toLowerCase() :
+        move.name.toLowerCase().includes(searchOpts.name))
+  })
 }
 
 const TextButton = ({text, onClick}) => (
@@ -182,8 +271,8 @@ const Body = () => {
 
   const onSearch = ({target}) => {
     const newQuery = target.value
+    const newResults = newQuery? search(newQuery) : data
     setQuery(newQuery)
-    const newResults = newQuery? search(data, newQuery) : data
     setShowfull(newResults.length <= MAX_RESULTS)
     setResults(newResults)
   }
