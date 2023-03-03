@@ -23,12 +23,12 @@ import React, {useContext, useState} from 'react';
 
 //TODO: Clean up.
 
-const data = [].concat(suika, alice, aya, cirno, iku, komachi, marisa, meiling,
-  patchouli, reimu, reisen, remilia, sakuya, sanae, suwako, tenshi, utsuho,
+const data = [].concat(alice, aya, cirno, iku, komachi, marisa, meiling,
+  patchouli, reimu, reisen, remilia, sakuya, sanae, suika, suwako, tenshi, utsuho,
   youmu, yukari, yuyuko)
 
-const FlexRow = ({ children, className }) => (
-  <div className={"flex flex-row " + className}>
+const FlexRow = ({ children, className, ...rest }) => (
+  <div className={"flex flex-row " + className} {...rest}>
     {children}
   </div>
 )
@@ -55,7 +55,8 @@ const Header = ({buttons, onClick}) => (
       </h1>
     </FlexRow>
     <FlexRow className="gap-2">
-      { buttons.map(buttonText => <HeaderButton text={buttonText} onClick={() => onClick(buttonText)}/>) }
+      { buttons.map(buttonText => 
+        <HeaderButton text={buttonText} key={buttonText} onClick={() => onClick(buttonText)}/>) }
     </FlexRow>
   </header>
 )
@@ -105,6 +106,7 @@ const HoverImg = ({src, loading}) => (
 )
 
 const StyleContext = React.createContext(false)
+const FilterContext = React.createContext({})
 
 // TODO: fix up
 const Entry = ({move}) => {
@@ -198,7 +200,16 @@ const aliases = {
   "spellcard": "spell"
 }
 
-const parseSearch = (query) => {
+const parseSearch = (query, overrides) => {
+  let defaultCharacters = characters 
+  let defaultTypes = moveTypes
+  if(overrides) {
+    if(overrides.characters)
+      defaultCharacters = overrides.characters 
+    if(overrides.types)
+      defaultTypes = overrides.types
+  }
+
   const searchOpts = {
     characters: [],
     types: [],
@@ -232,15 +243,15 @@ const parseSearch = (query) => {
   }
 
   if(searchOpts.characters.length === 0)
-    searchOpts.characters = characters
+    searchOpts.characters = defaultCharacters
   if(searchOpts.types.length === 0)
-    searchOpts.types = moveTypes
+    searchOpts.types = defaultTypes
 
   return searchOpts
 }
 
-const search = (query) => {
-  const searchOpts = parseSearch(query)
+const search = (query, overrides) => {
+  const searchOpts = parseSearch(query, overrides)
 
   let moves = []
   if(searchOpts.characters.length === 20)
@@ -256,7 +267,7 @@ const search = (query) => {
   })
 }
 
-const TextButton = ({text, onClick}) => (
+const SimpleTextButton = ({text, onClick}) => (
   <div className="font-bold cursor-pointer select-none
       hover:text-neutral-400 active:text-neutral-200"
       onClick={onClick}>
@@ -267,16 +278,17 @@ const TextButton = ({text, onClick}) => (
 const MAX_RESULTS = 25
 
 const Body = () => {
-  const [results, setResults] = useState(data)
   const [query, setQuery] = useState('')
   const [showfull, setShowfull] = useState(false)
+  const filter = useContext(FilterContext)
+
+  const results = search(query, filter)
 
   const onSearch = ({target}) => {
     const newQuery = target.value
-    const newResults = newQuery? search(newQuery) : data
+    const newResults = search(newQuery, filter)
     setQuery(newQuery)
     setShowfull(newResults.length <= MAX_RESULTS)
-    setResults(newResults)
   }
 
   const onShowfull = () => {
@@ -290,7 +302,7 @@ const Body = () => {
       <input className="bg-transparent w-1/2 border-b border-white px-2 py-1 text-lg mb-5"
         placeholder="Eg: 'Suika 5A', 'remi okuu 5aa.', 'suika spell great oni'..." value={query} onChange={onSearch}/>
       <Entries results={results} showfull={showfull} limit={MAX_RESULTS}/>
-      { showfull || <TextButton text="Show full" onClick={onShowfull}/>}
+      { showfull || <SimpleTextButton text="Show full" onClick={onShowfull}/>}
     </div>
   )
 }
@@ -300,7 +312,7 @@ const GuidePopup = ({active, onClose}) => {
     <div className="flex fixed top-0 left-0 right-0 z-50 w-full h-full p-4 overflow-x-hidden overflow-y-auto
         justify-center content-between items-center backdrop-brightness-50"
         onClick={onClose}>
-      <div class="bg-neutral-800 max-w-lg w-full border border-t-4 py-1 px-2 pb-4">
+      <div className="bg-neutral-800 max-w-lg w-full border border-t-4 py-1 px-2 pb-4">
         <h2 className="text-center text-2xl">Guide</h2>
         Things you can search for that might not be apparent:
         <ul className="px-6 list-disc">
@@ -314,25 +326,153 @@ const GuidePopup = ({active, onClose}) => {
   ) : <></>
 }
 
+const ImgButton = ({src, className, onClick, enabled=true}) => ( 
+  <img src={src}
+    className={className + " hover:scale-105 active:scale-90 cursor-pointer "
+      + (enabled? "" : "brightness-50")}
+    onClick={onClick} 
+    onDragStart={e => e.preventDefault()}/>
+)
+
+const TextButton = ({className, onClick, enabled=true, text}) => (
+  <FlexRow className={className + " font-bold justify-center items-center " +
+        "border bg-neutral-900 hover:scale-105 active:scale-90 select-none " +
+        (enabled? "" : "brightness-50")}
+      onClick={onClick}>
+    {text}
+  </FlexRow>
+)
+
+const FilterPopup = ({active, onCharClick, onTypeClick, onSelectAll, onClear}) => {
+  const filter = useContext(FilterContext)
+  const enabledChars = filter.characters
+  const enabledTypes = filter.types
+  return (
+    <div className={"absolute top-14 right-2 bg-neutral-800 max-w-lg border border-t-4 p-2 pb-3 " + 
+        (active? "" : "hidden")}>
+      <FlexCol className="align-middle gap-3">
+        <div>
+          <h3 className="text-xl font-bold text-center pb-1">Characters</h3>
+          <FlexRow className="flex-wrap gap-2 justify-center">
+            { 
+              characters.map(char => 
+                <ImgButton src={`./images/portraits/${char}.png`}  key={char}
+                    className="w-20"
+                    enabled={enabledChars.includes(char)}
+                    onClick={() => onCharClick(char)} />)
+            }
+          </FlexRow>
+          <FlexRow className="flex-wrap gap-2 justify-center pt-2">
+            <TextButton 
+              className="w-20 h-10"
+              onClick={onSelectAll}
+              text="Select All" />
+            <TextButton 
+              className="w-20 h-10"
+              onClick={onClear}
+              text="Clear All" />
+          </FlexRow>
+        </div>
+        <div>
+          <h3 className="text-xl font-bold text-center pb-1">Types</h3>
+          <FlexRow className="flex-wrap gap-2 justify-center">
+            { 
+              moveTypes.map(type => 
+                <TextButton key={type}
+                    className="w-20 h-10"
+                    enabled={enabledTypes.includes(type)}
+                    onClick={() => onTypeClick(type)}
+                    text={type} />)
+            }
+          </FlexRow>
+        </div>
+      </FlexCol>
+    </div>
+  )
+}
+
+const typeSort = (type1, type2) => {
+  const val1 = moveTypes.indexOf(type1)  
+  const val2 = moveTypes.indexOf(type2)  
+  return val1 < val2
+}
+
 const App = () => {
   const [minimal, setMinimal] = useState(false)
-  const [popup, setPopup] = useState(false)
+  const [guidePopup, setGuidePopup] = useState(false)
+  const [filterPopup, setFilterPopup] = useState(false)
+
+  const [filter, setFilter] = useState({
+    characters: characters,
+    types: moveTypes
+  })
 
   const onHeaderButton = (button) => {
     if(button === "Minimal")
       setMinimal(true)
     else if(button === "Normal")
       setMinimal(false)
+    else if(button === "Filter")
+      setFilterPopup(!filterPopup)
     else if(button === "Guide")
-      setPopup(true)
+      setGuidePopup(true)
+  }
+
+  const onCharClick = (clickedChar) => {
+    if(filter.characters.includes(clickedChar)) {
+      setFilter({
+        characters: filter.characters.filter(char => char !== clickedChar),
+        types: filter.types
+      })
+    }
+    else {
+      setFilter({
+        characters: [...filter.characters, clickedChar].sort(),
+        types: filter.types
+      })
+    }
+  }
+
+  const onTypeClick = (clickedType) => {
+    if(filter.types.includes(clickedType)) {
+      setFilter({
+        types: filter.types.filter(type => type !== clickedType),
+        characters: filter.characters
+      })
+    }
+    else {
+      setFilter({
+        types: [...filter.types, clickedType].sort(typeSort),
+        characters: filter.characters
+      })
+    }
+  }
+
+  const onSelectAll = () => {
+    setFilter({
+      characters: characters,
+      types: filter.types
+    })
+  }
+
+  const onClear = () => {
+    setFilter({
+      characters: [],
+      types: filter.types
+    })
   }
 
   return (
     <div className="min-h-screen bg-neutral-800 text-white flex flex-col gap-5">
       <StyleContext.Provider value={minimal}>
-        <Header buttons={[minimal? "Normal" : "Minimal", "Guide"]} onClick={onHeaderButton}/>
-        <Body />
-        <GuidePopup active={popup} onClose={() => setPopup(false)}/>
+        <FilterContext.Provider value={filter}>
+          <Header buttons={[minimal? "Normal" : "Minimal", "Filter", "Guide"]} onClick={onHeaderButton}/>
+          <Body />
+          <GuidePopup active={guidePopup} onClose={() => setGuidePopup(false)}/>
+          <FilterPopup active={filterPopup} 
+            onCharClick={onCharClick} onTypeClick={onTypeClick}
+            onSelectAll={onSelectAll} onClear={onClear} />
+        </FilterContext.Provider>
       </StyleContext.Provider>
     </div>
   );
