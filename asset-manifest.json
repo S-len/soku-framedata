@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/soku-framedata/static/css/main.9eb4ce2e.css",
-    "main.js": "/soku-framedata/static/js/main.10490c02.js",
-    "static/media/flask.svg": "/soku-framedata/static/media/flask.040e5c1af3ef9896ba87d998631c2666.svg",
-    "index.html": "/soku-framedata/index.html",
-    "main.9eb4ce2e.css.map": "/soku-framedata/static/css/main.9eb4ce2e.css.map",
-    "main.10490c02.js.map": "/soku-framedata/static/js/main.10490c02.js.map"
+    "main.css": "./static/css/main.9eb4ce2e.css",
+    "main.js": "./static/js/main.985b65cf.js",
+    "static/media/flask.svg": "./static/media/flask.040e5c1af3ef9896ba87d998631c2666.svg",
+    "index.html": "./index.html",
+    "main.9eb4ce2e.css.map": "./static/css/main.9eb4ce2e.css.map",
+    "main.985b65cf.js.map": "./static/js/main.985b65cf.js.map"
   },
   "entrypoints": [
     "static/css/main.9eb4ce2e.css",
-    "static/js/main.10490c02.js"
+    "static/js/main.985b65cf.js"
   ]
 }
